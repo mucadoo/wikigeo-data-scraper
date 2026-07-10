@@ -24,4 +24,13 @@ describe('Fix callingCode and internetTld', () => {
     console.log('Parsed result:', JSON.stringify(result, null, 2));
     expect(result.callingCode).toEqual(['+61', '+672']);
   });
+  it('should parse complex callingCode with brackets', () => {
+    const wikitext = `
+{{Infobox
+| calling_code = [[+260]]
+}}`;
+    const result = parseInfoboxFromWikitext(wikitext, 'en');
+    console.log('Parsed result:', JSON.stringify(result, null, 2));
+    expect(result.callingCode).toEqual(['+260']);
+  });
 });

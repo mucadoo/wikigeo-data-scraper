@@ -8,10 +8,12 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
   
   for (const segment of segments) {
     const linkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    console.log(`[DEBUG] Segment: "${segment}"`);
     let lastIdx = 0;
     let match;
     
     while ((match = linkRegex.exec(segment)) !== null) {
+      console.log(`[DEBUG] Match found: ${JSON.stringify(match)}`);
       const textBefore = segment.substring(lastIdx, match.index).replace(/'''|''/g, '').trim();
       if (textBefore.length > 0 && !/^[,; ]+$/.test(textBefore)) {
         results.push({ articleId: null, text: textBefore.replace(/\[\[/g, '').replace(/\]\]/g, '') });
@@ -23,12 +25,16 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
     }
     
     const remainingText = segment.substring(lastIdx).replace(/'''|''/g, '').trim();
+    console.log(`[DEBUG] Remaining text: "${remainingText}"`);
     if (remainingText.length > 0 && !/^[,; ]+$/.test(remainingText)) {
       results.push({ articleId: null, text: remainingText.replace(/\[\[/g, '').replace(/\]\]/g, '') });
     }
   }
 
-  return results;
+  return results.map(r => ({
+      articleId: r.articleId,
+      text: r.text.replace(/\[\[/g, '').replace(/\]\]/g, '')
+  }));
 }
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
@@ -145,11 +151,13 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   const rawCallingCode = getField(FIELD_MAP.callingCode);
   if (rawCallingCode) {
+    console.log(`[DEBUG] rawCallingCode: "${rawCallingCode}" codes: ${JSON.stringify(rawCallingCode.split('').map(c => c.charCodeAt(0)))}`);
     result.callingCode = parseWikilinks(rawCallingCode).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
   const rawTld = getField(FIELD_MAP.internetTld);
   if (rawTld) {
+    console.log(`[DEBUG] rawTld: "${rawTld}"`);
     result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
