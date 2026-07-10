@@ -1,15 +1,20 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 export function parseDescriptionFromWikitext(wikitext: string, _lang: string): string {
-  // 1. Remove the first Infobox block
+  // 1. Remove the first Infobox block and other top-level templates
   let text = removeFirstInfobox(wikitext);
+  text = removeTopTemplates(text);
+  console.log(`[DEBUG] Description text (first 200 chars): "${text.substring(0, 200).replace(/\n/g, '\\n')}"`);
 
   // 2. Remove other block templates at start of line
   text = text.replace(/^\{\{.*\}\}$/gm, '');
 
   // 3. Find first non-empty paragraph (handling multi-line paragraphs)
   const paragraphs = text.split(/\n\s*\n/);
+  console.log(`[DEBUG] Found ${paragraphs.length} paragraphs`);
+  paragraphs.forEach((p, idx) => console.log(`[DEBUG] Paragraph ${idx}: "${p.substring(0, 50).replace(/\n/g, '\\n')}"`));
+  
   let paragraph = '';
-  const excludeRegex = /^(=|[{[!|*"#])/;
+  const excludeRegex = /^(=|[{[!|#])/;
   
   for (let p of paragraphs) {
     p = p.trim();
@@ -17,12 +22,18 @@ export function parseDescriptionFromWikitext(wikitext: string, _lang: string): s
     
     // Check the first line of the paragraph
     const firstLine = p.split('\n')[0].trim();
-    if (!excludeRegex.test(firstLine)) {
+    console.log(`[DEBUG] Checking paragraph: "${firstLine.substring(0, 50)}..."`);
+    // Only exclude paragraphs that start with a template ({{)
+    if (!firstLine.startsWith('{{')) {
       // More lenient: if it's reasonably long OR has bold OR it's one of the first few paragraphs
       if (p.length > 20 || p.includes("'''")) {
         paragraph = p;
         break;
+      } else {
+        console.log(`[DEBUG] Paragraph too short or no bold: length=${p.length}, hasBold=${p.includes("'''")}`);
       }
+    } else {
+      console.log(`[DEBUG] Paragraph matched template start: "${firstLine.substring(0, 50)}..."`);
     }
   }
 
@@ -58,6 +69,38 @@ export function parseDescriptionFromWikitext(wikitext: string, _lang: string): s
 
   // 6. Normalize and trim
   return paragraph.replace(/\s+/g, ' ').replace(/ ,/g, ',').replace(/ \./g, '.').trim();
+}
+
+export function removeTopTemplates(text: string): string {
+  let i = 0;
+  while (i < text.length) {
+    // Skip whitespace
+    if (/\s/.test(text[i])) {
+      i++;
+      continue;
+    }
+    // Check if starts with {{
+    if (text.startsWith('{{', i)) {
+      let braceCount = 0;
+      let j = i;
+      while (j < text.length) {
+        if (text.startsWith('{{', j)) {
+          braceCount++;
+          j += 2;
+        } else if (text.startsWith('}}', j)) {
+          braceCount--;
+          j += 2;
+          if (braceCount === 0) break;
+        } else {
+          j++;
+        }
+      }
+      i = j;
+    } else {
+      break;
+    }
+  }
+  return text.substring(i);
 }
 
 export function removeFirstInfobox(wikitext: string): string {

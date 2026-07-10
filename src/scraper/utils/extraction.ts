@@ -17,7 +17,6 @@ export class ExtractionUtils {
 
   static extractArea(text: string): string {
     if (!text) return '';
-    console.log(`[DEBUG] extractArea input: "${text}"`);
     
     // Clean spaces, commas (often thousands separators), and common units
     const clean = text
@@ -30,7 +29,6 @@ export class ExtractionUtils {
       
     const match = clean.match(/([0-9]+(?:\.[0-9]+)?)/);
     if (match) {
-        console.log(`[DEBUG] extractArea parsed: "${match[1]}"`);
         return match[1];
     }
     return '';
@@ -38,10 +36,10 @@ export class ExtractionUtils {
 
   static extractPopulation(text: string): string {
     if (!text) return '';
-    console.log(`[DEBUG] extractPopulation input: "${text}"`);
 
     // Remove templates, references, and other junk more aggressively
     let clean = text
+      .replace(/{{formatnum:([0-9,]+)}}/gi, '$1')
       .replace(/{{[^}]*}}/g, '')
       .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
       .replace(/,/g, '')
