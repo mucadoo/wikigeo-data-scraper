@@ -37,8 +37,7 @@ export class ExtractionUtils {
   static extractPopulation(text: string): string {
     if (!text) return '';
 
-    // Remove templates, references, and other junk more aggressively
-    let clean = text
+    const clean = text
       .replace(/{{formatnum:([0-9,]+)}}/gi, '$1')
       .replace(/{{[^}]*}}/g, '')
       .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')

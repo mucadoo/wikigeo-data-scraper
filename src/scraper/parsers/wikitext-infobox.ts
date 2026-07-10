@@ -19,20 +19,13 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
   if (!infoboxBody) return {};
 
   // Strip references and common non-data templates from the body
-  const cleanBody = infoboxBody
-    .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
-    .replace(/<ref[^>]*\/>/gi, '')
-    .replace(/{{refn\|[\s\S]*?}}/gi, '')
-    .replace(/{{efn\|[\s\S]*?}}/gi, '');
+  // const cleanBody = infoboxBody
+  //   .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
+  //   .replace(/<ref[^>]*\/>/gi, '')
+  //   .replace(/{{refn\|[\s\S]*?}}/gi, '')
+  //   .replace(/{{efn\|[\s\S]*?}}/gi, '');
 
-  const fields = parseFields(cleanBody);
-  console.log(`[DEBUG] Parsed ${Object.keys(fields).length} fields from infobox body`);
-  if (fields['population_census']) {
-    console.log(`[DEBUG] Found population_census in fields: "${fields['population_census']}"`);
-  } else {
-    console.log('[DEBUG] population_census NOT found in fields');
-    console.log('[DEBUG] All keys:', Object.keys(fields));
-  }
+  const fields = parseFields(infoboxBody);
   const result: Partial<Country> = {};
 
   const FIELD_MAP = {
@@ -50,15 +43,15 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     hdi: ['hdi', 'idh'],
     gdp: ['gdp_nominal', 'pib'],
     flagUrl: ['flag_image', 'flag', 'image_drapeau'],
-    isoCode: ['iso3166code', 'cctld', 'iso3166-1', 'iso3166_1', 'iso_3166-1'],
+    isoCode: ['iso3166code', 'iso3166-1', 'iso3166_1', 'iso_3166-1'],
   };
 
   const getField = (keys: string[]) => {
     for (const key of keys) {
-      if (fields[key] !== undefined) return fields[key];
+      if (fields[key] !== undefined && fields[key].trim() !== "") return fields[key];
       // Try normalized casing just in case
       const normalizedKey = key.toLowerCase();
-      if (fields[normalizedKey] !== undefined) return fields[normalizedKey];
+      if (fields[normalizedKey] !== undefined && fields[normalizedKey].trim() !== "") return fields[normalizedKey];
     }
     return undefined;
   };
@@ -102,12 +95,19 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     const coordinates = fields['coordinates'];
     if (coordinates) {
       const regionMatch = coordinates.match(/region:([a-zA-Z]{2})/);
-      if (regionMatch) rawIso = regionMatch[1];
+      if (regionMatch) {
+        rawIso = regionMatch[1];
+      }
     }
   }
 
   if (rawIso) {
-    const match = rawIso.match(/\b[a-zA-Z]{2}\b/);
+    const cleanIso = rawIso
+      .replace(/{{[^}]*}}/g, '')
+      .replace(/\[\[[^\]]*\]\]/g, '')
+      .replace(/<[^>]*>/g, '')
+      .replace(/[^a-zA-Z]/g, '');
+    const match = cleanIso.match(/\b[a-zA-Z]{2}\b/);
     if (match) result.isoCode = match[0].toUpperCase();
   }
 
@@ -137,28 +137,29 @@ export function extractInfoboxBody(wikitext: string): string | null {
   const startIdx = wikitext.toLowerCase().indexOf('{{infobox');
   if (startIdx === -1) return null;
 
-  let i = startIdx + 2; // skip the first {{
-  let braceCount = 2;
-  let start = i;
+  let braceCount = 0;
+  let j = startIdx;
   
-  while (i < wikitext.length && braceCount > 0) {
-    if (wikitext.startsWith('{{', i)) {
+  while (j < wikitext.length) {
+    if (wikitext.startsWith('{{', j)) {
       braceCount += 2;
-      i += 2;
-    } else if (wikitext.startsWith('}}', i)) {
+      j += 2;
+    } else if (wikitext.startsWith('}}', j)) {
       braceCount -= 2;
-      if (braceCount > 0) i += 2;
+      j += 2;
+      if (braceCount === 0) break;
     } else {
-      i++;
+      j++;
     }
   }
   
-  return wikitext.substring(start, i);
+  return wikitext.substring(startIdx, j);
 }
 
 export function parseFields(body: string): Record<string, string> {
   const fields: Record<string, string> = {};
   const lines = body.split('\n');
+  
   let currentKey: string | null = null;
   let currentValue = '';
   let braceDepth = 0;
@@ -172,9 +173,10 @@ export function parseFields(body: string): Record<string, string> {
       else if (line.startsWith('}}', i)) { braceDepth--; i++; }
     }
 
-    // Only look for new fields at depth 0
     // We also allow fields that start with | even if braceDepth > 0 if they are at the start of the line
     if (trimmed.startsWith('|')) {
+      console.log(`[DEBUG] Found field line: "${trimmed.substring(0, 30)}..."`);
+      braceDepth = 0; // Reset braceDepth at the start of a new field
       if (currentKey) {
         fields[currentKey] = currentValue.trim();
       }
@@ -182,6 +184,7 @@ export function parseFields(body: string): Record<string, string> {
       if (eqIdx !== -1) {
         currentKey = trimmed.substring(1, eqIdx).trim().toLowerCase();
         currentValue = trimmed.substring(eqIdx + 1);
+        console.log(`[DEBUG] Parsed key: "${currentKey}"`);
       } else {
         currentKey = null;
         currentValue = '';
