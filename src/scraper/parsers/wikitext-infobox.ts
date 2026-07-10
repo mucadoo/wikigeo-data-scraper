@@ -2,15 +2,31 @@ import { Country, getEmptyLocalizedField } from '../../types/country.js';
 import { ExtractionUtils } from '../utils/extraction.js';
 
 export function parseWikilinks(raw: string): Array<{ articleId: string | null, text: string }> {
-  const segments = raw.split(/<br\s*\/?>|\n|\*|\{\{plainlist|\|\|\}\}/gi).map(s => s.trim()).filter(s => s.length > 0);
-  return segments.map(segment => {
-    const linkMatch = segment.match(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/);
-    if (linkMatch) {
-      return { articleId: linkMatch[1], text: linkMatch[2] || linkMatch[1] };
+  const cleaned = ExtractionUtils.stripAllTemplates(raw);
+  const segments = cleaned.split(/<br\s*\/?>|\n|\*|\{\{plainlist|\|\|\}\}/gi);
+  const results: Array<{ articleId: string | null, text: string }> = [];
+  
+  for (const segment of segments) {
+    const linkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let lastIdx = 0;
+    let match;
+    
+    while ((match = linkRegex.exec(segment)) !== null) {
+      const textBefore = segment.substring(lastIdx, match.index).replace(/'''|''/g, '').trim();
+      if (textBefore.length > 0 && !/^[,; ]+$/.test(textBefore)) {
+        results.push({ articleId: null, text: textBefore });
+      }
+      
+      results.push({ articleId: match[1], text: match[2] || match[1] });
+      lastIdx = linkRegex.lastIndex;
     }
-    const cleanText = segment.replace(/'''|''|\{\{[^}]+\}\}/g, '').trim();
-    return { articleId: null, text: cleanText };
-  });
+    
+    const remainingText = segment.substring(lastIdx).replace(/'''|''/g, '').trim();
+    if (remainingText.length > 0 && !/^[,; ]+$/.test(remainingText)) {
+      results.push({ articleId: null, text: remainingText });
+    }
+  }
+  return results;
 }
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
@@ -38,12 +54,13 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     officialLanguage: ['official_languages', 'languages_type', 'languages', 'langues_officielles'],
     currency: ['currency', 'monnaie', 'code_monnaie'],
     timeZone: ['timezone', 'utc_offset', 'time_zone', 'fuseau_horaire'],
-    callingCode: ['calling_code', 'indicatif_téléphonique'],
-    internetTld: ['cctld', 'domaine_internet'],
+    callingCode: ['calling_code', 'indicatif_téléphonique', 'calling_code'],
+    internetTld: ['cctld', 'domaine_internet', 'tld', 'internet_tld'],
     hdi: ['hdi', 'idh'],
     gdp: ['gdp_nominal', 'pib'],
     flagUrl: ['flag_image', 'flag', 'image_drapeau'],
     isoCode: ['iso3166code', 'iso3166-1', 'iso3166_1', 'iso_3166-1'],
+    demonym: ['demonym', 'nom_des_habitants'],
   };
 
   const getField = (keys: string[]) => {
@@ -54,6 +71,16 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
       if (fields[normalizedKey] !== undefined && fields[normalizedKey].trim() !== "") return fields[normalizedKey];
     }
     return undefined;
+  };
+
+  // Helper to parse linked fields
+  const getLinkedField = (keys: string[]) => {
+    const raw = getField(keys);
+    if (!raw) return [];
+    return parseWikilinks(raw).map(link => ({
+      articleId: link.articleId,
+      name: { ...getEmptyLocalizedField(), en: link.text }
+    }));
   };
 
   // Parsing logic
@@ -69,15 +96,19 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     if (val) result.areaKm2 = parseFloat(val);
   }
 
-  const rawCapital = getField(FIELD_MAP.capital);
-  if (rawCapital) {
-    console.log(`[DEBUG] Found capital raw: "${rawCapital}"`);
-    result.capital = parseWikilinks(rawCapital).map(link => ({
-      articleId: link.articleId,
-      name: { ...getEmptyLocalizedField(), en: link.text }
-    }));
-    console.log(`[DEBUG] Extracted capital links: ${result.capital.length}`);
+  const rawDensity = getField(FIELD_MAP.densityKm2);
+  if (rawDensity) {
+      const val = ExtractionUtils.extractDensity(rawDensity);
+      if (val) result.densityKm2 = parseFloat(val);
   }
+
+  result.capital = getLinkedField(FIELD_MAP.capital);
+  result.largestCity = getLinkedField(FIELD_MAP.largestCity);
+  result.officialLanguage = getLinkedField(FIELD_MAP.officialLanguage);
+  result.government = getLinkedField(FIELD_MAP.government);
+  result.currency = getLinkedField(FIELD_MAP.currency).map(c => ({...c, isoCode: null})); // TODO: extract isoCode
+  result.timeZone = getLinkedField(FIELD_MAP.timeZone);
+  result.demonym = getLinkedField(FIELD_MAP.demonym);
 
   const rawHdi = getField(FIELD_MAP.hdi);
   if (rawHdi) {
@@ -102,8 +133,7 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
   }
 
   if (rawIso) {
-    const cleanIso = rawIso
-      .replace(/{{[^}]*}}/g, '')
+    const cleanIso = ExtractionUtils.stripAllTemplates(rawIso)
       .replace(/\[\[[^\]]*\]\]/g, '')
       .replace(/<[^>]*>/g, '')
       .replace(/[^a-zA-Z]/g, '');
@@ -113,12 +143,12 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   const rawCallingCode = getField(FIELD_MAP.callingCode);
   if (rawCallingCode) {
-    result.callingCode = rawCallingCode.split(/[;,]/).map(s => s.trim()).filter(s => s.length > 0);
+    result.callingCode = parseWikilinks(rawCallingCode).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
   const rawTld = getField(FIELD_MAP.internetTld);
   if (rawTld) {
-    result.internetTld = rawTld.split(/[;,]/).map(s => s.trim()).filter(s => s.length > 0);
+    result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
   result.flagUrl = null; // TODO: Implement thumbnail URL construction
@@ -197,7 +227,7 @@ export function parseFields(body: string): Record<string, string> {
   }
 
   if (currentKey) {
-    fields[currentKey] = currentValue.trim();
+    fields[currentKey] = currentValue.replace(/\}\}\s*$/, '').trim();
   }
 
   return fields;

@@ -41,8 +41,19 @@ export class ExtractionUtils {
       .replace(/{{formatnum:([0-9,]+)}}/gi, '$1')
       .replace(/{{[^}]*}}/g, '')
       .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
+      .replace(/\b(19|20)\d{2}\b/g, '')
       .replace(/,/g, '')
       .replace(/[\u00A0\u200B-\u200F\uFEFF]/g, '');
+
+    const rangeMatch = clean.match(/([0-9.]+)\s*(?:-|–)\s*([0-9.]+)\s*(million|billion)/i);
+    if (rangeMatch) {
+      let val1 = parseFloat(rangeMatch[1]);
+      let val2 = parseFloat(rangeMatch[2]);
+      let avg = (val1 + val2) / 2;
+      if (rangeMatch[3].toLowerCase() === 'million') avg *= 1_000_000;
+      else if (rangeMatch[3].toLowerCase() === 'billion') avg *= 1_000_000_000;
+      return Math.round(avg).toString();
+    }
 
     const multiplierMatch = clean.match(/([0-9.]+)\s*(million|billion)/i);
     if (multiplierMatch) {
@@ -70,5 +81,22 @@ export class ExtractionUtils {
     if (!url) return '';
     let normalized = url.startsWith('http') ? url : `https:${url}`;
     return normalized.replace(/\/\d+px-/g, '/250px-');
+  }
+
+  static stripAllTemplates(text: string): string {
+    let braceCount = 0;
+    let result = '';
+    for (let i = 0; i < text.length; i++) {
+        if (text.startsWith('{{', i)) {
+            braceCount++;
+            i++;
+        } else if (text.startsWith('}}', i)) {
+            braceCount = Math.max(0, braceCount - 1);
+            i++;
+        } else if (braceCount === 0) {
+            result += text[i];
+        }
+    }
+    return result;
   }
 }
