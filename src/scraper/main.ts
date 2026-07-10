@@ -115,6 +115,8 @@ async function run() {
         insertCountry.run(countryId, JSON.stringify(merged));
       })();
       await writeLocks[countryId];
+    } catch (e) {
+      console.error(`Error processing ${title}:`, e);
     } finally {
       semaphore.release();
     }
@@ -131,8 +133,14 @@ async function run() {
       normalized.callingCode = normalized.callingCode || [];
       normalized.internetTld = normalized.internetTld || [];
       const { isoCode, ...rest } = normalized;
-      return DataValidator.validate({ isoCode, ...rest });
-    });
+      try {
+        return DataValidator.validate({ isoCode, ...rest });
+      } catch (e) {
+        console.error(`Validation failed for ${country.name?.en || 'Unknown'}:`, e);
+        return null;
+      }
+    })
+    .filter(c => c !== null) as Country[];
 
   const output = {
     metadata: {
