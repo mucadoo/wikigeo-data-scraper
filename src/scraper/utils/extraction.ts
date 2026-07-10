@@ -119,32 +119,59 @@ export class ExtractionUtils {
       .replace(/{{refn\|[\s\S]*?}}/gi, '')
       .replace(/{{efn\|[\s\S]*?}}/gi, '');
 
-    // Replace some common templates with their text or nothing
-    cleaned = cleaned.replace(/{{nbsp}}/gi, ' ')
+    // Strip HTML tags and common entities
+    cleaned = cleaned.replace(/<[^>]+>/g, '')
                      .replace(/&nbsp;/gi, ' ')
+                     .replace(/{{nbsp}}/gi, ' ')
+                     .replace(/&amp;/gi, '&')
                      .replace(/{{cite[^}]*}}/gi, '')
                      .replace(/{{convert\|(\d+)\|km2\|[^}]*}}/gi, '$1')
-                     .replace(/{{small\|([^}]*)}}/gi, '$1')
-                     .replace(/{{(?:hlist|flatlist|plainlist|unbulleted list|vlist|ublist)\|([^}]*)}}/gi, '$1');
+                     .replace(/{{small\|([^}]*)}}/gi, '$1');
 
+    let result = '';
     let braceCount = 0;
     let bracketCount = 0;
-    let result = '';
+    let stack: string[] = [];
+
+    const listTemplates = ['hlist', 'flatlist', 'plainlist', 'unbulleted list', 'vlist', 'ublist', 'ubl', 'lang'];
+
     for (let i = 0; i < cleaned.length; i++) {
         if (cleaned.startsWith('{{', i)) {
-            braceCount++;
-            i++;
+            const rest = cleaned.substring(i + 2);
+            const match = rest.match(/^([a-z0-9\s]+)(\||\}\})/i);
+            let name = match ? match[1].trim().toLowerCase().replace(/\s+/g, ' ') : '';
+            
+            if (listTemplates.includes(name)) {
+                stack.push(name);
+                const nextPipe = cleaned.indexOf('|', i + 2);
+                if (nextPipe !== -1) {
+                    i = nextPipe;
+                    if (name === 'lang') {
+                        const secondPipe = cleaned.indexOf('|', i + 1);
+                        if (secondPipe !== -1) {
+                            i = secondPipe;
+                        }
+                    }
+                }
+            } else {
+                braceCount++;
+                stack.push('');
+                i++;
+            }
         } else if (cleaned.startsWith('}}', i)) {
-            braceCount = Math.max(0, braceCount - 1);
+            const top = stack.pop();
+            if (top === undefined || top === '') {
+                braceCount = Math.max(0, braceCount - 1);
+            }
             i++;
         } else if (cleaned.startsWith('[[', i)) {
             bracketCount++;
             i++;
-            result += '[[';
+            if (braceCount === 0) result += '[[';
         } else if (cleaned.startsWith(']]', i)) {
             bracketCount = Math.max(0, bracketCount - 1);
             i++;
-            result += ']]';
+            if (braceCount === 0) result += ']]';
         } else if (braceCount === 0) {
             if (cleaned[i] === '|' && bracketCount === 0) {
                 result += '\n'; // Convert template pipes to newlines for segmenting

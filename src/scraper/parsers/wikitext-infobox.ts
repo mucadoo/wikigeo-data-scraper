@@ -13,10 +13,13 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
     let match;
     
     while ((match = linkRegex.exec(segment)) !== null) {
-      console.log(`[DEBUG] Match found: ${JSON.stringify(match)}`);
       const textBefore = segment.substring(lastIdx, match.index).replace(/'''|''/g, '').trim();
       if (textBefore.length > 0 && !/^[,; ]+$/.test(textBefore)) {
-        results.push({ articleId: null, text: textBefore.replace(/\[\[/g, '').replace(/\]\]/g, '') });
+        // Ignore "and" or parenthetical notes if we have links in the segment
+        const isJunk = /^(and|or|&|with)$|^\(.*\)$|^[;,.]$|=/i.test(textBefore);
+        if (!isJunk) {
+            results.push({ articleId: null, text: textBefore.replace(/\[\[/g, '').replace(/\]\]/g, '') });
+        }
       }
       
       const linkText = (match[2] || match[1]).replace(/\[\[/g, '').replace(/\]\]/g, '');
@@ -25,9 +28,12 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
     }
     
     const remainingText = segment.substring(lastIdx).replace(/'''|''/g, '').trim();
-    console.log(`[DEBUG] Remaining text: "${remainingText}"`);
     if (remainingText.length > 0 && !/^[,; ]+$/.test(remainingText)) {
-      results.push({ articleId: null, text: remainingText.replace(/\[\[/g, '').replace(/\]\]/g, '') });
+      const hasLinks = results.some(r => r.articleId !== null);
+      const isJunk = hasLinks && (/^(and|or|&|with)$|^\(.*\)$|^[;,.]$|=/i.test(remainingText));
+      if (!isJunk) {
+        results.push({ articleId: null, text: remainingText.replace(/\[\[/g, '').replace(/\]\]/g, '') });
+      }
     }
   }
 
@@ -112,8 +118,14 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   result.capital = getLinkedField(FIELD_MAP.capital);
   result.largestCity = getLinkedField(FIELD_MAP.largestCity);
-  if (result.largestCity.length === 1 && result.largestCity[0].name.en.toLowerCase() === 'capital') {
-    result.largestCity = JSON.parse(JSON.stringify(result.capital));
+  if (result.largestCity.length === 1 && result.capital.length >= 1) {
+    const city = result.largestCity[0];
+    if (city.name.en.toLowerCase() === 'capital') {
+      result.largestCity = JSON.parse(JSON.stringify(result.capital));
+    } else if (!city.articleId) {
+      const match = result.capital.find(c => c.name.en.toLowerCase() === city.name.en.toLowerCase());
+      if (match) city.articleId = match.articleId;
+    }
   }
   result.officialLanguage = getLinkedField(FIELD_MAP.officialLanguage);
   result.government = getLinkedField(FIELD_MAP.government);
