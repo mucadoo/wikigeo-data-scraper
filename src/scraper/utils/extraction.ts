@@ -71,9 +71,34 @@ export class ExtractionUtils {
 
   static extractDensity(text: string): string {
     if (!text) return '';
-    const pattern = /([0-9,.]+)(?=\s*\/?\s*km)/;
-    const match = text.match(pattern);
-    if (match) return match[1].replace(/,/g, '');
+    
+    // Handle {{#expr: ... }}
+    if (text.includes('#expr:')) {
+      const exprMatch = text.match(/#expr:\s*([0-9./*+-]+)/);
+      if (exprMatch) {
+        try {
+          // Very basic evaluation for simple divisions
+          const parts = exprMatch[1].split('/');
+          if (parts.length === 2) {
+            const num = parseFloat(parts[0]);
+            const den = parseFloat(parts[1]);
+            if (den !== 0) return (num / den).toFixed(2);
+          }
+        } catch (e) {
+          // ignore
+        }
+      }
+    }
+
+    // First try to find a number followed by km
+    const patternWithUnit = /([0-9,.]+)(?=\s*\/?\s*km)/;
+    const matchWithUnit = text.match(patternWithUnit);
+    if (matchWithUnit) return matchWithUnit[1].replace(/,/g, '');
+    
+    // Fallback to just extracting the first number if no unit found
+    const matchAnyNum = text.match(/([0-9,.]+)/);
+    if (matchAnyNum) return matchAnyNum[1].replace(/,/g, '');
+    
     return '';
   }
 
@@ -84,17 +109,48 @@ export class ExtractionUtils {
   }
 
   static stripAllTemplates(text: string): string {
+    if (!text) return '';
+    
+    // Strip references and HTML comments
+    let cleaned = text
+      .replace(/<!--[\s\S]*?-->/g, '')
+      .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
+      .replace(/<ref[^>]*\/>/gi, '')
+      .replace(/{{refn\|[\s\S]*?}}/gi, '')
+      .replace(/{{efn\|[\s\S]*?}}/gi, '');
+
+    // Replace some common templates with their text or nothing
+    cleaned = cleaned.replace(/{{nbsp}}/gi, ' ')
+                     .replace(/&nbsp;/gi, ' ')
+                     .replace(/{{cite[^}]*}}/gi, '')
+                     .replace(/{{convert\|(\d+)\|km2\|[^}]*}}/gi, '$1')
+                     .replace(/{{small\|([^}]*)}}/gi, '$1')
+                     .replace(/{{(?:hlist|flatlist|plainlist|unbulleted list|vlist|ublist)\|([^}]*)}}/gi, '$1');
+
     let braceCount = 0;
+    let bracketCount = 0;
     let result = '';
-    for (let i = 0; i < text.length; i++) {
-        if (text.startsWith('{{', i)) {
+    for (let i = 0; i < cleaned.length; i++) {
+        if (cleaned.startsWith('{{', i)) {
             braceCount++;
             i++;
-        } else if (text.startsWith('}}', i)) {
+        } else if (cleaned.startsWith('}}', i)) {
             braceCount = Math.max(0, braceCount - 1);
             i++;
+        } else if (cleaned.startsWith('[[', i)) {
+            bracketCount++;
+            i++;
+            result += '[[';
+        } else if (cleaned.startsWith(']]', i)) {
+            bracketCount = Math.max(0, bracketCount - 1);
+            i++;
+            result += ']]';
         } else if (braceCount === 0) {
-            result += text[i];
+            if (cleaned[i] === '|' && bracketCount === 0) {
+                result += '\n'; // Convert template pipes to newlines for segmenting
+            } else {
+                result += cleaned[i];
+            }
         }
     }
     return result;

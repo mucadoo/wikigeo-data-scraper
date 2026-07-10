@@ -33,8 +33,8 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
 
   return results.map(r => ({
       articleId: r.articleId,
-      text: r.text.replace(/\[\[/g, '').replace(/\]\]/g, '')
-  }));
+      text: r.text.replace(/\[\[/g, '').replace(/\]\]/g, '').trim()
+  })).filter(r => r.text.length > 0 && !/^[\(\)\[\]\s,;|]+$/.test(r.text));
 }
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
@@ -59,14 +59,14 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     areaKm2: ['area_km2', 'area_sqkm', 'area', 'superficie_totale', 'superficie'],
     densityKm2: ['density_km2', 'population_density_km2', 'densité'],
     government: ['government_type', 'type_gouvernement'],
-    officialLanguage: ['official_languages', 'languages_type', 'languages', 'langues_officielles'],
+    officialLanguage: ['official_languages', 'languages', 'langues_officielles', 'languages_type'],
     currency: ['currency', 'monnaie', 'code_monnaie'],
     timeZone: ['timezone', 'utc_offset', 'time_zone', 'fuseau_horaire'],
     callingCode: ['calling_code', 'indicatif_téléphonique', 'calling_code'],
     internetTld: ['cctld', 'domaine_internet', 'tld', 'internet_tld'],
     hdi: ['hdi', 'idh'],
     gdp: ['gdp_nominal', 'pib'],
-    flagUrl: ['flag_image', 'flag', 'image_drapeau'],
+    flagUrl: ['image_flag', 'flag_image', 'flag', 'image_drapeau'],
     isoCode: ['iso3166code', 'iso3166-1', 'iso3166_1', 'iso_3166-1'],
     demonym: ['demonym', 'nom_des_habitants'],
   };
@@ -112,6 +112,9 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   result.capital = getLinkedField(FIELD_MAP.capital);
   result.largestCity = getLinkedField(FIELD_MAP.largestCity);
+  if (result.largestCity.length === 1 && result.largestCity[0].name.en.toLowerCase() === 'capital') {
+    result.largestCity = JSON.parse(JSON.stringify(result.capital));
+  }
   result.officialLanguage = getLinkedField(FIELD_MAP.officialLanguage);
   result.government = getLinkedField(FIELD_MAP.government);
   result.currency = getLinkedField(FIELD_MAP.currency).map(c => ({...c, isoCode: null})); // TODO: extract isoCode
@@ -161,7 +164,15 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
-  result.flagUrl = null; // TODO: Implement thumbnail URL construction
+  const rawFlag = getField(FIELD_MAP.flagUrl);
+  if (rawFlag) {
+    const cleanFlag = rawFlag.replace(/\[\[|\]\]/g, '').split('|')[0].trim();
+    if (cleanFlag) {
+      result.flagUrl = `https://en.wikipedia.org/wiki/Special:FilePath/${encodeURIComponent(cleanFlag.replace(/\s/g, '_'))}?width=250`;
+    }
+  } else {
+    result.flagUrl = null;
+  }
 
   console.log(`[DEBUG] Extracted ${Object.keys(result).length} fields for infobox`);
   if (Object.keys(result).length === 0) {
