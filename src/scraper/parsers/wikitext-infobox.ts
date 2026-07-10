@@ -14,18 +14,20 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
     while ((match = linkRegex.exec(segment)) !== null) {
       const textBefore = segment.substring(lastIdx, match.index).replace(/'''|''/g, '').trim();
       if (textBefore.length > 0 && !/^[,; ]+$/.test(textBefore)) {
-        results.push({ articleId: null, text: textBefore });
+        results.push({ articleId: null, text: textBefore.replace(/\[\[/g, '').replace(/\]\]/g, '') });
       }
       
-      results.push({ articleId: match[1], text: match[2] || match[1] });
+      const linkText = (match[2] || match[1]).replace(/\[\[/g, '').replace(/\]\]/g, '');
+      results.push({ articleId: match[1], text: linkText });
       lastIdx = linkRegex.lastIndex;
     }
     
     const remainingText = segment.substring(lastIdx).replace(/'''|''/g, '').trim();
     if (remainingText.length > 0 && !/^[,; ]+$/.test(remainingText)) {
-      results.push({ articleId: null, text: remainingText });
+      results.push({ articleId: null, text: remainingText.replace(/\[\[/g, '').replace(/\]\]/g, '') });
     }
   }
+
   return results;
 }
 

@@ -56,6 +56,18 @@ data.forEach(country => {
   if (country.population === 0 && name !== 'Vatican City') {
       issues.push({ name, field: 'population', error: 'Suspiciously zero', value: country.population });
   }
+
+  // Check for brackets in callingCode or internetTld
+  ['callingCode', 'internetTld'].forEach(field => {
+    const value = country[field as keyof Country];
+    if (Array.isArray(value)) {
+      value.forEach(item => {
+        if (typeof item === 'string' && (item.includes('[[') || item.includes(']]'))) {
+          issues.push({ name, field, error: 'Contains brackets', value: item });
+        }
+      });
+    }
+  });
 });
 
 if (issues.length > 0) {
