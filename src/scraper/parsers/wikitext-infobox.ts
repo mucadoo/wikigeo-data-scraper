@@ -39,7 +39,24 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
   return results.map(r => ({
       articleId: r.articleId,
       text: r.text.replace(/\[\[/g, '').replace(/\]\]/g, '').trim()
-  })).filter(r => r.text.length > 0 && !/^[\(\)\[\]\s,;|]+$/.test(r.text));
+  })).filter(r => {
+      const t = r.text;
+      const lower = t.toLowerCase();
+      if (t.length === 0) return false;
+      if (/^[\(\)\[\]\s,;|]+$/.test(t)) return false;
+      // Filter out percentages and pure numbers which are often junk in language/currency fields
+      if (/^\d+(\.\d+)?%$/.test(t)) return false;
+      if (/^\d+(\.\d+)?$/.test(t) && !r.articleId) return false;
+      const isJunkText = /^(and|or|&|with|alongside|recognized|by|law|item_style|white-space|nowrap)$/i.test(lower) || 
+                         lower.startsWith('alongside') || 
+                         lower.startsWith('recognized by');
+      if (t.includes('=') || t.endsWith(':') || isJunkText) return false;
+      if (t === '----' || t === '—' || t === '–') return false;
+      if (lower === 'none' || lower === 'none officially' || lower === 'unknown' || lower.startsWith('none (')) return false;
+      // Filter out single letters (often leftover from footnotes)
+      if (t.length === 1 && !r.articleId && /^[a-z]$/i.test(t)) return false;
+      return true;
+  });
 }
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
@@ -64,7 +81,7 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     areaKm2: ['area_km2', 'area_sqkm', 'area', 'superficie_totale', 'superficie', 'area_data2'],
     densityKm2: ['density_km2', 'population_density_km2', 'densité', 'population_density_sq_mi'],
     government: ['government_type', 'type_gouvernement', 'government'],
-    officialLanguage: ['official_languages', 'languages', 'langues_officielles', 'languages_type', 'official_language'],
+    officialLanguage: ['official_languages', 'languages', 'langues_officielles', 'official_language'],
     currency: ['currency', 'monnaie', 'code_monnaie', 'currency_code'],
     timeZone: ['timezone', 'utc_offset', 'time_zone', 'fuseau_horaire', 'time_offset'],
     callingCode: ['calling_code', 'indicatif_téléphonique', 'calling_code'],
@@ -122,17 +139,47 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
       const val = ExtractionUtils.extractDensity(rawDensity);
       if (val) result.densityKm2 = parseFloat(val);
   }
+  
+  if (!result.densityKm2 && result.population && result.areaKm2 && result.areaKm2 > 0) {
+      result.densityKm2 = parseFloat((result.population / result.areaKm2).toFixed(2));
+  }
 
   result.capital = getLinkedField(FIELD_MAP.capital);
   result.largestCity = getLinkedField(FIELD_MAP.largestCity);
-  if (result.largestCity.length === 1 && result.capital.length >= 1) {
+  
+  // If largestCity is "capital" or contains Wikidata properties, copy the capital(s)
+  const isLargestCityCapital = result.largestCity.some(city => 
+    city.name.en.toLowerCase().includes('capital') || 
+    city.name.en.includes('{{#property')
+  );
+  if (isLargestCityCapital) {
+      if (result.capital.length >= 1) {
+          // Filter out "capital" and add real capital cities
+          const cities = result.largestCity.filter(city => !city.name.en.toLowerCase().includes('capital'));
+          // If it's only "capital" or empty now, just use capital
+          if (cities.length === 0) {
+              result.largestCity = JSON.parse(JSON.stringify(result.capital));
+          } else {
+              // Merge capital into the list if not already present
+              const existingNames = new Set(cities.map(c => c.name.en.toLowerCase()));
+              for (const cap of result.capital) {
+                  if (!existingNames.has(cap.name.en.toLowerCase())) {
+                      cities.push(JSON.parse(JSON.stringify(cap)));
+                  }
+              }
+              result.largestCity = cities;
+          }
+      } else {
+          // If capital is missing, at least remove the "capital" literal
+          result.largestCity = result.largestCity.filter(city => 
+              !city.name.en.toLowerCase().includes('capital') && 
+              !city.name.en.includes('{{#property')
+          );
+      }
+  } else if (result.largestCity.length === 1 && !result.largestCity[0].articleId) {
     const city = result.largestCity[0];
-    if (city.name.en.trim().toLowerCase() === 'capital') {
-      result.largestCity = JSON.parse(JSON.stringify(result.capital));
-    } else if (!city.articleId) {
-      const match = result.capital.find(c => c.name.en.toLowerCase() === city.name.en.toLowerCase());
-      if (match) city.articleId = match.articleId;
-    }
+    const match = result.capital.find(c => c.name.en.toLowerCase() === city.name.en.toLowerCase());
+    if (match) city.articleId = match.articleId;
   }
   result.officialLanguage = getLinkedField(FIELD_MAP.officialLanguage);
   result.government = getLinkedField(FIELD_MAP.government);
@@ -225,8 +272,12 @@ export function extractInfoboxBody(wikitext: string): string | null {
       j += 3;
       if (braceCount <= 0) {
         const remaining = wikitext.substring(j).substring(0, 100).trim();
-        if (!remaining.startsWith('|')) return wikitext.substring(startIdx, j);
-        braceCount = 1;
+        // If the next thing is a pipe at the start of a line, it's likely a miscounted brace
+        if (remaining.startsWith('|') || remaining.startsWith('\n|')) {
+            braceCount = 1;
+            continue;
+        }
+        return wikitext.substring(startIdx, j);
       }
       continue;
     } else if (wikitext.startsWith('{{', j)) {
@@ -238,14 +289,19 @@ export function extractInfoboxBody(wikitext: string): string | null {
       j += 2;
       if (braceCount <= 0) {
         const remaining = wikitext.substring(j).substring(0, 100).trim();
-        if (!remaining.startsWith('|')) return wikitext.substring(startIdx, j);
-        braceCount = 1;
+        if (remaining.startsWith('|') || remaining.startsWith('\n|')) {
+            braceCount = 1;
+            continue;
+        }
+        return wikitext.substring(startIdx, j);
       }
       continue;
     }
     
-    // Safety: if we hit a new section, the infobox must have ended
-    if (braceCount > 0 && j > startIdx + 500 && wikitext.startsWith('\n==', j)) {
+    // Safety: if we hit a new section or a very long distance without closing, stop.
+    // Infoboxes are rarely more than 20k chars.
+    if (j > startIdx + 20000) break;
+    if (braceCount > 0 && j > startIdx + 500 && (wikitext.startsWith('\n==', j) || wikitext.startsWith('\n[[Category:', j))) {
         const lastBraces = wikitext.lastIndexOf('}}', j);
         if (lastBraces > startIdx) {
             return wikitext.substring(startIdx, lastBraces + 2);
@@ -279,19 +335,29 @@ export function parseFields(body: string): Record<string, string> {
     }
 
     // We identify fields that start with | at the top level of the infobox.
-    // We are lenient with depth (allowing <= 3) to handle structural errors in wikitext.
-    // Probable fields (pattern |name=) are always treated as new fields if they are at low depth.
-    const isProbableField = trimmed.startsWith('|') && /\|[a-z0-9_-]+\s*=/.test(trimmed);
-    const isAtLowDepth = lineBraceDepthBefore <= 3;
+    // We handle comments that might precede the | character.
+    const effectiveTrimmed = trimmed.replace(/^<!--[\s\S]*?-->/g, '').trim();
     
-    if (trimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore === 1) && isAtLowDepth) {
+    // Termination condition: if we see the closing braces at the top level
+    if (effectiveTrimmed === '}}' && lineBraceDepthBefore === 1) {
+        if (currentKey) {
+            fields[currentKey] = currentValue.trim();
+        }
+        return fields;
+    }
+
+    const isProbableField = effectiveTrimmed.startsWith('|') && /\|\s*[a-z0-9_-]+\s*=/.test(effectiveTrimmed);
+    // Increase allowed depth for probable fields to handle unclosed templates better
+    const isAtLowDepth = lineBraceDepthBefore <= (isProbableField ? 6 : 1);
+    
+    if (effectiveTrimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore === 1) && isAtLowDepth) {
       if (currentKey) {
         fields[currentKey] = currentValue.trim();
       }
-      const eqIdx = trimmed.indexOf('=');
+      const eqIdx = effectiveTrimmed.indexOf('=');
       if (eqIdx !== -1) {
-        currentKey = trimmed.substring(1, eqIdx).trim().toLowerCase();
-        currentValue = trimmed.substring(eqIdx + 1);
+        currentKey = effectiveTrimmed.substring(1, eqIdx).trim().toLowerCase();
+        currentValue = effectiveTrimmed.substring(eqIdx + 1);
       } else {
         currentKey = null;
         currentValue = '';

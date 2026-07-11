@@ -111,20 +111,20 @@ export class ExtractionUtils {
   static stripAllTemplates(text: string): string {
     if (!text) return '';
     
-    // Strip references and HTML comments
+    // Strip references, HTML comments and Wikidata calls
     let cleaned = text
       .replace(/<!--[\s\S]*?-->/g, '')
       .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
       .replace(/<ref[^>]*\/>/gi, '')
-      .replace(/{{refn\|[\s\S]*?}}/gi, '')
-      .replace(/{{efn\|[\s\S]*?}}/gi, '');
+      .replace(/<sup[^>]*>[\s\S]*?<\/sup>/gi, '')
+      .replace(/<sub[^>]*>[\s\S]*?<\/sub>/gi, '')
+      .replace(/{{#property:[^}]*}}/gi, '');
 
     // Strip HTML tags and common entities
     cleaned = cleaned.replace(/<[^>]+>/g, '')
                      .replace(/&nbsp;/gi, ' ')
                      .replace(/{{nbsp}}/gi, ' ')
                      .replace(/&amp;/gi, '&')
-                     .replace(/{{cite[^}]*}}/gi, '')
                      .replace(/{{convert\|([0-9,.]+)\|km2\|[^}]*}}/gi, '$1')
                      .replace(/{{convert\|([0-9,.]+)\|sqmi\|km2[^}]*}}/gi, (_, p1) => (parseFloat(p1.replace(/,/g, '')) * 2.58999).toFixed(2))
                      .replace(/{{small\|([^}]*)}}/gi, '$1');
@@ -136,13 +136,14 @@ export class ExtractionUtils {
 
     const listTemplates = [
       'hlist', 'flatlist', 'plainlist', 'unbulleted list', 'vlist', 'ublist', 'ubl', 'lang',
-      'vunblist', 'unbulleted', 'bulleted list', 'ordered list', 'horizontal list'
+      'vunblist', 'unbulleted', 'bulleted list', 'ordered list', 'horizontal list',
+      'nowrap', 'small', 'big', 'larger', 'fontsize', 'center', 'bold', 'italic', 'i', 'b', 'u'
     ];
 
     for (let i = 0; i < cleaned.length; i++) {
         if (cleaned.startsWith('{{', i)) {
             const rest = cleaned.substring(i + 2);
-            const match = rest.match(/^([a-z0-9\s]+)(\||\}\})/i);
+            const match = rest.match(/^([a-z0-9\s_-]+)(\||\}\})/i);
             let name = match ? match[1].trim().toLowerCase().replace(/\s+/g, ' ') : '';
             
             if (listTemplates.includes(name)) {
@@ -155,6 +156,12 @@ export class ExtractionUtils {
                         if (secondPipe !== -1) {
                             i = secondPipe;
                         }
+                    }
+                    // Skip parameter names like 1= or text=
+                    const restAfterPipe = cleaned.substring(i + 1, i + 10);
+                    const paramMatch = restAfterPipe.match(/^([1-9]|text|content|link|name)=/);
+                    if (paramMatch) {
+                        i += paramMatch[0].length;
                     }
                 }
             } else {
