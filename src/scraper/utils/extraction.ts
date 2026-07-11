@@ -125,7 +125,8 @@ export class ExtractionUtils {
                      .replace(/{{nbsp}}/gi, ' ')
                      .replace(/&amp;/gi, '&')
                      .replace(/{{cite[^}]*}}/gi, '')
-                     .replace(/{{convert\|(\d+)\|km2\|[^}]*}}/gi, '$1')
+                     .replace(/{{convert\|([0-9,.]+)\|km2\|[^}]*}}/gi, '$1')
+                     .replace(/{{convert\|([0-9,.]+)\|sqmi\|km2[^}]*}}/gi, (_, p1) => (parseFloat(p1.replace(/,/g, '')) * 2.58999).toFixed(2))
                      .replace(/{{small\|([^}]*)}}/gi, '$1');
 
     let result = '';
@@ -133,7 +134,10 @@ export class ExtractionUtils {
     let bracketCount = 0;
     let stack: string[] = [];
 
-    const listTemplates = ['hlist', 'flatlist', 'plainlist', 'unbulleted list', 'vlist', 'ublist', 'ubl', 'lang'];
+    const listTemplates = [
+      'hlist', 'flatlist', 'plainlist', 'unbulleted list', 'vlist', 'ublist', 'ubl', 'lang',
+      'vunblist', 'unbulleted', 'bulleted list', 'ordered list', 'horizontal list'
+    ];
 
     for (let i = 0; i < cleaned.length; i++) {
         if (cleaned.startsWith('{{', i)) {

@@ -18,10 +18,8 @@ export class DataValidator {
       if (!country.name[lang]) errors.push(`Missing name for ${lang}`);
     });
 
-    // Enforce all languages for description
-    LANGUAGES.forEach(lang => {
-      if (!country.description[lang]) errors.push(`Missing description for ${lang}`);
-    });
+    // Enforce English description (others are optional)
+    if (!country.description.en) errors.push('Missing English description');
 
     // Existing essential fields
     if (!country.population) errors.push('Missing population');

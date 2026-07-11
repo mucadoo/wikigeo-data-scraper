@@ -72,16 +72,16 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
     console.log(`[DEBUG] Field ${field} now has ${fieldVal.length} items`);
   });
 
-  // 3. Keep/Reset root fields
-  country.isoCode = newData.isoCode !== undefined ? newData.isoCode : country.isoCode;
-  country.flagUrl = newData.flagUrl !== undefined ? newData.flagUrl : country.flagUrl;
-  country.population = newData.population !== undefined ? newData.population : country.population;
-  country.areaKm2 = newData.areaKm2 !== undefined ? newData.areaKm2 : country.areaKm2;
-  country.densityKm2 = newData.densityKm2 !== undefined ? newData.densityKm2 : country.densityKm2;
-  country.gdp = newData.gdp !== undefined ? newData.gdp : country.gdp;
-  country.hdi = newData.hdi !== undefined ? newData.hdi : country.hdi;
-  country.callingCode = newData.callingCode !== undefined ? newData.callingCode : (country.callingCode || []);
-  country.internetTld = newData.internetTld !== undefined ? newData.internetTld : (country.internetTld || []);
+  // 3. Keep/Reset root fields (only overwrite if newData has a non-null value)
+  if (newData.isoCode) country.isoCode = newData.isoCode;
+  if (newData.flagUrl) country.flagUrl = newData.flagUrl;
+  if (newData.population) country.population = newData.population;
+  if (newData.areaKm2) country.areaKm2 = newData.areaKm2;
+  if (newData.densityKm2) country.densityKm2 = newData.densityKm2;
+  if (newData.gdp) country.gdp = newData.gdp;
+  if (newData.hdi) country.hdi = newData.hdi;
+  if (newData.callingCode && newData.callingCode.length > 0) country.callingCode = newData.callingCode;
+  if (newData.internetTld && newData.internetTld.length > 0) country.internetTld = newData.internetTld;
 
   return country;
 };

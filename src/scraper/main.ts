@@ -38,15 +38,33 @@ async function run() {
   const allLangLinks = await WikipediaAPI.fetchTranslations(titles, ['pt', 'fr', 'it', 'es']);
 
   // 3. PER-COUNTRY PROCESSING
-  const semaphore = new Semaphore(5);
+  const semaphore = new Semaphore(3);
   await Promise.all(titles.map(async (title: string) => {
     await semaphore.acquire();
     try {
       const countryId = title;
       
+      const existingRow = getCountry.get(countryId) as { data: string } | undefined;
+      if (existingRow) {
+        const existingData = JSON.parse(existingRow.data) as Country;
+        if (existingData.isoCode && existingData.population && existingData.areaKm2 && existingData.description?.en) {
+          console.log(`Skipping ${title} (already valid in DB)`);
+          return;
+        }
+      }
+
       // Fetch English data
       const enWikitext = await WikipediaAPI.fetchWikitext(title, 'en');
+      if (!enWikitext) {
+          console.warn(`No wikitext found for ${title}`);
+          return;
+      }
       const enData = parseCountryFromWikitext(enWikitext, 'en');
+      
+      if (!enData.isoCode && !enData.population) {
+          console.warn(`Parsed data for ${title} is empty, skipping`);
+          return;
+      }
       
       const articleIds = new Set([
         ...(enData.capital?.map(i => i.articleId) || []),
@@ -101,8 +119,9 @@ async function run() {
           
           mergeIntoCountry(countryData, localizedData, lang);
         } else {
-          // Fallback to English name if no translation exists
+          // Fallback to English name and description if no translation exists
           countryData.name[lang] = countryData.name.en;
+          countryData.description[lang] = countryData.description.en;
         }
       }
 

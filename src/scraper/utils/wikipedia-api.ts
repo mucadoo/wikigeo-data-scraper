@@ -28,7 +28,7 @@ export class WikipediaAPI {
   private static isSnapshotMode = false;
   private static USER_AGENT = 'WikiGeoDataScraper/1.0 (mucadoo@personal.dev)';
   private static lastRequestTime = 0;
-  private static MIN_DELAY = 200; // 5 requests per second
+  private static MIN_DELAY = 500; // 2 requests per second
 
   private static async request(url: string): Promise<any> {
     const now = Date.now();
@@ -37,18 +37,22 @@ export class WikipediaAPI {
       await new Promise(resolve => setTimeout(resolve, this.MIN_DELAY - timeSinceLast));
     }
 
-    let retries = 3;
+    let retries = 5;
     while (retries > 0) {
       try {
         this.lastRequestTime = Date.now();
         const response = await axios.get(url, {
-          headers: { 'User-Agent': this.USER_AGENT }
+          headers: { 'User-Agent': this.USER_AGENT },
+          timeout: 30000
         });
         return response.data;
       } catch (error: unknown) {
-        if (axios.isAxiosError(error) && error.response?.status === 429 && retries > 1) {
-          const retryAfter = parseInt(error.response.headers['retry-after'] || '5', 10);
-          const delay = (retryAfter + (4 - retries)) * 1000;
+        const isRateLimit = axios.isAxiosError(error) && error.response?.status === 429;
+        const isNetworkError = axios.isAxiosError(error) && (!error.response || error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT');
+        
+        if ((isRateLimit || isNetworkError) && retries > 1) {
+          const retryAfter = isRateLimit ? parseInt((error as any).response.headers['retry-after'] || '5', 10) : 2;
+          const delay = (retryAfter + (5 - retries) * 2) * 1000;
           await new Promise(resolve => setTimeout(resolve, delay));
           retries--;
           continue;
@@ -99,7 +103,7 @@ export class WikipediaAPI {
       }
     }
 
-    const url = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&titles=${encodeURIComponent(title)}`;
+    const url = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&redirects=1&titles=${encodeURIComponent(title)}`;
     
     const data = await this.request(url);
     const pages = data?.query?.pages;

@@ -8,7 +8,6 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
   
   for (const segment of segments) {
     const linkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
-    console.log(`[DEBUG] Segment: "${segment}"`);
     let lastIdx = 0;
     let match;
     
@@ -62,18 +61,18 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     capital: ['capital', 'capital_city', 'capitale', 'capitaux'],
     largestCity: ['largest_city', 'largest_settlement', 'plus_grande_ville'],
     population: ['population_estimate', 'population_census', 'population_total', 'population', 'population_totale', 'population_estimate'],
-    areaKm2: ['area_km2', 'area_sqkm', 'area', 'superficie_totale', 'superficie'],
-    densityKm2: ['density_km2', 'population_density_km2', 'densité'],
-    government: ['government_type', 'type_gouvernement'],
-    officialLanguage: ['official_languages', 'languages', 'langues_officielles', 'languages_type'],
-    currency: ['currency', 'monnaie', 'code_monnaie'],
-    timeZone: ['timezone', 'utc_offset', 'time_zone', 'fuseau_horaire'],
+    areaKm2: ['area_km2', 'area_sqkm', 'area', 'superficie_totale', 'superficie', 'area_data2'],
+    densityKm2: ['density_km2', 'population_density_km2', 'densité', 'population_density_sq_mi'],
+    government: ['government_type', 'type_gouvernement', 'government'],
+    officialLanguage: ['official_languages', 'languages', 'langues_officielles', 'languages_type', 'official_language'],
+    currency: ['currency', 'monnaie', 'code_monnaie', 'currency_code'],
+    timeZone: ['timezone', 'utc_offset', 'time_zone', 'fuseau_horaire', 'time_offset'],
     callingCode: ['calling_code', 'indicatif_téléphonique', 'calling_code'],
     internetTld: ['cctld', 'domaine_internet', 'tld', 'internet_tld'],
     hdi: ['hdi', 'idh'],
     gdp: ['gdp_nominal', 'pib'],
     flagUrl: ['image_flag', 'flag_image', 'flag', 'image_drapeau'],
-    isoCode: ['iso3166code', 'iso3166-1', 'iso3166_1', 'iso_3166-1'],
+    isoCode: ['iso3166code', 'iso3166-1', 'iso3166_1', 'iso_3166-1', 'iso3166-1_alpha-2', 'iso3166-1_alpha_2'],
     demonym: ['demonym', 'nom_des_habitants'],
   };
 
@@ -109,6 +108,14 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     const val = ExtractionUtils.extractArea(rawArea);
     if (val) result.areaKm2 = parseFloat(val);
   }
+  
+  if (!result.areaKm2) {
+    const rawAreaSqMi = getField(['area_sq_mi']);
+    if (rawAreaSqMi) {
+      const val = ExtractionUtils.extractArea(rawAreaSqMi);
+      if (val) result.areaKm2 = parseFloat(val) * 2.58999;
+    }
+  }
 
   const rawDensity = getField(FIELD_MAP.densityKm2);
   if (rawDensity) {
@@ -120,7 +127,7 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
   result.largestCity = getLinkedField(FIELD_MAP.largestCity);
   if (result.largestCity.length === 1 && result.capital.length >= 1) {
     const city = result.largestCity[0];
-    if (city.name.en.toLowerCase() === 'capital') {
+    if (city.name.en.trim().toLowerCase() === 'capital') {
       result.largestCity = JSON.parse(JSON.stringify(result.capital));
     } else if (!city.articleId) {
       const match = result.capital.find(c => c.name.en.toLowerCase() === city.name.en.toLowerCase());
@@ -166,14 +173,22 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   const rawCallingCode = getField(FIELD_MAP.callingCode);
   if (rawCallingCode) {
-    console.log(`[DEBUG] rawCallingCode: "${rawCallingCode}" codes: ${JSON.stringify(rawCallingCode.split('').map(c => c.charCodeAt(0)))}`);
     result.callingCode = parseWikilinks(rawCallingCode).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
   const rawTld = getField(FIELD_MAP.internetTld);
   if (rawTld) {
-    console.log(`[DEBUG] rawTld: "${rawTld}"`);
     result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
+  }
+
+  if (!result.isoCode && result.internetTld && result.internetTld.length > 0) {
+    let tld = result.internetTld[0].replace(/\[\[|\]\]/g, '').trim().toLowerCase();
+    if (tld.startsWith('.') && tld.length === 3) {
+      result.isoCode = tld.substring(1).toUpperCase();
+      // Handle known exceptions
+      if (result.isoCode === 'UK') result.isoCode = 'GB';
+      if (result.isoCode === 'EL') result.isoCode = 'GR';
+    }
   }
 
   const rawFlag = getField(FIELD_MAP.flagUrl);
@@ -186,13 +201,10 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     result.flagUrl = null;
   }
 
-  console.log(`[DEBUG] Extracted ${Object.keys(result).length} fields for infobox`);
   if (Object.keys(result).length === 0) {
     console.log('[DEBUG] Infobox body was:', infoboxBody.substring(0, 200));
   }
 
-  console.log(`[DEBUG] Final result keys: ${Object.keys(result)}`);
-  console.log(`[DEBUG] Final result object: ${JSON.stringify(result)}`);
   return result;
 }
 
@@ -204,16 +216,43 @@ export function extractInfoboxBody(wikitext: string): string | null {
   let j = startIdx;
   
   while (j < wikitext.length) {
-    if (wikitext.startsWith('{{', j)) {
-      braceCount += 2;
+    if (wikitext.startsWith('{{{', j)) {
+      braceCount++;
+      j += 3;
+      continue;
+    } else if (wikitext.startsWith('}}}', j)) {
+      braceCount--;
+      j += 3;
+      if (braceCount <= 0) {
+        const remaining = wikitext.substring(j).substring(0, 100).trim();
+        if (!remaining.startsWith('|')) return wikitext.substring(startIdx, j);
+        braceCount = 1;
+      }
+      continue;
+    } else if (wikitext.startsWith('{{', j)) {
+      braceCount++;
       j += 2;
+      continue;
     } else if (wikitext.startsWith('}}', j)) {
-      braceCount -= 2;
+      braceCount--;
       j += 2;
-      if (braceCount === 0) break;
-    } else {
-      j++;
+      if (braceCount <= 0) {
+        const remaining = wikitext.substring(j).substring(0, 100).trim();
+        if (!remaining.startsWith('|')) return wikitext.substring(startIdx, j);
+        braceCount = 1;
+      }
+      continue;
     }
+    
+    // Safety: if we hit a new section, the infobox must have ended
+    if (braceCount > 0 && j > startIdx + 500 && wikitext.startsWith('\n==', j)) {
+        const lastBraces = wikitext.lastIndexOf('}}', j);
+        if (lastBraces > startIdx) {
+            return wikitext.substring(startIdx, lastBraces + 2);
+        }
+        break;
+    }
+    j++;
   }
   
   return wikitext.substring(startIdx, j);
@@ -229,17 +268,23 @@ export function parseFields(body: string): Record<string, string> {
 
   for (const line of lines) {
     const trimmed = line.trim();
+    const lineBraceDepthBefore = braceDepth;
     
     // Track braces in the entire line
     for (let i = 0; i < line.length; i++) {
-      if (line.startsWith('{{', i)) { braceDepth++; i++; }
+      if (line.startsWith('{{{', i)) { braceDepth++; i += 2; }
+      else if (line.startsWith('}}}', i)) { braceDepth--; i += 2; }
+      else if (line.startsWith('{{', i)) { braceDepth++; i++; }
       else if (line.startsWith('}}', i)) { braceDepth--; i++; }
     }
 
-    // We also allow fields that start with | even if braceDepth > 0 if they are at the start of the line
-    if (trimmed.startsWith('|')) {
-      console.log(`[DEBUG] Found field line: "${trimmed.substring(0, 30)}..."`);
-      braceDepth = 0; // Reset braceDepth at the start of a new field
+    // We identify fields that start with | at the top level of the infobox.
+    // We are lenient with depth (allowing <= 3) to handle structural errors in wikitext.
+    // Probable fields (pattern |name=) are always treated as new fields if they are at low depth.
+    const isProbableField = trimmed.startsWith('|') && /\|[a-z0-9_-]+\s*=/.test(trimmed);
+    const isAtLowDepth = lineBraceDepthBefore <= 3;
+    
+    if (trimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore === 1) && isAtLowDepth) {
       if (currentKey) {
         fields[currentKey] = currentValue.trim();
       }
@@ -247,7 +292,6 @@ export function parseFields(body: string): Record<string, string> {
       if (eqIdx !== -1) {
         currentKey = trimmed.substring(1, eqIdx).trim().toLowerCase();
         currentValue = trimmed.substring(eqIdx + 1);
-        console.log(`[DEBUG] Parsed key: "${currentKey}"`);
       } else {
         currentKey = null;
         currentValue = '';

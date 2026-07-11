@@ -3,15 +3,16 @@ export function parseDescriptionFromWikitext(wikitext: string, _lang: string): s
   // 1. Remove the first Infobox block and other top-level templates
   let text = removeFirstInfobox(wikitext);
   text = removeTopTemplates(text);
-  console.log(`[DEBUG] Description text (first 200 chars): "${text.substring(0, 200).replace(/\n/g, '\\n')}"`);
+  
+  // Remove HTML comments
+  text = text.replace(/<!--[\s\S]*?-->/g, '');
+  
 
   // 2. Remove other block templates at start of line
   text = text.replace(/^\{\{.*\}\}$/gm, '');
 
   // 3. Find first non-empty paragraph (handling multi-line paragraphs)
   const paragraphs = text.split(/\n\s*\n/);
-  console.log(`[DEBUG] Found ${paragraphs.length} paragraphs`);
-  paragraphs.forEach((p, idx) => console.log(`[DEBUG] Paragraph ${idx}: "${p.substring(0, 50).replace(/\n/g, '\\n')}"`));
   
   let paragraph = '';
   const excludeRegex = /^(=|[{[!|#])/;
@@ -22,7 +23,6 @@ export function parseDescriptionFromWikitext(wikitext: string, _lang: string): s
     
     // Check the first line of the paragraph
     const firstLine = p.split('\n')[0].trim();
-    console.log(`[DEBUG] Checking paragraph: "${firstLine.substring(0, 50)}..."`);
     // Only exclude paragraphs that start with a template ({{)
     if (!firstLine.startsWith('{{')) {
       // More lenient: if it's reasonably long OR has bold OR it's one of the first few paragraphs
@@ -30,10 +30,8 @@ export function parseDescriptionFromWikitext(wikitext: string, _lang: string): s
         paragraph = p;
         break;
       } else {
-        console.log(`[DEBUG] Paragraph too short or no bold: length=${p.length}, hasBold=${p.includes("'''")}`);
       }
     } else {
-      console.log(`[DEBUG] Paragraph matched template start: "${firstLine.substring(0, 50)}..."`);
     }
   }
 
@@ -84,16 +82,26 @@ export function removeTopTemplates(text: string): string {
       let braceCount = 0;
       let j = i;
       while (j < text.length) {
-        if (text.startsWith('{{', j)) {
+        if (text.startsWith('{{{', j)) {
+          braceCount++;
+          j += 3;
+          continue;
+        } else if (text.startsWith('}}}', j)) {
+          braceCount--;
+          j += 3;
+          if (braceCount <= 0) break;
+          continue;
+        } else if (text.startsWith('{{', j)) {
           braceCount++;
           j += 2;
+          continue;
         } else if (text.startsWith('}}', j)) {
           braceCount--;
           j += 2;
-          if (braceCount === 0) break;
-        } else {
-          j++;
+          if (braceCount <= 0) break;
+          continue;
         }
+        j++;
       }
       i = j;
     } else {
@@ -107,24 +115,50 @@ export function removeFirstInfobox(wikitext: string): string {
   const startIdx = wikitext.toLowerCase().indexOf('{{infobox');
   if (startIdx === -1) return wikitext;
 
-  let i = startIdx;
   let braceCount = 0;
-  let j = i;
+  let j = startIdx;
   
   while (j < wikitext.length) {
-    if (wikitext.startsWith('{{', j)) {
+    if (wikitext.startsWith('{{{', j)) {
+      braceCount++;
+      j += 3;
+      continue;
+    } else if (wikitext.startsWith('}}}', j)) {
+      braceCount--;
+      j += 3;
+      if (braceCount <= 0) {
+        const remaining = wikitext.substring(j).substring(0, 100).trim();
+        if (!remaining.startsWith('|')) return wikitext.substring(0, startIdx) + wikitext.substring(j);
+        braceCount = 1;
+      }
+      continue;
+    } else if (wikitext.startsWith('{{', j)) {
       braceCount++;
       j += 2;
+      continue;
     } else if (wikitext.startsWith('}}', j)) {
       braceCount--;
       j += 2;
-      if (braceCount === 0) break;
-    } else {
-      j++;
+      if (braceCount <= 0) {
+        const remaining = wikitext.substring(j).substring(0, 100).trim();
+        if (!remaining.startsWith('|')) return wikitext.substring(0, startIdx) + wikitext.substring(j);
+        braceCount = 1;
+      }
+      continue;
     }
+    
+    // Safety: if we hit a new section, the infobox must have ended
+    if (braceCount > 0 && j > startIdx + 500 && wikitext.startsWith('\n==', j)) {
+        const lastBraces = wikitext.lastIndexOf('}}', j);
+        if (lastBraces > startIdx) {
+            return wikitext.substring(0, startIdx) + wikitext.substring(lastBraces + 2);
+        }
+        break;
+    }
+    j++;
   }
   
-  return wikitext.substring(0, i) + wikitext.substring(j);
+  return wikitext.substring(0, startIdx) + wikitext.substring(j);
 }
 
 function removeNestedParentheses(text: string): string {
