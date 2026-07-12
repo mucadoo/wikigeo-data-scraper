@@ -43,7 +43,7 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
       const t = r.text;
       const lower = t.toLowerCase();
       if (t.length === 0) return false;
-      if (/^[\(\)\[\]\s,;|]+$/.test(t)) return false;
+      if (/^[()[]\]\s,;|]+$/.test(t)) return false;
       // Filter out percentages and pure numbers which are often junk in language/currency fields
       if (/^\d+(\.\d+)?%$/.test(t)) return false;
       if (/^\d+(\.\d+)?$/.test(t) && !r.articleId) return false;

@@ -1,5 +1,5 @@
 
-import { describe, it, expect } from 'vitest';
+import { describe, it } from 'vitest';
 import fs from 'fs';
 import path from 'path';
 import { parseFields, extractInfoboxBody } from '../src/scraper/parsers/wikitext-infobox.js';

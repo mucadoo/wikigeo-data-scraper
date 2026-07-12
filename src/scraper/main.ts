@@ -89,7 +89,7 @@ async function run() {
       // Fill translations for En pass
       ['capital', 'largestCity', 'officialLanguage', 'currency', 'demonym', 'government', 'timeZone'].forEach(field => {
         const key = field as keyof Country;
-        const items = (countryData[key] as any[] || []);
+        const items = (countryData[key] as { articleId: string | null; name: Record<string, string | null> }[] || []);
         items.forEach(item => {
           const articleId = item.articleId?.replace(/_/g, ' ');
           ['pt', 'fr', 'it', 'es'].forEach(l => {
@@ -106,7 +106,7 @@ async function run() {
         const locTitle = langLinks[lang];
         if (locTitle) {
           const wikitext = await WikipediaAPI.fetchWikitext(locTitle, lang);
-          const description = parseDescriptionFromWikitext(wikitext, lang);
+          const description = parseDescriptionFromWikitext(wikitext);
           
           const localizedData: Partial<Country> = {
             name: { ...getEmptyLocalizedField(), [lang]: locTitle },
@@ -130,8 +130,9 @@ async function run() {
         insertCountry.run(countryId, JSON.stringify(merged));
       })();
       await writeLocks[countryId];
-    } catch (e: any) {
-      console.error(`Error processing ${title}: ${e.message}`);
+    } catch (e) {
+      const message = e instanceof Error ? e.message : String(e);
+      console.error(`Error processing ${title}: ${message}`);
     } finally {
       semaphore.release();
     }
@@ -193,7 +194,7 @@ class Semaphore {
   constructor(count: number) { this.count = count; }
   async acquire() {
     if (this.count > 0) { this.count--; return; }
-    await new Promise(resolve => this.queue.push(resolve as any));
+    await new Promise(resolve => this.queue.push(resolve as () => void));
   }
   release() {
     if (this.queue.length > 0) { const resolve = this.queue.shift(); resolve!(); }

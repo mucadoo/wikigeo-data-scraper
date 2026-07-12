@@ -23,7 +23,7 @@ async function run() {
   const discoveryUrl = `https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Member_states_of_the_United_Nations&cmlimit=500&format=json`;
   const response = await fetch(discoveryUrl);
   const data = await response.json();
-  const titles = data.query.categorymembers.map((m: any) => m.title);
+  const titles = (data as { query: { categorymembers: { title: string }[] } }).query.categorymembers.map(m => m.title);
 
   // 2. LANGLINK PREFETCH
   const allLangLinks = await WikipediaAPI.fetchTranslations(titles, ['pt', 'fr', 'it', 'es']);
@@ -84,7 +84,7 @@ class Semaphore {
   constructor(count: number) { this.count = count; }
   async acquire() {
     if (this.count > 0) { this.count--; return; }
-    await new Promise(resolve => this.queue.push(resolve as any));
+    await new Promise(resolve => this.queue.push(resolve as () => void));
   }
   release() {
     if (this.queue.length > 0) { const resolve = this.queue.shift(); resolve!(); }

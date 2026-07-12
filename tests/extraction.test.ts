@@ -78,7 +78,7 @@ describe('Wikitext Parsing', () => {
   describe('parseDescriptionFromWikitext', () => {
     it('should clean basic description', () => {
       const wikitext = 'France is a country in Europe.';
-      const result = parseDescriptionFromWikitext(wikitext, 'en');
+      const result = parseDescriptionFromWikitext(wikitext);
       expect(result).toBe('France is a country in Europe.');
     });
   });

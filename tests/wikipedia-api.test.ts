@@ -12,6 +12,7 @@ const mockedAxios = axios as unknown as { get: ReturnType<typeof vi.fn> };
 describe('WikipediaAPI fetchWikitext', () => {
   beforeEach(() => {
     vi.clearAllMocks();
+    /* eslint-disable-next-line @typescript-eslint/no-explicit-any */
     (WikipediaAPI as any).isSnapshotMode = false;
   });
 
@@ -41,6 +42,7 @@ describe('WikipediaAPI fetchWikitext', () => {
     vi.spyOn(fs, 'existsSync').mockReturnValue(true);
     vi.spyOn(fs, 'readFileSync').mockReturnValue('snapshot wikitext');
 
+    /* eslint-disable-next-line @typescript-eslint/no-explicit-any */
     (WikipediaAPI as any).isSnapshotMode = true;
     const wikitext = await WikipediaAPI.fetchWikitext('TestPage');
     

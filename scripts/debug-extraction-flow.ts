@@ -35,7 +35,7 @@ async function debugFlow(countryName: string) {
   // Apply translations
   ['capital', 'largestCity', 'officialLanguage', 'currency', 'demonym', 'government', 'timeZone'].forEach(field => {
     const key = field as keyof Country;
-    const items = (countryDataEn[key] as any[] || []);
+    const items = (countryDataEn[key] as { articleId: string | null; name: Record<string, string | null> }[] || []);
     items.forEach(item => {
       const articleId = item.articleId?.replace(/_/g, ' ');
       ['pt', 'fr', 'it', 'es'].forEach(l => {

@@ -1,7 +1,7 @@
 import { extractInfoboxBody } from './wikitext-infobox.js';
 import { ExtractionUtils } from '../utils/extraction.js';
 
-export function parseDescriptionFromWikitext(wikitext: string, _lang: string): string {
+export function parseDescriptionFromWikitext(wikitext: string): string {
   // 1. Remove the first Infobox block and other top-level templates
   let text = wikitext.replace(/<noinclude>|<\/noinclude>/gi, '');
   text = removeFirstInfobox(text);

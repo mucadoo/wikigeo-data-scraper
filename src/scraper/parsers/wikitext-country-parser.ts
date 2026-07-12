@@ -5,7 +5,7 @@ import { parseDescriptionFromWikitext } from './wikitext-description.js';
 export function parseCountryFromWikitext(wikitext: string, lang: string = 'en'): Partial<Country> {
   const infoboxData = parseInfoboxFromWikitext(wikitext, lang);
   
-  const description = parseDescriptionFromWikitext(wikitext, lang);
+  const description = parseDescriptionFromWikitext(wikitext);
 
   const country: Partial<Country> = {
     ...infoboxData,

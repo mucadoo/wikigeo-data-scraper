@@ -9,6 +9,13 @@ interface WikipediaLangLink {
 interface WikipediaPage {
   title: string;
   langlinks?: WikipediaLangLink[];
+  revisions?: {
+    slots?: {
+      main?: {
+        '*': string;
+      };
+    };
+  }[];
 }
 
 interface WikipediaRedirect {
@@ -30,7 +37,7 @@ export class WikipediaAPI {
   private static lastRequestTime = 0;
   private static MIN_DELAY = 500; // 2 requests per second
 
-  private static async request(url: string): Promise<any> {
+  private static async request(url: string): Promise<unknown> {
     const now = Date.now();
     const timeSinceLast = now - this.lastRequestTime;
     if (timeSinceLast < this.MIN_DELAY) {
@@ -51,8 +58,12 @@ export class WikipediaAPI {
         const isNetworkError = axios.isAxiosError(error) && (!error.response || error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT');
         
         if ((isRateLimit || isNetworkError) && retries > 1) {
-          const retryAfter = isRateLimit ? parseInt((error as any).response.headers['retry-after'] || '5', 10) : 2;
-          const delay = (retryAfter + (5 - retries) * 2) * 1000;
+          let retryAfterSeconds = 5;
+          if (isRateLimit && axios.isAxiosError(error) && error.response) {
+            const header = error.response.headers['retry-after'];
+            if (header) retryAfterSeconds = parseInt(header, 10);
+          }
+          const delay = (retryAfterSeconds + (5 - retries) * 2) * 1000;
           await new Promise(resolve => setTimeout(resolve, delay));
           retries--;
           continue;
@@ -88,8 +99,8 @@ export class WikipediaAPI {
    */
   static async fetchCategoryMembers(category: string, limit: number = 500): Promise<string[]> {
     const url = `https://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=${encodeURIComponent(category)}&cmlimit=${limit}&format=json`;
-    const data = await this.request(url);
-    return data.query.categorymembers.map((m: any) => m.title);
+    const data = await this.request(url) as { query: { categorymembers: { title: string }[] } };
+    return data.query.categorymembers.map(m => m.title);
   }
 
   /**
@@ -105,7 +116,7 @@ export class WikipediaAPI {
 
     const url = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&redirects=1&titles=${encodeURIComponent(title)}`;
     
-    const data = await this.request(url);
+    const data = await this.request(url) as WikipediaQueryResponse;
     const pages = data?.query?.pages;
     if (!pages) throw new Error('Unexpected API response shape');
 

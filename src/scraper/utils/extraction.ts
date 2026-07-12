@@ -89,7 +89,7 @@ export class ExtractionUtils {
             const den = parseFloat(parts[1]);
             if (den !== 0) return (num / den).toFixed(2);
           }
-        } catch (e) {
+        } catch {
           // ignore
         }
       }
