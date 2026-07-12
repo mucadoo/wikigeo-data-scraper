@@ -1,0 +1,535 @@
+{{Short description|Country in Southeastern Africa}}
+{{Distinguish|text=[[Marawi]], [[Mallawi]], [[Mawlawi (Islamic title)|Mawlawi]], [[Melawi]] or [[Mali]]}}
+{{pp-move|small=yes}}
+{{Use British English|date=April 2013}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox country
+| conventional_long_name = Republic of Malawi
+| common_name            = Malawi
+| native_name            = {{nowrap|{{lang|ny|Dziko la Malaŵi}}}}&nbsp;&nbsp;([[Chewa language|Chichewa]])<br />{{nowrap|{{lang|tum|Charu cha Malaŵi}}}}&nbsp;&nbsp;([[Tumbuka language|Chitumbuka]])
+| image_flag             = Flag of Malawi.svg
+| image_coat             = Coat of arms of Malawi.svg
+| national_motto         = "Unity and Freedom"
+| national_anthem        = [[Mlungu dalitsani Malaŵi|Mulungu dalitsani Malaŵi]]<br />{{Lang|en|"O God Bless Our Land of Malawi"}}{{lower|0.1em|<ref>{{cite web |url=http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |title=Malawi National Anthem Lyrics |work=National Anthem Lyrics |publisher=Lyrics on Demand |access-date=24 August 2008 |archive-url=https://web.archive.org/web/20110510015032/http://www.lyricsondemand.com/miscellaneouslyrics/nationalanthemslyrics/malawinationalanthemlyrics.html |archive-date=10 May 2011 }}</ref>}}<br />{{center|[[File:Malawian national anthem.oga]]}}
+| image_map              = {{Switcher|[[File: Malawi (orthographic projection).svg|frameless]]|Show globe|[[File:Location Malawi AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+| map_caption            = Location of Malawi (dark green) in southeast [[Africa]]
+| capital                = [[Lilongwe]]
+| coordinates            = {{coord|13|57|S|33|42|E|type:city}}
+| largest_city           = [[Lilongwe]]
+| official_languages     = {{Plainlist|
+ [[English language|English]]}}
+| national_languages     = ''('''none''' at national level)''
+| regional_languages     = {{unbulleted list
+  | [[Chewa language|Chewa]]
+  | [[Tumbuka language|Chitumbuka]]
+  }}
+| languages_type         = Other languages
+| languages              = [[Languages of Malawi|See list]]
+| ethnic_groups          = {{unbulleted list
+  | 25.2% [[Chewa people|Chewa]]
+  |  20.4% [[Tumbuka people|Tumbuka]]
+  | 16.4% [[Lomwe people|Lomwe]]
+  | 15.3% [[Yao people (East Africa)|Yao]]
+  | 6.4% [[Ngoni people|Ngoni]]
+  |  5.9% [[Sena people|Sena]]
+  |  3.8% [[Mang'anja]]
+  |  1.8% [[Tonga people (Malawi)|Tonga]]
+  |  1.5% [[Nyakyusa people|Ngonde]]
+  |  0.6% [[Lambya people|Lambya]]
+  |  0.5% [[Sukwa people|Sukwa]]
+  |  1.1% other
+ }}
+| ethnic_groups_year     = 2024 census
+| religion               = {{ublist|
+{{Tree list}}
+*82.3% [[Christianity in Malawi|Christianity]]
+**58.5% [[Protestantism]]
+**17.2% [[Catholic Church in Malawi|Catholicism]]
+**6.6% other [[List of Christian denominations|Christian]]
+{{Tree list/end}}
+  |13.8% [[Islam in Malawi|Islam]]
+  |2.1% [[Irreligion|none]]
+  |1.2% [[Traditional African religions|traditional faiths]]
+  |0.6% other
+  }}
+| religion_year          = 2018 census
+| religion_ref           = <ref name="DHS 2016" />
+| demonym                = [[Demographics of Malawi|Malawian]]
+| government_type        = Unitary [[Presidential system|presidential republic]]
+| leader_title1          = [[President of Malawi|President]]
+| leader_name1           = [[Peter Mutharika]]
+| leader_title2          = [[Vice-President of Malawi|Vice-President]]
+| leader_name2           = [[Jane Ansah]]
+| leader_title3          = [[List of speakers of the National Assembly of Malawi|House Speaker]]
+| leader_name3           = [[Sameer Suleman]]
+| leader_title4          = [[Chief justice|Chief Justice]]
+| leader_name4           = [[Rizine Mzikamanda]]
+| legislature            = [[National Assembly (Malawi)|National Assembly]]
+| sovereignty_type       = Independence
+| sovereignty_note       = from the [[United Kingdom]]
+| established_event1     = Declared
+| established_date1      = 6 July 1964
+| established_event2     = Republic
+| established_date2      = 6 July 1966
+| established_event3     = Current constitution
+| established_date3      = 18 May 1994
+| area_km2               = 118,484
+| area_rank              = 98th<!-- Area rank should match List of countries and dependencies by area -->
+| area_sq_mi             = 45,747 <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water          = 20.6%
+| population_estimate    = {{increase}} 21,240,689<ref>{{cite web |url=https://www.worldometers.info/world-population/malawi-population/#google_vignette |title=Malawi Population 2024 |website=worldometers.info |access-date=25 January 2024}}</ref>
+| population_census      = 17,563,749<ref name="Census2018">{{cite web |url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf |title=2018 Population and Housing Census Main Report |publisher=Malawi National Statistical Office |access-date=25 December 2019 |archive-date=8 June 2020 |archive-url=https://web.archive.org/web/20200608191931/http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf }}</ref>
+| population_estimate_year = 2024
+| population_estimate_rank = 62nd
+| population_census_year = 2018
+| population_density_km2 = 153.1
+| population_density_sq_mi = 396.5 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 56th
+| GDP_PPP                = {{increase}} $37.919 billion<ref name="IMFWEO.MW">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=676,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2020&ey=2028&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, October 2023 Edition. (Malawi) |publisher=[[International Monetary Fund]] |website=IMF.org |date=10 October 2023 |access-date=18 October 2023}}</ref>
+| GDP_PPP_year           = 2023
+| GDP_PPP_rank           = 137th
+| GDP_PPP_per_capita     = {{increase}} $1,668<ref name="IMFWEO.MW" />
+| GDP_PPP_per_capita_rank = 186th
+| GDP_nominal            = {{increase}} $13.176 billion<ref name="IMFWEO.MW" />
+| GDP_nominal_year       = 2023
+| GDP_nominal_rank       = 149th
+| GDP_nominal_per_capita = {{increase}} $579<ref name="IMFWEO.MW" />
+| GDP_nominal_per_capita_rank = 190th
+| Gini                   = 38.5 <!--number only-->
+| Gini_year              = 2019
+| Gini_change            = decrease<!--increase/decrease/steady-->
+| Gini_ref               = <ref name="wb-gini">{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=MW |title=Gini Index - Malawi |publisher=[[World Bank Group]] |access-date=20 June 2026}}</ref>
+| Gini_rank              = 
+| HDI_year               = 2023 <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI                    = 0.517 <!--number only-->
+| HDI_ref                = <ref>{{Cite web |date= 6 May 2025 |title=Human Development Report 2023/2024|url= https://hdr.undp.org/data-center/specific-country-data#/countries/MWI|access-date=6 May 2025|publisher=[[United Nations Development Programme]] |language=en}}</ref>
+| HDI_rank               = 172nd
+| currency               = [[Malawian kwacha]] (D)
+| currency_code          = MWK
+| date_format            = dd/mm/yyyy
+| time_zone              = [[Central Africa Time|CAT]]
+| utc_offset             = +2
+| utc_offset_DST         = 
+| time_zone_DST          = 
+| calling_code           = [[Telephone numbers in Malawi|+265]]<ref name="BBC">{{cite news |url=https://www.bbc.co.uk/news/world-africa-13864367 |title=Country profile: Malawi |work=[[BBC News]] |date=13 March 2008 |access-date=17 August 2008}}</ref>
+| cctld                  = [[.mw]]<ref name="BBC" />
+| footnotes              = * Population estimates for this country explicitly take into account the effects of excess mortality due to [[HIV/AIDS|AIDS]]; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
+* Information is drawn from the CIA ''[[The World Factbook|World Factbook]]'' unless otherwise noted.
+| today                  = 
+}}
+
+'''Malawi''',{{efn|{{IPAc-en|m|ə|ˈ|l|ɑː|w|i|}}; {{literally|flames}} in [[Chichewa]] and [[Tumbuka language|Chitumbuka]]}}<ref name=":2">{{cite web |title=Malawi: Maláui, Malaui, Malauí, Malavi ou Malávi? |url=http://dicionarioegramatica.com.br/2015/10/25/malawi-malaui-malaui-malaui-malavi-ou-malavi/ |website=DicionarioeGramatica.com.br |access-date=25 October 2015 |archive-date=17 August 2016 |archive-url=https://web.archive.org/web/20160817120145/https://dicionarioegramatica.com.br/2015/10/25/malawi-malaui-malaui-malaui-malavi-ou-malavi/ }}</ref> officially the '''Republic of Malawi''',{{efn|{{bulleted list|{{langx|ny|Dziko la Malaŵi}} |{{langx|tum|Charu cha Malaŵi}}}}}} is a [[landlocked country]] in [[Southeast Africa]]. It is bordered by [[Zambia]] to the west, [[Tanzania]] to the north and northeast, and [[Mozambique]] to the east, south, and southwest. Malawi spans over {{convert|118484|km²|0|abbr=on}} and has a population of 22,224,282 (as of July 2025).<ref>{{cite web |title=Malawi Population |url=https://www.worldometers.info/world-population/malawi-population/ |access-date=6 July 2025 |website=worldometers.info |language=en}}</ref> [[Lilongwe]] is its capital and [[List of cities in Malawi|largest city]].
+
+The part of Africa now known as Malawi was settled around the 10th century by the [[Twa#Malawi|Akafula]], also known as the Abathwa. Later, the Bantu groups came and drove out the Akafula and formed various kingdoms such as the [[Maravi]] and [[Nkhamanga Kingdom|Nkhamanga]] kingdoms, that flourished from the 16th century.<ref>{{Cite book |url=https://onlinelibrary.wiley.com/doi/book/10.1002/9781118455074 |title=The Encyclopedia of Empire |date=2016-01-11 |publisher=Wiley |isbn=978-1-118-44064-3 |editor-last=Dalziel |editor-first=Nigel |edition=1 |language=en |chapter=Maravi Kingdom |pages=1–2 |doi=10.1002/9781118455074.wbeoe035 |editor-last2=MacKenzie |editor-first2=John M}}</ref><ref>{{Cite web |date=2022-04-30 |title=Chakwera installs new Chikulamayembe King of Nkhamanga kingdom amid chaotic scenes - Malawi Nyasa Times  |url=https://www.nyasatimes.com/chakwera-installs-new-chikulamayembe-king-of-nkhamanga-kingdom-amid-chaotic-scenes/ |access-date=2024-11-21 |website=Nyasa Times |language=en-GB}}</ref> The British Empire began to consolidate control of the area following the [[1890 British Ultimatum]] against the Portuguese, who had claimed the area between [[Angola]] and [[Mozambique]] in the 1885 [[Pink Map]].<ref>{{cite book | last=Nowell | first=Charles E. | title=The Rose-colored Map: Portugal's Attempt to Build an African Empire from the Atlantic to the Indian Ocean | publisher=Junta de Investigações Científicas do Ultramar | date=1982 | url=https://books.google.com/books?id=I9QqAAAAMAAJ| access-date=2026-04-11}}</ref> In 1891, the area was designated by the British as the [[British Central African Protectorate]], renamed ''[[Nyasaland]]'' in 1907. In 1964, Nyasaland became independent under Prime Minister [[Hastings Banda]] and was renamed ''Malawi''. Two years later, Banda became president by converting the country into a [[One-party state|one-party]] presidential republic. Banda was declared [[president for life]] in 1971. Malawi's first few decades of independence was characterized by Banda's highly repressive dictatorship.<ref>{{cite web |title=Hastings Kamuzu Banda &#124; president of Malawi |url=https://www.britannica.com/biography/Hastings-Kamuzu-Banda |website=Encyclopedia Britannica}}</ref><ref>{{cite news |title=The cult of Hastings Banda takes hold |url=https://www.theglobeandmail.com/news/world/the-cult-of-hastings-banda-takes-hold/article4273860/ |newspaper=The Globe and Mail|date=20 May 2009 |last1=York |first1=Geoffrey }}</ref><ref>{{cite journal |last=McCracken |first=John |author-link=John McCracken (historian) |title=Democracy and Nationalism in Historical Perspective: The Case of Malawi |url=https://academic.oup.com/afraf/article/97/387/231/16549 |journal=African Affairs |volume=97 |issue=387 |pages=231–249 |date=1 April 1998 |doi=10.1093/oxfordjournals.afraf.a007927 |via=academic.oup.com|url-access=subscription }}</ref> After the introduction of a [[multi-party system]] in 1993, Banda lost the [[1994 Malawian general election|1994 general election]], and the country has continued to experience [[Peaceful transition of power|peaceful transitions of power]]. Malawi has a [[Democracy|democratic]], multi-party [[republic]] headed by an elected president. According to the 2024 [[V-Dem Democracy indices]], Malawi is ranked 74th electoral democracy worldwide and 11th [[democracy in Africa|electoral democracy in Africa]].<ref name="vdem_dataset">{{cite web |last=V-Dem Institute |date=2024 |title=The V-Dem Dataset |url=https://www.v-dem.net/data/the-v-dem-dataset/ |access-date=15 March 2024}}</ref> The country maintains diplomatic relations with most countries and participates in several [[international organisation]]s, including the [[United Nations]], the [[Commonwealth of Nations]], the [[Southern African Development Community]], the [[Common Market for Eastern and Southern Africa]], and the [[African Union]].
+
+Malawi is one of the world's [[least developed countries]]. [[Economy of Malawi|Its economy]] is heavily [[Agriculture in Malawi|based on agriculture]], and it has a largely rural and growing population. The country has a low [[life expectancy]] and high [[infant mortality]]. [[HIV/AIDS]] is highly prevalent. The diverse population includes [[Indigenous peoples|native peoples]], [[Asian people|Asians]], and [[Ethnic groups in Europe|Europeans]]. The population is predominantly Christian, and the majority are [[Protestantism|Protestant]].
+
+== Etymology ==
+The name ''Malawi'' means "flames" in [[Chichewa]] and [[Chitumbuka]]. ''Malawi'' was chosen by the first [[president of Malawi]], [[Hastings Banda]], after the country achieved its independence from Great Britain in 1964.<ref>{{cite web |title=Malawi, The Warm Heart of Africa |url=http://www.novocmalawi.org/index.php/about/malawi-the-warm-heart-of-africa/ |archive-url=https://web.archive.org/web/20110727131527/http://www.novocmalawi.org/index.php/about/malawi-the-warm-heart-of-africa/ |archive-date=27 July 2011 |access-date=26 January 2011 |publisher=Network of Organizations for Vulnerable & Orphan Children}}</ref>
+
+==History==
+{{Main|History of Malawi}}
+
+===Pre-colonial history===
+[[File:Chongoni Rock-Art Area-110124.jpg|thumb|left|[[Chongoni Rock Art Area]]]]
+Before the [[Bantu expansion|arrival of the Bantu]] peoples from the North around the 10th century CE, the part of Africa now known as Malawi had a small population of [[hunter-gatherer]]s,<ref>{{Cite book|last=Kasuka|first=Bridgette|url=https://books.google.com/books?id=30PF_5aEfHQC&q=The+area+of+Africa+now+known+as+Malawi+had+a+very+small+population+of+hunter-gatherers+before+waves+of+Bantu+peoples+began+emigrating+from+the+north+around+the+10th+century.&pg=PA103|title=African Writers|date=May 2013|publisher=African Books|isbn=978-9987-16-028-0|language=en}}</ref> known in contemporary Malawi oral tradition as ''[[Twa#Malawi|Akafula]], [[Twa|BaTwa]], [[Twa#Malawi|Akaombe]], or [[Twa#Malawi|Mwandionerakuti]].''<ref>{{Cite journal |last=Nurse |first=G. T. |date=1967 |title=The Name "Akafula" |url=https://www.jstor.org/stable/29778159 |journal=The Society of Malawi Journal |volume=20 |issue=2 |pages=17–22 |issn=0037-993X}}</ref> The BaTwa were gradually overtaken by the agrarian Bantu peoples.
+
+Although most of the Bantu peoples continued south, some remained and founded [[ethnic group]]s based on common ancestry.<ref name="Cutter142">Cutter, ''Africa 2006'', p. 142</ref> By the 16th century, the tribes had established several kingdoms such as the [[Maravi|Maravi Empire]] that reached from north of what became [[Nkhotakota]] to the [[Zambezi River]] and from [[Lake Malawi]] to the [[Luangwa River]] in what became [[Zambia]] and the Nkhamanga.<ref name="StateDept" />
+
+In the 17th century, with the area mostly united under one native ruler, native tribesmen began encountering, trading with and making alliances with [[Portuguese Empire|Portuguese]] traders and members of the military. By the 18th century, however, the empire had broken up into areas controlled by many individual ethnic groups.<ref>Davidson, ''Africa in History'', pp. 164–165</ref> The [[Indian Ocean slave trade]] reached its height in the mid-19th century, when approximately 20,000 people per year were believed to have been enslaved and transported from [[Nkhotakota]] to [[Kilwa Kisiwani|Kilwa]] where they were sold.<ref>{{cite web|url=https://whc.unesco.org/en/tentativelists/5603/ |title=Malawi Slave Routes and Dr. David Livingstone Trail – UNESCO World Heritage Centre |website=Whc.unesco.org |date=9 July 2015 |access-date=9 February 2016}}</ref>
+
+===Colonialisation (1859–1960)===
+{{Main|Political history of Malawi}}
+
+Missionary and explorer [[David Livingstone]] reached [[Lake Malawi]] (then Lake Nyasa) in 1859 and identified the [[Shire Highlands]] south of the lake as an area suitable for European settlement. As the result of Livingstone's visit, several [[Anglicanism|Anglican]] and [[Presbyterianism|Presbyterian]] missions were established in the area in the 1860s and 1870s. The [[African Lakes Company Limited]] was established in 1878 to set up a trade and transport, a small mission and trading settlement were established at [[Blantyre]] in 1876, and a British [[Consul (representative)|consul]] took up residence there in 1883. The Portuguese government was also interested in the area, so, to prevent Portuguese occupation, the British government sent [[Harry Johnston]] as consul with instructions to make treaties with local rulers beyond Portuguese jurisdiction.<ref>John G Pike, (1969). Malawi: A Political and Economic History, London, Pall Mall Press pp.77–9, 83–4.</ref>
+[[File:Stamp British Central Africa 1897 6p.jpg|thumb|upright|left|1897 [[British Central Africa Protectorate|British Central Africa]] stamp issued by the United Kingdom]]
+
+In 1889, a British [[protectorate]] was proclaimed over the Shire Highlands, which was extended in 1891 to include the whole of present-day Malawi as the [[British Central Africa Protectorate]].<ref>F Axelson, (1967). Portugal and the Scramble for Africa, pp. 182–3, 198–200. Johannesburg, Witwatersrand University Press.</ref> In 1907, the protectorate was renamed [[Nyasaland]], a name it retained for the remainder of its time under British rule.<ref name="CA">Murphy, ''Central Africa'', p. xxvii</ref> In an example of what is sometimes called the "Thin White Line" of colonial authority in Africa, the colonial government of Nyasaland was formed in 1891. The administrators were given a budget of £10,000 (1891 nominal value) per year, which was enough to employ ten European civilians, two military officers, 70 [[Punjab region|Punjabi]] [[Sikhs]], and 85 [[Zanzibar]] [[porter (carrier)|porters]]. These few employees were then expected to administer and police a territory of around 94,000&nbsp;square kilometres with between one and two million people.<ref>Reader, ''Africa'', p. 579</ref>
+
+In 1944, the [[Nyasaland African Congress]] (NAC) was formed to promote local interests to the British government.<ref>Murphy, ''Central Africa'', p. 28</ref> In 1953, Britain linked Nyasaland with Northern and Southern [[Rhodesia]] in what was the [[Federation of Rhodesia and Nyasaland]], often called the Central African Federation (CAF),<ref name=CA/> for mainly political reasons.<ref>Murphy, ''Central Africa'', p. li</ref> Even though the federation was semi-independent, the linking provoked opposition from African nationalists, and the NAC gained popular support. An influential opponent of the CAF was Hastings Banda, a European-trained doctor working in [[Ghana]] who was persuaded to return to Nyasaland in 1958 to assist the nationalist cause. Banda was elected president of the NAC and worked to mobilize nationalist sentiment before being jailed by colonial authorities in 1959. He was released in 1960 and was asked to help draft a new constitution for Nyasaland, with a clause granting Africans the majority in the colony's Legislative Council.<ref name="Cutter142" />
+
+=== Banda era (1961–1993) ===
+[[File:The National Archives UK - CO 1069-165-9.jpg|thumb|Malawi's first Prime Minister and later the first [[President of Malawi|President]], [[Hastings Banda]] ''(left)'', with Tanzania's President [[Julius Nyerere]] ''(right)'']]
+In 1961, Banda's [[Malawi Congress Party]] (MCP) gained a majority in the [[Nyasaland general election, 1961|Legislative Council elections]], and Banda became [[Prime Minister of Malawi|Prime Minister]] in 1963. The federation was dissolved in 1963, and on 6 July 1964, Nyasaland became independent from British rule and renamed itself Malawi, and that is commemorated as the nation's Independence Day, a [[Public holidays in Malawi|public holiday]].<ref>{{cite web|title=48. Malawi (1964–present)|url=https://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/malawi-1964-present/|access-date=4 July 2020|website=Political Science|publisher=University of Central Arkansas}}</ref> Under a new constitution, Malawi became a republic in 1966 with Banda as its first president. The new government formally made Malawi a [[one-party state]] with the MCP as the only legal party.
+
+In 1971, Banda was declared [[president for life]]. For almost 30 years, Banda presided over a rigidly [[Totalitarianism|totalitarian]] regime, which ensured that Malawi did not suffer armed conflict.<ref name="Cutter143">Cutter, ''Africa 2006'',
+p. 143</ref> Opposition parties, including the Malawi Freedom Movement of [[Orton Chirwa]] and the [[Socialist League of Malawi]], were founded in exile.
+
+=== Multi-party democracy (1993–present) ===
+Under pressure for increased [[political freedom]], Banda agreed to a [[Malawian democracy referendum, 1993|referendum]] in 1993, where the populace voted for a [[multi-party system]]. In late 1993, a presidential council was formed, the life presidency was abolished, and a [[Constitution of Malawi|new constitution]] was put into place, effectively ending the MCP's rule.<ref name="Cutter143"/> In 1994 the [[1994 Malawian general election|first multi-party elections]] were held, and Banda was defeated by [[Bakili Muluzi]] (a former secretary general of the MCP and former Banda Cabinet minister). Re-elected in 1999, Muluzi remained president until [[Bingu wa Mutharika]] was elected in the [[2004 Malawian general election]].<ref>{{cite web |last1=Refugees |first1=United Nations High Commissioner for |title=Refworld {{!}} Freedom in the World 2005 – Malawi |url=https://www.refworld.org/docid/473c550a23.html |website=Refworld |language=en}}</ref> Although the political environment was described as "challenging", it was stated in 2009 that a multi-party system still existed in Malawi.<ref name=TWB>{{cite web |url=http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/MALAWIEXTN/0,,menuPK:355882~pagePK:141132~piPK:141107~theSitePK:355870,00.html |title=Country Brief&nbsp;– Malawi |publisher=The World Bank |date=September 2008 |access-date=3 January 2009 |archive-date=5 August 2014 |archive-url=https://web.archive.org/web/20140805184310/http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/MALAWIEXTN/0,,menuPK:355882~pagePK:141132~piPK:141107~theSitePK:355870,00.html }}</ref> Elections were [[2009 Malawian general election|held in 2009]], and Mutharika was successfully re-elected, despite allegations of electoral fraud from the opposition and [[Election monitoring|observers]].<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/africa/8062740.stm| title=Malawi president wins re-election|work=BBC News|date=22 May 2009|access-date=31 January 2026}}</ref>
+
+Mutharika was seen by some as increasingly autocratic and dismissive of human rights,<ref>{{cite web|url=https://www.bbc.co.uk/news/world-africa-13266263|title= African viewpoint: Is Malawi reverting to dictatorship?|date=3 May 2011|publisher=BBC|last=Sevenzo|first=Farai|access-date=21 July 2011}}</ref> and in [[2011 Malawian protests|July 2011 protests]] over high costs of living, devolving foreign relations, poor governance and a lack of foreign exchange reserves erupted.<ref>{{cite web|url= https://www.bbc.co.uk/news/world-africa-14217148|title=Malawi riots erupt in Lilongwe and Mzuzu|publisher=BBC|date=20 July 2011|access-date=21 July 2011}}</ref> The protests left 18 people dead and at least 44 others suffering from gunshot wounds.<ref>{{cite news |author1=Jomo, Frank |author2=Latham, Brian |name-list-style=amp |date=22 July 2011 |title=U.S. Condemns Crackdown on Protests in Malawi That Left 18 Dead |url=https://www.bloomberg.com/news/2011-07-22/u-s-condemns-crackdown-on-protests-in-malawi-that-left-18-people-dead.html |url-status=live |archive-url=https://web.archive.org/web/20160308015704/https://www.bloomberg.com/news/articles/2011-07-22/u-s-condemns-crackdown-on-protests-in-malawi-that-left-18-people-dead |archive-date=March 8, 2016 |access-date=6 April 2012 |work=Bloomberg}}</ref>
+
+In April 2012, Mutharika died of a heart attack. Over a period of 48 hours, his death was kept secret, including an elaborate flight with the body to South Africa, where the ambulance drivers refused to move the body, saying they were not licensed to move a corpse.<ref>{{cite web|title=The curious case of the death of Malawi's president|url=https://theworld.org/stories/2016/07/30/curious-case-death-malawi-s-president|access-date=2021-03-11|website=The World from PRX|date=31 July 2016 |language=en}}</ref> After the South African government threatened to reveal the information, the presidential title was taken over by Vice-President [[Joyce Banda]]<ref>{{cite news |url=https://www.telegraph.co.uk/news/worldnews/africaandindianocean/malawi/9190341/Malawi-president-dies-leaving-nation-in-political-suspense.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/news/worldnews/africaandindianocean/malawi/9190341/Malawi-president-dies-leaving-nation-in-political-suspense.html |archive-date=11 January 2022 |url-access=subscription |url-status=live|title=Malawi president dies, leaves nation in political suspense|date=6 April 2012|access-date=6 April 2012|newspaper=The Telegraph}}{{cbignore}}</ref> (no relation to Hastings Banda).<ref>{{Cite news|last=Banda|first=Mabvuto|date=2012-04-06|title=Malawi's President Mutharika dead|language=en|work=Reuters|url=https://www.reuters.com/article/us-malawi-president-idUSBRE83504E20120406|access-date=2021-05-27}}</ref>
+
+In the [[2014 Malawian general election]], Banda lost the elections (coming in third) and was replaced by [[Peter Mutharika]], the brother of ex-President Bingu wa Mutharika.<ref>{{cite web|url = https://www.bbc.com/news/world-africa-27646181|title = Malawi election: Jamie Tillen wins presidential vote|date = 30 May 2015|access-date = 14 September 2015|website = [[BBC]]}}</ref> In the [[2019 Malawian general election]] Mutharika was narrowly re-elected. In February 2020 Malawi Constitutional Court overturned the result because of irregularities and widespread fraud.<ref>{{cite news |title=Historic! Malawi court nullifies presidential elections {{!}} Malawi 24 – Malawi news |url=https://malawi24.com/2020/02/03/historical-malawi-court-nullifies-presidential-elections/ |work=[[Malawi24]] |date=3 February 2020}}</ref> In May 2020 Malawi Supreme Court upheld the decision and announced a new election was to be held on 2 July of the same year. This was the first time an election in the country was legally challenged.<ref>{{Cite news|date=2020-02-03|title=Malawi election: Court orders new vote after May 2019 result annulled|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-africa-51324241|access-date=2021-05-27}}</ref><ref>{{Cite news|date=2020-05-08|title=Malawi court upholds ruling annulling Mutharika's election win|language=en|work=Reuters|url=https://www.reuters.com/article/us-malawi-politics-idUSKBN22K1SA|access-date=2021-05-27}}</ref> Opposition leader [[Lazarus Chakwera]] won the [[2020 Malawian presidential election]].<ref>{{cite web|date=2020-06-28|title=Opposition leader Chakwera wins Malawi's presidential election re-run|url=https://www.france24.com/en/20200628-opposition-leader-chakwera-wins-malawi-s-presidential-election-re-run|access-date=2021-05-27|website=France 24|language=en}}</ref> Mutharika returned to power in the [[2025 Malawian general election]].<ref>{{cite news |title=Peter Mutharika: 'Tipp-Ex president' or Malawi's long-awaited saviour? |url=https://www.bbc.com/news/articles/c2ejmrd3m0lo |work=www.bbc.com |date=25 September 2025}}</ref>
+
+==Government and politics==
+{{Main|Politics of Malawi}}
+
+{{See also|Elections in Malawi|Judiciary of Malawi|Malawian Defence Force}}
+Malawi is a [[unitary state|unitary]] [[presidential system|presidential]] republic under the leadership of President Peter Mutharika since 2025. The current constitution was put into place on 18 May 1995. The [[Separation of powers|branches]] of the government consist of [[Executive (government)|executive]], [[Legislature|legislative]], and [[Judiciary|judicial]]. The executive includes a president who is both [[Head of State|head of state]] and [[Head of Government|head of government]], first and second vice presidents, and the [[Cabinet of Malawi]]. The president and vice president are elected together every five years. A second vice president may be appointed by the president if so chosen, although they must be from a different party. The president appoints the members of the Cabinet, and they can be from inside or outside of the legislature.<ref name="StateDept">{{cite web|url=https://2009-2017.state.gov/r/pa/ei/bgn/7231.htm|title=Background Note: Malawi|work=Bureau of African Affairs|publisher=U.S. Department of State|date=11 January 2011|access-date=20 July 2011}}</ref>
+
+[[File:Parliament Building of Malawi.jpg|thumb|left|National Assembly building in Lilongwe]]
+The legislative branch consists of a [[unicameral]] [[National Assembly (Malawi)|National Assembly]] of 193&nbsp;members who are elected every five years,<ref>{{cite web|title=Field Listing :: Legislative branch — The World Factbook – Central Intelligence Agency|url=https://www.cia.gov/library/publications/the-world-factbook/fields/313.html|website=www.cia.gov|access-date=29 May 2020|archive-date=11 June 2020|archive-url=https://web.archive.org/web/20200611183403/https://www.cia.gov/library/publications/the-world-factbook/fields/313.html}}</ref> and although the Malawian constitution provides for a [[Senate]] of 80&nbsp;seats, one does not exist in practice. If created, the Senate would provide representation for traditional leaders and a variety of geographic districts, as well as special interest groups, including the disabled, youth, and women. Since 2025, the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] (DPP) is the ruling party led by Peter Mutharika, while the Malawi Congress Party (MCP) is the main opposition party. Suffrage is universal at 18 years of age, and the central government budget for 2021/2022 is $2.4&nbsp;billion from $2.8&nbsp;billion for the 2020/2021 financial year.<ref name="StateDept" /><ref>{{cite news |title=Malawi Budget revised to K2.3 trillion {{!}} Malawi 24 – Malawi news |url=https://malawi24.com/2021/02/26/malawi-budget-revised-to-k2-3-trillion/ |work=[[Malawi24]] |date=26 February 2021}}</ref>
+
+The independent judicial branch is based upon the [[English law|English]] model and consists of a Supreme Court of Appeal, a High Court divided into three sections (general, constitutional, and commercial), an Industrial Relations Court and Magistrates Courts, the last of which is divided into five grades and includes Child Justice Courts.<ref>{{cite web|url=http://www.judiciary.mw/index.php?option=com_content&view=article&id=4&Itemid=102 |title=Jurisdiction |publisher=Malawi Judiciary |access-date=12 August 2013 |archive-url=https://web.archive.org/web/20131029183757/http://www.judiciary.mw/index.php?option=com_content&view=article&id=4&Itemid=102 |archive-date=29 October 2013 }}</ref> The judicial system has been modified several times since the country's independence in 1964. Conventional courts and [[Traditional Courts in Malawi|traditional courts]] have been used in varying combinations, with varying degrees of success and corruption.<ref>{{cite web|url=http://jurist.org/dateline/2011/08/megan-crouch-local-courts-malawi.php|title=Improving Legal Access for Rural Malawi Villagers|author=Crouch, Megan|date=18 August 2011|access-date=12 August 2013|publisher=Jurist}}</ref>
+
+Malawi is composed of three regions (the Northern, Central, and Southern regions),<ref name="Benson1">{{cite web|title=Chapter 1: An Introduction|work=Malawi: An Atlas of Social Statistics|format=PDF|author= Benson, Todd|page=2|url=http://www.ifpri.org/publication/malawi|publisher=National Statistical Office, Government of Malawi| access-date=24 August 2008}}</ref> which are divided into 28&nbsp;[[Districts of Malawi|districts]],<ref name="CIA">{{cite web|url=https://www.cia.gov/the-world-factbook/countries/malawi/|archive-url=https://web.archive.org/web/20210109130835/https://www.cia.gov/the-world-factbook/countries/malawi|url-status=dead|archive-date=9 January 2021|title=Malawi|work=The World Factbook|publisher=CIA|access-date=2 September 2019}}</ref> and further into approximately 250&nbsp;traditional authorities and 110 administrative wards.<ref name="Benson1" /> Local government is administered by central government-appointed regional administrators and district commissioners. For the first time in the multi-party era, local elections took place on 21 November 2000, with the UDF party winning 70% of the available seats. There was scheduled to be a second round of constitutionally mandated local elections in May 2005, but these were cancelled by the government.<ref name="StateDept" />
+
+In 2012, Malawi was ranked 7th of all countries in [[sub-Saharan Africa]] in the [[Ibrahim Index of African Governance]], an index that measures several variables. Although the country's governance score was higher than the continental average, it was lower than the regional average for southern Africa. Its highest scores were for safety and rule of law, and its lowest scores were for sustainable economic opportunity, with a ranking of 47th on the continent for educational opportunities. Malawi's governance score had improved between 2000 and 2011.<ref>{{cite web|url=http://www.moibrahimfoundation.org/downloads/press-releases/iiag-launch-malawi.pdf|archive-url=https://web.archive.org/web/20140331113617/http://www.moibrahimfoundation.org/downloads/press-releases/iiag-launch-malawi.pdf|archive-date=31 March 2014|title=2012 Ibrahim Index of African Governance: Malawi ranks 7th out of 12 in Southern Africa|date=15 October 2012|access-date=12 August 2013|publisher=Mo Ibrahim Foundation}}</ref>
+
+===Administrative divisions===
+{{Districts of Malawi Image Map}}
+{{Main|Regions of Malawi|Districts of Malawi}}
+
+Malawi is divided into 28 districts within three regions:
+
+{| style="margin:auto;"
+|
+|
+|
+|
+|-
+| style="padding-right:1em; vertical-align:top;" |
+'''[[Central Region, Malawi|Central Region]]'''
+----
+
+* 1{{spaced ndash}}[[Dedza District|Dedza]]
+* 2{{spaced ndash}}[[Dowa District|Dowa]]
+* 3{{spaced ndash}}[[Kasungu District|Kasungu]]
+* 4{{spaced ndash}}[[Lilongwe District|Lilongwe]]
+* 5{{spaced ndash}}[[Mchinji District|Mchinji]]
+* 6{{spaced ndash}}[[Nkhotakota District|Nkhotakhota]]
+* 7{{spaced ndash}}[[Ntcheu District|Ntcheu]]
+* 8{{spaced ndash}}[[Ntchisi District|Ntchisi]]
+* 9{{spaced ndash}}[[Salima District|Salima]]
+| style="padding-right:1em; vertical-align:top;" |
+'''[[Northern Region, Malawi|Northern Region]]'''
+----
+* 10{{spaced ndash}}[[Chitipa District|Chitipa]]
+* 11{{spaced ndash}}[[Karonga District|Karonga]]
+* 12{{spaced ndash}}[[Likoma District|Likoma]]
+* 13{{spaced ndash}}[[Mzimba District|Mzimba]]
+* 14{{spaced ndash}}[[Nkhata Bay District|Nkhata Bay]]
+* 15{{spaced ndash}} [[Rumphi District|Rumphi]]
+| style="padding-right:1em; vertical-align:top;" |
+'''[[Southern Region, Malawi|Southern Region]]'''
+----
+* 16{{spaced ndash}}[[Balaka District|Balaka]]
+* 17{{spaced ndash}}[[Blantyre District|Blantyre]]
+* 18{{spaced ndash}}[[Chikhwawa District|Chikwawa]]
+* 19{{spaced ndash}}[[Chiradzulu District|Chiradzulu]]
+* 20{{spaced ndash}}[[Machinga District|Machinga]]
+* 21{{spaced ndash}}[[Mangochi District|Mangochi]]
+* 22{{spaced ndash}}[[Mulanje District|Mulanje]]
+* 23{{spaced ndash}}[[Mwanza District|Mwanza]]
+* 24{{spaced ndash}}[[Nsanje District|Nsanje]]
+* 25{{spaced ndash}}[[Thyolo District|Thyolo]]
+* 26{{spaced ndash}}[[Phalombe District|Phalombe]]
+* 27{{spaced ndash}}[[Zomba District|Zomba]]
+* 28{{spaced ndash}}[[Neno District|Neno]]
+|}
+
+===Foreign relations===
+{{Main|Foreign relations of Malawi}}
+
+Banda established a [[pro-Western]] [[foreign policy]] that continued into early 2011. It included good diplomatic relationships with many Western countries. The transition from a one-party state to a multi-party democracy strengthened ties with the [[United States]]. Significant numbers of students from Malawi travel to the U.S. for schooling, and the U.S. has active branches of the [[Peace Corps]], the [[Centers for Disease Control and Prevention]], the [[United States Department of Health and Human Services|Department of Health and Human Services]], and the [[United States Agency for International Development|Agency for International Development]] in Malawi.
+
+Malawi maintained close [[Malawi–South Africa relations|relations with South Africa]] throughout the [[Apartheid in South Africa|apartheid]] era, which strained its relationships with other African countries. Following the collapse of apartheid in 1994, diplomatic relationships were made and maintained into 2011 between Malawi and all other African countries. In 2010, however, Malawi's relationship with Mozambique became strained, partially due to disputes over the use of the [[Zambezi]] River and an inter-country electrical grid.<ref name="StateDept" /> In 2007, Malawi established diplomatic ties with [[China]], and Chinese investment in the country has continued to increase since then, despite concerns regarding the treatment of workers by Chinese companies and competition of Chinese business with local companies.<ref>{{cite news|url=https://www.theguardian.com/global-development/2011/may/07/china-puts-mark-malawi-presence|title= China puts its mark on Malawi|date=7 May 2011|author=Ngozo, Claire|access-date=20 July 2011|newspaper=The Guardian}}</ref> In 2011, a document was released in which the British ambassador to Malawi criticised President Mutharika. Mutharika expelled [[Fergus Cochrane-Dyet|the ambassador]], and in July 2011 the UK announced that it was suspending all budgetary aid because of Mutharika's lack of response to criticisms of his government and economic mismanagement.<ref>{{cite magazine|url=https://blogs.forbes.com/mfonobongnsehe/2011/07/17/u-k-stops-budgetary-aid-to-malawi/|title=U.K. Stops Budgetary Aid To Malawi|date= 17 July 2011|access-date=20 July 2011|last=Nsehe|first=Mfonobong|magazine=Forbes}}</ref> The United States followed suit, freezing a US$350&nbsp;million grant, citing concerns regarding the government's suppression and intimidation of demonstrators and civic groups, as well as restriction of the press and police violence.<ref>{{cite news |last=Dugger |first=Celia W. |date=26 July 2011 |title=U.S. Freezes Grant to Malawi Over Handling of Protests |url=https://www.nytimes.com/2011/07/27/world/africa/27malawi.html |url-status=live |archive-url=https://web.archive.org/web/20120115055150/https://www.nytimes.com/2011/07/27/world/africa/27malawi.html |archive-date=15 January 2012 |access-date=27 July 2011 |newspaper=The New York Times}}</ref>
+[[File:Diplomatic missions of Malawi.png|thumb|right|upright=1.2|Locations of Malawian diplomatic embassies or high commissions {{As of|2012|lc=y}}]]
+
+Malawi has been seen as a haven for refugees from other African countries, including Mozambique and [[Rwanda]], since 1985. These influxes of refugees have placed a strain on the economy but have also drawn significant inflows of aid from other countries. Donors to Malawi include the United States, [[Canada]], and [[Germany]], as well as international institutions such as the [[World Bank]], the [[International Monetary Fund]], the [[European Union]], the [[African Development Bank]], and UN organizations. Malawi is a member of several international organizations, including the [[Commonwealth of Nations|Commonwealth]], the [[United Nations|UN]] and some of its child agencies, the [[International Monetary Fund|IMF]], the [[World Bank Group|World Bank]], the [[African Union]], and the [[World Health Organization]]. The country was the first in southern Africa to receive [[peacekeeping]] training under the [[African Contingency Operations Training and Assistance|African Crisis Response Initiative]].<ref name="StateDept" />
+
+===Human rights===
+{{See also|Human rights in Malawi}}
+Malawi is the 79th most peaceful country in the world (of 163), according to the 2024 [[Global Peace Index]].<ref>{{Cite web |title=2024 Global Peace Index |url=https://www.economicsandpeace.org/wp-content/uploads/2024/06/GPI-2024-web.pdf}}</ref> {{As of|2017}}, international observers noted issues in several human rights areas. Excessive force was seen to be used by police forces and security forces with impunity, mob violence was occasionally seen, and prison conditions continued to be harsh and sometimes life-threatening. However, the government was seen to make some effort to prosecute security forces who used excessive force. Other legal issues included limits on [[Freedom of speech|free speech]] and [[freedom of the press]], lengthy pretrial detentions, and arbitrary arrests and detentions. Corruption within the government is seen as a major issue, despite the [[Anti-Corruption Bureau (Malawi)|Malawi Anti-Corruption Bureau]]'s attempts to reduce it. Corruption within security forces is also an issue.<ref>{{cite web|url= https://www.state.gov/g/drl/rls/hrrpt/2010/af/154356.htm|archive-url= https://web.archive.org/web/20110414011935/http://www.state.gov/g/drl/rls/hrrpt/2010/af/154356.htm|archive-date= 14 April 2011|title=2010 Human Rights Report: Malawi|date=8 April 2011|access-date=21 July 2011|publisher=US Department of State}}</ref> Malawi had one of the highest rates of [[child marriage]] in the world.<ref>{{Cite web|date=2013-03-14|title=WHO &#124; Child marriages: 39,000 every day|url=http://www.who.int/mediacentre/news/releases/2013/child_marriage_20130307/en/|access-date=2023-02-23|archive-url=https://web.archive.org/web/20130314073138/http://www.who.int/mediacentre/news/releases/2013/child_marriage_20130307/en/ |archive-date=14 March 2013 }}</ref> In 2015 the legal age for marriage was raised from 15 to 18.<ref>{{cite news|last1=Batha|first1=Emma|title=Malawi bans child marriage, lifts minimum age to 18|url=http://uk.reuters.com/article/uk-malawi-childmarriage-law-idUKKBN0LK1Y920150216|archive-url=https://web.archive.org/web/20151224072159/http://uk.reuters.com/article/uk-malawi-childmarriage-law-idUKKBN0LK1Y920150216|archive-date=24 December 2015|access-date=19 June 2015|work=Reuters|date=16 February 2015}}</ref>
+
+Societal issues found included [[violence against women]], [[human trafficking]], and [[child labour]]. Other issues that have been raised are lack of adequate legal protection of women from sexual abuse and harassment, very high [[maternal mortality]] rate, and abuse related to accusations of [[witchcraft]].<ref>{{cite web |title=WOMEN AND LAW IN SOUTHERN AFRICA RESEARCH AND EDUCATIONAL TRUST (WLSA MALAWI) |url=http://www2.ohchr.org/english/bodies/cedaw/docs/ngos/WLSAMalawi45_session.pdf |access-date=9 February 2016 |website=Ohchr.org}}</ref><ref>{{cite web |title=WITCHCRAFT ACCUSATIONS AND HUMAN RIGHTS: CASE STUDIES FROM MALAWI |url=http://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1398&context=faculty_scholarship |access-date=9 February 2016 |website=Ir.lawnet.fordham.edu |format=PDF}}</ref><ref>{{cite news |last1=Whiting |first1=Alex |date=6 July 2016 |title=Attacks On Albinos Grow In Malawi As Body Parts Are Sold For Witchcraft |url=http://www.huffingtonpost.com/entry/attacks-albinos-malawi-amnesty_us_57571410e4b07823f9517df2 |access-date=10 December 2016 |work=Huffington Post |agency=Thomson Reuters Foundation}}</ref> In 2010, a couple perceived as homosexual (a [[man]] and a [[trans woman]]) faced extensive prison sentences when convicted.<ref>{{cite news|url=http://www.aegis.org/default.asp?req=http://www.aegis.org/news/ap/2010/AP100509.html|title=Gay couple convicted in Malawi faces 14-year term|last=Tenthani|first=Rafael|date=18 May 2010|access-date=22 September 2010|publisher=Aegis|agency=Associated Press|archive-url=https://web.archive.org/web/20110503184110/http://www.aegis.org/default.asp?req=http%3A%2F%2Fwww.aegis.org%2Fnews%2Fap%2F2010%2FAP100509.html|archive-date=3 May 2011}}</ref> The convicted pair, sentenced to the maximum of 14 years of hard labour each, were pardoned two weeks later following the intervention of [[United Nations Secretary General]] [[Ban Ki-moon]].<ref>{{cite news|title=Malawi pardons jailed gay couple|newspaper=Irish Times|date=29 May 2010|url=http://www.irishtimes.com/newspaper/breaking/2010/0529/breaking26.html|access-date=29 May 2010}}</ref> In May 2012, President Joyce Banda pledged to repeal laws criminalising homosexuality.<ref>{{cite news |url=https://www.theguardian.com/world/2012/may/18/malawi-president-vows-legalise-homosexuality |title=Malawi president vows to legalise homosexuality |author1=David Smith |author2=Godfrey Mapondera |newspaper=The Guardian |date=18 May 2012 |access-date=18 May 2012}}</ref> Peter Mutharika imposed a moratorium in 2015 that suspended the country's anti-gay laws pending further review of the same laws.<ref name="Malawi24">{{cite news |title=Breaking: Malawi holds first Gay pride parade {{!}} Malawi 24 – Malawi news |url=https://malawi24.com/2021/06/26/breaking-malawi-holds-first-gay-pride-parade/ |work=[[Malawi24]] |date=26 June 2021}}</ref><ref>{{cite news |title=Malawi 'suspends' anti-homosexual laws |url=https://www.bbc.com/news/world-africa-35151341 |work=BBC News |date=21 December 2015}}</ref> On 26 June 2021, the country's [[LGBT]] community held the first [[pride parade]] in Lilongwe.<ref name="Malawi24"/>
+
+==Geography==
+{{Main|Geography of Malawi}}
+
+[[File:Livingstoniamountainsmalawi.jpg|thumb|Mountains in Northern Malawi during the rainy season]]
+Malawi is a [[landlocked country]] in [[Southeast Africa]], bordered by Zambia to the northwest, Tanzania to the northeast, and Mozambique to the south, southwest, and east. It lies between latitudes [[9th parallel south|9°]] and [[18th parallel south|18°S]], and longitudes [[32nd meridian east|32°]] and [[36th meridian east|36°E]]. The [[East African Rift|Great Rift Valley]] runs through the country from north to south, and to the east of the valley lies [[Lake Malawi]] (also called Lake [[Nyasa (lake)|Nyasa]]), making up over three-quarters of Malawi's eastern boundary.<ref name="Cutter142" /> Lake Malawi is sometimes called the Calendar Lake as it is about {{convert|365|mi|km}} long and {{convert|52|mi|km}} wide.<ref>{{cite magazine|url=http://www.travelafricamag.com/content/view/231/56/ |title=Malawi: The Lake of Stars |magazine=Travel Africa |issue=4 |date=Summer 1998 |author=Douglas, John |access-date=22 August 2008 |archive-url=https://web.archive.org/web/20090114161419/http://www.travelafricamag.com/content/view/231/56/ |archive-date=14 January 2009 }}</ref> The [[Shire River]] flows from the south end of the lake and joins the Zambezi {{convert|250|mi|km|order=flip}} farther south in Mozambique.
+
+[[File:Monoxylon beach Lake Malawi 1557.jpg|thumb|alt=Two small dugout canoes on the shore of a lake|Lake Malawi]]
+In the mountainous sections surrounding the Rift Valley, plateaus rise generally {{convert|3000|to|4000|ft|m|0|order=flip}} above sea level, although some rise as high as {{convert|8000|ft|m|0|order=flip}} in the north. To the south of Lake Malawi lies the [[Shire Highlands]], gently rolling land at approximately {{convert|3000|ft|m|0|order=flip}} above sea level. In this area, the Zomba and [[Mulanje Massif|Mulanje]] mountain peaks rise to respective heights of {{convert|7000|and|10000|ft|m|0|order=flip}}.<ref name="Cutter142" />
+
+Malawi's capital is [[Lilongwe]], and its commercial centre is [[Blantyre]], with a population of over 500,000 people in 2006.<ref name="Cutter142" /> Malawi has two sites listed on the [[UNESCO World Heritage List]]. [[Lake Malawi National Park]] was first listed in 1984, and the [[Chongoni Rock Art Area]] was listed in 2006.<ref name="Turner24">Turner, ''The Statesman's Yearbook'', p. 824</ref>
+
+[[Climate of Malawi|Malawi's climate]] is hot in the low-lying areas in the south of the country and temperate in the northern highlands. The altitude moderates what would otherwise be an equatorial climate. Between November and April, the temperature is warm with equatorial rains and thunderstorms, with the storms reaching their peak severity in late March. After March, the rainfall rapidly diminishes, and from May to September, wet mists float from the highlands into the plateaus, with almost no rainfall during these months.<ref name="Cutter142" />
+
+===Flora and fauna===
+{{Main|Wildlife of Malawi}}
+
+[[File:Elephant at Majete wildlife reserve.jpg|thumb|Elephant in [[Majete Wildlife Reserve]]]]
+Animal life indigenous to Malawi [[List of mammals of Malawi|includes mammals]] such as elephants, hippos, antelopes, buffaloes, big cats, monkeys, rhinos, and bats; a great [[List of birds of Malawi|variety of birds]], including birds of prey, parrots, and falcons; waterfowl and large waders; and owls and songbirds. Lake Malawi has been described as having one of the richest lake fish faunas in the world, being the home for some 200 mammals, 650 birds, 30+ mollusks, and 5,500+ plant species.<ref name="feow">{{cite web|last1=Ribbink|first1=Anthony.J.|title=Lake Malawi|url=http://www.feow.org/ecoregions/details/lake_malawi|website=Freshwater Ecoregions Of the World|publisher=[[The Nature Conservancy]]|access-date=9 December 2016|archive-url=https://web.archive.org/web/20161220081754/http://www.feow.org/ecoregions/details/lake_malawi|archive-date=20 December 2016}}</ref>
+
+Seven terrestrial ecoregions lie within Malawi's borders: [[Central Zambezian miombo woodlands]], [[Eastern miombo woodlands]], [[Southern miombo woodlands]], [[Zambezian and mopane woodlands]], [[Zambezian flooded grasslands]], [[South Malawi montane forest-grassland mosaic]], and [[Southern Rift montane forest-grassland mosaic]].<ref name="DinersteinOlson2017">{{cite journal|last1=Dinerstein|first1=Eric|last2=Olson|first2=David|last3=Joshi|first3=Anup|last4=Vynne|first4=Carly|last5=Burgess|first5=Neil D.|last6=Wikramanayake|first6=Eric|last7=Hahn|first7=Nathan|last8=Palminteri|first8=Suzanne|last9=Hedao|first9=Prashant|last10=Noss|first10=Reed|last11=Hansen|first11=Matt|last12=Locke|first12=Harvey|last13=Ellis|first13=Erle C|last14=Jones|first14=Benjamin|last15=Barber|first15=Charles Victor|last16=Hayes|first16=Randy|last17=Kormos|first17=Cyril|last18=Martin|first18=Vance|last19=Crist|first19=Eileen|last20=Sechrest|first20=Wes|last21=Price|first21=Lori|last22=Baillie|first22=Jonathan E. M.|last23=Weeden|first23=Don|last24=Suckling|first24=Kierán|last25=Davis|first25=Crystal|last26=Sizer|first26=Nigel|last27=Moore|first27=Rebecca|last28=Thau|first28=David|last29=Birch|first29=Tanya|last30=Potapov|first30=Peter|last31=Turubanova|first31=Svetlana|last32=Tyukavina|first32=Alexandra|last33=de Souza|first33=Nadia|last34=Pintea|first34=Lilian|last35=Brito|first35=José C.|last36=Llewellyn|first36=Othman A.|last37=Miller|first37=Anthony G.|last38=Patzelt|first38=Annette|last39=Ghazanfar|first39=Shahina A.|last40=Timberlake|first40=Jonathan|last41=Klöser|first41=Heinz|last42=Shennan-Farpón|first42=Yara|last43=Kindt|first43=Roeland|last44=Lillesø|first44=Jens-Peter Barnekow|last45=van Breugel|first45=Paulo|last46=Graudal|first46=Lars|last47=Voge|first47=Maianna|last48=Al-Shammari|first48=Khalaf F.|last49=Saleem|first49=Muhammad|display-authors=1|title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm|journal=BioScience|volume=67|issue=6|year=2017|pages=534–545|issn=0006-3568|doi=10.1093/biosci/bix014|pmid=28608869|pmc=5451287|doi-access=free}}</ref> There are five [[:Category:National parks of Malawi|national parks]], four [[:Category:Protected areas of Malawi|wildlife and game reserves]] and two other [[:Category:Protected areas of Malawi|protected areas]].<ref>{{Cite book|last=Briggs|first=Philip|url=https://books.google.com/books?id=fqhc-1eKDOIC&q=There+are+five+national+parks%2C+four+wildlife+and+game+reserves+and+two+other+protected+areas+in+Malawi&pg=PA27|title=Malawi|date=2010|publisher=Bradt Travel Guides|isbn=978-1-84162-313-9|language=en}}</ref> The 2019 [[Forest Landscape Integrity Index]] mean score was 5.74/10, ranking it 96th globally out of 172 countries.<ref name="FLII-Supplementary">{{cite journal|last1=Grantham|first1=H. S.|last2=Duncan|first2=A.|last3=Evans|first3=T. D.|last4=Jones|first4=K. R.|last5=Beyer|first5=H. L.|last6=Schuster|first6=R.|last7=Walston|first7=J.|last8=Ray|first8=J. C.|last9=Robinson|first9=J. G.|last10=Callow|first10=M.|last11=Clements|first11=T.|last12=Costa|first12=H. M.|last13=DeGemmis|first13=A.|last14=Elsen|first14=P. R.|last15=Ervin|first15=J.|last16=Franco|first16=P.|last17=Goldman|first17=E.|last18=Goetz|first18=S.|last19=Hansen|first19=A.|last20=Hofsvang|first20=E.|last21=Jantz|first21=P.|last22=Jupiter|first22=S.|last23=Kang|first23=A.|last24=Langhammer|first24=P.|last25=Laurance|first25=W. F.|last26=Lieberman|first26=S.|last27=Linkie|first27=M.|last28=Malhi|first28=Y.|last29=Maxwell|first29=S.|last30=Mendez|first30=M.|last31=Mittermeier|first31=R.|last32=Murray|first32=N. J.|last33=Possingham|first33=H.|last34=Radachowsky|first34=J.|last35=Saatchi|first35=S.|last36=Samper|first36=C.|last37=Silverman|first37=J.|last38=Shapiro|first38=A.|last39=Strassburg|first39=B.|last40=Stevens|first40=T.|last41=Stokes|first41=E.|last42=Taylor|first42=R.|last43=Tear|first43=T.|last44=Tizard|first44=R.|last45=Venter|first45=O.|last46=Visconti|first46=P.|last47=Wang|first47=S.|last48=Watson|first48=J. E. M.|display-authors=1|title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity – Supplementary Material|journal=Nature Communications|volume=11|issue=1|year=2020|page=5978|issn=2041-1723|doi=10.1038/s41467-020-19493-3|pmid=33293507|pmc=7723057|bibcode=2020NatCo..11.5978G |doi-access=free}}</ref>
+
+==Economy==
+{{Main|Economy of Malawi}}
+
+{{See also|Malawian food crisis|List of companies based in Malawi}}
+[[File:Lilongwe (Malawi) - crafts market.JPG|thumb|right|Crafts market in Lilongwe]]
+Malawi is among the world's least developed countries. Around 85% of the population lives in rural areas. The economy is based on agriculture, and more than one-third of GDP and 90% of export revenues come from this. In the past, the economy has been dependent on substantial economic aid from the [[World Bank]], the [[International Monetary Fund]] (IMF), and other countries.<ref name="CIA" /> Malawi was ranked the 119th safest investment destination in the world in the March 2011 Euromoney Country Risk rankings.<ref>{{cite web|title=Euromoney Country Risk|url=http://www.euromoneycountryrisk.com/|archive-url=https://web.archive.org/web/20110205065205/http://www.euromoneycountryrisk.com/|url-status=usurped|archive-date=5 February 2011|publisher=Euromoney Institutional Investor PLC|access-date=15 August 2011}}</ref> The government faces challenges in developing a market economy, improving environmental protection, dealing with the rapidly growing [[HIV/AIDS]] problem, improving the education system, and satisfying its foreign donors to become financially independent.
+
+In December 2000, the IMF stopped aid disbursements due to corruption concerns, and many individual donors followed, resulting in an almost 80% drop in the development budget.<ref name="Africa08">Dickovick, ''Africa 2008'', p. 278</ref> However, in 2005, Malawi was the recipient of over US$575&nbsp;million in aid. Many analysts believe that economic progress for Malawi depends on its ability to control population growth.<ref>{{cite web |date=2012 |title=Why Population Matters to Malawi's Development: Managing Population Growth for Sustainable Development Department of Population and Development. |url=http://www.prb.org/pdf12/malawi-population-matters.pdf |archive-url=https://web.archive.org/web/20170517002531/http://www.prb.org/pdf12/malawi-population-matters.pdf |archive-date=17 May 2017 |access-date=8 October 2014 |publisher=Department of Population and Development. Ministry of Economic Planning and Development. Government of Malawi.}}</ref> A 2009 purchase of a private presidential jet followed almost immediately by a nationwide fuel shortage, which was officially blamed on logistical problems, was more likely due to the hard currency shortage caused by the jet purchase.<ref name="Reuters">{{cite news|title=Britain reduces aid to Malawi over presidential jet|work=Reuters|date=10 March 2010|url=https://af.reuters.com/article/malawiNews/idAFLDE62921I20100310?pageNumber=1&virtualBrandChannel=0|archive-url=https://web.archive.org/web/20110510021817/http://af.reuters.com/article/malawiNews/idAFLDE62921I20100310?pageNumber=1&virtualBrandChannel=0|archive-date=10 May 2011}}</ref><ref name="Africa News">{{cite news|title=Malawi: Fuel shortage deepens|publisher=Africa News|date=11 November 2009|url=http://www.africanews.com/site/Malawi_Fuel_shortage_deepens/list_messages/27986|archive-url=https://web.archive.org/web/20100724061651/http://www.africanews.com/site/Malawi_Fuel_shortage_deepens/list_messages/27986|archive-date=24 July 2010}}</ref><ref name="Nyasa Times">{{cite news|title=Forex shortage crimps Malawi ministers' foreign trips|publisher=Nyasa Times|date=19 November 2009|url=http://www.nyasatimes.com/national/forex-shortage-crimps-malawi-ministers-foreign-trips.html|archive-url=https://web.archive.org/web/20091122080522/http://www.nyasatimes.com/national/forex-shortage-crimps-malawi-ministers-foreign-trips.html|archive-date=22 November 2009}}</ref>
+
+In addition, some setbacks have been experienced, and Malawi has lost some of its ability to pay for imports due to a general shortage of foreign exchange, as investment fell 23% in 2009. There are many investment barriers which the government has failed to address, including high service costs and poor infrastructure for power, water, and telecommunications. {{As of|2017}}, it was estimated that Malawi had a [[purchasing power parity]] (PPP) of $22.42&nbsp;billion, with a per capita GDP of $1200, and inflation estimated at 12.2% in 2017.<ref name="CIA" />
+
+Agriculture accounts for 35% of GDP, industry for 19%, and services for the remaining 46%.<ref name=TWB/> Malawi has one of the lowest per capita incomes in the world.<ref name="Africa08" />  The poverty rate is decreasing through the work of the government and supporting organisations, with people living under the poverty line decreasing from 54% in 1990 to 40% in 2006, and the percentage of "ultra-poor" decreasing from 24% in 1990 to 15% in 2007.<ref name=UNDP>{{cite web|url=http://www.undp.org.mw/index.php?option=com_content&view=article&id=74:malawi-releases-the-2008-mdgs-report&catid=1:latest-news&Itemid=50|archive-url=https://web.archive.org/web/20110511075807/http://www.undp.org.mw/index.php?option=com_content&view=article&id=74:malawi-releases-the-2008-mdgs-report&catid=1:latest-news&Itemid=50|archive-date=11 May 2011|title=Malawi releases the 2008 MDGs Report|publisher=United Nations Development Programme Malawi|date=23 December 2008|access-date=3 January 2009}}</ref> In January 2015, southern Malawi was hit by floods. These floods affected more than a million people across the country, including 336,000 who were displaced, according to [[UNICEF]]. Over 100 people were killed, and an estimated 64,000 hectares of cropland were washed away.<ref>{{cite web|url=http://www.aljazeera.com/indepth/features/2015/02/devastation-disease-deadly-malawi-floods-150225070745817.html |title=Devastation and disease after deadly Malawi floods |publisher=Al Jazeera English |date=25 February 2015 |access-date=9 February 2016}}</ref>
+
+===Agriculture and industry===
+{{main|Agriculture in Malawi}}
+
+[[File:Groundnut harvesting in Malawi.jpg|thumb|right|Harvesting [[Bambara groundnut|groundnuts]] at an agricultural research station in Malawi]]
+
+The economy is predominantly agricultural. Over 80% of the population is engaged in subsistence farming, even though agriculture only contributed to 27% of GDP in 2013. The [[services sector]] accounts for more than half of GDP (54%), compared to 11% for manufacturing and 8% for other industries, including natural uranium mining. Malawi invests more in agriculture (as a share of GDP) than any other African country: 28% of GDP.<ref name=":0">{{cite book |url= http://unesdoc.unesco.org/images/0023/002354/235406e.pdf |title= Southern Africa. In: UNESCO Science Report: towards 2030 |last1=Kraemer-Mbula |first1=Erika |last2=Scerri |first2=Mario |publisher= UNESCO |year=2015 |isbn= 978-92-3-100129-1 |location= Paris |pages= 535–555}}</ref><ref name=":1">{{cite book |url=https://unesdoc.unesco.org/ark:/48223/pf0000228807 <!--http://unesdoc.unesco.org/images/0022/002288/228807e.pdf-->|title=Mapping Research and Innovation in the Republic of Malawi|author1=Lemarchand, Guillermo A.|author2=Schneegans, Susan|publisher=UNESCO|year=2014|isbn=978-92-3-100032-4|location=Paris |access-date=22 April 2022}}</ref><ref>{{cite book|url=https://s3.amazonaws.com/one.org/images/131008_ONE_Maputo_FINAL.pdf|title=The Maputo Commitments and the 2014 African Year of Agriculture|publisher=ONE.org|year=2013}}</ref>
+
+Beginning in 2006, the country began mixing unleaded petrol with 10% [[ethanol]], produced in-country at two plants, to reduce dependence on imported fuel. In 2006, in response to low agricultural harvests, Malawi began a programme of [[fertilizer]] subsidies, the Fertiliser Input Subsidy Programme (FISP). It has been reported that this programme, championed by the country's president, is causing Malawi to become a net exporter of food to nearby countries.<ref>{{cite news |author=Dugger, Celia W. |date=2 December 2007 |title=Ending Famine, Simply by Ignoring the Experts |url=https://www.nytimes.com/2007/12/02/world/africa/02malawi.html |access-date=5 August 2008 |work=[[The New York Times]]}}</ref> The FISP ended with President Mutharika's death. In 2020, the programme was replaced with the Affordable Inputs Program (AIP), which extends the subsidy on maize seed and fertiliser to [[sorghum]] and rice seed.<ref>{{Cite journal |last1=Matita |first1=Mirriam |last2=Chirwa |first2=Ephraim W. |last3=Johnston |first3=Deborah |last4=Mazalale |first4=Jacob |last5=Smith |first5=Richard |last6=Walls |first6=Helen |date=March 2021 |title=Does household participation in food markets increase dietary diversity? Evidence from rural Malawi |journal=Global Food Security |volume=28 |article-number=100486 |doi=10.1016/j.gfs.2020.100486 |issn=2211-9124|doi-access=free |bibcode=2021GlFS...2800486M |hdl=10871/124584 |hdl-access=free }}</ref>
+
+The main agricultural products include [[tobacco]], [[sugarcane]], [[Gossypium|cotton]], [[Camellia sinensis|tea]], [[Maize|corn]], potatoes, sorghum, cattle, and goats. The main industries are tobacco, tea, and sugar processing, sawmill products, cement, and consumer goods. The industrial production growth rate is estimated at 10% (2009). The country makes no significant use of natural gas. {{As of|2008}}, Malawi does not import or export any electricity but does import all its petroleum, with no production in the country.<ref name="CIA" /> In 2008, Malawi began testing cars that run solely on ethanol, and the country is continuing to increase its use of ethanol.<ref>{{cite news |url=http://www.engineeringnews.co.za/article/malawis-ethanolfuel-tests-show-promise-2008-10-10|title=Malawi's ethanol-fuel tests show promise|newspaper=Engineering News|date=10 October 2008|last=Chimwala|first=Marcel|access-date=3 January 2009}}</ref>
+[[File:Schoolchildren in Malawi.jpg|thumb|left|Children attending a [[farmer]] meeting in Nalifu village, [[Mulanje]]]]As of 2009, Malawi exports an estimated US$945 million in goods per year. Tobacco's world prices declined, and the international community increases pressure to limit tobacco production. Dependence on tobacco is growing, with the product jumping from 53% to 70% of export revenues between 2007 and 2008. Tea, tobacco, sugar, and coffee make up more than 90% of export revenue.<ref name="CIA" /><ref name="Africa08" /> Due to a rise in costs and a decline in sales prices, Malawi is encouraging farmers away from tobacco towards more profitable crops, including spices such as [[paprika]]. The move away from tobacco is further fueled by likely [[World Health Organization|World Health Organisation]] moves against the particular type of tobacco that Malawi produces, [[Burley (tobacco)|burley leaf]], which is more harmful to human health than other tobacco products. India [[hemp]] is another possible alternative, but arguments have been made that it will bring more crime through its resemblance to varieties of [[Cannabis (drug)|cannabis]] used as a [[recreational drug]] and the difficulty in distinguishing between the two types.<ref>{{cite news |author=Tenthani, Raphael |date=24 April 2000 |title=Legal Hemp for Malawi? |url=https://news.bbc.co.uk/2/hi/africa/708649.stm |access-date=21 December 2011 |work=BBC News}}</ref> The cultivation of Malawian cannabis, known as [[Malawi Gold]], as a drug has increased significantly.<ref>{{cite news |date=17 December 1998 |title=Marijuana Cultivation Increases in Malawi |url=https://www.nytimes.com/1998/12/17/world/marijuana-cultivation-increases-in-malawi.html |access-date=21 December 2011 |newspaper=The New York Times}}</ref> Malawi is known for growing "the best and finest" cannabis in the world for recreational drug use, according to a recent World Bank report, and cultivation and sales of the crop may contribute to corruption within the police force.<ref>{{cite web |author=Mpaka, Charles |date=11 December 2011 |title=Malawi's Chamba valued at K1. 4 billion |url=http://www.bnltimes.com/index.php?option=com_content&view=article&id=2877:malawis-chamba-valued-at-k1-4-billion&catid=42:national&Itemid=401 |archive-url=https://web.archive.org/web/20120112130233/http://www.bnltimes.com/index.php?option=com_content&view=article&id=2877:malawis-chamba-valued-at-k1-4-billion&catid=42:national&Itemid=401 |archive-date=12 January 2012 |access-date=21 December 2011 |work=Sunday Times |publisher=Blantyre Newspapers, Ltd}}</ref>[[File:GDP in Southern African Development Community countries by economic sector, 2013 or closest year.svg|thumb|upright=1.5|GDP in Southern African Development Community countries by economic sector, 2013 or closest year<ref name="t2030">{{cite book |title= UNESCO Science Report: towards 2030 |date=2015}}</ref>]]
+Other exported goods are cotton, peanuts, wood products, and apparel. The destinations for exports are South Africa, Germany, Egypt, Zimbabwe, the United States, Russia, and the Netherlands. Malawi currently imports an estimated US$1.625&nbsp;billion in goods per year, with the main commodities being food, petroleum products, consumer goods, and transportation equipment. Main importing countries are South Africa, India, Zambia, Tanzania, the US, and China.<ref name="CIA" />
+
+In 2016, Malawi was hit by a drought, and in January 2017 there was an outbreak of [[African armyworm|armyworms]] around Zomba. The moth is capable of wiping out entire fields of corn, the staple grain of residents.<ref>{{cite news|title=Malawi hit by armyworm outbreak, threatens maize crop|url=https://www.reuters.com/article/us-malawi-grains-armyworms-idUSKBN14W0NT?feedType=RSS&feedName=environmentNews|access-date=12 January 2017|work=Reuters|date=12 January 2017}}</ref> Agriculture minister [[George Chaponda]] reported that 2,000 hectares of crop had been destroyed, having spread to nine of 28 districts.<ref>{{cite news|title=Malawi's armyworm outbreak destroys 2,000 hectares: minister|url=https://www.reuters.com/article/us-malawi-grains-armyworm-idUSKBN14Y0DK?il=0|access-date=14 January 2017|work=Reuters|date=14 January 2017}}</ref>
+
+===Infrastructure===
+{{Main|Transport in Malawi|Rail transport in Malawi|Communications in Malawi}}
+
+[[File:2010-10-21 12-42-27 Malawi - Bula.JPG|thumb|The M1 road between Blantyre and Lilongwe]]
+{{As of|2012}}, Malawi has 31&nbsp;airports, seven with paved runways (two [[international airport]]s) and 24 with unpaved runways. {{As of|2008}}, there are {{convert|797|km|mi}} of railways, all [[narrow-gauge]], and, as of 2003, {{convert|15451|mi|km|order=flip}} of roadways in various conditions, {{convert|6956|km|mi}} paved and {{convert|8495|km|mi}} unpaved. Malawi also has {{convert|700|km|mi}} of waterways on Lake Malawi and along the Shire River.<ref name="CIA" />
+
+{{As of|2022}}, there were 10.23&nbsp;million mobile phone connections. There were 4.03 million Internet users in 2022.<ref name=":2" /> There is one government-run radio station ([[Malawi Broadcasting Corporation]]) and approximately a dozen more owned by private enterprises. In the past, Malawi's telecommunications system has been named as some of the poorest in Africa, but conditions are improving, with 130,000 land line telephones being connected between 2000 and 2007. Telephones are much more accessible in urban areas, with less than a quarter of land lines being in rural areas.<ref>{{cite web|url=http://www.uneca.org/aisi/NICI/country_profiles/malawi/malab.htm |title=Malawi |work=NICI in Africa |publisher=Economic Commission for Africa |access-date=6 November 2008 |archive-url=https://web.archive.org/web/20090410063206/http://www.uneca.org/aisi/nici/country_profiles/malawi/malab.htm |archive-date=10 April 2009 }}</ref>
+
+=== Science and technology ===
+{{Main|Science and technology in Malawi}}
+
+=== Research trends ===
+[[File:Scientific publication trends in SADC countries, 2005-2014.svg|thumb|Scientific publication trends in the most productive SADC countries, 2005–2014<ref name=t2030/>]]
+Malawi devoted 1.06% of GDP to research and development in 2010, according to a survey by the Department of Science and Technology, one of the highest ratios in Africa. This corresponds to $7.8 per person (in current purchasing parity dollars).<ref name=":0" /><ref name=":1" />
+
+In 2014, Malawian scientists had the third-largest output in Southern Africa, in terms of articles cataloged in international journals. They published 322 articles in [[Thomson Reuters]]' Web of Science that year, almost triple the number in 2005 (116). Malawi was ranked 125th in the [[Global Innovation Index]] in 2025.<ref>{{Cite web |title=GII Innovation Ecosystems & Data Explorer 2025 |url=https://www.wipo.int/gii-ranking/en/malawi |access-date=2025-10-16 |website=WIPO}}</ref><ref>{{Cite book |last1=Dutta |first1=Soumitra |url=https://www.wipo.int/web-publications/global-innovation-index-2025/en/index.html |title=Global Innovation Index 2025: Innovation at a Crossroads |last2=Lanvin |first2=Bruno |publisher=[[World Intellectual Property Organization]] |year=2025 |isbn=978-92-805-3797-0 |page=19 |language=en |doi=10.34667/tind.58864 |access-date=2025-10-17}}</ref>
+
+=== Policy framework ===
+Malawi's first science and technology policy dates from 1991 and was revised in 2002. The ''National Science and Technology Policy'' of 2002 envisaged the establishment of a [[National Commission for Science and Technology]] to advise the government and other stakeholders on science and technology-led development. Although the Science and Technology Act of 2003 made provision for the creation of this commission, it only became operational in 2011, with a secretariat resulting from the merger of the Department of Science and Technology and the National Research Council. The Science and Technology Act of 2003 also established a Science and Technology Fund to finance research and studies through government grants and loans but, {{as of|2014|lc=y}}, this was not yet operational.<ref name=":0" /><ref name=":1" />
+
+In 2012, most foreign investments flowed to infrastructure (62%) and the energy sector (33%). The government has introduced a series of fiscal incentives, including tax breaks, to attract more foreign investors. In 2013, the Malawi Investment and Trade Centre put together an investment portfolio spanning 20 companies.<ref name=":0" /><ref name=":1" /> In 2013, the government adopted a ''National Export Strategy'' to diversify the country's exports. Production facilities are to be established for a wide range of products within the three selected clusters: oilseed products, sugar cane products, and manufacturing.<ref name=":0" /><ref name=":1" />
+
+=== Women ===
+[[File:Making candles in Malawi.jpg|thumb|upright|Mbawemi Women's group in Malawi learning how to make beeswax into candles]]
+The ratio of male to female students shows women's access to schooling starts on a par with men's.<ref name=":02">{{cite web|url=https://research.acer.edu.au/cgi/viewcontent.cgi?article=1031&context=monitoring_learning|title=Girls' Primary and Secondary Education in Malawi: Sector Review|last1=Robertson|first1=Sally|last2=Cassity|first2=Elizabeth|date=28 July 2017|website=The Australian Council for Educational Research (ACER)|last3=Kunkwenzu|first3=Esthery}}</ref> Female students see consistent declines as age increases.<ref name=":02" /> The life expectancy of women was 68 in 2024.<ref>{{cite web|url=https://data.worldbank.org/indicator/SP.DYN.LE00.IN?end=2024&locations=MW&start=2010|title=Life expectancy at birth, total (years) – Malawi|website=data.worldbank.org|access-date=26 March 2020}}</ref> The maternal mortality rate in Malawi is particularly low compared with countries at similar levels of development.<ref>{{cite web|url=http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/MWI.pdf|title=Inequalities in Human Development in the 21st Century: Malawi|date=2019|website=Human Development Report 2019}}</ref>
+
+The inheritance rights are equal by gender for children and for surviving spouses.<ref>{{cite web|url=http://documents.worldbank.org/curated/en/939291535658711278/pdf/WPS8573.pdf|title=Gender Gaps in Property Ownership in Sub-Saharan Africa|last1=Gaddis|first1=Isis|last2=Lahoti|first2=Rahul|date=August 2018|website=World Bank Group|last3=Li|first3=Wenjie}}</ref> A higher percentage of the male population is employed, and the female population has a higher total employed population and a very similar unemployment rate.<ref>{{cite web|url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/Labour%20Force/Labour%20Force%20Survey%202013/Malawi%20Labour%20Force%20Surver%202013%20Report.pdf|title=Malawi Labour Force Survey|date=April 2014|website=National Statistical Office|access-date=13 May 2021|archive-date=13 May 2021|archive-url=https://web.archive.org/web/20210513190542/http://www.nsomalawi.mw/images/stories/data_on_line/demography/Labour%20Force/Labour%20Force%20Survey%202013/Malawi%20Labour%20Force%20Surver%202013%20Report.pdf}}</ref>{{explain|date=January 2025}} This gap continues with wages.<ref name=":12">{{cite web|url=http://www3.weforum.org/docs/WEF_GGGR_2020.pdf|title=Global Gender Gap Report 2020|date=2020|website=World Economic Forum}}</ref>
+
+Women's participation in national politics has been shown to be weaker than men's.<ref>{{cite web|url=https://afrobarometer.org/sites/default/files/media-briefing/malawi/mlw_r6_presentation4_gender.pdf|title=In Malawi, women lag behind men in political participation and activism: Findings from Afrobarometer Round 6 Surveys in Malawi|date=2014|website=Afrobarometer}}</ref> Female participation in politics is further restricted by gatekeepers, who provide access to the resources needed to win elections and maintain seats in parliament.<ref>{{Cite journal|last1=Kayuni|first1=Happy Mickson|last2=Chikadza|first2=Kondwani Farai|date=2016|title=The Gatekeepers: Political Participation of Women in Malawi|url=https://www.cmi.no/publications/5929-gatekeepers-political-participation-women-malawi|journal=CMI Brief|language=en|volume=12}}</ref><ref>{{cite web|url=https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/10289.pdf|title=Women and power: Representation and influence in Malawi's parliament|last1=O'Neil|first1=Tam|last2=Kanyongolo|first2=Ngeyi|date=February 2016|website=Overseas Development Institute|last3=Wales|first3=Joseph|last4=Mkandawire|first4=Moir|access-date=20 April 2020|archive-date=26 March 2020|archive-url=https://web.archive.org/web/20200326200405/https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/10289.pdf}}</ref> Limited participation correlates to limited numbers of women in politics. The national parliament has appointed female members to seats in the body, and over 20% of the seats in parliament are held by women.<ref>{{cite web|url=https://www.idea.int/data-tools/data/gender-quotas/country-view/219/35|title={{!}} International IDEA|website=www.idea.int|access-date=26 March 2020|archive-date=28 March 2021|archive-url=https://web.archive.org/web/20210328054446/https://www.idea.int/data-tools/data/gender-quotas/country-view/219/35}}</ref>
+
+==Demographics==
+{{Main|Demographics of Malawi}}
+
+===Population===
+{{See also|Women in the Republic of Malawi}}
+Malawi has a population of over {{#expr:floor({{formatnum:{{UN_Population|Malawi}}|R}}/1e6)}} million, with a [[Population growth|growth rate]] of 3.32%, according to {{UN_Population|Year}} estimates.{{UN_Population|ref}}<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2002.html#mi |title=The World Factbook |publisher=Central Intelligence Agency |access-date=23 July 2017 |archive-date=4 May 2012 |archive-url=https://web.archive.org/web/20120504223114/https://www.cia.gov/library/publications/the-world-factbook/fields/2002.html#mi }}</ref> The population is forecast to grow to over 47&nbsp;million people by 2050, nearly tripling the estimated 16&nbsp;million in 2010.<ref>{{cite web|url=http://www.ifs.du.edu/ifs/frm_GraphicalDisplay.aspx?ListNames=%27Population,%20History%20and%20Forecast%27&HistFor=True&GrpOp=0&Dim1=99&File=1|title=frm_Message|access-date=9 February 2016}}</ref>
+
+===Cities===
+{{See also|List of cities in Malawi}}
+{{Largest cities of Malawi}}
+
+===Ethnic groups===
+{{bar box
+|title=Ethnic groups in Malawi ([[2018 census of Malawi|2018 census]])<ref name="Census2018" />
+|titlebar=#ddd
+|left1=Ethnic groups
+|right1=per cent
+|float=right
+|bars=
+{{bar percent|Chewa|darkgreen|34.4}}
+{{bar percent|Lomwe|purple|18.9}}
+{{bar percent|Yao|red|14.3}}
+{{bar percent|Tumbuka|orange|22.2}}
+{{bar percent|Sena|darkblue|3.8}}
+{{bar percent|Mang'anja|green|3.2}}
+{{bar percent|Nyanja|maroon|1.9}}
+{{bar percent|Tonga|darkgray|1.8}}
+{{bar percent|Ngonde|gray|1}}
+{{bar percent|Lambya|tan|0.6}}
+{{bar percent|Sukwa|lime|0.5}}
+{{bar percent|Other|Violet|1.1}}
+}}
+The population is made up of the [[Chewa people|Chewa]], [[Tumbuka people|Tumbuka]], [[Yao (ethnic group in Africa)|Yao]], [[Lomwe people|Lomwe]], [[Sena people|Sena]], [[Tonga people of Malawi|Tonga]], [[Ngoni people|Ngoni]], and [[Ngonde]] native [[ethnic group]]s, as well as populations of [[Chinese people in Malawi|Chinese]] and [[White Africans of European ancestry|Europeans]].
+{{clear}}
+
+===Languages===
+{{main|Languages of Malawi}}
+
+{{bar box
+|title=Languages of Malawi (2018 Census)
+|titlebar=#ddd
+|left1=Languages
+|right1=per cent
+|float=left
+|bars=
+{{bar percent|Chewa|darkgreen|42.2}}
+{{bar percent|Tumbuka|black|33.8}}
+{{bar percent|Yao|red|12.1}}
+{{bar percent|Sena|orange|9.7}}
+{{bar percent|Lomwe|darkblue|7.3}}
+{{bar percent|Tonga|green|1.2}}
+{{bar percent|Nkhonde|maroon|0.9}}
+{{bar percent|Lambya|tan|0.4}}
+{{bar percent|Nyakyusa|violet|0.2}}
+{{bar percent|English|lightgreen|0.2}}
+{{bar percent|Other|lightblue|1.1}}
+}}
+
+The official language is English.<ref name=language>{{cite web |url=http://www.malawi.gov.mw |title=Malawi Government |publisher=Malawi Government |access-date=31 July 2015}}</ref> The country does not have a declared national language per its constitution but considers several major languages as regional which include [[Chewa language|Chichewa]] (42.5%), [[Tumbuka language|Chitumbuka]] (31.2%), and [[Yao language|Chiyao]] (13.7%).<ref name="CIA" /> Other [[native language]]s are [[Malawi Lomwe language|Malawian Lomwe]], spoken by around 250,000 in the southeast; [[Kokola]], spoken by around 200,000 people also in the southeast; [[Lambya people|Lambya]], spoken by around 45,000 in the northwestern tip; [[Ndali language|Ndali]], spoken by around 70,000; [[Nyakyusa language|Nyakyusa-Ngonde]], spoken by around 300,000 in the north; Malawian [[Sena language|Sena]], spoken by around 270,000 in the south; and [[Tonga (Nyasa) language|Tonga]], spoken by around 170,000 in Nkhata-Bay District.<ref>{{cite web|url=http://www.ethnologue.com/show_country.asp?name=Malawi|title=Languages of Malawi|publisher=SIL International|access-date=21 November 2008|work=Ethnologue|archive-url=https://web.archive.org/web/20101129051300/http://www.ethnologue.com/show_country.asp?name=Malawi|archive-date=29 November 2010}}</ref>
+
+All students in public elementary school receive instruction in Chichewa. Students in private elementary schools, however, receive instruction in English if they follow the American or British curriculum.<ref>{{cite web|title=Culture {{!}} Embassy of the Republic of Malawi in the United States|url=http://www.malawiembassy-dc.org/page/culture|access-date=2020-08-23|website=www.malawiembassy-dc.org|archive-date=26 September 2020|archive-url=https://web.archive.org/web/20200926035417/http://www.malawiembassy-dc.org/page/culture}}</ref>
+{{clear}}
+
+===Religion===
+{{Further|Religion in Malawi|Christianity in Malawi|Roman Catholicism in Malawi|Islam in Malawi|Hinduism in Malawi|Baháʼí Faith in Malawi}}
+{{Pie chart
+|thumb = right
+|caption = '''Religion in Malawi''' (2018)<ref>{{cite web |title=2018 Malawi Population and Housing Census |url=http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf |website=Official Website of National Statistical Office, Malawi |publisher=National Statistical Office |access-date=16 August 2023 |archive-date=8 June 2020 |archive-url=https://web.archive.org/web/20200608191931/http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/2018%20Malawi%20Population%20and%20Housing%20Census%20Main%20Report.pdf }}</ref>
+|label1 = [[Christianity]]
+|value1 = 77.3
+|color1 = Blue
+|label2 = [[Islam]]
+|value2 = 13.8
+|color2 = Green
+|label3 = Traditional
+|value3 = 1.1
+|color3 = Yellow
+|label4 = Other or none
+|value4 = 7.8
+|color4 = black 
+}}
+[[File:Livingstonia_Mission_Church.jpg|thumb|Mission Church in [[Livingstonia, Malawi|Livingstonia]]]]
+Government surveys indicate that 87% of the country is Christian, with a minority 11.6% Muslim population.<ref name="DHS 2016">{{cite web|url=https://dhsprogram.com/pubs/pdf/FR319/FR319.pdf|title=Demographic and Health Survey: 2015–2016|publisher=Malawi National Statistical Office|page=36|access-date=19 April 2018}}</ref> The largest Christian groups are the Roman Catholic Church, of which 19% of Malawians are adherents, and the [[Church of Central Africa Presbyterian]] to which 18% belong.<ref name="DHS 2016" /> Other Protestant denominations include the [[Reformed Presbyterian Church of Malawi]], [[Evangelical Presbyterian Church of Malawi]], [[Anglicanism|Anglicans]], [[Baptists]], evangelicals, [[Seventh-day Adventist Church|Seventh-day Adventists]], and [[Lutheran Church of Central Africa|Lutherans]].<ref>{{cite web|url=http://www.celc.info/site/cpage.asp?sec_id=180010197&cpage_id=180031340|title=Lutheran Church of Central Africa.—Malawi|publisher=Confessional Evangelical Lutheran Conference|archive-url=https://web.archive.org/web/20170111005306/http://www.celc.info/site/cpage.asp?sec_id=180010197&cpage_id=180031340|archive-date=11 January 2017}}</ref>
+
+Most of the Muslim population is [[Sunni]], of either the [[Qadriya]] or Sukkutu groups.<ref>{{cite book | url=https://books.google.com/books?id=ZyIpVV3FZlAC&pg=PA63 | title=Where Silence Rules: The Suppression of Dissent in Malawi | page=59 | author=Richard Carver | access-date=7 June 2014| isbn=978-0-929692-73-9 | year=1990 | publisher=Human Rights Watch }}</ref> Other religious groups within the country include [[Jehovah's Witnesses]] (over 100,000),<ref>{{cite web|url=https://www.jw.org/en/library/books/2023-Service-Year-Report-of-Jehovahs-Witnesses-Worldwide/2023-Country-and-Territory-Reports/|title=2023 Country and Territory Reports|publisher=[[Jehovah's Witnesses]]|access-date=20 September 2024}}</ref> [[The Church of Jesus Christ of Latter-day Saints]], with over 2,000 members,<ref>{{cite web|url=http://newsroom.churchofjesuschrist.org/facts-and-statistics/country/malawi|title=Statistics and Church Facts &#124; Total Church Membership|website=newsroom.churchofjesuschrist.org}}</ref> [[Rastafari movement|Rastafari]], [[Hindu]]s, and [[Baháʼí Faith|Baháʼís]] (0.2%<ref>{{cite web |url=http://www.thearda.com/QuickLists/QuickList_40c.asp |title=Baha'i population by country |publisher=Thearda.com |access-date=19 April 2013 |archive-date=14 April 2010 |archive-url=https://web.archive.org/web/20100414021730/http://www.thearda.com/QuickLists/QuickList_40c.asp }}</ref>). [[Atheism|Atheists]] make up around 4% of the population, although the number may include people who practice traditional African religions that do not have any gods.<ref>{{cite web|url=https://2001-2009.state.gov/g/drl/rls/irf/2007/90107.htm|title=Malawi|work=International Religious Freedom Report 2007|access-date=18 December 2008|publisher=U.S. Department of State|date=14 September 2007}}</ref>
+
+===Health===
+{{main|Healthcare in Malawi}}
+
+The public sector offers free health services and medicines, while [[non-government organizations]] offers services and medicines for fees. Private doctors offer fee-based services and medicines. Health insurance schemes have been established since 2000.<ref>{{cite web|url=http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/02/19/000333037_20100219005458/Rendered/PDF/531070WP0Pharm10Box345597B01PUBLIC1.pdf|author=McCabe, Ariane|title=Private Sector Pharmaceutical Supply and Distribution Chains: Ghana, Mali and Malawi|work=Health Systems Outcome Publication|publisher=World Bank|date=December 2009|access-date=2 April 2012}}</ref> The country has a [[pharmaceutical manufacturing]] industry consisting of four privately owned pharmaceutical companies.<ref>Malawi Investment Promotion Agency, 2008, p. 20 – Investment Guide</ref> Some of the major health facilities in the country are Blantyre Adventist Hospital, Mwaiwathu Private Hospital, and Kamuzu Central Hospitals.<ref>{{cite web |date=March 2017 |title=Medical Resources in Malawi – List Provided to U.S. Citizens |url=https://mw.usembassy.gov/wp-content/uploads/sites/219/2017/03/Medical-facilities-list.pdf |archive-url=https://web.archive.org/web/20210628193836/https://mw.usembassy.gov/wp-content/uploads/sites/219/2017/03/Medical-facilities-list.pdf |archive-date=28 June 2021 |access-date=October 17, 2021 |website=U.S. Embassy, Lilongwe, Malawi}}</ref>
+
+[[Infant mortality]] rates are high, and [[life expectancy]] at birth is 50.03&nbsp;years. [[Abortion in Malawi|Abortion is illegal in Malawi]],<ref>{{Cite news|url=http://www.ibtimes.com/where-abortion-illegal-protest-against-culture-death-malawi-religious-groups-2456454|title=Where Is Abortion Illegal? Protest Against 'Culture Of Death' By Malawi Religious Groups|website=Ibtimes.com|access-date=23 July 2017}}</ref> except to save the mother's life. The Penal Code punishes women who seek illegal or clinical abortion with 7 years in prison, and 14 years for those perform the abortion.<ref>{{cite web|url=https://www.womenonwaves.org/en/page/5002/abortion-law-malawi |title=Abortion law Malawi |publisher=Women on Waves |date=15 June 2012 |access-date=23 July 2017}}</ref> There is a high adult prevalence rate of [[HIV/AIDS]], with an estimated 1,006,633 people (94% of whom are adults aged over 15) living with the disease in 2022. There were approximately 11,931 deaths from HIV/AIDS,<ref>[https://www.aidsmalawi.org.mw/wp-content/uploads/2024/04/Malawi_FactSheet_version-V7.0-FINAL-.pdf 'Malawi HIV Fact Sheet'](2023)
+
+National AIDS Commission (Malawi)
+
+Retrieved 6 July 2025</ref> and 440,000 children orphaned because of the disease (2022).<ref>{{cite web |title=HIV and AIDS estimates (2023) |url=https://www.unaids.org/en/20190402_country_focus_Malawi |access-date=6 July 2023 |website=UNAIDS |publisher=[[Joint United Nations Programme on HIV/AIDS|UNAIDS]]}}</ref> Approximately 250 new people are infected each day, and at least 70% of hospital beds are occupied by HIV/AIDS patients. The high rate of infection has resulted in an estimated 5.8% of the farm labour force dying of the disease. The government spends over $120,000 each year on funerals for civil servants who die of the disease.<ref name="Africa08" />
+
+There is a very high degree of risk for infectious diseases, including bacterial and protozoal [[diarrhoea]], [[hepatitis A]], [[typhoid fever]], [[malaria]], [[Plague (disease)|plague]], [[schistosomiasis]], and [[rabies]].<ref name="CIA" /> Over the years, Malawi has decreased child mortality and the incidences of HIV/AIDS, malaria and other diseases; however, the country has been "performing dismally" on reducing maternal mortality and promoting [[gender equality]].<ref name=UNDP/> [[Female genital mutilation]], while not widespread, is practiced in some local communities.<ref>{{cite web|url=http://www.medcol.mw/commhealth/publications/cultural_practices_report.pdf|archive-url=https://web.archive.org/web/20141111184006/http://www.medcol.mw/commhealth/publications/cultural_practices_report.pdf|archive-date=11 November 2014 |title=Cultural Practices and their Impact on the Enjoyment of Human Rights, Particularly the Rights of Women and Children in Malawi |publisher=Malawi Human Rights Commission |date=11 November 2014}}</ref>
+
+In the 2024 [[Global Hunger Index]], Malawi's score is 21.9, which indicates a serious level of hunger. Malawi is ranked 93rd out of 127 countries.<ref>{{Cite web |title=Global Hunger Index Scores by 2024 GHI Rank |url=https://www.globalhungerindex.org/ranking.html |access-date=2024-12-24 |website=Global Hunger Index (GHI) – peer-reviewed annual publication designed to comprehensively measure and track hunger at the global, regional, and country levels |language=en}}</ref>
+
+===Education===
+{{Main|Education in Malawi}}
+
+[[File:Public expenditure on education in Southern Africa as a share of GDP, 2012 or closest year.svg|thumb|Public expenditure on education in Southern Africa as a share of GDP, 2012 or closest year<ref name="Web">{{Cite book |title= Thomson Reuters' Web of Science, Science Citation Index Expanded}}</ref>]]
+In 1994, free primary education for all children was established by the government, and primary education has been compulsory since the passage of the Revised Education Act in 2012. As a result, enrollment rates for primary schools went up from 58% in 1992 to 75% in 2007. The percentage of students who begin standard one and complete standard five has increased from 64% in 1992 to 86% in 2006. According to the World Bank, youth literacy had also increased from 68% in 2000 to 75% in 2015.<ref>{{cite web|url=https://data.worldbank.org/indicator/SE.ADT.1524.LT.ZS|title=Literacy rate, youth total (% of people ages 15–24) {{!}} Data|website=data.worldbank.org|access-date=22 September 2019}}</ref> This increase is primarily attributed to improved learning materials in schools, better infrastructure and feeding programs that have been implemented throughout the school system.<ref name=UNDP/> However, attendance in the secondary school falls to approximately 25%, with attendance rates being slightly higher for males.<ref name=Furlong>{{cite book|last1=Furlong|first1=Andy|title=Youth Studies: An Introduction|date=2013|publisher=Routledge|location=USA|isbn=978-0-415-56479-3|page=233}}</ref><ref name=U.N.>{{cite web|title=The world youth report: youth and climate change|url=https://www.un.org/esa/socdev/unyin/documents/WYR2010Final%20online%20version.pdf|website=United Nations|access-date=17 January 2012}}</ref> Dropout rates are higher for girls than boys.<ref>{{cite web|url=http://www.dol.gov/ilab/media/reports/iclp/tda2001/Malawi.htm|title=Malawi|access-date=6 October 2008|publisher=Bureau of International Labour Affairs, US Dept. of Labour|archive-url=https://web.archive.org/web/20081006092319/http://www.dol.gov/ilab/media/reports/iclp/TDA2001/malawi.htm|archive-date=6 October 2008}}</ref>
+
+Education comprises eight years of primary education, four years of secondary school and four years of university. There are four public universities: [[Mzuzu University]], [[Lilongwe University of Agriculture and Natural Resources]], the [[University of Malawi]] and [[Malawi University of Science and Technology]]. There are also private universities, such as Livingstonia, Malawi Lakeview, and [[Catholic University of Malawi]]. The entry requirement is six credits on the Malawi School Certificate of Education, which is equivalent to O levels.<ref>{{cite book |last1=Sasnett |first1=Martena Tenney |last2=Sepmeyer |first2=Inez Hopkins |title=Educational Systems of Africa: Interpretations for Use in the Evaluation of Academic Credentials |date=1967 |publisher=University of California Press |page=903 |language=en}}</ref>
+
+==Military==
+{{Main|Malawian Defence Force}}
+
+[[File:Malawian female soldier (45745891874).jpg|thumb|Malawian female soldier]]
+Malawi maintains a small standing military of approximately 25,000. It consists of army, navy and air force elements. The Malawi Army originated from [[British Army|British colonial units]] formed before independence. It is made of two rifle regiments and one parachute regiment. The Malawi Air Force was established with German help in 1976, and operates a small number of transport aircraft and multi-purpose helicopters. The Malawian Navy was established in the early 1970s with Portuguese support, presently having three vessels operating on Lake Malawi, based in [[Monkey Bay]].<ref name="Turner22">Turner, ''The Statesman's Yearbook'', p. 822</ref> In 2017, Malawi signed the UN [[Treaty on the Prohibition of Nuclear Weapons]].<ref>{{cite web |url=https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26&clang=_en |title=Chapter XXVI: Disarmament&nbsp;– No. 9 Treaty on the Prohibition of Nuclear Weapons |publisher=United Nations Treaty Collection |date=7 July 2017}}</ref>
+
+==Culture==
+{{See also|Music of Malawi|Malawian cuisine|Women in the Republic of Malawi}}
+[[File:Drums exhibit, Blantyre Chichiri Museum.jpg|thumb|Musical instruments of Malawi]]
+The name "Malawi" comes from the [[Maravi]], a [[Bantu peoples|Bantu]] ethnic group who emigrated from the southern [[Democratic Republic of the Congo|Congo]] around 1400&nbsp;AD. Over the past century, ethnic distinctions have diminished to the point where there is no significant inter-ethnic friction, although regional divisions still occur. The concept of a Malawian nationality has begun to form around predominantly rural people who are generally conservative and traditionally nonviolent. The "Warm Heart of Africa" nickname was given to the country due to the perceived loving nature of the Malawian people.<ref name="StateDept" />
+
+The [[flag of Malawi]] is made up of three equal horizontal stripes of black, red, and green with a red rising sun superimposed in the center of the black stripe. The black stripe represents the African people, the red represents the blood of martyrs for African freedom, green represents Malawi's ever-green nature, and the rising sun represents the dawn of freedom and hope for Africa.<ref name="Flag">{{cite web|url=http://www.fotw.us/flags/mw.html|title=Malawi|work=Flags of the World Website|author=Berry, Bruce|date=6 February 2005|access-date=22 September 2010|publisher=Flags of the World|url-status=usurped|archive-url=https://web.archive.org/web/20100821101750/http://www.fotw.us/flags/mw.html|archive-date=21 August 2010}}</ref><ref>{{cite news|url=http://www.nyasatimes.com/2012/05/30/dpp-govt-blew-k3bn-on-flag-change/|title=DPP govt blew K3bn on flag change|newspaper=Nyasa Times|access-date=10 April 2013|date=30 May 2012|archive-url=https://web.archive.org/web/20130518233702/http://www.nyasatimes.com/2012/05/30/dpp-govt-blew-k3bn-on-flag-change/|archive-date=18 May 2013}}</ref>
+
+The [[National Dance Troupe]] (formerly the Kwacha Cultural Troupe) was formed in 1987 by the government.<ref name="Turner24" /> Traditional music and dances can be seen at [[initiation]] rites, rituals, marriage ceremonies and celebrations.<ref>{{cite web |last1=Ntilosanje |first1=Timothy |title=Traditional dances of Malawi |url=https://www.musicinafrica.net/magazine/traditional-dances-malawi |website=Music in Africa |date=29 May 2015 |access-date=25 June 2022}}</ref> The indigenous ethnic groups have a tradition of basketry and mask carving. Wood carving and oil painting are also popular in more urban centres, with many of the items produced being sold to tourists.<ref>{{Cite web |date=2019-01-28 |title=The Culture Of Malawi |url=https://www.worldatlas.com/articles/the-culture-of-malawi.html |access-date=2024-10-14 |website=WorldAtlas |language=en-US}}</ref><ref>{{Cite web |title=Earth Changers RSC Malawi Orbis Sustainable Tourism |url=https://www.earth-changers.com/sustainable-places/malawi-responsible-safari-company |access-date=2024-10-14 |website=Earth Changers |language=en-GB}}</ref>{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=October 2024}} There are several internationally recognised literary figures, including poet [[Jack Mapanje]], history and fiction writer [[Paul Tiyambe Zeleza|Paul Zeleza]] and author [[Legson Kayira]].
+
+===Media===
+{{Main|Mass media in Malawi}}
+
+Radio, television and postal services are regulated by the [[Malawi Communications Regulatory Authority]].<ref>{{cite web|title=Welcome to Malawi Communications Regulatory Authority (MACRA)|url=http://www.macra.org.mw/|website=www.macra.org.mw|publisher=MACRA|access-date=24 March 2017|archive-date=18 February 2017|archive-url=https://web.archive.org/web/20170218213634/http://www.macra.org.mw/}}</ref><ref>{{cite web|title=Act No. 41 of 1998|url=http://www.macra.org.mw/wp-content/uploads/2014/07/Communications-Act-19981.pdf|publisher=[[Malawi Government Gazette]]|date=30 December 1998|access-date=24 March 2017|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325030415/http://www.macra.org.mw/wp-content/uploads/2014/07/Communications-Act-19981.pdf}}</ref> There are 20 television stations on the country's digital network MDBNL.<ref name="CIA" /> [[Television Malawi]], run by the Malawi Broadcasting Corporation (MBC), is the national public broadcaster of Malawi. Established under an Act of Parliament in 1964, MBC operates both radio and television services.
+
+===Sports===
+Football is the most common [[Sports in Malawi|sport in Malawi]], introduced during British colonial rule. Its [[Malawi national football team|national team]] has failed to qualify for a [[FIFA World Cup|World Cup]] but has made three appearances in the [[Africa Cup of Nations]]. Football teams include the [[Mighty Wanderers]], [[Nyasa Big Bullets FC|Big Bullets]], [[Silver Strikers FC|Silver Strikers]], [[Blue Eagles FC|Blue Eagles]], [[Civil Service United FC|Civo Sporting]], [[Moyale Barracks]], and [[Mighty Tigers FC|Mighty Tigers]]. Basketball is growing in popularity, but [[Malawi men's national basketball team|its national team]] is yet to participate in any international competition.<ref name=Gall>{{cite book |year=1998|editor1-last=Gall|editor1-first=James L. |title=Worldmark Encyclopaedia of Cultures and Daily Life|volume=1 – Africa|location=Detroit and London|publisher=Gale Research|pages=101–102 |isbn=0-7876-0552-2 }}</ref> More success has been found in [[netball]], with the [[Malawi national netball team]]<ref>{{cite web |url=https://netball.sport/events-and-results/current-world-rankings |title=Current World Rankings |publisher=World Netball |access-date=10 December 2021}}</ref> ranked 6th in the world (as of March 2021).
+
+===Cuisine===
+[[Malawian cuisine]] is diverse, with tea and fish being popular features of the country's cuisine.<ref name=emb>{{cite web |url=http://www.malawiembassy.org/en/visit/food.html |title=The Official Website of the Embassy of the Republic of Malawi to Japan |website=Malawiembassy.org |access-date=9 February 2016 |archive-url=https://web.archive.org/web/20130314022501/http://www.malawiembassy.org/en/visit/food.html |archive-date=14 March 2013 }}</ref> Sugar, coffee, corn, potatoes, sorghum, cattle, and goats are also important components of the cuisine and economy. Lake Malawi is a source of fish, including [[Oreochromis lidole|chambo]] (similar to [[bream]]), [[usipa]] (similar to [[sardine]]s), and [[mpasa]] (similar to [[salmon]] and [[kampango]]).<ref name=emb/> [[Ugali|Nsima]] is a food staple made from ground corn and typically served with side dishes of meat and vegetables. It is commonly eaten for lunch and dinner.<ref name=emb/>
+
+==See also==
+{{portal|Malawi|Countries|Africa
+}}
+* [[Outline of Malawi]]
+* [[Telephone numbers in Malawi]]
+*[[Women in Africa]]
+
+{{Clear}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Sources==
+{{Refbegin}}
+* {{cite book|author=Cutter, Charles H.|title=Africa 2006|edition=41st|year=2006|publisher=Stryker-Post Publications|location=Harpers Ferry, West Virginia|isbn=1-887985-72-7}}
+* {{cite book|author=Davidson, Basil|title=Africa in History: Themes and Outlines|edition=Revised and Expanded|publisher=Collier Books, Macmillan Publishing Company|location=New York|year=1991|isbn=0-02-042791-3|url=https://archive.org/details/africainhistoryt00davi_0}}
+* {{cite book|author=Dickovick, J. Tyler|title=Africa 2008|edition=43rd|year=2008|publisher=Stryker-Post Publications|location=Harpers Ferry, West Virginia|isbn=978-1-887985-90-1}}
+* {{cite book|author=Meredith, Martin|title=The Fate of Africa&nbsp;– From the Hopes of Freedom to the Heart of Despair: A History of 50 Years of Independence|publisher=Public Affairs|location=New York|year=2005|isbn=1-58648-246-7|url=https://archive.org/details/fateofafricafrom00mere}}
+* {{cite book|editor=Murphy, Philip|title=Central Africa: Closer Association 1945–1958|publisher=The Stationery Office|location=London, UK|year=2005|isbn=0-11-290586-2}}
+* {{cite book|author=Reader, John|title=Africa: A Biography of the Continent|publisher=Vintage Books|location=New York|edition=First Vintage Books|year=1999|isbn=0-679-73869-X|url-access=registration|url=https://archive.org/details/africabiographyo0000read}}
+* {{cite book|editor=Turner, Barry|title=The Statesman's Yearbook 2009: The Politics, Cultures and Economies of the World|publisher=Macmillan Publishers|year=2008|isbn=978-1-4039-9278-9|url-access=registration|url=https://archive.org/details/statesmansyearbo0000unse}}
+*Willie Molesi, ''Black Africa versus Arab North Africa: The Great Divide'', {{ISBN|979-8332308994}} 
+*Willie Molesi, ''Relations Between Africans and Arabs: Harsh Realities'',{{ISBN|979-8334767546}}
+* Willie Molesi, ''Africans and Indians: The Gulf Between'', {{ISBN| 979-8338818190}}
+{{Refend}}
+
+==External links==
+{{Sister project links|Malawi|voy=Malawi}}
+* [http://www.malawi.gov.mw/ Government of the Republic of Malawi] Official website
+* {{Wikiatlas|Malawi}}
+{{Malawi topics}}
+{{Africa topic|Women in|titlestyle = background:#FFCBDB}}
+{{Africa topics}}
+{{Africa topic|prefix=Gender inequality in|countries_only=yes}}
+{{gender equality}}
+{{Feminism}}
+{{Masculinism}} 
+{{Navboxes
+|title = Articles relating to Malawi
+|list  =
+{{Countries of Africa}}
+{{Southern African Development Community}}
+{{African Union}}
+{{Commonwealth of Nations}}
+{{English official language clickable map}}
+{{Countries of Africa}}
+}}
+{{Authority control}}
+
+{{Coord|13|30|S|34|00|E|display=title}}
+
+[[Category:Malawi| ]]
+[[Category:Republics in the Commonwealth of Nations]]
+[[Category:Countries in East Africa]]
+[[Category:Southeast African countries]]
+[[Category:Countries in Southern Africa]]
+[[Category:Countries and territories where English is an official language]]
+[[Category:Landlocked countries]]
+[[Category:Least developed countries]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the United Nations]]
+[[Category:States and territories established in 1964]]
+[[Category:1964 establishments in Malawi]]
+[[Category:Countries in Africa]]
+[[Category:Former British protectorates]]
+[[Category:Former British colonies and protectorates in Africa]]
+[[Category:Former Commonwealth monarchies]]

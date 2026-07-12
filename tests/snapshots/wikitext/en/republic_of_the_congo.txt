@@ -1,0 +1,467 @@
+{{Short description|Country in Central Africa}}
+{{pp-move|small=yes}}
+{{Hatnote group|
+{{Distinguish|text=the [[Democratic Republic of the Congo]], formerly known as [[Zaire]]}}
+{{For|entities with the same or similar names|Republic of the Congo (disambiguation)}}
+}}
+{{Use dmy dates|date=July 2026}}
+{{CS1 config|mode=cs1}}
+{{Infobox country
+| conventional_long_name = Republic of the Congo
+| native_name            = {{native name|fr|République du Congo}}<br/>{{small|{{name in various languages
+| name = {{nobold|''(in national languages)''}}
+| ln = {{lang|ln|Republíki ya Kongó}}
+| mkw = {{lang|mkw|Repubilika ya Kôngo}}
+}}}}
+| common_name            = Congo
+| image_flag             = Flag of the Republic of the Congo.svg
+| flag_type              = [[Flag of the Republic of the Congo|Flag]]
+| image_coat             = Coat of arms of the Republic of the Congo.svg
+| symbol_type            = [[Coat of arms of the Republic of the Congo|Coat of arms]]
+| national_motto         = {{native phrase|fr|"Unité, Travail, Progrès"|italics=off|nolink=on}}<br />({{Langx|en|"Unity, Work, Progress"}})
+| image_map              = {{Switcher|[[File:Republic of the Congo (orthographic projection).svg|frameless]]|Show globe|[[File:Location Republic of the Congo AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+| map_caption            = 
+| national_anthem        = {{native name|fr|"[[La Congolaise]]"|italic=no|nolink=on}}<br />{{native name|kg|Besi Kôngo}}<br />({{Langx|en|"The Congolese"}})<div style="padding-top:0.5em;">{{center|[[File:National anthem of the Republic of the Congo.oga|center]]}}</div>
+| official_languages     = [[French language|French]]<ref name=Digitheque >{{cite web |url=https://mjp.univ-perp.fr/constit/cg2015.htm |language=fr |title=Constitution de 2015 |work=Digithèque matériaux juridiques et politiques, Jean-Pierre Maury, Université de Perpignan |access-date=2 January 2021 |archive-date=13 March 2016 |archive-url=https://web.archive.org/web/20160313042001/http://mjp.univ-perp.fr/constit/cg2015.htm |url-status=live }}</ref>
+| national_languages     = {{hlist|[[Kituba language|Kituba]]|[[Lingala]]}}
+| demonym                = {{plainlist|
+* [[Demographics of the Republic of the Congo|Congolese]]
+* [[Demographics of the Republic of the Congo|Congo]]<ref name="CIAWFB" />
+}}
+| ethnic_groups          = {{unbulleted list | 41% [[Kongo people|Bakongo]]<ref>{{Cite web|url= https://minorityrights.org/country/republic-of-congo/|title=Republic of Congo|website=minorityrights.org}}</ref> | 16.9% [[Teke people|Bateke]] | 13.1% [[Mbochi people|Mbochi]] | 5.6% [[Sangha people|Sangha]] | 2% [[Pygmy people|Mbenga Pygmies]] | and others}}
+| ethnic_groups_ref      = 
+| capital                = [[Brazzaville]]
+| coordinates            = {{Coord|4|16|S|15|17|E|type:city}}
+| largest_city           = capital
+| government_type        = Unitary [[Semi-presidential system|semi-presidential republic]] under an [[authoritarian]] dictatorship<ref>{{Cite news |last=Tampa |first=Vava |date=10 April 2021 |title=Sassou rules like an emperor while Congolese die from extreme poverty |url=https://www.theguardian.com/global-development/2021/apr/10/denis-sassou-nguesso-rules-like-an-emperor-while-congolese-die-from-extreme-poverty-congo-brazzaville |access-date=4 January 2024 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite web |title=Elections in Congo-Brazzaville |url=https://www.dw.com/en/sassou-nguesso-clings-to-power-in-congo-brazzaville/a-19127711 |access-date=4 January 2024 |website=DW |date=18 March 2016 |language=en |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104170339/https://www.dw.com/en/sassou-nguesso-clings-to-power-in-congo-brazzaville/a-19127711 |url-status=live }}</ref><ref>{{Cite web |date=23 March 2021 |title=Congo Brazzaville's Sassou Nguesso re-elected with more than 88% of vote, early results show |url=https://www.france24.com/en/africa/20210323-congo-brazzaville-s-sassou-nguesso-re-elected-with-more-than-88-of-vote-early-results-show |access-date=4 January 2024 |website=France 24 |language=en}}</ref><ref>{{Cite book |last=Clark |first=John Frank |title=The failure of democracy in the Republic of Congo |date=2008 |publisher=L. Rienner |isbn=978-1-58826-555-5 |location=Boulder (Colo.)}}</ref>
+| leader_title1          = [[President of the Republic of the Congo|President]]
+| leader_name1           = [[Denis Sassou Nguesso]]
+| leader_title2          = [[Prime Minister of the Republic of Congo|Prime Minister]]
+| leader_name2           = [[Anatole Collinet Makosso]]
+| leader_title3          = [[Senate (Republic of the Congo)|President of Senate]]
+| leader_name3           = [[Pierre Ngolo]]
+| leader_title4          = [[National Assembly (Republic of the Congo)|President of the National Assembly]]
+| leader_name4           = [[Isidore Mvouba]]
+| legislature            = [[Parliament of the Republic of the Congo|Parliament]]
+| upper_house            = [[Senate (Republic of the Congo)|Senate]]
+| lower_house            = [[National Assembly (Republic of the Congo)|National Assembly]]
+| area_km2               = 342,000
+| area_sq_mi             = 132,047 <!--Do not remove per [[WP:MOSNUM]]-->
+| area_rank              = 64th <!-- Should match [[List of countries and dependencies by area]] -->
+| percent_water          = 3.3
+| population_estimate    = 6,228,784<ref>{{Cite web |title=Congo Population (2024) - Worldometer |url=https://www.worldometers.info/world-population/congo-population/ |access-date=19 May 2024 |website=worldometers.info |language=en |archive-date=9 June 2025 |archive-url=https://web.archive.org/web/20250609042131/https://www.worldometers.info/world-population/congo-population/ |url-status=live }}</ref>
+| population_census      = 6,142,180<ref>{{Cite web |last=BOKOLO |first=Guilesse |date=8 January 2024 |title=RESULTATS PRELIMINAIRES |url=https://ins-congo.cg/download/resultats-preliminaires/ |access-date=16 June 2024 |website=INS-CONGO BRAZZAVILLE |language=fr-FR |archive-date=24 July 2024 |archive-url=https://web.archive.org/web/20240724133452/https://ins-congo.cg/download/resultats-preliminaires/ |url-status=live }}</ref>
+| population_estimate_year = 2023
+| population_estimate_rank = 116th
+| population_census_year = 2023
+| population_density_km2 = 19
+| population_density_sq_mi = 46.52 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 212th
+| GDP_PPP                = {{increase}} $42.760 billion<ref name="IMFWEO.AO">{{cite web |url=https://www.imf.org/external/datamapper/profile/COG |title=World Economic Outlook Database, April 2025 Edition. (Angola) |publisher=[[International Monetary Fund]] |date=1 April 2025 |access-date=6 September 2023 |archive-date=6 June 2024 |archive-url=https://web.archive.org/web/20240606052108/https://www.imf.org/external/datamapper/profile/COG |url-status=bot: unknown }}</ref>
+| GDP_PPP_year           = 2025
+| GDP_PPP_rank           = 140th
+| GDP_PPP_per_capita     = {{increase}} $6,590<ref name="IMFWEO.CG">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=634,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2020&ey=2028&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, October 2023 Edition. (Congo) |publisher=[[International Monetary Fund]] |website=IMF.org |date=10 October 2023 |access-date=17 October 2023 |archive-date=18 May 2024 |archive-url=https://web.archive.org/web/20240518175028/https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=634,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2020&ey=2028&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |url-status=live }}</ref>
+| GDP_PPP_per_capita_rank = 143rd
+| GDP_nominal            = {{increase}} $15.281&nbsp;billion<ref name="IMFWEO.CG" />
+| GDP_nominal_year       = 2025
+| GDP_nominal_rank       = 141st
+| GDP_nominal_per_capita = {{increase}} $2,360<ref name="IMFWEO.CG" />
+| GDP_nominal_per_capita_rank = 151st
+| Gini_year              = 2011
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini                   = 40.2 <!--number only-->
+| Gini_ref               = <ref>{{cite web|url=http://data.worldbank.org/indicator/SI.POV.GINI/|title=GINI index|publisher=World Bank|access-date=12 September 2015|archive-url=https://web.archive.org/web/20150209003326/http://data.worldbank.org/indicator/SI.POV.GINI|archive-date=9 February 2015|url-status=live}}</ref>
+| HDI_year               = 2023<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI                    = 0.649 <!--number only-->
+| HDI_ref                = <ref>{{Cite web |date=13 March 2024 |title=HUMAN DEVELOPMENT REPORT 2023-24 |url=http://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24reporten.pdf |website=[[United Nations Development Programme]] |publisher=United Nations Development Programme |pages=274–277 |language=en |access-date=3 May 2024 |archive-date=1 May 2024 |archive-url=https://web.archive.org/web/20240501075007/https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24reporten.pdf |url-status=live }}</ref>
+| HDI_rank               = 138th
+| sovereignty_type       = [[Independence]]
+| established_event1     = Republic established
+| established_date1      = 28 November 1958
+| established_event2     = from France
+| established_date2      = 15 August 1960
+| currency               = [[Central African CFA franc]]
+| currency_code          = XAF
+| time_zone              = [[West Africa Time|WAT]]
+| utc_offset             = +1
+| calling_code           = [[+242]]
+| iso3166code            = CG
+| cctld                  = [[.cg]]
+| religion               = {{ublist |item_style=white-space:nowrap;
+  |87.1% [[Christianity]]
+  |8.0% [[Irreligion|no religion]]
+  |2.7% [[African Traditional Religion|traditional faiths]]
+  |1.2% [[Islam]]
+  |1.0% others
+  }}
+| religion_year          = 2020
+| religion_ref           = <ref>{{cite web | url=http://www.globalreligiousfutures.org/countries/republic-of-the-congo#/?affiliations_religion_id=0&affiliations_year=2020&region_name=All%20Countries&restrictions_year=2016 | title=Religions in Republic of the Congo &#124; PEW-GRF | access-date=8 October 2022 | archive-date=10 October 2022 | archive-url=https://web.archive.org/web/20221010060035/http://www.globalreligiousfutures.org/countries/republic-of-the-congo#/?affiliations_religion_id=0&affiliations_year=2020&region_name=All%20Countries&restrictions_year=2016 | url-status=dead }}</ref>
+}}
+
+The '''Republic of the Congo''',{{efn|{{langx|fr|République du Congo}}, {{langx|ln|Republíki ya Kongó}}}} also known as '''Congo-Brazzaville''', the '''Congo Republic''' or simply '''Congo''',{{efn|Its name from 1971 to 1997; the period during which the neighboring [[Democratic Republic of the Congo]] was officially named [[Zaire]].}} is a country located on the western coast of [[Central Africa]] to the west of the [[Congo River]]. It is bordered to the west by [[Gabon]], to the northwest by [[Cameroon]], to the northeast by the [[Central African Republic]], to the southeast by the [[Democratic Republic of the Congo]], to the south by the [[Angola]]n [[exclave]] of [[Cabinda Province|Cabinda]], and to the southwest by the Atlantic Ocean.
+
+The region was dominated by [[Bantu peoples|Bantu]]-speaking tribes at least 3,000 years ago, who built trade links leading into the Congo River basin. From the 13th century, the present-day territory was dominated by a confederation led by [[Vungu]] which included [[Kakongo]] and [[Ngoyo]]. The [[Tio Kingdom]] emerged in the 14th century, and [[Kingdom of Loango|Loango]] in the 16th century. In the late 19th century France colonised the region and incorporated it into [[French Equatorial Africa]].<ref name="CIAWFB">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/congo-republic-of-the/ |title=Congo, Republic of the |publisher=[[Central Intelligence Agency]] |work=[[The World Factbook]] |access-date=14 October 2024 |archive-date=9 January 2021 |archive-url=https://web.archive.org/web/20210109222956/https://www.cia.gov/the-world-factbook/countries/congo-republic-of-the |url-status=dead}}</ref> The Republic of the Congo was established on 28 November 1958 and gained independence from France in 1960. It was a [[Marxist–Leninist state]] from 1969 to 1992, under the name [[People's Republic of the Congo]] (PRC). After the introduction of multi-party elections in 1992, the democratically elected government was overthrown during the [[Republic of the Congo Civil War (1997–99)|civil war]], after which [[Denis Sassou Nguesso]], who had previously served as president from 1979 to 1992, returned to office in 1997. He has remained president since then.
+
+The Republic of the Congo is a member of the [[African Union]], the [[United Nations]], [[La Francophonie]], the [[Economic Community of Central African States]], and the [[Non-Aligned Movement]]. It is the fourth-largest [[oil producer]] in the [[Gulf of Guinea]], providing the country a degree of prosperity, with political and economic instability in some areas and unequal distribution of oil revenue nationwide. [[Economy of the Republic of the Congo|Its economy]] is dependent on the oil sector<ref name="2018_nzaou_kongo">{{cite book|last1=Nzaou-Kongo|first1=Aubin|title=Exploitation des hydrocarbures et protection de l'environnement en République du Congo : essai sur la complexité de leurs rapports à la lumière du droit international.|date=2018|url=https://www.idref.fr/229819249|access-date=15 January 2021|archive-date=9 May 2021|archive-url=https://web.archive.org/web/20210509074904/https://www.idref.fr/229819249|url-status=live}}</ref> and economic growth has slowed since [[2010s oil glut|the post-2015 drop in oil prices]].
+
+[[Christianity]] is the most widely professed faith in the country. According to the 2024 rendition of the [[World Happiness Report]], the Republic of the Congo is ranked 89th among 140 nations.<ref>{{Cite web |date=20 March 2024 |title=World Happiness Report 2024: Most comprehensive picture yet of happiness across generations |url=https://worldhappiness.report/news/world-happiness-report-2024-most-comprehensive-picture-yet-of-happiness-across-generations/#:~:text=Afghanistan%20remains%20bottom%20of%20the,widely%20from%20the%20overall%20rankings |access-date=16 August 2024 |website=worldhappiness.report |language=en |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320021023/https://worldhappiness.report/news/world-happiness-report-2024-most-comprehensive-picture-yet-of-happiness-across-generations/#:~:text=Afghanistan%20remains%20bottom%20of%20the,widely%20from%20the%20overall%20rankings |url-status=live }}</ref>
+
+==Etymology==
+{{further|Congo River|Kongo people}}
+It is named after the [[Congo River]] whose name is derived from [[Kingdom of Kongo|Kongo]], a [[Bantu peoples|Bantu]] kingdom that occupied its mouth around the time the [[Kingdom of Portugal|Portuguese]] first arrived in 1483<ref>Gates, Louis & Appiah, Anthony. ''Africana: The Encyclopedia of the African and African American Experience'', p. 1105. 1999.</ref> or 1484.<ref>Olson, James S. & Shadle, Robert. ''[https://books.google.com/books?id=uyqepNdgUWkC&pg=PA225 Historical Dictionary of European Imperialism] {{Webarchive|url=https://web.archive.org/web/20160502165932/https://books.google.com/books?id=uyqepNdgUWkC&pg=PA225 |date=2 May 2016 }}'', p. 225. Greenwood Publishing Grp., 1991. {{ISBN|0-313-26257-8}}.</ref> The kingdom's name derived from its people, the [[Bakongo]], an [[Endonym and exonym|endonym]] said to mean "hunters" ({{langx|kg|mukongo}}, ''nkongo'').<ref>Bentley, Wm. Holman. ''Pioneering on the Congo''. Fleming H. Revell Co., 1900.</ref><ref>{{Cite book |last=Davies |first=Gill |url=https://books.google.com/books?id=aCZt-beLHWMC&q=Bakongo+native+means+%22hunter%22 |title=Africa: Natural Spirit of the African Continent |date=2007 |publisher=Parragon |isbn=978-1-4054-8672-9 |language=en}}</ref>
+
+During the period when France colonised it, it was known as the [[French Congo]] or Middle Congo. The Republic of the Congo, or simply the Congo,<ref name="CIAWFB" /> is a distinct country from the [[Democratic Republic of the Congo]], also known as the DR Congo.<ref>{{Cite news |date=4 May 2011 |title=DR Congo country profile |url=https://www.bbc.co.uk/news/world-africa-13283212 |access-date=17 August 2024 |work=BBC News |language=en-GB |archive-date=10 October 2018 |archive-url=https://web.archive.org/web/20181010202252/https://www.bbc.co.uk/news/world-africa-13283212 |url-status=live }}</ref> [[Brazzaville]]'s name derives from the colony's founder, [[Pierre Savorgnan de Brazza|Pierre Savorgnan de Brazzà]], an Italian nobleman whose title referred to the town of Brazzacco, in the [[Italy|Italian]] [[comune]] of [[Moruzzo]] in [[Friuli-Venezia Giulia]], whose name derived from the [[Latin language|Latin]] ''Brattius'' or ''Braccius'', both meaning literally "[[arm]]".<ref>Frau, Giovanni ''Dizionario Toponomastico Friuli-Venezia Giulia''. Istituto per l'Enciclopedia del Friuli-Venezia Giulia, 1978.</ref>
+
+==History==
+{{main|History of the Republic of the Congo}}
+
+[[Bantu peoples|Bantu-speaking peoples]], who founded tribes during the [[Bantu expansion]]s, mostly displaced and absorbed the earlier inhabitants of the region, the [[African Pygmies|Pygmy]] people, about 1500{{nbsp}}BC. The [[Bakongo]], a Bantu ethnic group that occupied parts of what later became Angola, Gabon, and the Democratic Republic of the Congo, formed the basis for ethnic affinities and rivalries among those countries.{{citation needed|date=July 2025}}
+[[File:West_Central_Africa_1350CE.png|thumb|States of the western Congo Basin, c. 1350]]
+By the 13th century, there were three main federations of states in the western Congo Basin. In the east were the [[Seven Kingdoms of Kongo dia Nlaza]], considered to be the oldest and most powerful, which likely included [[Nsundi]], [[Mbata Kingdom|Mbata]], [[Mpangu]], and possibly [[Kundi kingdom|Kundi]] and [[Okanga]]. South of these was [[Mpemba]] which stretched from modern-day [[Angola]] to the [[Congo River]]. It included various kingdoms such as [[Mpemba Kasi]] and [[Vunda]]. To its west across the Congo River was a confederation of three small states; [[Vungu]] (its leader), [[Kakongo]], and [[Ngoyo]].<ref>{{Citation |chapter=The Development of States in West Central Africa to 1540 |date=2020 |title=A History of West Central Africa to 1850 |pages=16–55 |editor-last=Thornton |editor-first=John K. |chapter-url=https://www.cambridge.org/core/books/abs/history-of-west-central-africa-to-1850/development-of-states-in-west-central-africa-to-1540/CE71122CF8DFD7B4B188BA34F8F65BFC |access-date=21 September 2024 |series=New Approaches to African History |place=Cambridge |publisher=Cambridge University Press |isbn=978-1-107-56593-7 |archive-date=8 October 2024 |archive-url=https://web.archive.org/web/20241008080246/https://www.cambridge.org/core/books/abs/history-of-west-central-africa-to-1850/development-of-states-in-west-central-africa-to-1540/CE71122CF8DFD7B4B188BA34F8F65BFC |url-status=live }}</ref>{{Rp|pages=24–25}} Some Bantu kingdoms—including those of the [[Kongo people|Kongo]], the [[Tio people|Tio]], and [[Kingdom of Loango|Loango]]—built trade links leading into the [[Congo Basin]].<ref name="dos2009">{{cite web|url=https://2009-2017.state.gov/r/pa/ei/bgn/2825.htm|title=Background Note: Republic of the Congo|publisher=Department of State|date=March 2009|access-date=25 June 2017|archive-date=14 July 2017|archive-url=https://web.archive.org/web/20170714082702/https://2009-2017.state.gov/r/pa/ei/bgn/2825.htm|url-status=live}}</ref> The [[Tio Kingdom]] formed in the 14th century;<ref name="Gongola">{{Cite encyclopedia |title=Congo (Brazzaville), Republic of: Nineteenth Century: Precolonial |encyclopedia=Encyclopedia of African History 3-Volume Set |publisher=Routledge |url=https://www.google.co.uk/books/edition/Encyclopedia_of_African_History_3_Volume/WixiTjxYdkYC?hl=en&gbpv=1&dq=teke+kingdom&pg=PA508&printsec=frontcover |last=Gongola |first=Charles Didier |date=4 July 2013 |language=en |isbn=978-1-135-45669-6}}</ref> the association of kingship with [[smithing]] is believed to have originated among the Tio before spreading to the kingdoms of Loango and [[Kingdom of Kongo|Kongo]].<ref name="Vansina c16">{{Cite book |last=Vansina |first=Jan |url=http://archive.org/details/tiokingdomofmidd0000vans |title=The Tio kingdom of the Middle Congo, 1880-1892 |date=1973 |publisher=Oxford University Press |isbn=978-0-19-724189-9 |chapter=Tio society to 1880}}</ref>{{Reference page|pages=439-42}}
+
+The [[Kingdom of Portugal|Portuguese]] explorer [[Diogo Cão]] reached the mouth of the Congo in 1484.<ref name="DicImp"/> Commercial relationships grew between the inland Bantu kingdoms and European merchants who traded in commodities, manufactured goods, and people captured and enslaved in the [[hinterland]]s. After centuries as a central hub for transatlantic trade, direct European colonization of the Congo River delta began in the 19th century, subsequently eroding the power of the Bantu societies in the region.<ref>Boxer, C. R. ''The Portuguese Seaborne Empire, 1415–1825'', A. A. Knopf, 1969, {{ISBN|0090979400}}</ref>
+
+[[File:Court of Loango.png|thumb|The court of [[N'Gangue M'voumbe Niambi]], from the book ''Description of Africa'' (1668)]]
+
+The area north of the Congo River came under French sovereignty in 1880 as a result of [[Pierre de Brazza]]'s treaty with Tio King [[Iloo I]].{{efn|De Brazza promised benefits of trade and an alliance, which was likely interpreted as military assistance. While some sources attest that Iloo was aware of the condition, [[Jan Vansina]] wrote that "it seems clear that he only wanted to cede land for the establishment of a [[Trading post|commercial station]]", and that his desire for an alliance may have been influenced by the hostility of [[Henry Morton Stanley's first trans-Africa expedition|Henry Stanley's expedition]] a few years earlier.<ref>{{Cite book |last=Vansina |first=Jan |url=http://archive.org/details/tiokingdomofmidd0000vans |title=The Tio kingdom of the Middle Congo, 1880-1892 |date=1973 |publisher=Oxford University Press |isbn=978-0-19-724189-9 |chapter=The Kingdom under Iloo}}</ref>{{Reference page|pages=409-12}}}}<ref name="DicImp">Olson, James S. & Shadle, Robert. ''[https://books.google.com/books?id=uyqepNdgUWkC&pg=PA225 Historical Dictionary of European Imperialism] {{Webarchive|url=https://web.archive.org/web/20160502165932/https://books.google.com/books?id=uyqepNdgUWkC&pg=PA225 |date=2 May 2016 }}'', p. 225. Greenwood Publishing Group, 1991. {{ISBN|0-313-26257-8}}. Accessed 9 October 2011.</ref> After the death of Iloo, his widow Queen [[Ngalifourou]] upheld the terms of the treaty and became an ally to the colonizers.<ref>{{Citation|last=jeremy|first=rich|editor1-first=Emmanuel K|editor1-last=Akyeampong|editor2-first=Henry Louis|editor2-last=Gates|chapter=Ngalifourou|date=2012|chapter-url=https://www.oxfordreference.com/view/10.1093/acref/9780195382075.001.0001/acref-9780195382075-e-1533|title=Dictionary of African Biography|publisher=Oxford University Press|language=en|doi=10.1093/acref/9780195382075.001.0001|isbn=978-0-19-538207-5|access-date=16 January 2021|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122130300/https://www.oxfordreference.com/view/10.1093/acref/9780195382075.001.0001/acref-9780195382075-e-1533|url-status=live|chapter-url-access=subscription}}</ref> This Congo Colony became known first as [[French Congo]], then as Middle Congo in 1903.
+
+In 1908, France organized [[French Equatorial Africa]] (AEF), comprising the Middle Congo, [[French Gabon|Gabon]], [[French Chad|Chad]], and [[Oubangui-Chari]] (which later became the [[Central African Republic]]). The French designated [[Brazzaville]] as the federal capital. Economic development during the first 50 years of colonial rule in Congo centered on natural resource extraction. Construction of the [[Congo–Ocean Railway]] following [[World War I]] has been estimated to have cost at least 14,000 lives.<ref name="DicImp"/>
+
+During the [[Nazi occupation of France]] during [[World War II]], Brazzaville functioned as the symbolic capital of [[Free France]] between 1940 and 1943.<ref>United States State Department. Office of the Historian. ''A Guide to the United States' History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776''. "[https://history.state.gov/countries/congo-republic Republic of the Congo] {{Webarchive|url=https://web.archive.org/web/20170512065606/https://history.state.gov/countries/congo-republic |date=12 May 2017 }}". Accessed 9 October 2010.</ref> The [[Brazzaville Conference of 1944]] heralded a period of reform in French colonial policy. Congo "benefited" from the postwar expansion of colonial administrative and infrastructure spending as a result of its central geographic location within AEF and the federal capital at Brazzaville.<ref name="dos2009"/> It had a local legislature after the adoption of the 1946 constitution that established the [[French Fourth Republic|Fourth Republic]].
+
+Following the revision of the [[Constitution of France|French constitution]] that established the [[French Fifth Republic|Fifth Republic]] in 1958, AEF dissolved into its constituent parts, each of which became an autonomous colony within the [[French Community]]. During these reforms, Middle Congo became known as the Republic of the Congo in 1958<ref name="dos2009" /> and published its first constitution in 1959.<ref>Robbers, Gerhard (2007). ''[https://books.google.com/books?id=M3A-xgf1yM4C Encyclopedia of World Constitutions] {{Webarchive|url=https://web.archive.org/web/20160506124534/https://books.google.com/books?id=M3A-xgf1yM4C |date=6 May 2016 }}''. Infobase Publishing. {{ISBN|0-8160-6078-9}}. Accessed 9 October 2011.</ref> Antagonism between the [[Mbochi]]s (who favored [[Jacques Opangault]]) and the [[Lari people (Congo)|Lari]]s and [[Kongo people|Kongo]]s (who favored [[Fulbert Youlou]], the first black mayor elected in French Equatorial Africa) resulted in a series of riots in Brazzaville in February 1959, which the [[French Army]] subdued.<ref>[http://www.itnsource.com/shotlist//RTV/1959/02/27/BGY503110492/?s=evacuations CONGO REPUBLIC: BRAZZAVILLE RIOTS AFTERMATH] {{Webarchive|url=https://web.archive.org/web/20140505233442/http://www.itnsource.com/shotlist//RTV/1959/02/27/BGY503110492/?s=evacuations |date=5 May 2014 }}. Reuters (27 February 1959)</ref>
+
+Elections took place in April 1959. By the time the Congo became independent in August 1960, Opangault, the former opponent of Youlou, agreed to serve under him. Youlou, an avid anti-communist, became the first President of the Republic of the Congo.<ref>{{cite web|url=http://www.encyclopedia.com/people/history/african-history-biographies/fulbert-youlou|title=Fulbert Youlou facts, information, pictures – Encyclopedia.com articles about Fulbert Youlou|access-date=27 November 2016|archive-url=https://web.archive.org/web/20161128051046/http://www.encyclopedia.com/people/history/african-history-biographies/fulbert-youlou|archive-date=28 November 2016|url-status=live}}</ref> Since the political tension was so high in [[Pointe-Noire]], Youlou moved the capital to Brazzaville.{{citation needed|date=July 2025}}
+
+[[File:Alphonse Massamba-Debat.png|thumb|upright|[[Alphonse Massamba-Débat]]'s 1-party rule (1963–1968) attempted to implement a [[political economy|political economic]] strategy of "[[scientific socialism]]".]]
+The Republic of the Congo became fully independent from France on 15 August 1960. Youlou ruled as the country's first president until labor elements and rival political parties instigated a [[Trois Glorieuses (1963)|three-day uprising]] that ousted him.<ref>[[Alain Mabanckou]] "The Lights of Pointe-Noire" {{ISBN|978-1620971901}}. 2013. p.175</ref> The Congolese military took over the country and installed a civilian provisional government headed by [[Alphonse Massamba-Débat]].
+
+Under the 1963 constitution, Massamba-Débat was elected president for a five-year term.<ref name="dos2009"/> During [[Alphonse Massamba-Débat#Congo under Massamba-Débat (1963–1968)|Massamba-Débat's term in office]], the regime adopted "[[scientific socialism]]" as the country's constitutional ideology.<ref name="shillington301"/> In 1964, Congo sent an official team with a single athlete at the [[1964 Summer Olympics|Olympic Games]] for the first time in its history. In 1965, Congo established relations with the [[Soviet Union]], the [[China|People's Republic of China]], [[North Korea]], and [[North Vietnam]].<ref name="shillington301">{{cite book|title=Encyclopedia of African history|last=Shillington |first=Kevin |page=301|publisher=CRC Press|year=2005|isbn=978-1579582456}}</ref> Under his presidency, the Congo began to [[industrialize]]. Some large production units with large workforces were built: the textile factory of Kinsoundi, the palm groves of Etoumbi, the match factory of [[Bétou]], the shipyards of Yoro, etc. Health centers were created as well as school groups (colleges and elementary school). The country's school enrollment rate became the highest in Black Africa.<ref>John F. Clark, "Congo: Transition and the Struggle to Consolidate", in ''Political Reform in Francophone Africa'' (1997)</ref>
+
+On the night of 14 to 15 February 1965, three public officials of the Republic of the Congo were kidnapped: {{ill|Lazare Matsocota|fr}} (prosecutor of the Republic), {{ill|Joseph Pouabou|fr}} (President of the Supreme Court), and {{ill|Anselme Massouémé|fr}} (director of the Congolese Information Agency). The bodies of two of these men were later found, mutilated, by the Congo River.<ref>Bazenguissa-Ganga, Rémy. ''[https://books.google.com/books?id=15Qza8LQcFMC Les voies du politique au Congo: essai de sociologie historique] {{Webarchive|url=https://web.archive.org/web/20200801213039/https://books.google.com/books?id=15Qza8LQcFMC |date=1 August 2020 }}''. Paris: Karthala, 1997. p. 110</ref><ref>''[https://books.google.com/books?id=UGoEAQAAIAAJ Africa Research Bulletin] {{Webarchive|url=https://web.archive.org/web/20210413223836/https://books.google.com/books?id=UGoEAQAAIAAJ |date=13 April 2021 }}''. Oxford, England: Blackwell, 1965. p. 242</ref> Massamba-Débat's regime invited some hundred [[Cuba]]n army troops into the country to train his party's militia units. These troops helped his government survive a [[1966 Republic of the Congo coup d'état attempt|''coup d'état'' in 1966]] led by paratroopers loyal to future President [[Marien Ngouabi]]. Massamba-Débat's regime ended with a bloodless [[1968 Republic of the Congo coup d'état|''coup'' in September 1968]].<ref name="shillington301" />
+
+Marien Ngouabi, who had participated in the coup, assumed the presidency on 31 December 1968. One year later, Ngouabi proclaimed the Congo Africa's first "people's republic", the [[People's Republic of the Congo]], and announced the decision of the National Revolutionary Movement to change its name to the [[Congolese Party of Labour|Congolese Labour Party]] (PCT). He survived an [[1972 Republic of the Congo coup d'état attempt|attempted ''coup'' in 1972]] and was assassinated on 18 March{{nbsp}}1977.<ref>"Congo President Slain by Gunman— Military Group Takes Control, Radio Reports", ''Los Angeles Times'', 20 March 1977, p. I-1</ref> An 11-member Military Committee of the Party (CMP) was then named to head an interim government, with [[Joachim Yhombi-Opango]] serving as president. Two years later, Yhombi-Opango was forced from power, and [[Denis Sassou Nguesso]] became the new president.<ref name="dos2009"/>
+
+Sassou Nguesso aligned the country with the [[Eastern Bloc]] and signed a 20-year friendship pact with the Soviet Union. Over the years, Sassou had to rely more on [[political repression]] and less on [[patronage]] to maintain his dictatorship.<ref name="shillington302">{{cite book|title=Encyclopedia of African history|last=Shillington |first=Kevin |page=302|publisher=CRC Press|year=2005|isbn=978-1579582456}}</ref> The collapse of the Soviet Union in 1991 resulted in the ending of Soviet aid to prop up the regime, and it abdicated power.
+
+[[Pascal Lissouba]] who became Congo's first elected president (1992–1997) during the period of multi-party democracy attempted to implement economic reforms with IMF backing to liberalize the economy. In the years 1993 and 1994 the [[Republic of the Congo Civil War (1993–1994)|first Congo Civil War in Congo]] occurred. In June 1996, IMF approved a three-year [[Special drawing rights|SDR]] 69.5m (US$100m) [[enhanced structural adjustment facility]] (ESAF) and was on the verge of announcing a renewed annual agreement when civil war broke out in Congo in 1997.<ref>{{cite book |title=Country Report Congo-Brazzaville |year=2003 |publisher=The Economist Intelligence Unit |page=24 |url=http://store.eiu.com/Product.aspx?pid=50000205&gid=1310000331&sid=735820073 |access-date=16 June 2013 |archive-url=https://web.archive.org/web/20131013100410/http://store.eiu.com/Product.aspx?pid=50000205&gid=1310000331&sid=735820073 |archive-date=13 October 2013 |url-status=live}}</ref>
+
+Congo's democratic progress was derailed in 1997 when Lissouba and Sassou started to fight for power in the [[Republic of the Congo Civil War (1997–1999)|civil war]]. As presidential elections scheduled for July 1997 approached, tensions between the Lissouba and Sassou camps mounted. On 5 June, President Lissouba's government forces surrounded Sassou's compound in Brazzaville, and Sassou ordered members of his private militia (known as "Cobras") to resist. Thus began a four-month conflict that destroyed or damaged some of Brazzaville and caused tens of thousands of civilian deaths. In October, the Angolan government began an invasion of Congo to install Sassou in power and the Lissouba government fell. After that, Sassou declared himself president.<ref name="dos2009"/>
+[[File:Pro-constitutional reform demonstration in Brazzaville - 2015-10 (21518932913).jpg|thumb|A pro-constitutional reform rally in Brazzaville during October 2015. The constitution's reforms were subsequently approved in a disputed election that saw demonstrations and violence.]]
+
+In the [[Republic of the Congo presidential election, 2002|elections in 2002]], Sassou won with almost 90% of the vote cast. His two main rivals, Lissouba and Bernard Kolelas, were prevented from competing. A remaining rival, [[André Milongo]] advised his supporters to boycott the elections and then withdrew from the race.<ref name="freedomhouse">
+{{cite web|url=http://www.freedomhouse.org/template.cfm?page=22&year=2006&country=7093|title=Congo, Republic of|year=2006|publisher=[[Freedom House]]|access-date=12 June 2009|archive-url=https://web.archive.org/web/20091015231843/http://www.freedomhouse.org/template.cfm?page=22&country=7093&year=2006|archive-date=15 October 2009|url-status=live}}
+</ref> A [[constitution]], agreed upon by [[Republic of the Congo constitutional referendum, 2002|referendum in January 2002]], granted the president new powers, extended his term to seven years and introduced a new bicameral assembly. International observers took issue with the organization of the presidential election and the constitutional referendum, both of which were reminiscent in their organization of Congo's era of the 1-party state.<ref>
+{{cite news | title=Congo approves new constitution | url=http://news.bbc.co.uk/2/hi/africa/1779007.stm | date=24 January 2002 | publisher=BBC | access-date=12 June 2009 | archive-url=https://web.archive.org/web/20090930011021/http://news.bbc.co.uk/2/hi/africa/1779007.stm | archive-date=30 September 2009 | url-status=live | df=dmy-all }}
+</ref> Following the presidential elections, fighting restarted in the [[Pool Department|Pool region]] between government forces and rebels led by [[Pastor Ntumi]]; a peace treaty to end the conflict was signed in April 2003.<ref>
+{{cite news | url=http://news.bbc.co.uk/2/hi/africa/2859881.stm | title=Congo peace deal signed | date=18 March 2003 | publisher=BBC | access-date=15 June 2009 | archive-url=https://web.archive.org/web/20090930011034/http://news.bbc.co.uk/2/hi/africa/2859881.stm | archive-date=30 September 2009 | url-status=live | df=dmy-all }}
+</ref>
+
+Sassou won the following [[Republic of the Congo presidential election, 2009|presidential election in July 2009]].<ref>
+{{cite news | url=https://www.google.com/hostednews/afp/article/ALeqM5jqfjSxI0cOeNG4TITywUuuQMNTGA | title=17 candidates in Congo presidential race: commission | publisher=AFP | date=13 June 2009 | access-date=15 June 2009 | archive-url=https://web.archive.org/web/20110312165149/http://www.google.com/hostednews/afp/article/ALeqM5jqfjSxI0cOeNG4TITywUuuQMNTGA | archive-date=12 March 2011 | url-status=dead | df=dmy-all }}
+</ref> According to the Congolese Observatory of Human Rights, a non-governmental organization, the election was marked by "very low" turnout and "fraud and irregularities".<ref>[http://www.france24.com/en/20090715-congo-government-expected-release-vote-results-fraud-opposition-poll Vote results expected as opposition alleges fraud] {{webarchive|url=https://web.archive.org/web/20090727141917/http://www.france24.com/en/20090715-congo-government-expected-release-vote-results-fraud-opposition-poll |date=27 July 2009 }}. France24 (16 July 2009).</ref> In March 2015, Sassou announced that he wanted to run for yet another term in office and a [[Republic of the Congo constitutional referendum, 2015|constitutional referendum]] in October resulted in a [[Constitution of the Republic of the Congo|changed constitution]] that allowed him to run during the [[Republic of the Congo presidential election, 2016|2016 presidential election]]. He won the election believed by some to be fraudulent. After violent protests in the capital, Sassou attacked the Pool region where the [[Ninja (militia)|Ninja rebel]]s of the civil war used to be based, in what was believed to be a distraction. This led to a revival of the Ninja rebels who launched attacks against the army in April 2016, leading 80,000 people to flee their homes. A ceasefire deal was signed in December 2017.<ref>
+{{cite news|url=http://www.thenewhumanitarian.org/special-report/2018/06/18/updated-congo-brazzaville-s-hidden-war|title=Congo-Brazzaville's hidden war|publisher=New Humanitarian|date=18 June 2018|access-date=7 April 2019|archive-url=https://web.archive.org/web/20190408002300/http://www.thenewhumanitarian.org/special-report/2018/06/18/updated-congo-brazzaville-s-hidden-war|archive-date=8 April 2019|url-status=live}}
+</ref>
+
+In 2023, the [[Odzala National Park|Forest Massif of Odzala-Kokoua]] was listed as a natural [[UNESCO World Heritage Site]].<ref>{{cite web|url=https://whc.unesco.org/en/list/692|title=Forest Massif of Odzala-Kokoua|year=2023|publisher=[[UNESCO]]|access-date=13 October 2025}}</ref>
+
+==Geography==
+{{main|Geography of the Republic of the Congo}}
+
+Natural landscapes range from the [[savanna]] plains in the North Niari flooded forests, to the Congo River, to the rugged mountains and forests of [[Mayombe]], and 170&nbsp;km of beaches along the Atlantic coast.<ref>{{cite web|url=https://www.worldatlas.com/webimage/countrys/africa/congo/cgland.htm|title=Congo Geography|first=John|last=Moen|publisher=World Atlas|website=worldatlas.com|access-date=21 March 2020|archive-date=21 March 2020|archive-url=https://web.archive.org/web/20200321044429/https://www.worldatlas.com/webimage/countrys/africa/congo/cgland.htm|url-status=live}}</ref>
+[[File:StatisticalData 1.svg|right|thumb|Climate diagram for [[Brazzaville]]]]
+Congo is located in the central-western part of [[sub-Saharan Africa]], along the [[Equator]], lying between latitudes [[4th parallel north|4°N]] and [[5th parallel south|5°S]], and longitudes [[11th meridian east|11°]] and [[19th meridian east|19°E]]. To the south and east of it is the [[Democratic Republic of the Congo]]. It is bounded by [[Gabon]] to the west, [[Cameroon]] and the [[Central African Republic]] to the north, and [[Cabinda (province)|Cabinda]] ([[Angola]]) to the southwest. It has a coast on the Atlantic Ocean.
+
+The southwest is a coastal plain for which the primary drainage is the [[Kouilou-Niari River]]; the interior of the country consists of a central plateau between 2 basins to the south and north. Forests are under increasing exploitation pressure.<ref>[http://pdf.wri.org/gfw_congo_atlas_v1_affiche_fr.pdf Map: Situation de l'exploitation forestière en République du Congo] {{Webarchive|url=https://web.archive.org/web/20090114040015/http://pdf.wri.org/gfw_congo_atlas_v1_affiche_fr.pdf |date=14 January 2009 }}. (PDF) . Retrieved on 25 February 2013.</ref> Congo had a 2018 [[Forest Landscape Integrity Index]] mean score of 8.89/10, ranking it 12th globally out of 172 countries.<ref name="FLII-Supplementary">{{cite journal|last1=Grantham|first1=H. S.|last2=Duncan|first2=A.|last3=Evans|first3=T. D.|last4=Jones|first4=K. R.|last5=Beyer|first5=H. L.|last6=Schuster|first6=R.|last7=Walston|first7=J.|last8=Ray|first8=J. C.|last9=Robinson|first9=J. G.|last10=Callow|first10=M.|last11=Clements|first11=T.|last12=Costa|first12=H. M.|last13=DeGemmis|first13=A.|last14=Elsen|first14=P. R.|last15=Ervin|first15=J.|last16=Franco|first16=P.|last17=Goldman|first17=E.|last18=Goetz|first18=S.|last19=Hansen|first19=A.|last20=Hofsvang|first20=E.|last21=Jantz|first21=P.|last22=Jupiter|first22=S.|last23=Kang|first23=A.|last24=Langhammer|first24=P.|last25=Laurance|first25=W. F.|last26=Lieberman|first26=S.|last27=Linkie|first27=M.|last28=Malhi|first28=Y.|last29=Maxwell|first29=S.|last30=Mendez|first30=M.|last31=Mittermeier|first31=R.|last32=Murray|first32=N. J.|last33=Possingham|first33=H.|last34=Radachowsky|first34=J.|last35=Saatchi|first35=S.|last36=Samper|first36=C.|last37=Silverman|first37=J.|last38=Shapiro|first38=A.|last39=Strassburg|first39=B.|last40=Stevens|first40=T.|last41=Stokes|first41=E.|last42=Taylor|first42=R.|last43=Tear|first43=T.|last44=Tizard|first44=R.|last45=Venter|first45=O.|last46=Visconti|first46=P.|last47=Wang|first47=S.|last48=Watson|first48=J. E. M.|title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity – Supplementary Material|journal=Nature Communications|volume=11|issue=1|year=2020|page=5978|issn=2041-1723|doi=10.1038/s41467-020-19493-3|pmid=33293507|pmc=7723057|bibcode=2020NatCo..11.5978G }}</ref>
+
+Congo lies within four terrestrial ecoregions: [[Atlantic Equatorial coastal forests]], [[Northwestern Congolian lowland forests]], [[Western Congolian swamp forests]], and [[Western Congolian forest–savanna mosaic]].<ref name="DinersteinOlson2017">{{cite journal|last1=Dinerstein|first1=Eric|last2=Olson|first2=David|last3=Joshi|first3=Anup|last4=Vynne|first4=Carly|last5=Burgess|first5=Neil D.|last6=Wikramanayake|first6=Eric|last7=Hahn|first7=Nathan|last8=Palminteri|first8=Suzanne|last9=Hedao|first9=Prashant|last10=Noss|first10=Reed|last11=Hansen|first11=Matt|last12=Locke|first12=Harvey|last13=Ellis|first13=Erle C|last14=Jones|first14=Benjamin|last15=Barber|first15=Charles Victor|last16=Hayes|first16=Randy|last17=Kormos|first17=Cyril|last18=Martin|first18=Vance|last19=Crist|first19=Eileen|last20=Sechrest|first20=Wes|last21=Price|first21=Lori|last22=Baillie|first22=Jonathan E. M.|last23=Weeden|first23=Don|last24=Suckling|first24=Kierán|last25=Davis|first25=Crystal|last26=Sizer|first26=Nigel|last27=Moore|first27=Rebecca|last28=Thau|first28=David|last29=Birch|first29=Tanya|last30=Potapov|first30=Peter|last31=Turubanova|first31=Svetlana|last32=Tyukavina|first32=Alexandra|last33=de Souza|first33=Nadia|last34=Pintea|first34=Lilian|last35=Brito|first35=José C.|last36=Llewellyn|first36=Othman A.|last37=Miller|first37=Anthony G.|last38=Patzelt|first38=Annette|last39=Ghazanfar|first39=Shahina A.|last40=Timberlake|first40=Jonathan|last41=Klöser|first41=Heinz|last42=Shennan-Farpón|first42=Yara|last43=Kindt|first43=Roeland|last44=Lillesø|first44=Jens-Peter Barnekow|last45=van Breugel|first45=Paulo|last46=Graudal|first46=Lars|last47=Voge|first47=Maianna|last48=Al-Shammari|first48=Khalaf F.|last49=Saleem|first49=Muhammad|title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm|journal=BioScience|volume=67|issue=6|year=2017|pages=534–545|issn=0006-3568|doi=10.1093/biosci/bix014|pmid=28608869|pmc=5451287}}</ref> Since the country is located on the Equator, the climate is more consistent year-round, with the average day temperature a humid {{convert|24|C|F}} and nights generally between {{convert|16|C|F}} and {{convert|21|C|F}}. The average yearly rainfall ranges from {{convert|1100|mm|in}} in the [[Niari Valley]] in the south to over {{convert|2000|mm|in}} in central parts. The dry season is from June to August, while in the majority of the country, the wet season has 2 rainfall maxima: 1 in March–May and another in September–November.<ref>{{cite journal
+| title = Rainfall and temperature variations over Congo-Brazzaville between 1950 and 1998
+|author1=Samba G. |author2=Nganga D. |author3=Mpounza M. | journal = Theoretical and Applied Climatology
+| volume = 91
+| issue = 1–4
+| pages = 85–97
+| year = 2008
+| doi=10.1007/s00704-007-0298-0| bibcode = 2008ThApC..91...85S
+|s2cid=120659948 }}</ref>
+
+In 2006–07, researchers from the [[Wildlife Conservation Society]] studied gorillas in "heavily forested" regions centered on the [[Ouesso District]] of the [[Sangha Region]]. They suggest a population on the order of 125,000 [[western lowland gorilla]]s whose isolation from humans has been mostly preserved by "inhospitable" swamps.<ref>{{cite news |url = https://www.npr.org/templates/story/story.php?storyId=93254830 |title = 'Mother Lode' Of Gorillas Found in Congo Forests : NPR |newspaper = NPR.org |access-date = 15 August 2008 |archive-url = https://web.archive.org/web/20080828044221/http://www.npr.org/templates/story/story.php?storyId=93254830 |archive-date = 28 August 2008 |url-status = live |df = dmy-all }}</ref>
+
+===Biodiversity===
+{{Main|Wildlife of the Republic of the Congo}}
+
+== Government and politics ==
+{{main|Politics of the Republic of the Congo|Cabinet of the Republic of the Congo}}
+
+<!--Please add new information into relevant articles of the series-->
+{{see also|Constitution of the Republic of the Congo|Foreign relations of the Republic of the Congo|Armed Forces of the Republic of the Congo|Biens mal acquis}}
+[[File:Vladimir Putin and Denis Sassou Nguesso (2025-05-09).jpg|thumb|Congo's President [[Denis Sassou Nguesso]] with Russian President [[Vladimir Putin]] in Moscow, Russia, on 9 May 2025]]
+The government of the republic is a [[semi-presidential system]] with an elected president who appoints the [[Cabinet of the Republic of the Congo|Council of Ministers, or Cabinet]]. The council, including the prime minister, is selected from the elected representatives in Parliament. Since the 1990s, the country has had a [[Multi-party system|multi-party political system]] that is dominated by President [[Denis Sassou Nguesso]]. Sassou Nguesso is backed by his own [[Congolese Labour Party]] ({{langx|fr|Parti Congolais du Travail}}&thinsp;) as well as a range of smaller parties.
+
+Sassou's regime has seen [[Political corruption|corruption]] revelations, with attempts to censor them. One French investigation found over 110 bank accounts and dozens of "lavish properties" in France.<ref>{{cite web |url=https://af.reuters.com/article/idAFLR9382820090429?pageNumber=3&virtualBrandChannel=0 |title=FACTBOX-African leaders' French assets under scrutiny |publisher=Reuters |date=29 April 2009 |url-status=dead |archive-url=https://web.archive.org/web/20120204033107/https://af.reuters.com/article/idAFLR9382820090429?pageNumber=3&virtualBrandChannel=0 |archive-date=4 February 2012 |access-date=1 July 2017}}</ref> Sassou denounced embezzlement investigations as "racist" and "colonial".<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/africa/6948281.stm|title=Congo leader son fails in gag bid|publisher=BBC|date=15 August 2007|access-date=26 July 2009|archive-url=https://web.archive.org/web/20090930011028/http://news.bbc.co.uk/2/hi/africa/6948281.stm|archive-date=30 September 2009|url-status=live}}</ref><ref>{{cite web|url=http://www.fpif.org/fpiftxt/6209|title=Propping Up Africa's Dictators|publisher=Foreign Policy in Focus|date=22 June 2009|url-status=dead|archive-url=https://web.archive.org/web/20091012122950/http://www.fpif.org/fpiftxt/6209|archive-date=12 October 2009}}</ref><ref>{{cite news|url=https://af.reuters.com/article/idAFLR9382820090429?pageNumber=3&virtualBrandChannel=0 |title=FACTBOX-African leaders' French assets under scrutiny |newspaper=Reuters |date=29 April 2009 |url-status=dead |archive-url=https://web.archive.org/web/20120204033107/https://af.reuters.com/article/idAFLR9382820090429?pageNumber=3&virtualBrandChannel=0 |archive-date=4 February 2012 }}</ref> Denis Christel Sassou-Nguesso, son of Denis Sassou Nguesso, has been named in association with the [[Panama Papers]].<ref>{{cite news |url=http://www.lemonde.fr/afrique/article/2016/04/04/les-africains-du-panama-1-les-circuits-offshore-des-fils-de_4895102_3212.html#JWAeAK6oVt0UvEe4.99 |title=Les Africains du Panama (1) : les circuits offshore des " fils de " |author1=Joan Tilouine |author2=ICIJ |date=4 April 2016 |work=Le Monde |language=fr |access-date=10 December 2016 |archive-url=https://web.archive.org/web/20161112044052/http://www.lemonde.fr/afrique/article/2016/04/04/les-africains-du-panama-1-les-circuits-offshore-des-fils-de_4895102_3212.html#JWAeAK6oVt0UvEe4.99 |archive-date=12 November 2016 |url-status=live}}</ref>
+
+On 27 March 2015, Sassou Nguesso announced that his government would hold a referendum on changing the country's 2002 constitution to allow him to run for a third consecutive term in office.<ref>Ross, Aaron (27 March 2015) [https://www.reuters.com/article/us-congo-president-idUSKBN0MN25N20150327 Congo Republic president says expects referendum over the third term] {{Webarchive|url=https://web.archive.org/web/20150929205702/http://www.reuters.com/article/2015/03/27/us-congo-president-idUSKBN0MN25N20150327 |date=29 September 2015 }}. ''Reuters''</ref> On 25 October, the government held a referendum on allowing Sassou Nguesso to run in the next election. The government claimed that the proposal was approved by 92% of voters, with 72% of eligible voters participating. The opposition who boycotted the referendum said that the government's statistics were false and the vote was a fake one.<ref>{{cite news|url=https://www.reuters.com/article/us-congo-opposition-idUSKCN0SO24720151030#6gUx7xJL8tLmw1OB.97|title=Congo opposition holds ceremony for killed protesters|newspaper=Reuters|date=30 October 2015|access-date=1 July 2017|archive-url=https://web.archive.org/web/20151128070432/http://www.reuters.com/article/2015/10/30/us-congo-opposition-idUSKCN0SO24720151030#6gUx7xJL8tLmw1OB.97|archive-date=28 November 2015|url-status=live}}</ref> The election raised questions and was accompanied by civil unrest and police shootings of protesters;<ref>{{cite web |url=http://www.lefigaro.fr/international/2016/04/04/01003-20160404ARTFIG00174-violences-au-congo-le-gouvernement-accuse-les-opposants-a-sassou-nguesso.php |title=Violences au Congo : le government accuse les opposants à Sassou-Nguesso |work=Le Figaro |date=4 April 2016 |language=fr |access-date=1 June 2016 |archive-url=https://web.archive.org/web/20160514153900/http://www.lefigaro.fr/international/2016/04/04/01003-20160404ARTFIG00174-violences-au-congo-le-gouvernement-accuse-les-opposants-a-sassou-nguesso.php |archive-date=14 May 2016 |url-status=live}}</ref> at least 18 people were killed by security forces during opposition rallies leading up to the referendum held in October.
+
+===Administrative divisions===
+[[File:Congo regions named.png|thumb|upright=1.2|Map of the Republic of the Congo exhibiting its 12 departments]]
+{{main|Departments of the Republic of the Congo|Communes of the Republic of the Congo|Districts of the Republic of the Congo}}
+
+The republic has been divided into 15 [[Departments of the Republic of the Congo|departments]] since the adoption of the corresponding laws in October 2024.<ref>{{cite web |access-date=7 May 2025 |date=4 July 2024 |language=fr-FR |last=ACI |title=Congo-Décentralisation : Vers la création imminente de Trois nouveaux départements |url=https://www.aci.cg/congo-decentralisation-vers-la-creation-imminente-de-trois-nouveaux-departements/ |website=Agence Congolaise d'Information |archive-date=10 April 2025 |archive-url=https://web.archive.org/web/20250410112803/https://www.aci.cg/congo-decentralisation-vers-la-creation-imminente-de-trois-nouveaux-departements/ |url-status=live }}<!-- auto-translated from French by Module:CS1 translator --></ref><ref>{{cite web |title=République du Congo, Secrétariat général du gouvernement, Journal Officiel N°42-2024 |type=Voir pages 1304-1305 - Lois n° 25-2024, n° 26-2024 et n° 27-2024 du 08 Octobre 2024 |url=https://www.sgg.cg/JO/2024/congo-jo-2024-42.pdf |website=Journal Officiel |access-date=12 May 2025 |archive-date=30 May 2025 |archive-url=https://web.archive.org/web/20250530062506/https://www.sgg.cg/JO/2024/congo-jo-2024-42.pdf |url-status=live }}<!-- auto-translated from French by Module:CS1 translator --></ref> Departments are divided into communes and districts.<ref>
+With inconsistent figures:
+*The [http://www.presidence.cg/congo/administration.php site of the Presidency of the Republic of the Congo] {{Webarchive|url=https://web.archive.org/web/20090727221905/http://www.presidence.cg/congo/administration.php |date=27 July 2009 }} lists 11 departments, 7 communes, and 76 districts.
+*The 2004 [http://www.cnsee.org/Publication/Annuaire_04.pdf Statistical directory of Congo] {{Webarchive|url=https://web.archive.org/web/20091113142137/http://www.cnsee.org/Publication/Annuaire_04.pdf |date=13 November 2009 }} lists 12 departments, 6 communes, and 85 districts
+*A list of subprefects (higher representatives of State in a district) nominated in December 2008 lists 86 districts. Search {{cite web |url=http://www.zenga-mambu.com/fiche.php?id=693 |title=zenga-mambu.com |access-date=6 August 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090116112954/http://www.zenga-mambu.com/fiche.php?id=693 |archive-date=16 January 2009}}
+*Finally, the good figures seem to come from [http://www.congo-siteportail.info/Les-donnees-generales-sur-le-Congo_a18.html this site] {{Webarchive|url=https://web.archive.org/web/20090518092837/http://www.congo-siteportail.info/Les-donnees-generales-sur-le-Congo_a18.html |date=18 May 2009 }}: 12 departments, 7 communes, and 86 districts
+</ref>
+These are as follows:
+{{columns-list|colwidth=10em|
+*[[Bouenza Department|Bouenza]]
+*[[Brazzaville]]
+*[[Congo-Oubangui Department|Congo-Oubangui]]
+*[[Cuvette Department|Cuvette]]
+*[[Cuvette-Ouest Department|Cuvette-Ouest]]
+*[[Djoué-Léfini Department|Djoué-Léfini]]
+*[[Kouilou Department|Kouilou]]
+*[[Lékoumou Department|Lékoumou]]
+*[[Likouala Department|Likouala]]
+*[[Niari Department|Niari]]
+*[[Nkéni-Alima Department|Nkeni-Alima]]
+*[[Plateaux Department (Republic of the Congo)|Plateaux]]
+*[[Pointe-Noire]]
+*[[Pool Department|Pool]]
+*[[Sangha Department (Republic of the Congo)|Sangha]]
+}}
+{{Clear}}
+
+===Human rights===
+{{main|Human rights in the Republic of the Congo}}
+
+{{see also|LGBT rights in the Republic of the Congo}}
+Some [[Pygmies]] belong from birth to [[Bantu peoples|Bantu]]s in a relationship some refer to as slavery.<ref name=globalpost>{{cite news|url=http://www.globalpost.com/dispatch/news/regions/africa/111113/pygmy-pets-congo-pygmies-slavery-human-rights|title=Pygmies in the Congo treated like "pets": report|publisher=globalpost.com|access-date=13 November 2011|date=13 July 2014|archive-url=https://web.archive.org/web/20111114021904/http://www.globalpost.com/dispatch/news/regions/africa/111113/pygmy-pets-congo-pygmies-slavery-human-rights|archive-date=14 November 2011|url-status=live}}</ref><ref name="internationalreportingproject">{{cite news |first=Katie |last=Thomas |title=Slaves of the Congo |url=http://internationalreportingproject.org/stories/view/slaves-of-the-congo |publisher=International Reporting Project |date=4 March 2007 |access-date=13 July 2014 |archive-url=https://web.archive.org/web/20140714221201/http://internationalreportingproject.org/stories/view/slaves-of-the-congo |archive-date=14 July 2014 |url-status=live}}</ref> The Congolese Human Rights Observatory says that the Pygmies are treated as property in the same way as pets.<ref name=globalpost/> On 30 December 2010, the [[Parliament of the Republic of the Congo|Congolese parliament]] adopted a law to promote and protect the rights of indigenous peoples.{{clarify|how's this working out in practice? The statutory law is 1 thing; and what is actually happening with human rights ''de facto'' in the countryside?|date=October 2019}} This law is "the first" of its kind in Africa.<ref>{{cite web |url=http://www.iwgia.org/sw153.asp |title=UN expert praises Congo's draft law on indigenous rights |access-date=17 January 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101124090322/http://www.iwgia.org/sw153.asp |archive-date=24 November 2010 |work=iwgia.org |date=15 November 2010}}</ref>{{update after|2019|10|7}}
+
+==Economy==
+{{main|Economy of the Republic of the Congo}}
+
+{{see also|Hydrocarbon exploration|List of companies of the Republic of the Congo}}
+[[File:GDP per capita development of the Republic of the Congo.svg|thumb|GDP per capita development, 1950 to 2018]]
+
+The economy is a mixture of village agriculture and handicrafts, an industrial sector based mainly on [[petroleum]],<ref name="2018_nzaou_kongo"/><ref name="eia">{{cite web|url=http://www.eia.doe.gov/emeu/cabs/congo2.html |title=Congo-Brazzaville |publisher=Energy Information Administration, U.S. Government |access-date=11 June 2009 |url-status=dead |archive-url=https://web.archive.org/web/20080323115110/http://www.eia.doe.gov/emeu/cabs/congo2.html |archive-date=23 March 2008 }}</ref> support services, and a government characterized by budget problems and "overstaffing". Petroleum extraction has supplanted [[forestry]] as the mainstay of the economy. In 2008, the oil sector accounted for 65% of the [[GDP]], 85% of government revenue, and 92% of exports.<ref>[http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/CONGOEXTN/0,,menuPK:349223~pagePK:141132~piPK:141107~theSitePK:349199,00.html Republic of the Congo] {{Webarchive|url=https://web.archive.org/web/20090504123157/http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/CONGOEXTN/0,,menuPK:349223~pagePK:141132~piPK:141107~theSitePK:349199,00.html |date=4 May 2009 }} World Bank</ref> The country has untapped [[Mining in the Republic of the Congo|mineral]] wealth.<ref name="2018_nzaou_kongo"/>
+
+In the 1980s, rising oil revenues enabled the government to finance larger-scale development projects. GDP grew an average of 5% annually. The government has mortgaged a portion of its petroleum earnings, contributing to a "shortage of revenues". On 12 January 1994, the devaluation of [[CFA franc|Franc Zone]] currencies by 50% resulted in an inflation of 46% in 1994, and inflation has subsided since.<ref>
+{{cite web
+| url = http://www.econstats.com/weo/CCOG.htm
+| title = Congo, Republic of
+| publisher = EconStats
+| access-date = 11 June 2009
+| archive-url = https://web.archive.org/web/20090428114157/http://www.econstats.com/weo/CCOG.htm
+| archive-date = 28 April 2009
+| url-status = live
+| df = dmy-all
+}}
+</ref>
+
+Between 1994 and 1996, the economy underwent a difficult transition. The Congo took a number of measures to liberalize its economy, including reforming the tax, investment, labor, timber, and hydrocarbon codes. In 2002–03, Congo privatized banks, telecommunications, and transportation monopolies, to help improve and unreliable infrastructure. By the end of 1996 Congo had made progress in various areas targeted for reform. It made great strides toward macroeconomic stabilization through improving public finances and restructuring external debt. This change was accompanied by improvements in the structure of expenditures, with a reduction in personnel expenditures. Before June 1997, Congo and the United States ratified a bilateral investment treaty designed to facilitate and protect foreign investment. The country also adopted a new investment code intended to attract foreign capital. Despite these success, Congo's investment climate has challenges, offering few meaningful incentives for new investors.<ref>{{Cite web |title=Congo (Brazzaville) (11/05) |url=https://2009-2017.state.gov/outofdate/bgn/congobrazzaville/58673.htm |access-date=16 November 2024 |website=U.S. Department of State}}</ref>
+
+[[File:Jeunes filles apprenant la couture - Ecole Spéciale de Brazzaville.jpg|thumb|Women learning to sew, Brazzaville]]
+Economic reform efforts continued with the support of international organizations, including the [[World Bank]] and the [[International Monetary Fund]]. The reform program came to a halt in June 1997 when civil war erupted. When Sassou Nguesso returned to power in October 1997, he publicly expressed interest in moving forward on [[economic reform]]s and [[privatization]] and in renewing cooperation with international financial institutions. Economic progress was "badly hurt" by slumping oil prices and the resumption of armed conflict in December 1998, which "worsened" the republic's budget deficit.{{Citation needed|date=September 2024|reason=I believe this paragraph doesn't have a source as the quotes do not appear via ctrl-f in the documents cited in the next paragraph.}}
+
+The administration presides over an "uneasy internal peace" and faces "difficult" economic problems of stimulating recovery and reducing poverty, with record-high oil prices since 2003. Natural gas and diamonds are other exports, while Congo was excluded from the [[Kimberley Process]] in 2004 amid allegations that most of its diamond exports were, in fact, being smuggled out of the neighboring [[Democratic Republic of the Congo]]; it was re-admitted to the group in 2007.<ref>{{cite web|url=http://www.kimberleyprocess.com/download/getfile/310 |title=Kimberley Process Removes the Republic of Congo from the List of Participants |publisher=[[Kimberley Process]] |date=9 July 2004 |access-date=11 June 2008 |url-status=dead |archive-url=https://web.archive.org/web/20090510045124/http://www.kimberleyprocess.com/download/getfile/310 |archive-date=10 May 2009 }}</ref><ref>{{cite web|url=http://www.kimberleyprocess.com/download/getfile/678 |title=2007 Kimberley Process Communiqué |publisher=[[Kimberley Process]] |date=8 November 2007 |access-date=11 June 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080304225023/http://www.kimberleyprocess.com/download/getfile/678 |archive-date=4 March 2008 }}</ref>
+
+The Republic of the Congo has untapped base metal, gold, iron, and phosphate deposits.<ref>{{cite web | url=http://www.mbendi.com/indy/ming/af/co/p0005.htm | title=Mining in Congo | publisher=MBendi | access-date=14 June 2009 | archive-url=https://web.archive.org/web/20161227073149/https://www.mbendi.com/indy/ming/af/co/p0005.htm | archive-date=27 December 2016 | url-status=dead | df=dmy-all }}</ref> It is a member of the [[Organization for the Harmonization of Business Law in Africa]] (OHADA).<ref name="ohada.com">
+{{cite web
+  | title = OHADA.com: The business law portal in Africa
+  | url = http://www.ohada.com/index.php
+  | access-date = 22 March 2009
+| archive-url = https://web.archive.org/web/20090326033744/http://www.ohada.com/index.php
+  | archive-date = 26 March 2009
+| url-status = live
+  | df = dmy-all
+}}
+</ref> The Congolese government signed an agreement in 2009 to lease 200,000 hectares of land to [[South Africa]]n farmers to reduce its dependence on imports.<ref>{{cite web |last=Goodspeed |first=Peter |date=21 October 2009 |url=https://nationalpost.com/news/story.html?id=2130070 |archive-url=https://archive.today/20110218183659/http://www.nationalpost.com/news/story.html?id=2130070 |url-status=dead |archive-date=18 February 2011 |title=South Africa's white farmers prepare to trek to the Congo |access-date=10 September 2016 |work=National Post}}</ref><ref>[https://www.telegraph.co.uk/news/worldnews/africaandindianocean/congo/6398253/Congo-hands-land-to-South-African-farmers.html Congo hands land to South African farmers] {{Webarchive|url=https://web.archive.org/web/20180521201638/https://www.telegraph.co.uk/news/worldnews/africaandindianocean/congo/6398253/Congo-hands-land-to-South-African-farmers.html |date=21 May 2018 }}. Telegraph. 21 October 2009.</ref> The GDP of the Republic of the Congo grew by 6% in 2014 and is expected to have grown by 7.5% in 2015.<ref>{{Cite web|url = https://www.gfmag.com/global-data/country-data/republic-of-the-congo-gdp-country-report|title = Republic of the Congo GDP and Economic Data|access-date = 14 January 2016|website = Global Finance|archive-url = https://web.archive.org/web/20160124211901/http://www.gfmag.com/global-data/country-data/republic-of-the-congo-gdp-country-report|archive-date = 24 January 2016|url-status = live|df = dmy-all}}</ref>
+
+In 2018, the Republic of the Congo joined the [[Organization of Petroleum Exporting Countries]].<ref>{{cite web |title=OPEC Member Countries |url=https://www.opec.org/opec_web/en/about_us/25.htm |publisher=Organization of Petroleum Exporting Countries |access-date=20 January 2019 |archive-url=https://web.archive.org/web/20190208202051/https://www.opec.org/opec_web/en/about_us/25.htm |archive-date=8 February 2019 |url-status=live}}</ref>
+
+[[Congo–Ocean Railway]] was [[Congo–Ocean Railway#History|built by forced laborers]] during the 1930s. Some colonial architectural heritage is preserved. Restoration of architectural works is underway in Brazzaville, for example, at the Basilica of Sainte-Anne du Congo, which was completed in 2011.<ref>{{cite news|url=http://latitudefrance.org/25-mars-Inauguration-officielle-de.html|title=Inauguration de la basilique Sainte-Anne du Congo à Brazzaville|newspaper=Latitude France|place=Brazzaville|date=31 March 2011|access-date=21 March 2020|language=fr|url-status=dead|archive-url=https://web.archive.org/web/20110413224106/http://latitudefrance.org/25-mars-Inauguration-officielle-de.html|archive-date=13 April 2011}}</ref>
+
+==Demographics==
+{{main|Demographics of the Republic of the Congo}}
+
+{|class="wikitable" style="float: right; margin-left: 10px"
+|+Population{{UN_Population|ref}}
+! Year
+! Million
+|-
+|style="text-align:left;"|1950 ||style="text-align:right;"|0.8
+|-
+|style="text-align:left;"|2000 ||style="text-align:right;"|3.2
+|-
+|style="text-align:left;"|{{UN_Population|Year}} ||style="text-align:right;"|{{#expr:{{formatnum:{{UN_Population|Congo}}|R}}/1e6 round 1}}
+|}
+Its population is concentrated in the southwestern portion, leaving the areas of tropical [[jungle]] in the north virtually uninhabited. 70% of its total population lives in urban areas, namely in [[Brazzaville]], [[Pointe-Noire]], or one of the cities or villages lining the {{convert|534|km|adj=on}}, railway which connects the two cities. In rural areas, industrial and commercial activity has declined in some years, leaving rural economies dependent on the government for support and subsistence.<ref name="dos2009" />
+
+Before the 1997 war, about 9,000 Europeans and other non-Africans lived in Congo, most of whom were [[French people|French]]; a fraction of this number remains.<ref name="dos2009" /> Around 300 [[United States|American]] immigrants reside in the Congo.<ref name="dos2009" />
+
+According to a 2011–12 survey, the total fertility rate was 5.1 children born per woman, with 4.5 in urban areas and 6.5 in rural areas.<ref>[http://www.measuredhs.com/pubs/pdf/FR267/FR267.pdf Congo. Enquête Démographique et de Santé 2011–2012] {{Webarchive|url=https://web.archive.org/web/20140222140728/http://www.measuredhs.com/pubs/pdf/FR267/FR267.pdf |date=22 February 2014 }}. Centre National de la Statistique et des Études Économiques (CNSEE), Brazzaville. December 2012</ref>
+
+===Largest cities===
+{{Largest cities
+| country      = Republic of the Congo (2023 census)
+| stat_ref     =<ref>{{Cite web|url=https://www.citypopulation.de/en/congo/admin/|title=Congo (Rep.): Administrative Division|work=City Population|access-date=3 February 2025|archive-date=20 January 2025|archive-url=https://web.archive.org/web/20250120080145/https://www.citypopulation.de/en/congo/admin/|url-status=live}}</ref>
+| list_by_pop  = 
+| div_name     = 
+| div_link     = Departments of the Republic of the Congo{{!}}Department
+
+| city_1 = Brazzaville
+| div_1 = Brazzaville Department{{!}}Brazzaville
+| pop_1 = 2,138,236
+
+| city_2 = Pointe-Noire
+| div_2 = Pointe-Noire Department{{!}}Pointe-Noire
+| pop_2 = 1,398,812
+
+| city_3 = Dolisie
+| div_3 = Niari Department{{!}}Niari
+| pop_3 = 178,172
+
+| city_4 =Nkayi, Republic of the Congo{{!}}Nkayi
+| div_4 = Bouenza
+| pop_4 = 104,083
+
+| city_5 = Ouésso
+| div_5 = Sangha Department (Republic of the Congo){{!}}Sangha
+| pop_5 = 75,095
+
+| city_6 = Kintélé
+| div_6 = Pool Department{{!}}Pool
+| pop_6 = 71,629
+
+| city_7 = Oyo, Republic of the Congo{{!}}Oyo
+| div_7 = Cuvette Department{{!}}Cuvette
+| pop_7 = 63,598
+
+| city_8 = Bétou
+| div_8 = Likouala Department{{!}}Likouala
+| pop_8 = 59,563
+
+| city_9 = Gamboma
+| div_9 = Plateaux Department (Republic of the Congo){{!}}Plateaux
+| pop_9 = 52,652
+
+| city_10 = Owando
+| div_10 = Cuvette Department{{!}}Cuvette
+| pop_10 = 48,642
+
+}}
+
+===Languages===
+{{Main|Languages of the Republic of the Congo}}
+
+[[French language|French]] is the official language of the Republic of the Congo. Kituba and Lingala are recognized as national languages. In addition, [[Ethnologue]] recognizes 62 spoken languages in the country.<ref>{{cite web | url=http://www.ethnologue.com/show_country.asp?name=CG | title=Languages of Congo | publisher=SIL International | access-date=13 June 2009 | archive-url=https://web.archive.org/web/20080923225148/http://www.ethnologue.com/show_country.asp?name=CG | archive-date=23 September 2008 | url-status=live | df=dmy-all }}</ref> The [[Kongo people|Kongo]] are the largest ethnic group and form roughly half of the population. The most significant subgroups of the Kongo are [[Lari (ethnic group)|Laari]], in Brazzaville and Pool regions, and the [[Vili people|Vili]], around Pointe-Noire and along the Atlantic coast. The second largest group is the [[Bateke|Teke]], who live to the north of Brazzaville, with 16.9% of the population. [[Mbochi people|Mbochi]] live in the north, east and in Brazzaville and form 13.1% of the population.<ref>{{cite book | title=Ethnic groups worldwide | last=Levinson |first=David | year=1998 | pages=120–121 | isbn=978-1-57356-019-1 | url=https://books.google.com/books?id=uwi-rv3VV6cC&pg=PA120 | publisher=Greenwood Publishing Group | access-date=20 December 2020 | archive-date=13 April 2021 | archive-url=https://web.archive.org/web/20210413223837/https://books.google.com/books?id=uwi-rv3VV6cC&pg=PA120 | url-status=live }}</ref><ref>{{cite web | url=http://www.minorityrights.org/?lid=4141 | title=Congo Overview | publisher=Minority Rights Group International | access-date=13 June 2009 | archive-url=https://web.archive.org/web/20080614031740/http://www.minorityrights.org/?lid=4141 | archive-date=14 June 2008 | url-status=live | df=dmy-all }}</ref> [[Pygmies]] make up 2% of Congo's population.<ref>{{cite news | url=http://www.lemonde.fr/afrique/article/2011/08/05/les-pygmees-du-congo-en-danger-d-extinction_1556735_3212.html#ens_id=1259967 | title=Les pygmées du Congo en "danger d'extinction" | newspaper=Le Monde | date=5 August 2011 | access-date=5 November 2017 | archive-url=https://web.archive.org/web/20171107030414/http://www.lemonde.fr/afrique/article/2011/08/05/les-pygmees-du-congo-en-danger-d-extinction_1556735_3212.html#ens_id=1259967 | archive-date=7 November 2017 | url-status=live | df=dmy-all }}</ref>
+
+===Religion===
+{{Main|Religion in the Republic of the Congo}}
+
+{{Pie chart
+|thumb = right
+|caption = Religion in the Republic of the Congo by the [[Association of Religion Data Archives]] (2015)<ref name="ARDA">{{cite web|date=2015|title=Congo, Republic of the|access-date=18 May 2020|publisher=[[Association of Religion Data Archives]]|url=http://www.thearda.com/internationalData/countries/Country_58_1.asp|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022230535/https://thearda.com/internationalData/countries/Country_58_1.asp|url-status=live}}</ref>
+|label1 = [[Catholic Church|Catholic]]
+|value1 = 52.9
+|color1 = Blue
+|label2 = [[Protestantism|Protestant]] and other Christian
+|value2 = 35.6
+|color2 = DarkOrchid
+|label3 = [[Traditional African religions]]
+|value3 = 4.7
+|color3 = Gold
+|label4 = Other religions
+|value4 = 2.3
+|color4 = MediumSeaGreen
+|label5 = No religion
+|value5 = 3.0
+|color5 = Grey
+|label6 = Don't know
+|color6 = black
+|value6 = 1.4
+}}
+According to CIA World Factbook, the people of the Republic of the Congo are largely a mix of [[Catholics]] (33.1%), adherents of Awakening Churches and [[Christian revival|Christian Revivalism]] (22.3%), and other [[Protestants]] (19.9%) as of 2007. Followers of [[Islam]] make up 1.6%; this is primarily due to an influx of foreign workers into the urban centers.<ref name="CIAWFB" />
+
+===Education===
+{{Main|Education in the Republic of the Congo}}
+
+[[File:SAINTE RITA CONG-BR2.jpg|thumb|School children in the classroom, Republic of the Congo]]
+Public expenditure of the [[Gross domestic product|GDP]] was less in 2002–05 than in 1991.<ref name="hdrstats.undp.org"/> Public education is theoretically free and mandatory for under-16-year-olds<ref name="unhcr.org">[http://www.unhcr.org/refworld/country,,,,COG,456d621e2,4aba3ee628,0.html Refworld | 2008 Findings on the Worst Forms of Child Labor – Congo, Republic of the] {{webarchive|url=https://web.archive.org/web/20110510033931/http://www.unhcr.org/refworld/country,,,,COG,456d621e2,4aba3ee628,0.html |date=10 May 2011 }}. UNHCR. Retrieved on 25 February 2013.</ref> but in practice educational expenses must be borne by parents.<ref name="unhcr.org"/> In 2005 the net primary enrollment rate was 44%, a drop from 79% in 1991.<ref name="hdrstats.undp.org"/> The investment in education has significantly dropped in recent years, leading to a dip in quality. In 2018, the school completion rate was 66% for girls and 64% for boys.<ref>{{Cite web |title=Congo, Republic: Education Country Brief |url=https://www.iicba.unesco.org/en/congo-republic}}</ref> Although the government has made attempts to provide [[Vocational education|Vocational training]] and [[tertiary education]], they remain poor and inaccessible to most young adults in the country.<ref>{{Cite web |title=Congo, Republic of the Education System |url=https://www.scholaro.com/db/countries/Republic-of-the-Congo/Education-System |access-date=15 June 2025 |website=www.scholaro.com}}</ref>
+
+===Health===
+{{Main|Health in the Republic of the Congo}}
+
+Public expenditure health was at 8.9% of the GDP in 2004 whereas private expenditure was at 1.3%.<ref name="hdrstats.undp.org">{{cite web |url=http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_COG.html |title=Human Development Report 2009 |access-date=24 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20100117223815/http://hdrstats.undp.org/en/countries/data_sheets/cty_ds_COG.html |archive-date=17 January 2010 |work=undp.org}}</ref>
+{{As of|2012}}, the [[HIV/AIDS]] prevalence was at 2.8% among 15- to 49-year-olds.<ref name="CIAWFB" /> Health expenditure was at US$30 per capita in 2004.<ref name="hdrstats.undp.org"/> A proportion of the population is undernourished,<ref name="hdrstats.undp.org"/> and [[malnutrition]] is a problem in Congo.<ref>{{cite web|url=http://www.irinnews.org/report/73653/congo-grappling-with-malnutrition-and-post-conflict-woes|title=IRIN Africa – CONGO: Grappling with malnutrition and post-conflict woes – Congo – Food Security – Health & Nutrition|work=IRINnews|access-date=23 January 2015|date=8 August 2007|archive-url=https://web.archive.org/web/20141129020635/http://www.irinnews.org/report/73653/congo-grappling-with-malnutrition-and-post-conflict-woes|archive-date=29 November 2014|url-status=live}}</ref> There were 20 physicians per 100,000 persons in the 2000s (decade).<ref name="hdrstats.undp.org"/>
+
+{{As of|2010}}, the [[maternal mortality]] rate was 560 deaths/100,000 live births, and the [[infant mortality]] rate was 59.34 deaths/1,000 live births.<ref name="CIAWFB" /> [[Female genital mutilation]] (FGM) is confined to limited geographic areas.<ref>{{cite web|url=http://inthenews.unfpa.org/?p=15146|title=CONGO (BRAZZAVILLE): UNFPA Leads Fight Against FGM " UNFPA in the News|access-date=23 January 2015|url-status=dead|archive-url=https://web.archive.org/web/20141129011052/http://inthenews.unfpa.org/?p=15146|archive-date=29 November 2014}}</ref>
+
+==Culture==
+{{Main|Culture of the Republic of the Congo}}
+
+===Music===
+{{Main|Music of the Republic of the Congo}}
+
+===Media===
+{{Main|Mass media in the Republic of the Congo}}Rural Congolese often receive their news via state-run radio; broadcast media is the main source of news for the majority of Congolese. Government-owned and private media are usually pro-government. Programs are broadcast in a variety of languages. [[Print media]] is often circulated in Brazzaville and [[Pointe-Noire]]. Important news papers include ''Le Choc'', ''Les Echos du Congo'', ''L'Observateur'', and ''[[La Semaine Africaine|Le Semaine Africaine]]''.<ref>{{Cite news |title=Republic of the Congo - Music, Cuisine, Festivals {{!}} Britannica |url=https://www.britannica.com/place/Republic-of-the-Congo/Cultural-life |archive-url=http://web.archive.org/web/20251012093446/https://www.britannica.com/place/Republic-of-the-Congo/Cultural-life |archive-date=12 October 2025 |access-date=25 May 2026 |work=Encyclopedia Britannica |language=en}}</ref>
+
+===Cuisine===
+{{Expand section|date=April 2026}}
+
+===Sports===
+{{Further information|Football in the Republic of the Congo|Rugby union in the Republic of the Congo}}
+The most popular sports in the country are [[basketball]], [[association football|football]], [[rugby union]], [[volleyball]], and [[tennis]].<ref>{{Cite web |title=Sports {{!}} EMBASSY OF THE REPUBLIC OF CONGO |url=https://www.ambacongo-us.org/index.php/en/about-congo/people-culture/sports#:~:text=Soccer%20is%20the%20most%20popular,%E2%80%9D%20(The%20Red%20Devils). |access-date=15 June 2025 |website=www.ambacongo-us.org}}</ref> Basketball and football are extremely popular amongst the Congolese youth.
+
+==See also==
+{{Portal|Republic of the Congo|Africa|Countries}}
+* [[List of people from the Republic of the Congo]]
+* {{annotated link|Outline of the Republic of the Congo}}
+{{clear}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin}}
+* Petringa, Maria (2006). ''Brazza, A Life for Africa''. {{ISBN|978-1-4259-1198-0}}.
+{{Refend}}
+
+==External links==
+{{Sister project links|Republic of the Congo|voy=Republic of the Congo}}
+*[http://www.presidence.cg/accueil/ Presidency of the Republic] {{Webarchive|url=https://web.archive.org/web/20101222012727/http://www.presidence.cg/accueil/ |date=22 December 2010 }} {{in lang|fr}}
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/congo-republic-of-the.html Chief of State and Cabinet Members] {{Webarchive|url=https://web.archive.org/web/20081210080257/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/congo-republic-of-the.html |date=10 December 2008 }}
+*[http://news.bbc.co.uk/2/hi/africa/country_profiles/1076794.stm Country Profile] {{Webarchive|url=https://web.archive.org/web/20091231042330/http://news.bbc.co.uk/2/hi/africa/country_profiles/1076794.stm |date=31 December 2009 }} from [[BBC News]]
+*[https://web.archive.org/web/20081207054856/http://ucblibraries.colorado.edu/govpubs/for/Congo.htm Republic of the Congo] from ''UCB Libraries GovPubs''
+*{{wikiatlas|the Republic of the Congo}}
+
+{{Congo-Brazzaville topics}}
+{{Navboxes
+|list  =
+{{Countries of Africa}}
+{{African Union}}
+{{La Francophonie}}
+}}
+{{Authority control}}
+
+{{coord|-1.44|15.556|display=title|type:country}}
+
+{{DEFAULTSORT:Congo, Republic Of The}}
+[[Category:Republic of the Congo| ]]
+[[Category:Countries in Central Africa]]
+[[Category:Former French colonies]]
+[[Category:Countries and territories where French is an official language]]
+[[Category:Economic Community of Central African States]]
+[[Category:Member states of OPEC]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:States and territories established in 1960]]
+[[Category:1960 establishments in Africa]]
+[[Category:Countries in Africa]]

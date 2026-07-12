@@ -1,0 +1,566 @@
+{{Short description|Country in the Caribbean}}
+{{about|the island country in the Caribbean|other uses}}
+{{Distinguish|text=[[Granada]] in Spain}}
+{{pp-move}}
+{{More citations needed|date=July 2025}}
+{{Use British English|date=June 2019}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox country
+| conventional_long_name = Grenada
+| common_name            = Grenada
+| native_name            = 
+| image_flag             = Flag of Grenada.svg
+| image_coat             = Coat of arms of Grenada.svg
+| national_motto         = "Ever Conscious of God We Aspire, Build and Advance as One People"{{lower|0.2em|<ref>{{cite web |url=http://www.gov.gd/ |title=Government of Grenada Website |access-date=1 November 2007 |archive-date=27 June 2018 |archive-url=https://web.archive.org/web/20180627205953/http://www.gov.gd/ |url-status=live }}</ref>}}
+| national_anthem        = "[[Hail Grenada]]"<div style="display:inline-block;margin-top:0.4em;">[[File:HailGrenada.ogg]]</div>
+| royal_anthem           = "[[God Save the King]]"{{efn|As a [[Commonwealth realm]] Grenada retains "[[God Save the King]]" as its royal anthem by precedent, with the song played in the presence of members of the royal family. The words ''King'', ''him'' and ''his'' used at present (in the reign of King Charles III) are replaced by ''Queen'', ''she'' and ''hers'' when the monarch is female.<ref>{{Cite web |title=National anthem |url=https://www.cia.gov/the-world-factbook/field/national-anthem |access-date=17 October 2024 |website=[[The World Factbook]] |publisher=[[Central Intelligence Agency]] |archive-date=19 March 2021 |archive-url=https://web.archive.org/web/20210319002941/https://www.cia.gov/the-world-factbook/field/national-anthem |url-status=dead}}</ref><ref>{{YouTube|id= v=aVOv5yRA7Pw&t|title="King Charles III visits Grenada Parliament, Caribbean Royal Tour 2019" }}</ref>}}
+<br /><div style="display:inline-block;margin-top:0.4em;">[[File:U.S. Navy Band - God Save the King.oga]]</div>
+| image_map              = {{switcher|[[File:Grenada on the globe (Americas centered).svg|upright=1.15|frameless]]|Show globe|[[File:Grenada CIA map PL.png|upright=1.15|frameless]]|Show map of Grenada}}
+| map_caption            = 
+| capital                = [[St. George's, Grenada|St. George's]]
+| coordinates            = {{Coord|12|3|14|N|61|44|43|W|type:landmark|name=Grenada House of Parliament}}
+| largest_city           = capital
+| official_languages     = {{unbulleted list|English}}
+| ethnic_groups          = {{vunblist
+ |82.4% [[Afro-Grenadians|Afro-Caribbean]]
+ |13.3% [[Multiracial people|Mixed]]
+ |2.2% [[Indo-Grenadians|Indian]]
+ |1.3% other
+ |0.9% unspecified
+ }}
+| ethnic_groups_year     = 2020<ref name="cia.gov" />
+| religion               = {{tree list}}
+* 96.6% [[Christianity]]
+** 48.8% [[Protestantism]]
+** 39.2% [[Catholic Church|Catholicism]]
+** 8.6% other Christian
+* 1.3% [[Hinduism]]
+* 1.0% [[Irreligion|no religion]]
+* 0.7% [[Rastafari]]
+* 0.4% other
+{{tree list/end}}
+| religion_year          = 2020
+| religion_ref           = <ref>{{cite web |url=https://www.thearda.com/world-religion/national-profiles?u=95c |title=World Religion Database, National Profile |access-date=14 October 2022 |archive-date=14 October 2022 |archive-url=https://web.archive.org/web/20221014051340/https://www.thearda.com/world-religion/national-profiles?u=95c |url-status=live }}</ref>
+| demonym                = [[Demographics of Grenada|Grenadian]]<ref>{{cite web |title=About Grenada, Carriacou & Petite Martinique |url=http://www.gov.gd/about_grenada.html |archive-url=https://web.archive.org/web/20090910073752/http://www.gov.gd/about_grenada.html |archive-date=10 September 2009 |access-date=31 July 2017 |website=Gov.gd }}</ref>
+| government_type        = [[Constitutional monarchy]]
+| leader_title1          = [[Monarch of Grenada|Monarch]]
+| leader_name1           = [[Charles III]]
+| leader_title2          = [[Governor-General of Grenada|Governor-General]]
+| leader_name2           = [[Cécile La Grenade|Dame Cécile La Grenade]]
+| leader_title3          = [[Prime Minister of Grenada|Prime Minister]]
+| leader_name3           = [[Dickon Mitchell]]
+| legislature            = [[Parliament of Grenada|Parliament]]
+| upper_house            = [[Senate of Grenada|Senate]]
+| lower_house            = [[House of Representatives of Grenada|House of Representatives]]
+| sovereignty_type       = Formation
+| established_event1     = [[Associated Statehood Act 1967|Associated State]]
+| established_date1      = 3 March 1967
+| established_event2     = Independence from the [[United Kingdom]]
+| established_date2      = 7 February 1974
+| established_event3     = [[People's Revolutionary Government (Grenada)|Grenadian Revolution]]
+| established_date3      = 13 March 1979
+| established_event4     = Constitution Restoration
+| established_date4      = 4 December 1984
+| area_km2               = 344<ref name="CIA World Factbook - Grenada"/>
+| area_rank              = 185th<!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 133<!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water          = 1.6
+| population_estimate    = 114,621<ref name="CIA World Factbook - Grenada"/>
+| population_census      = 
+| population_estimate_year = 2024
+| population_estimate_rank = 180th
+| population_census_year = 
+| population_density_km2 = 333
+| population_density_sq_mi = 862<!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 38th
+| GDP_PPP                = {{increase}} $2.3&nbsp;billion<ref name="imf2">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=328,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2024&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook October 2023 (Grenada) |publisher=International Monetary Fund |date=October 2023 |access-date=13 December 2023 |archive-date=13 December 2023 |archive-url=https://web.archive.org/web/20231213200610/https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=328,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2024&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |url-status=live }}</ref>
+| GDP_PPP_year           = 2023
+| GDP_PPP_per_capita     = {{increase}} $20,195<ref name="imf2"/>
+| GDP_nominal            = {{increase}} $1.3&nbsp;billion<ref name="imf2"/>
+| GDP_nominal_year       = 2023
+| GDP_nominal_per_capita = {{increase}} $11,437<ref name="imf2"/>
+| Gini                   = 43.8<!--number only-->
+| Gini_year              = 2018
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini_ref               = <ref>{{Cite web|title=Grenada – Data Commons|url=https://datacommons.org/place/country/GRD#:~:text=The%20Gini%20index%20in%20Grenada,was%20732.89kgoe%20in%202007.|access-date=29 August 2025|archive-date=11 August 2025|archive-url=https://web.archive.org/web/20250811080550/https://datacommons.org/place/country/GRD#:~:text=The%20Gini%20index%20in%20Grenada,was%20732.89kgoe%20in%202007.|url-status=live}}</ref>
+| Gini_rank              = 
+| HDI_year               = 2023<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI                    = 0.791 <!--number only-->
+| HDI_ref                = <ref>{{Cite web|date=26 May 2025|title=Human Development Report 2023/2024|url=https://hdr.undp.org/data-center/specific-country-data#/countries/GRD|access-date=25 May 2025|publisher=[[United Nations Development Programme]]|language=en|archive-date=12 August 2022|archive-url=https://web.archive.org/web/20220812054834/https://hdr.undp.org/data-center/specific-country-data#/countries/GRD|url-status=live}}</ref>
+| HDI_rank               = 80th
+| currency               = [[Eastern Caribbean dollar]]
+| currency_code          = XCD
+| time_zone              = [[Atlantic Time Zone|AST]]
+| utc_offset             = −4
+| utc_offset_DST         = 
+| time_zone_DST          = 
+| calling_code           = +1
+| cctld                  = [[.gd]]
+| footnote_a             = Plus trace of [[Arawaks|Arawak]]{{\}}[[Kalinago]].
+| website                = 
+}}
+'''Grenada'''{{efn|{{IPAc-en|audio=En-us-Grenada.ogg|ɡ|r|ə|ˈ|n|eɪ|d|ə}} {{Respell|grə|NAY|də}}; [[Grenadian Creole French]]: {{lang|crp-GD|La Gwinad}}{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=December 2025}}, {{IPA|crp-GD|ɡweˈnad|}}}} is an [[archipelagic country]] of the [[West Indies]] in the eastern [[Caribbean Sea]]. The southernmost of the [[Windward Islands]], Grenada is directly south of [[Saint Vincent and the Grenadines]] and about {{convert|100|mile}} north of [[Trinidad and Tobago|Trinidad]] and the South American mainland.
+
+Grenada consists of the island of Grenada itself, two smaller islands, [[Carriacou]] and [[Petite Martinique]], and several small islands that lie to the north of the main island and are a part of the Grenadines. Its size is {{convert|344|km2|sqmi}}, with an estimated population of 114,621 in 2024.<ref name="CIA World Factbook - Grenada">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/grenada/ |title=CIA World Factbook – Grenada |access-date=7 July 2024 |archive-date=11 August 2022 |archive-url=https://web.archive.org/web/20220811231159/https://www.cia.gov/the-world-factbook/countries/grenada/ |url-status=dead }}</ref> Its capital is [[St. George's, Grenada|St. George's]].<ref name="CIA World Factbook - Grenada"/> Grenada is also known as the "Island of Spice" due to its production of [[nutmeg]] and [[mace (spice)|mace]].<ref name="britannica.com">{{cite web |title=Grenada {{!}} History, Geography, & Points of Interest |url=https://www.britannica.com/place/Grenada |access-date=12 June 2020 |website=Encyclopedia Britannica |language=en |archive-date=3 August 2023 |archive-url=https://web.archive.org/web/20230803155402/https://www.britannica.com/place/Grenada |url-status=live }}</ref>
+
+Before the [[European colonization of the Americas|arrival of Europeans in the Americas]], Grenada was inhabited by [[Indigenous peoples of the Caribbean|Indigenous peoples]] from South America called Kalinago.<ref name="Hanna Camerhogne" /> [[Christopher Columbus]] sighted Grenada in 1498 during his [[Voyages of Christopher Columbus|third voyage]] to the Americas.<ref name="CIA World Factbook - Grenada"/> Following several unsuccessful attempts by Europeans to colonise the island, due to resistance from resident [[Kalinago]] people, [[French colonial empire|French]] settlement and colonisation began in 1649 and continued for the next century.<ref name="grenada-french"/> Between 1669 and 1808, according to the Voyages database, approximately 127,600 enslaved Africans were brought to Grenada by the British and French.  On 10 February 1763, Grenada was ceded to the [[British Empire|British]] under the [[Treaty of Paris (1763)|Treaty of Paris]]. British rule continued until 1974 (except for a [[Capture of Grenada (1779)|brief French takeover]] between 1779 and 1783).{{sfn|Steele|2003|pp=35–36}} However, on 3 March 1967, it was granted full autonomy over its internal affairs as an [[West Indies Associated States|Associated State]], and from 1958 to 1962, Grenada was part of the [[Federation of the West Indies]], a short-lived federation of [[British West Indies|British West Indian colonies]].
+
+Independence was granted on 7 February 1974 under the leadership of [[Eric Gairy]], who became the first [[List of heads of government of Grenada|prime minister of Grenada]] as a [[sovereign state]]. The new country became a member of the [[Commonwealth of Nations]], with [[Queen Elizabeth II]] as head of state.<ref name="CIA World Factbook - Grenada" /> In March 1979, the [[Marxism–Leninism|Marxist–Leninist]] [[New JEWEL Movement]] overthrew Gairy's government in a [[Bloodless coup|bloodless ''coup d'état'']] and established the [[People's Revolutionary Government]] (PRG), headed by [[Maurice Bishop]] as prime minister.<ref>{{Citation |last=Jacobs |first=Curtis |chapter=Grenada, 1949–1979: Precursor to Revolution |date=1 January 2015 |title=The Grenada Revolution |publisher=University Press of Mississippi |doi=10.14325/mississippi/9781628461510.003.0002 |isbn=978-1-62846-151-0 }}</ref> Bishop was later arrested and executed by members of the [[People's Revolutionary Army (Grenada)|People's Revolutionary Army]] (PRA), which was used to justify a [[United States invasion of Grenada|U.S.-led invasion]] in October 1983. Since then, the island has returned to a [[parliamentary system|parliamentary]] [[representative democracy]] and has remained [[Politics of Grenada|politically stable]].<ref name="CIA World Factbook - Grenada" /> The country is currently headed by [[King Charles III]], [[King of Grenada]] and 14 other [[Commonwealth realm]]s, who is represented by the [[Governor-General of Grenada]].
+
+== Etymology ==
+The origin of the name "Grenada" is obscure, but Spanish sailors likely named the island for the city of [[Granada]].<ref name="CIA World Factbook - Grenada"/><ref name="Crask-2009a">{{Cite book |url=https://archive.org/details/grenadacarriacou0000cras |url-access=registration |title=Grenada, Carriacou and Petite Martinique |last=Crask |first=Paul |date=2009 |publisher=Bradt Travel Guides |isbn=978-1-84162-274-3 |page=[https://archive.org/details/grenadacarriacou0000cras/page/5 5] |language=en }}</ref> The name "Granada" was recorded by Spanish maps in the 1520s and referred to the islands to the north as ''Los Granadillos'' ('Little Granadas');<ref name="grenada-french">{{cite book |year=2013 |last1=Martin |first1=John Angus |title=Island Caribs and French Settlers in Grenada: 1498-1763 |location=St George's, Grenada |publisher=Grenada National Museum Press |isbn=978-1-4904-7200-3 }}</ref> although those named islands were deemed the property of the [[Monarchy of Spain|King of Spain]], there are no records to suggest the Spanish ever attempted to settle Grenada.<ref name="Crask-2009b">{{Cite book |url=https://archive.org/details/grenadacarriacou0000cras |url-access=registration |title=Grenada, Carriacou and Petite Martinique |last=Crask |first=Paul |publisher=Bradt Travel Guides |date=2009 |isbn=978-1-84162-274-3 |page=[https://archive.org/details/grenadacarriacou0000cras/page/6 6] |language=en }}</ref> The French maintained the name (as "La Grenade" in French) after settlement and colonisation in 1649.<ref name="grenada-french" /> On 10 February 1763, the island of La Grenade was ceded to the British under the [[Treaty of Paris (1763)|Treaty of Paris]]. The British renamed it "Grenada", one of many place-name [[anglicisation]]s they made there.<ref>{{Cite book |url=https://archive.org/details/grenadacarriacou0000cras |url-access=registration |title=Grenada, Carriacou and Petite Martinique |last=Crask |first=Paul |publisher=Bradt Travel Guides |date=2009 |isbn=978-1-84162-274-3 |page=[https://archive.org/details/grenadacarriacou0000cras/page/7 7] |language=en }}</ref>
+
+The island was given its first European name by [[Christopher Columbus]], who sighted it on his [[Voyages of Christopher Columbus|third voyage]] to the region in 1498 and named it "La Concepción" in honour of the [[Mary, mother of Jesus|Virgin Mary]]. Reportedly, he may have actually named it "Assumpción", but this is uncertain, as he is said to have sighted what are now Grenada and Tobago from a distance and named them both at the same time. However, it became accepted that he named Tobago "Assumpción" and Grenada "La Concepción".<ref name="Crask-2009a" /> The year after, Italian explorer [[Amerigo Vespucci]] travelled through the region with the Spanish explorer [[Alonso de Ojeda]] and mapmaker [[Juan de la Cosa]]. Vespucci is reported to have renamed the island "Mayo", although this is the only map where the name appears.<ref name="Crask-2009b" />
+
+The Indigenous [[Arawak]] who once lived on the island before the arrival of the Europeans gave the name ''Camajuya''.<ref>{{Cite book |last=Higman |first=B. W. |url=https://books.google.com/books?id=fzorEAAAQBAJ&dq=camajuya+grenada&pg=PA58 |title=A Concise History of the Caribbean |date=2021 |publisher=Cambridge University Press |isbn=978-1-108-48098-7 |page=58 |language=en }}</ref>
+
+==History==
+{{main|History of Grenada}}
+
+=== Precolumbian history ===
+Grenada is thought to have been first populated by peoples from South America during the Caribbean [[Ortoiroid people|Archaic Age]], although definitive evidence is lacking. The earliest potential human presence comes from [[Proxy (statistics)|proxy]] evidence of lake cores, beginning {{circa|3600 BC}}.<ref>{{Cite journal |last1=Siegel |first1=Peter E. |last2=Jones |first2=John G. |last3=Pearsall |first3=Deborah M. |last4=Dunning |first4=Nicholas P. |last5=Farrell |first5=Pat |last6=Duncan |first6=Neil A. |last7=Curtis |first7=Jason H. |last8=Singh |first8=Sushant K. |display-authors=3 |date=2015 |title=Paleoenvironmental Evidence for First Human Colonization of the Eastern Caribbean |journal=Quaternary Science Reviews |volume=129 |pages=275–295 |bibcode=2015QSRv..129..275S |doi=10.1016/j.quascirev.2015.10.014 }}</ref> Less ephemeral, permanent villages began {{circa|100–200}}.<ref name="Hanna Camerhogne">{{Cite journal |last1=Hanna |first1=Jonathan A. |date=2019 |title=Camáhogne's Chronology: The Radiocarbon Settlement Sequence on Grenada |journal=The Journal of Anthropological Archaeology |volume=55 |article-number=101075 |doi=10.1016/j.jaa.2019.101075 |doi-access=free |s2cid=198785950 }}</ref> The population peaked between 750 and 1250, with major changes in population afterward, potentially the result of either the [[Kalinago|"Carib Invasion"]] (although highly contested),<ref>{{cite book |last1=Whitehead |first1=Neil |year=1995 |title=Wolves from the Sea: Readings in the Anthropology of the Native Caribbean |location=Leiden |publisher=KITLV Press }}</ref> regional droughts, or both.<ref>{{Cite journal |last1=Hanna |first1=Jonathan A. |date=2018 |title=Grenada and the Guianas: Demography, Resilience, and Terra Firme during the Caribbean Late Ceramic Age |journal=World Archaeology |volume=50 |issue=4 |pages=651–675 |doi=10.1080/00438243.2019.1607544 |s2cid=182630336 }}</ref>
+
+===European arrival===
+In 1498, Christopher Columbus was the first European to report sighting Grenada during his third voyage, naming it 'La Concepción', but Amerigo Vespucci may have renamed it 'Mayo' in 1499.<ref name="Encyclopedia Britannica - Grenada">{{cite web |url=https://www.britannica.com/place/Grenada |title=Encyclopedia Britannica – Grenada |access-date=12 July 2019 |archive-date=3 August 2023 |archive-url=https://web.archive.org/web/20230803155402/https://www.britannica.com/place/Grenada |url-status=live }}</ref> Although it was deemed the property of the King of Spain, there are no records to suggest the Spanish attempted to settle. However, various Europeans are known to have passed and both fought and traded with the indigenous peoples there.<ref name="grenada-french" /> The first known settlement attempt was a failed venture by the English in 1609 who were massacred and driven away by the native "Carib" peoples.{{sfn|Steele|2003|pp=35–36}}<ref name="Encyclopedia Britannica - Grenada"/><ref name="About Grenada: Historical Events">{{cite web |url=https://www.gov.gd/historical_facts.html |title=About Grenada: Historical Events |access-date=13 July 2019 |archive-date=13 July 2019 |archive-url=https://web.archive.org/web/20190713004756/https://www.gov.gd/historical_facts.html }}</ref>
+
+===French colony and slavery (1649–1763)===
+{{Main|French West Indies}}
+
+In 1649, a French expedition of 203 men from [[Martinique]], led by [[Jacques Dyel du Parquet]], founded a permanent settlement on Grenada.{{sfn|Steele|2003|pp=35–36}}<ref name="Encyclopedia Britannica - Grenada"/><ref name="About Grenada: Historical Events"/> They signed a peace treaty with the Carib chief [[Chief Kairouane|Kairouane]], but within months conflict broke out between the two communities.<ref>{{cite book |url=https://www.scribd.com/doc/296121904 |title=French pioneers in the West Indies, 1624–1664 |publisher=Columbia university press |author=Crouse, Nellis Maynard |year=1940 |location=New York |page=196 |archive-date=21 August 2022 |access-date=12 July 2019 |archive-url=https://web.archive.org/web/20220821205859/https://www.scribd.com/doc/296121904/French-Pioneers-in-the-West-Indies-1624-1664-Crouse-Nellis-Maynard-1884 |url-status=live }}</ref>{{sfn|Steele|2003|pp=39–48}} This lasted until 1654 when the island was completely subjugated by the French.{{sfn|Steele|2003|pp=35–44}} Warfare continued during the 1600s between the French on Grenada and the Caribs of present-day [[Dominica]] and [[St. Vincent and the Grenadines]].
+
+[[History of chocolate|Chocolate]] was brought to Grenada in 1714 with the introduction of [[cocoa bean]]s.<ref>{{cite web |url=https://www.bostonglobe.com/2019/12/10/lifestyle/chocolate-overload-grenada-its-entirely-possible/ |title=Chocolate overload? On Grenada, it's entirely possible |author1=Bair, Diane |author2=Wright, Pamela |date=10 December 2019 |publisher=[[Boston Globe]] |website=bostonglobe.com |access-date=19 October 2022 |archive-date=19 October 2022 |archive-url=https://web.archive.org/web/20221019225918/https://www.bostonglobe.com/2019/12/10/lifestyle/chocolate-overload-grenada-its-entirely-possible/ |url-status=live }}</ref>
+
+The French named their [[French colonial empires|new colony]] La Grenade, and the economy was initially based on [[sugar cane]] and [[indigo]], worked by African slaves via the transatlantic slave trade.{{sfn|Steele|2003|p=59}} According to records, during the French colonial period (circa 1659–1762), the enslaved population on Grenada rose from about 222 in 1669 to roughly 15,200 by 1763'''.''' The French established a capital known as Fort Royal (later St. George's). To shelter from hurricanes, the French navy would often take refuge in the capital's natural harbour, as no nearby French islands had a natural harbour to compare with that of Fort Royal. The British captured Grenada in the [[Seven Years' War]] in 1762.<ref name="Encyclopedia Britannica - Grenada"/>
+
+=== British colony, slavery and emancipation ===
+==== Early colonial period and slavery ====
+{{Main|British West Indies|British Windward Islands|West Indies Federation}}
+
+[[File:Port Saint-Georges dans l'île de la Grenade en 1776.jpg|thumb|The island of Grenada and port Saint-Georges in 1776]]
+
+Grenada was formally ceded to [[Kingdom of Great Britain|Britain]] by the Treaty of Paris in 1763.<ref name="Encyclopedia Britannica - Grenada"/> The French [[French capture of Grenada 1779|re-captured the island]] during the [[American Revolutionary War]], after [[Comte d'Estaing]] won the bloody land and naval [[Battle of Grenada]] in July 1779.<ref name="Encyclopedia Britannica - Grenada"/> However, the island was restored to Britain with the [[Peace of Paris (1783)|Treaty of Versailles]] in 1783.<ref name="Encyclopedia Britannica - Grenada"/> A decade later, dissatisfaction with British rule led to a [[Fédon's rebellion|pro-French revolt]] in 1795–96 led by [[Julien Fédon]], which was successfully defeated by the British.<ref>{{cite web |last=Jacobs |first=Curtis |title=The Fédons of Grenada, 1763–1814 |url=http://www.cavehill.uwi.edu/BNCCde/grenada/conference/papers/jacobsc.html |archive-url=https://web.archive.org/web/20080831201746/https://www.cavehill.uwi.edu/bnccde/grenada/conference/papers/Jacobsc.html |archive-date=31 August 2008 |publisher=[[University of the West Indies]] |access-date=10 March 2013 }}</ref><ref>{{Cite journal |last=Cox |first=Edward L. |title=Fedon's Rebellion 1795–96: Causes and Consequences |jstor=2717757 |journal=The Journal of Negro History |date=1982 |pages=7–19 |volume=67 |issue=1 |doi=10.2307/2717757 |s2cid=149940460 }}</ref>
+
+As Grenada's economy grew, more and more enslaved Africans were transported to the island. In 1785, Grenada had 23,926 enslaved Africans and 1,115 free people of colour, with around 996 European settlers. According to the Voyages Trans-Atlantic Slave Trade Database, by 1807 Britain had brought 114,000 slaves to Grenada'''.''' Britain eventually outlawed the slave trade within the British Empire in 1807, after transporting approximately 3.1 million Africans, between 1640 and 1807, with roughly 2.7 million surviving the Middle Passage and arriving in the Americas. Slavery was completely outlawed in 1833, leading to the emancipation of all enslaved Africans by 1838.<ref name="Encyclopedia Britannica - Grenada"/><ref>{{cite web |url=https://www.britannica.com/place/Anguilla-island-West-Indies |title=Encyclopedia Britannica – Anguilla |access-date=12 July 2019 |archive-date=7 August 2022 |archive-url=https://web.archive.org/web/20220807102108/https://www.britannica.com/place/Anguilla-island-West-Indies |url-status=live }}</ref> To ease the subsequent labour shortage, migrants from India were brought to Grenada in 1857.{{sfn|Steele|2003|pp=35–36}}<ref name="About Grenada: Historical Events"/>
+
+[[Nutmeg]] was introduced to Grenada in 1843 when a merchant ship called in on its way to England from the East Indies.{{sfn|Steele|2003|pp=35–36}}<ref name="About Grenada: Historical Events"/> The ship had a small quantity of nutmeg trees on board, which they left in Grenada. Nutmeg continues to be an important crop for the Grenadine economy.
+
+==== Later colonial period after slavery ====
+In 1877, Grenada was made a [[Crown colony]]. [[Theophilus A. Marryshow]] founded the Representative Government Association (RGA) in 1918 to agitate for a new and participative constitutional dispensation for the Grenadian people.<ref>{{Cite web |title=Marryshow |url=https://global.uwi.edu/sites/default/files/bnccde/grenada/centre/tam.htm |access-date=11 June 2024 |website=University of West Indies |archive-date=11 June 2024 |archive-url=https://web.archive.org/web/20240611112221/https://global.uwi.edu/sites/default/files/bnccde/grenada/centre/tam.htm |url-status=live }}</ref> Due to Marryshow's lobbying, the Wood Commission of 1921–22 concluded that Grenada was ready for constitutional reform in the form of a modified Crown colony government. This modification granted Grenadians the right to elect five of the 15 Legislative Council members on a restricted property franchise, enabling the wealthiest 4% of adult Grenadians to vote.<ref>{{cite web |url=http://www.bigdrumnation.org/comments/crowncolony.html |title=From Old Representative System to Crown Colony |publisher=Bigdrumnation.org |date=1 July 2008 |access-date=19 March 2012 |archive-date=1 August 2020 |archive-url=https://web.archive.org/web/20200801080545/http://www.bigdrumnation.org/comments/crowncolony.html |url-status=usurped }}</ref> Marryshow was named a [[1943 Birthday Honours#Commander of the Order of the British Empire (CBE)|Commander of the Order of the British Empire (CBE) in 1943]].<ref>{{Cite book |url=https://books.google.com/books?id=7CAfAQAAMAAJ |title=Year Book of the Bermudas, the Bahamas, British Guiana, British Honduras and the British West Indies |date=1944 |publisher=T. Skinner |volume=17 |page=32 |language=en |archive-date=8 December 2024 |access-date=11 June 2024 |archive-url=https://web.archive.org/web/20241208090651/https://books.google.com/books?id=7CAfAQAAMAAJ |url-status=live }}</ref>
+
+In 1950, [[Eric Gairy]] founded the [[Grenada United Labour Party]] (GULP), initially as a trade union, which led to the 1951 [[general strike]] for better working conditions.{{sfn|Steele|2003|pp=35–36}}<ref name="About Grenada: Historical Events"/><ref>{{cite web |url=http://caribbean.halloffame.tripod.com/Eric_Gairy.html |title=Eric Gairy - Caribbean Hall of Fame |website=caribbean.halloffame.tripod.com |access-date=12 July 2019 |archive-date=3 June 2009 |archive-url=https://web.archive.org/web/20090603023059/http://caribbean.halloffame.tripod.com/Eric_Gairy.html |url-status=live }}</ref> This sparked great unrest, and so many buildings were set ablaze that the disturbances became known as the "sky red" days. On 10 October 1951, Grenada held its [[1951 Grenadian general election|first general elections]] based on universal adult suffrage,<ref name="bigdrumnation.org">{{cite web |url=http://www.bigdrumnation.org/comments/1stgeneralelection.html |title=1951 and Coming of General Elections |publisher=BigDrumNation |access-date=19 March 2012 |archive-date=1 August 2020 |archive-url=https://web.archive.org/web/20200801065517/http://www.bigdrumnation.org/comments/1stgeneralelection.html |url-status=usurped }}</ref> with Gairy's party winning six of the eight seats contested.<ref name="bigdrumnation.org"/>
+
+From 1958 to 1962, Grenada was part of the [[Federation of the West Indies]].{{sfn|Steele|2003|pp=35–36}}<ref name="Encyclopedia Britannica - Grenada"/><ref name="About Grenada: Historical Events"/> After the federation's collapse, Grenada was granted full autonomy over its internal affairs as an Associated State on 3 March 1967.<ref name="Encyclopedia Britannica - Grenada"/> [[Herbert Blaize]] of the [[Grenada National Party]] (GNP) was the first Premier of the Associated State of Grenada from March to August 1967. Eric Gairy served as [[Premier of Grenada|Premier]] from August 1967 until February 1974.<ref name="Encyclopedia Britannica - Grenada"/>
+
+=== Post-independence era ===
+[[File:Bundesarchiv Bild 183-1982-0610-101, Berlin, Besuch Regierungsdelegation Grenada, Bootsfahrt.jpg|thumb|[[Maurice Bishop]] visiting East Germany, 1982]]
+
+Independence was granted on 7 February 1974 under the leadership of Eric Gairy, who became the first [[prime minister of Grenada]].{{sfn|Steele|2003|pp=35–36}}<ref name="Encyclopedia Britannica - Grenada"/><ref name="About Grenada: Historical Events"/> This is annually commemorated as [[Independence Day (Grenada)|Independence Day]].<ref>{{Cite news |last=Fleary |first=Sinai |date=8 February 2024 |title=Grenada at 50: Will It Become a Republic? |url=https://www.voice-online.co.uk/news/features-news/2024/02/08/grenada-at-50-will-it-become-a-republic/ |work=[[The Voice (British newspaper)|The Voice]] |archive-date=9 February 2024 |access-date=28 January 2025 |archive-url=https://web.archive.org/web/20240209132123/https://www.voice-online.co.uk/news/features-news/2024/02/08/grenada-at-50-will-it-become-a-republic/ |url-status=live }}</ref> Grenada opted to remain within the [[Commonwealth of Nations|Commonwealth]], retaining Queen Elizabeth as [[Monarchy of Grenada|Monarch]], represented locally by a [[Governor-General of Grenada|governor-general]]. Civil conflict gradually broke out between Eric Gairy's government and some opposition parties, including the Marxist [[New JEWEL Movement]] (NJM).<ref name="Encyclopedia Britannica - Grenada"/> Gairy and the GULP won the [[1976 Grenadian general election]], albeit with a reduced majority;<ref name="Encyclopedia Britannica - Grenada"/> however, the opposition deemed the results invalid due to fraud and the violent intimidation performed by the so-called '[[Mongoose Gang]]', a private militia loyal to Gairy.<ref name=N1>[[Dieter Nohlen|Nohlen, D]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p301-302 {{ISBN|978-0-19-928357-6 }}</ref><ref>{{cite web |url=http://thecommonwealth.org/our-member-countries/grenada/history |title=Grenada: History |access-date=8 October 2013 |archive-date=25 October 2021 |archive-url=https://web.archive.org/web/20211025030631/https://thecommonwealth.org/our-member-countries/grenada/history }}</ref><ref>{{cite web |url=http://caribbean-beat.com/issue-96/end-eric |title=The end of Eric Gairy |date=March 2009 |access-date=1 June 2016 |archive-date=7 May 2021 |archive-url=https://web.archive.org/web/20210507131716/https://www.caribbean-beat.com/issue-96/end-eric |url-status=live }}</ref>
+
+On 13 March 1979, whilst Gairy was out of the country, the NJM launched a [[bloodless coup]] which removed Gairy, suspended the constitution, and established a [[People's Revolutionary Government]] (PRG), headed by [[Maurice Bishop]], who declared himself prime minister.<ref name="Encyclopedia Britannica - Grenada"/> His [[Marxism–Leninism|Marxist–Leninist]] government established close ties with [[Cuba]], [[Nicaragua]], and other [[communist bloc]] countries.<ref name="Encyclopedia Britannica - Grenada"/> All political parties except for the New Jewel Movement were banned and no elections were held during the four years of PRG rule.
+
+=== Invasion by the United States (1983) ===
+{{main|United States invasion of Grenada}}
+
+[[File:Eastern Caribbean Defense Force.jpg|thumb|Members of the Eastern Caribbean Defence Force during the 1983 [[invasion of Grenada]].]]
+
+==== Coup and execution of Maurice Bishop ====
+By mid-1983, a dispute developed between Bishop and certain high-ranking members of the NJM. Though Bishop cooperated with Cuba and the [[USSR]] on various trade and foreign policy issues, he sought to maintain a [[Non-Aligned Movement|non-aligned status]]. Hardline [[Marxist]] party members, including [[communist]] Deputy Prime Minister [[Bernard Coard]], deemed Bishop insufficiently revolutionary and demanded that he either step down or enter into a power-sharing arrangement.{{citation needed|date=July 2023}}
+
+On 16 October 1983, Bernard Coard and his wife, [[Phyllis Coard]], backed by the Grenadian Army, led a coup against the government of Maurice Bishop and placed Bishop under [[house arrest]].<ref name="Encyclopedia Britannica - Grenada"/> These actions led to street demonstrations in various parts of the island because Bishop had widespread support from the population. Because Bishop was a widely popular leader, he was freed by impassioned supporters who marched en masse to his guarded residence from a rally in the capital's central square. Bishop then led the crowd to the island's military headquarters to reassert his power. Grenadian soldiers were dispatched in armoured vehicles by the Coard faction to retake the fort. A confrontation between soldiers and civilians at the fort ended in gunfire and panic. Three soldiers and at least eight civilians died in the tumult that also injured 100 others, a school-sponsored study later found in 2000.<ref name=LA /> When the initial shooting ended with Bishop's surrender, he and a group of seven of his closest supporters were taken prisoner and executed by firing squad. Besides Bishop, the group included three of his cabinet ministers, a trade union leader, and three service-industry workers.<ref>{{Cite book |title=The U.S. Invasion of Grenada: legacy of a flawed victory |last=Kukielski |first=Philip |publisher=McFarland & Company |year=2019 |isbn=978-1-4766-7879-5 |location=Jefferson, North Carolina |pages=183–84 |oclc=1123182247 }}</ref>
+
+After the execution of Bishop, the [[People's Revolutionary Army (Grenada)|People's Revolutionary Army]] (PRA) formed a military Marxist government with General [[Hudson Austin]] as chairman. The army declared a four-day total curfew, during which anyone leaving their home without approval would be shot on sight.<ref>{{cite news |author1=Anthony Payne |author2=Paul Sutton |author3=Tony Thorndike |title=Grenada: Revolution and Invasion |year=1984 |work=[[Croom Helm]] |isbn=978-0-7099-2080-9 |url=https://books.google.com/books?id=3agOAAAAQAAJ |access-date=10 September 2009 }}</ref><ref>{{cite news |author=Hudson Austin |title=Hudson Austin Speech announcing the killing of Maurice Bishop October 19, 1983 |work=Grenada in eugenia era |minutes=4:37 of 6:05 |year=1983 |url=https://grenadaineugeniaera.omeka.net/items/show/2 |access-date=12 June 2021 |archive-date=7 April 2022 |archive-url=https://web.archive.org/web/20220407054101/https://grenadaineugeniaera.omeka.net/items/show/2 |url-status=live }}</ref>
+
+==== United States and allied response and reaction ====
+[[File:M102 howitzers during Operation Urgent Fury.jpg|thumb|[[M102 howitzer]]s of [[320th Field Artillery Regiment]] firing during the 1983 [[invasion of Grenada]].]]
+
+US President [[Ronald Reagan]] stated that particularly worrying was the presence of Cuban construction workers and military personnel building a {{convert|10000|ft|m|adj=on}} [[Point Salines International Airport|airstrip]] on Grenada.<ref name="Gailey">{{cite news |last=Gailey |first=Phil |author2=Warren Weaver Jr. |title=Grenada |newspaper=The New York Times |date=26 March 1983 |url=https://www.nytimes.com/1983/03/26/us/briefing-058430.html |access-date=15 March 2021 |archive-date=1 August 2022 |archive-url=https://web.archive.org/web/20220801201521/https://www.nytimes.com/1983/03/26/us/briefing-058430.html |url-status=live }}</ref> Bishop had stated the purpose of the airstrip was to allow commercial jets to land, but some US military analysts argued that the only reason for constructing such a long and reinforced runway was so that it could be used by heavy military transport planes. The contractors, American and European companies, and the [[European Economic Community|EEC]], which provided partial funding, all claimed the airstrip did not have military capabilities. Reagan asserted that Cuba, under the direction of the Soviet Union, would use Grenada as a refuelling stop for Cuban and Soviet airplanes loaded with weapons destined for Central American communist insurgents.<ref>{{cite news |author=Julie Wolf |title=The Invasion of Grenada |date=1999–2000 |work=PBS: The American Experience (Reagan) |url=https://www.pbs.org/wgbh/amex/reagan/peopleevents/pande07.html |access-date=10 September 2009 |archive-date=4 August 2009 |archive-url=https://web.archive.org/web/20090804132846/http://www.pbs.org/wgbh/amex/reagan/peopleevents/pande07.html }}</ref>
+
+The Organization of Eastern Caribbean States (OECS), [[Barbados]], and Jamaica all appealed to the United States for assistance.<ref>{{cite web |url=http://www.dtic.mil/doctrine/doctrine/history/urgfury.pdf |last=Cole |first=Ronald |year=1997 |title=Operation Urgent Fury: The Planning and Execution of Joint Operations in Grenada |access-date=9 November 2006 |archive-url=https://web.archive.org/web/20111116194741/http://www.dtic.mil/doctrine/doctrine/history/urgfury.pdf |archive-date=16 November 2011 }}</ref> On 25 October 1983, combined forces from the United States and the [[Regional Security System]] (RSS) based in Barbados invaded Grenada in an operation codenamed ''[[Invasion of Grenada|Operation Urgent Fury]]''. The US stated this was done at the behest of Barbados, [[Dominica]]{{citation needed|date=July 2019}} and Governor-General [[Paul Scoon]].<ref>{{cite book |title=Autobiography: Sir Paul Scoon 'Survival for Service' |publisher=Macmillan Caribbean |year=2003 |pages=135–136 }}</ref> Scoon had requested the invasion through secret diplomatic channels, but it was not made public for his safety.<ref>{{YouTube|_z9f6WdltuE|Sir Paul Scoon, G-G of Grenada, at 2:36 }}</ref> Progress was rapid, and within four days the Americans had removed the military government of Hudson Austin.{{fact|date=July 2025}}
+
+The invasion was criticised by the governments of Britain,<ref>Charles Moore, ''Margaret Thatcher: At her Zenith'' (2016) p. 130.</ref> [[Trinidad and Tobago]], and Canada. The [[United Nations General Assembly]] condemned it as "a flagrant violation of international law" by a vote of 108 to 9, with 27 abstentions.<ref>{{cite web |url=https://www.un.org/Depts/dhl/res/resa38.htm |title=United Nations General Assembly resolution 38/7 |publisher=United Nations |date=2 November 1983 |archive-url=https://web.archive.org/web/20080316093428/http://www.un.org/Depts/dhl/res/resa38.htm |archive-date=16 March 2008 }}</ref><ref>{{cite news |url=http://findarticles.com/p/articles/mi_m1309/is_v21/ai_3073305 |archive-url=https://web.archive.org/web/20070627152449/http://findarticles.com/p/articles/mi_m1309/is_v21/ai_3073305 |archive-date=27 June 2007 |title=Assembly calls for cessation of 'armed intervention' in Grenada |work=UN Chronicle |year=1984 }}</ref> The [[United Nations Security Council]] considered a similar resolution, which was supported by 11 countries. However, the United States vetoed the motion.<ref>{{cite news |author=Richard Bernstein |title=U.S. VETOES U.N. RESOLUTION 'DEPLORING' GRENADA INVASION |date=29 October 1983 |work=[[The New York Times]] |url=https://www.nytimes.com/1983/10/29/world/us-vetoes-un-resolution-deploring-grenada-invasion.html |access-date=8 July 2012 |archive-date=9 July 2022 |archive-url=https://web.archive.org/web/20220709171436/https://www.nytimes.com/1983/10/29/world/us-vetoes-un-resolution-deploring-grenada-invasion.html |url-status=live }}</ref>
+
+==== Post-invasion arrests ====
+After the invasion, the pre-revolutionary Grenadian constitution came into operation once again. Eighteen members of the PRG/PRA were arrested on charges related to the murder of Maurice Bishop and seven others. The 18 included the top political leadership of Grenada at the time of the execution, along with the entire military chain of command directly responsible for the operation that led to the executions. Fourteen were [[Capital punishment|sentenced to death]], one was found not guilty, and three were sentenced to 45 years in prison. The death sentences were eventually commuted to terms of imprisonment. Those in prison have become known as the "[[Grenada 17]]".<ref>{{cite web |url=https://www.amnesty.org/download/Documents/104000/amr320012003en.pdf |title=The Grenada 17: the last of the cold war prisoners? |last=Amnesty International |date=October 2003 |access-date=12 July 2019 |archive-date=13 August 2021 |archive-url=https://web.archive.org/web/20210813025935/https://www.amnesty.org/download/Documents/104000/amr320012003en.pdf |url-status=live }}</ref>
+
+=== Since 1983 ===
+When US troops withdrew from Grenada in December 1983, Governor-General Scoon appointed an interim advisory council chaired by [[Nicholas Brathwaite]] to organise new elections.<ref>{{cite news |last1=Cody |first1=Edward |date=24 December 1983 |title=Grenada's Vacuum Tempts Ex-Leader |newspaper=Washington Post |url=https://www.washingtonpost.com/archive/politics/1983/12/24/grenadas-vacuum-tempts-ex-leader/2fb3dcf9-6464-4ced-a4ae-6e7e37f6234e/ |access-date=23 June 2022 |archive-date=28 August 2017 |archive-url=https://web.archive.org/web/20170828111137/https://www.washingtonpost.com/archive/politics/1983/12/24/grenadas-vacuum-tempts-ex-leader/2fb3dcf9-6464-4ced-a4ae-6e7e37f6234e/ |url-status=live }}</ref> The first democratic elections since 1976 were [[1984 Grenadian general election|held in December 1984]], and were won by the [[New National Party (Grenada)|New National Party]] under Herbert Blaize, who served as prime minister until his death in December 1989.<ref name=PP>''Political Parties of the World'' (6th edition, 2005), ed. Bogdan Szajkowski, page 265.</ref><ref name=Jan>"Jan 1985 – General election and resumption of Parliament – Formation of Blaize government – Foreign relations Opening of airport – Start of murder trial", ''Keesing's Record of World Events'', volume 31, January 1985, Grenada, page 33,327.</ref>
+
+[[Ben Jones (Grenada)|Ben Jones]] briefly succeeded Blaize as prime minister and served until the [[1990 Grenadian general election|March 1990 election]].<ref>{{Cite news |url=https://www.bbc.com/news/world-latin-america-19596901 |title=Grenada profile |work=BBC News |date=12 March 2018 |archive-date=22 August 2022 |access-date=6 December 2019 |archive-url=https://web.archive.org/web/20220822104027/https://www.bbc.com/news/world-latin-america-19596901 |url-status=live }}</ref><ref name="GovGrenada">{{cite web |title=Biography: Ben Jones |url=https://www.gov.gd/biographies/ben_jones_bio.html |archive-url=https://web.archive.org/web/20181231092603/https://www.gov.gd/biographies/ben_jones_bio.html |archive-date=31 December 2018 |access-date=6 December 2019 |website=Gov.gd }}</ref> This election was won by the [[National Democratic Congress (Grenada)|National Democratic Congress]] under Nicholas Brathwaite, who served as prime minister until he resigned in February 1995.<ref name=jo>{{cite news |title=Former Grenadian PM Nicholas Brathwaite dies |url=http://www.jamaicaobserver.com/news/Former-Grenadian-PM-Nicholas-Brathwaite-dies |newspaper=Jamaica Observer |date=29 October 2016 |access-date=5 November 2016 |archive-date=9 January 2021 |archive-url=https://web.archive.org/web/20210109213107/http://www.jamaicaobserver.com/news/Former-Grenadian-PM-Nicholas-Brathwaite-dies }}</ref> He was succeeded by [[George Brizan]] for a brief period<ref>"Feb 1995 – New Prime Minister – Government changes", Keesing's Record of World Events, Volume 41, February 1995 Grenada, Page 40402.</ref> until the [[1995 Grenadian general election|June 1995 election]] which was won by the [[New National Party (Grenada)|New National Party]] under [[Keith Mitchell]], who went on to win the [[1999 Grenadian general election|1999]] and [[2003 Grenadian general election|2003 elections]], serving for a record 13 years until 2008.<ref name="Encyclopedia Britannica - Grenada"/> Mitchell re-established relations with Cuba and also reformed the country's banking system, which had come under criticism over potential money laundering concerns.{{sfn|Steele|2003|pp=35–36}}<ref name="Encyclopedia Britannica - Grenada"/><ref name="About Grenada: Historical Events"/>
+
+In 2000–02, much of the controversy of the late 1970s and early 1980s was once again brought into the public consciousness with the opening of the [[truth and reconciliation commission]].<ref name="Encyclopedia Britannica - Grenada"/> The commission was chaired by a [[Holy Orders|Roman Catholic priest]], Father Mark Haynes, and was tasked with uncovering injustices arising from the PRA, Bishop's regime, and before. It held a number of hearings around the country. Brother Robert Fanovich, head of Presentation Brothers' College (PBC) in St. George's, tasked some of his senior students with conducting a research project into the era and specifically into the fact that Maurice Bishop's body was never discovered.<ref>See Maurice Paterson's book, published before this event, called ''Big Sky Little Bullet''</ref><ref name=LA>{{Cite web |url=https://www.latimes.com/archives/la-xpm-2000-sep-02-mn-14490-story.html |title=LA Times website, ''Search for Body Yields Lessons for Students'', by Mark Fineman, dated September 2, 2000 |website=[[Los Angeles Times]] |date=2 September 2000 |access-date=7 February 2025 |archive-date=9 December 2024 |archive-url=https://web.archive.org/web/20241209083936/https://www.latimes.com/archives/la-xpm-2000-sep-02-mn-14490-story.html |url-status=live }}</ref>
+[[File:Grenada ivan.jpg|thumb|right|Aftermath of Hurricane Ivan in Grenada]]
+
+On 7 September 2004, after being hurricane-free for 49 years, the island was directly hit by [[Hurricane Ivan]].<ref>{{cite web |url=http://usinfo.state.gov/wh/Archive/2005/Feb/24-832208.html |archive-url=https://web.archive.org/web/20061122113718/http://usinfo.state.gov/wh/Archive/2005/Feb/24-832208.html |archive-date=22 November 2006 |title=Grenada Making Comeback from Hurricane Ivan |last=Green |first=Eric |date=24 February 2005 |publisher=[[United States Department of State]] |access-date=3 November 2011 }}</ref> Ivan struck as a [[Saffir-Simpson Hurricane Scale|Category 3 hurricane]], resulting in 39 deaths and damage or destruction to 90% of the island's homes.{{sfn|Steele|2003|pp=35–36}}<ref name="Encyclopedia Britannica - Grenada"/><ref name="About Grenada: Historical Events"/> On 14 July 2005, [[Hurricane Emily (2005)|Hurricane Emily]], a Category 1 hurricane at the time, struck the northern part of the island with {{convert|80|kn|km/h mph|adj=on}} winds, killing one person and causing an estimated US$110&nbsp;million (EC$297&nbsp;million) worth of damage.{{sfn|Steele|2003|pp=35–36}}<ref name="About Grenada: Historical Events"/><ref name="EmilyTCR">{{cite web |author=James L. Franklin & Daniel P. Brown |date=10 March 2006 |title=Tropical Cyclone Report: Hurricane Emily |access-date=13 March 2006 |url=http://www.nhc.noaa.gov/data/tcr/AL052005_Emily.pdf |agency=NOAA |publisher=[[National Hurricane Center]] |archive-date=2 October 2015 |archive-url=https://web.archive.org/web/20151002011647/http://www.nhc.noaa.gov/data/tcr/AL052005_Emily.pdf |url-status=live }}</ref> Agriculture, and in particular the nutmeg industry, suffered serious losses, but that event caused changes in crop management and it is hoped that as new nutmeg trees mature, the industry will gradually rebuild.
+
+Mitchell was defeated in the [[2008 Grenadian general election|2008 election]] by the NDC under [[Tillman Thomas]];<ref>{{cite news |title=New Grenada prime minister vows to boost economy, lower cost of living |agency=Associated Press |work=International Herald Tribune |date=9 July 2008 |url=http://www.iht.com/articles/ap/2008/07/09/news/CB-POL-Grenada-Elections.php |access-date=31 July 2011 |archive-url=https://web.archive.org/web/20080804055052/http://www.iht.com/articles/ap/2008/07/09/news/CB-POL-Grenada-Elections.php |archive-date=4 August 2008 }}</ref><ref>{{cite web |author=George Worme |url=http://www.nationnews.com/story/117373983578346.php |title=Thomas wins by a landslide in Grenada |archive-url=https://web.archive.org/web/20080714124028/http://www.nationnews.com/story/117373983578346.php |archive-date=14 July 2008 |work=The Nation |location=Barbados |date=10 July 2008 }}</ref> however, he won the [[2013 Grenadian general election]] by a landslide and the NNP returned to power,<ref>[http://www.jamaicaobserver.com/news/Clean-sweep_13681618 "Clean sweep"] {{Webarchive |url=https://web.archive.org/web/20160304082413/http://www.jamaicaobserver.com/news/Clean-sweep_13681618 |date=4 March 2016 }}, ''Jamaica Observer'', 21 February 2013.</ref> winning again by another landslide [[2018 Grenadian general election|in 2018]].<ref>{{cite news |title=Clean sweep! Grenada PM predicts repeat victory |url=http://wicnews.com/caribbean/clean-sweep-grenada-pm-predicts-repeat-victory-21217552/ |access-date=9 November 2017 |work=WIC News |date=9 November 2017 |archive-date=4 August 2022 |archive-url=https://web.archive.org/web/20220804210431/https://wicnews.com/caribbean/clean-sweep-grenada-pm-predicts-repeat-victory-21217552/ |url-status=live }}</ref> In March 2020, [[2020 coronavirus pandemic in Grenada|Grenada confirmed its first case of COVID-19]] and, {{as of|2022|3|17|lc=on}}, 13,921 cases and 217 deaths had been recorded.<ref name="Worldometer">{{cite web |title=Reported Cases and Deaths by Country, Territory, or Conveyance |url=https://www.worldometers.info/coronavirus/ |website=Worldometer |access-date=17 March 2022 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129195657/https://www.worldometers.info/coronavirus/ |url-status=live }}</ref>
+
+On 23 June 2022, the NDC won the [[2022 Grenadian general election|general election]] under [[Dickon Mitchell]], who became prime minister the following day.<ref>{{Cite web |title=Live blog: Grenada votes election 2022 {{!}} Loop Caribbean News |url=https://caribbean.loopnews.com/content/live-blog-grenada-votes-election-2022 |access-date=24 June 2022 |website=Loop News |language=en |archive-date=24 June 2022 |archive-url=https://web.archive.org/web/20220624003814/https://caribbean.loopnews.com/content/live-blog-grenada-votes-election-2022 |url-status=live }}</ref>
+
+On 1 July 2024, [[Hurricane Beryl (2024)|Hurricane Beryl]] struck the island of Carriacou as a Category 4 hurricane, causing widespread damage across all of Grenada and Carriacou. On Carriacou, there was no electricity and limited communication. Throughout the rest of the country, 95% of customers had no power and telecommunications were also damaged.<ref name="CNN 0701">{{cite news |last1=Gilbert |first1=Mary |last2=Wolfe |first2=Elizabeth |date=1 July 2024 |title=Hurricane Beryl devastates Grenada: 'In half an hour, Carriacou was flattened' |url=https://www.cnn.com/2024/07/01/weather/hurricane-beryl-caribbean-landfall-monday/index.html |url-status=live |archive-url=https://web.archive.org/web/20240702000216/https://www.cnn.com/2024/07/01/weather/hurricane-beryl-caribbean-landfall-monday/index.html |archive-date=2 July 2024 |access-date=1 July 2024 |publisher=CNN |language=en}}</ref>
+
+== Geography ==
+{{main|Geography of Grenada}}
+
+[[File:Grenada-map.png|thumb|A map of Grenada]]
+
+The island of Grenada is the southernmost island in the [[Antilles]] archipelago, bordering the eastern Caribbean Sea and the western Atlantic Ocean, and roughly {{cvt|90|mi|km|order=flip}} north of both [[Venezuela]] and Trinidad and Tobago. Its sister islands make up the southern section of the Grenadines, which include [[Carriacou]], [[Petite Martinique]], [[Ronde Island]], [[Caille Island]], [[Diamond Island (Grenadines)|Diamond Island]], [[Large Island]], [[Saline Island]], and [[Frigate Island, Grenada|Frigate Island]]; the remaining islands to the north belong to St Vincent and the Grenadines. Most of the population lives in Grenada, and major towns there include the capital, St. George's, [[Grenville, Grenada|Grenville]] and [[Gouyave]]. The largest settlement on the sister islands is [[Hillsborough, Grenada|Hillsborough]] on Carriacou.
+
+Grenada is of [[volcanic]] origin,<ref name="CIA World Factbook - Grenada"/> as evident in its soil, mountainous interior, and several explosion craters, including Lake Antoine, [[Grand Etang (Grenada)|Grand Etang]], and [[Levera Pond]]. Grenada's highest point is [[Mount Saint Catherine (Grenada)|Mount St. Catherine]], rising to {{cvt|840|m}} above sea level.<ref name="CIA World Factbook - Grenada"/> Other major mountains include [[Mount Granby]] and [[South East Mountain]]. Several small rivers with waterfalls flow into the sea from these mountains. The coastline contains several bays, most notably on the southern coast, split into numerous thin peninsulas.
+
+Grenada is home to four ecoregions: Windward Islands moist forests, Leeward Islands dry forests, Windward Islands dry forests, and Windward Islands xeric scrub.<ref>{{cite journal |display-authors=4 |vauthors=Dinerstein E, Olson D, Joshi A, Vynne C, Burgess ND, Wikramanayake E, Hahn N, Palminteri S, Hedao P, Noss R, Hansen M, Locke H, Ellis EC, Jones B, Barber CV, Hayes R, Kormos C, Martin V, Crist E, Sechrest W, Price L, Baillie JE, Weeden D, Suckling K, Davis C, Sizer N, Moore R, Thau D, Birch T, Potapov P, Turubanova S, Tyukavina A, de Souza N, Pintea L, Brito JC, Llewellyn OA, Miller AG, Patzelt A, Ghazanfar SA, Timberlake J, Klöser H, Shennan-Farpón Y, Kindt R, Lillesø JB, van Breugel P, Graudal L, Voge M, Al-Shammari KF, Saleem M |title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm |journal=BioScience |volume=67 |issue=6 |year=2017 |pages=534–545 |issn=0006-3568 |doi=10.1093/biosci/bix014 |pmid=28608869 |pmc=5451287 |doi-access=free }}</ref> It had a 2018 [[Forest Landscape Integrity Index]] mean score of 4.22/10, ranking it 131st globally out of 172 countries.<ref>{{cite journal |display-authors=4 |vauthors=Grantham HS, Duncan A, Evans TD, Jones KR, Beyer HL, Schuster R, Walston J, Ray JC, Robinson JG, Callow M, Clements T, Costa HM, DeGemmis A, Elsen PR, Ervin J, Franco P, Goldman E, Goetz S, Hansen A, Hofsvang E, Jantz P, Jupiter S, Kang A, Langhammer P, Laurance WF, Lieberman S, Linkie M, Malhi Y, Maxwell S, Mendez M, Mittermeier R, Murray NJ, Possingham H, Radachowsky J, Saatchi S, Samper C, Silverman J, Shapiro A, Strassburg B, Stevens T, Stokes E, Taylor R, Tear T, Tizard R, Venter O, Visconti P, Wang S, Watson JE |title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity - Supplementary Material |journal=Nature Communications |volume=11 |issue=1 |year=2020 |page=5978 |issn=2041-1723 |doi=10.1038/s41467-020-19493-3 |pmid=33293507 |pmc=7723057 |bibcode=2020NatCo..11.5978G |doi-access=free }}</ref>
+
+[[File:Grenada2010.jpg|thumb|center|upright=2.5|An aerial photo of the capital [[St. George's, Grenada|St. George's]]]]
+
+=== Climate ===
+The [[climate]] is tropical: hot and humid in the [[dry season]] and cooled by the moderate rainfall in the [[rainy season]]. Temperatures range from {{convert|22-32|C|F}} and are rarely below {{convert|18|C|F}}.
+
+Grenada lies at the southern edge of the [[Main Development Region]] for [[tropical cyclone]] activity, though the island has suffered only four [[landfall]]ing hurricanes in the last several decades.<ref name=G>{{Cite web |url=https://www.weather.gd/tropical-storms-and-hurricanes/ |title=Grenada Weather website, Tropical Storms and Hurricanes, retrieved 19 December 2023 |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103172529/https://www.weather.gd/tropical-storms-and-hurricanes/ |url-status=live }}</ref> [[Hurricane Janet]] passed over Grenada on 23 September 1955, with winds of {{cvt|185|km/h}}, causing severe damage. The most recent storm to hit Grenada was [[Hurricane Beryl]] on 1 July 2024, a strong Category 4 hurricane which set the record for the earliest forming Category 5 Hurricane in recorded history and the strongest hurricane to develop within the Main Development Region (MDR) of the Atlantic before the month of July. While all three inhabited Grenadian islands were impacted, it passed directly over the island of Carriacou causing total devastation and the damage and destruction of many vessels (both in water and ashore) in [[Tyrrel Bay]] and the Carriacou Mangroves. Petit Martinique also suffered considerable damage with much more limited damage occurring on the main island of Grenada, mainly on the windward and northern portions of the island. Grenada was also impacted by Hurricane Ivan on 7 September 2004,<ref>{{Cite web |url=https://www.theguardian.com/environment/2004/sep/09/naturaldisasters.climatechange |title=Guardian Newspaper website, ''Hurricane Ivan Devastates Grenada'', article dated September 9, 2004 |website=[[TheGuardian.com]] |date=9 September 2004 |access-date=7 February 2025 |archive-date=7 June 2024 |archive-url=https://web.archive.org/web/20240607055935/https://www.theguardian.com/environment/2004/sep/09/naturaldisasters.climatechange |url-status=live }}</ref> which caused severe damage and thirty-nine deaths, and Hurricane Emily on 14 July 2005, which peaked as a Category 5 hurricane on 16 July over the greater Caribbean region. Hurricane Emily caused serious damage in Carriacou and in the north of Grenada, which had been relatively lightly affected by Hurricane Ivan; Grenada has had to be put on a tropical storm watch several times since.<ref name=G />
+
+It took over five years to officially recover from Ivan, although recovery continued for decades after (e.g., the St. George's Anglican Church and the St Andrew's Presbyterian Church (Scots Kirk) were restored in 2021).<ref name="Reliefweb">{{Citation |title=Grenada: Dealing with the aftermath of Hurricane Ivan - Grenada |website=Reliefweb |year=2009 |url=https://reliefweb.int/report/grenada/grenada-dealing-aftermath-hurricane-ivan |access-date=20 October 2024 |archive-date=27 September 2023 |archive-url=https://web.archive.org/web/20230927160513/https://reliefweb.int/report/grenada/grenada-dealing-aftermath-hurricane-ivan |url-status=live }}</ref>
+
+On 1 July 2024, [[Hurricane Beryl]] slammed into Grenada, causing damage throughout the country but especially in Carriacou and Petite Martinique, where the eye of the storm passed.<ref name= "WaPo">{{Cite news |date=1 July 2024 |last=Cappucci |first=Matthew |title=Caribbean island of Carriacou 'flattened' after Hurricane Beryl makes landfall |url=https://www.washingtonpost.com/weather/2024/07/01/hurricane-beryl-impacts-landfall-path/ |newspaper=[[The Washington Post]] |url-access=subscription |access-date=1 July 2024 |archive-date=1 July 2024 |archive-url=https://archive.today/20240701172306/https://www.washingtonpost.com/weather/2024/07/01/hurricane-beryl-impacts-landfall-path/ |url-status=live }}</ref> Beryl gained international attention, in part, because of its rapid intensification from a tropical storm to Category 4 hurricane within just 48 hours.<ref name="Sci Am">{{cite magazine |last=Thompson |first=Andrea |date=1 July 2024 |title=Hurricane Beryl's Unprecedented Intensification Is an "Omen" for the Rest of the Season |url=https://www.scientificamerican.com/article/why-hurricane-beryl-underwent-unprecedented-rapid-intensification/ |magazine=[[Scientific American]] |access-date=1 July 2024 |archive-date=1 July 2024 |archive-url=https://web.archive.org/web/20240701232242/https://www.scientificamerican.com/article/why-hurricane-beryl-underwent-unprecedented-rapid-intensification/ |url-status=live }}</ref>
+
+=== Fauna ===
+{{main|List of mammals of Grenada}}
+
+Like much of the Caribbean, Grenada is [[Depauperate ecosystem|depauperate]] of [[List of mammals of Grenada|large animals]]. However, native [[opossums]], [[armadillos]], and introduced [[mona monkey]]s and [[mongoose]]s are common. As of June 2024, the avifauna of Grenada included a total of 199 species according to ''Bird Checklists of the World''. Of these, one is [[Endemism in birds|endemic]] ([[Grenada dove]]), one has been [[Introduced species|introduced]] by humans ([[Rock Pigeon]]), and 130 are rare or [[Vagrancy (biology)|accidental]].<ref>{{Cite web |title=Grenada bird checklist - Avibase - Bird Checklists of the World |url=https://avibase.bsc-eoc.org/checklist.jsp?lang=EN&p2=1&list=aou&synlang=&region=GD&version=text&lifelist=&highlight=0 |access-date=11 June 2024 |website=avibase.bsc-eoc.org }}</ref>
+
+=== Geology ===
+{{main|Geology of Grenada}}
+
+Approximately 2 million years ago, in the [[Pliocene]] era, the area of what is nowadays Grenada emerged from a [[shallow sea]] as a submarine volcano. In recent times, [[Volcanism|volcanic activity]] has been non-existent, except for some of its [[hot spring]] and underwater volcano [[Kick 'em Jenny]]. Most of Grenada's terrain is made up of volcanic activity that took place 1–2 million years ago.{{Citation needed|date=April 2021}} There would have been many unknown volcanoes responsible for the formation of Grenada, including Grenada's capital, St. George's, with its horseshoe-shaped harbour, the carenage. Two extinct volcanoes, which are now crater lakes, Grand Etang lake and Lake Antoine, would have also contributed to the formation of Grenada.
+
+== Politics ==
+{{main|Politics of Grenada}}
+
+Grenada is a constitutional monarchy with [[Charles III]] as [[head of state]], represented locally by a [[Governor-General of Grenada|governor-general]].<ref name="CIA World Factbook - Grenada"/><ref name="Encyclopedia Britannica - Grenada"/> [[Executive (government)|Executive power]] lies with the head of government, the [[prime minister of Grenada|prime minister]]. The governor-general's role is mainly ceremonial, while the prime minister is usually the leader of the largest party in [[Parliament of Grenada|Parliament]].<ref name="CIA World Factbook - Grenada"/>
+
+The Parliament of Grenada consists of a Senate (13 members) and a House of Representatives (15 members). The government and the opposition recommend appointments of senators to the governor-general, while the population elects representatives for five-year terms.<ref name="CIA World Factbook - Grenada"/> Grenada operates a multi-party system, with the largest parties being the centre-right New National Party (NNP) and the centre-left National Democratic Congress (NDC).<ref name="CIA World Factbook - Grenada"/>
+
+In February 2013, the governing [[National Democratic Congress (Grenada)|National Democratic Congress]] (NDC) lost the [[2013 Grenadian general election|election]]. The opposition [[New National Party (Grenada)|New National Party]] (NNP) won all 15 seats in the general election. [[Keith Mitchell]], leader of NNP, who had served three terms as prime minister between 1995 and 2008, returned to power.<ref>{{cite news |title=Grenada opposition wins clean sweep in general election |url=https://www.bbc.com/news/world-latin-america-21526209 |work=BBC News |date=20 February 2013 |archive-date=26 June 2022 |access-date=13 December 2021 |archive-url=https://web.archive.org/web/20220626100259/https://www.bbc.com/news/world-latin-america-21526209 |url-status=live }}</ref> Mitchell subsequently led NNP to win all 15 seats in the House of Representatives again in [[2018 Grenadian general election|2018]], marking three separate occasions on which he had achieved this feat.
+
+In November 2021, Prime Minister Keith Mitchell said that the upcoming general elections which were constitutionally due no later than June 2023, was to be the last one for him.<ref>{{cite news |title=PM Mitchell: Upcoming general elections will be fascinating {{!}} NOW Grenada |url=https://www.nowgrenada.com/2021/11/pm-mitchell-upcoming-general-elections-will-be-fascinating/ |date=2 November 2021 |access-date=13 December 2021 |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421101455/https://www.nowgrenada.com/2021/11/pm-mitchell-upcoming-general-elections-will-be-fascinating/ }}</ref> Mitchell advised the governor-general on 16 May 2022 to dissolve Parliament a year earlier than the constitutional requirement.<ref>{{cite news |title=UPDATE: Election bell rung, PM Mitchell going after historic 6th term |url=https://caribbean.loopnews.com/content/update-election-bell-rung-pm-mitchell-going-after-historic-6th-term |access-date=15 October 2024 |work=Loop |date=15 May 2022 |archive-url=https://web.archive.org/web/20220618112337/https://caribbean.loopnews.com/content/update-election-bell-rung-pm-mitchell-going-after-historic-6th-term |archive-date=18 June 2022 |url-status=live }}</ref> The New National Party subsequently lost the [[2022 Grenadian general election|2022 election]] to the National Democratic Congress, with the NDC winning 9 seats to the NNP's 6. [[Dickon Mitchell]], a political newcomer who had only taken over as leader of the National Democratic Congress less than a year before the election and never held elected office, was subsequently appointed prime minister.
+
+=== Foreign relations ===
+{{Further|Foreign relations of Grenada}}
+
+Grenada is a full and participating member of both the [[Caribbean Community]] (CARICOM) and the [[Organisation of Eastern Caribbean States]] (OECS).<ref name="CIA World Factbook - Grenada"/>
+
+==== The Commonwealth ====
+Grenada, along with much of the Caribbean region, is a member of the [[Commonwealth of Nations]]. The organisation primarily consists of former British colonies and focuses on fostering international relations between its members.
+
+==== Organization of American States (OAS) ====
+Grenada is one of the 35 states which has ratified the [[Organization of American States|OAS]] charter and is a member of the Organization.<ref>{{cite web |url=http://www.oas.org/en/member_states/default.asp |title=Member States |date=August 2009 |publisher=OAS |access-date=18 May 2017 |archive-date=20 May 2015 |archive-url=https://web.archive.org/web/20150520053344/http://www.oas.org/en/member_states/default.asp |url-status=live }}</ref><ref>{{cite web |url=http://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp |title=SLA :: Department of International Law (DIL) :: Inter-American Treaties |date=August 2009 |publisher=OAS |access-date=18 May 2017 |archive-date=19 August 2022 |archive-url=https://web.archive.org/web/20220819030544/http://www.oas.org/en/sla/dil/inter_american_treaties_A-41_charter_OAS.asp |url-status=live }}</ref> Grenada entered into the Inter-American system in 1975 according to the OAS's website.<ref>{{cite web |url=http://www.oas.org/en/member_states/member_state.asp?sCode=GRE |title=Member State :: Grenada |date=August 2009 |publisher=OAS |access-date=18 May 2017 |archive-date=22 August 2022 |archive-url=https://web.archive.org/web/20220822135230/http://www.oas.org/en/member_states/member_state.asp?sCode=GRE |url-status=live }}</ref>
+
+==== Double Taxation Relief (CARICOM) Treaty ====
+On 6 July 1994 at [[Lloyd Erskine Sandiford Centre|Sherbourne Conference Centre]] in St. Michael, [[Barbados]], [[George Brizan]] signed the Double Taxation Relief (CARICOM) Treaty on behalf of the Government of Grenada.<ref>{{cite web |url=http://www.ird.gov.tt/Media/Default/IRDTreaties/DTT-Caricom--1994.pdf |title=The double taxation relief (Caricom) order, 1994 |access-date=26 December 2016 |archive-date=7 May 2016 |archive-url=https://web.archive.org/web/20160507154606/http://ird.gov.tt/Media/Default/IRDTreaties/DTT-Caricom--1994.pdf |url-status=live }}</ref> This treaty covered concepts such as taxes, residence, tax jurisdictions, capital gains, business profits, interest, dividends, royalties and other areas.{{Citation needed|date=May 2017}}
+
+==== FATCA ====
+On 30 June 2014, Grenada formally signed a Model 1 agreement with the United States of America to enable the [[Foreign Account Tax Compliance Act]] (FATCA).<ref>{{cite web |url=https://www.treasury.gov/resource-center/tax-policy/treaties/Pages/FATCA.aspx |title=Foreign Account Tax Compliance Act (FATCA) |publisher=Treasury.gov |access-date=18 May 2017 |archive-date=13 January 2017 |archive-url=https://web.archive.org/web/20170113122755/https://www.treasury.gov/resource-center/tax-policy/treaties/Pages/FATCA.aspx |url-status=live }}</ref>
+
+==== ALBA ====
+In December 2014, Grenada joined [[Bolivarian Alliance for the Peoples of Our America]] (ALBA) as a full member. Prime Minister Mitchell said that the membership was a natural extension of the cooperation Grenada has had over the years with both Cuba and Venezuela.<ref>{{cite web |date=15 December 2014 |title=Grenada Joins ALBA |url=https://www.nowgrenada.com/2014/12/grenada-joins-alba/ |access-date=13 April 2022 |website=Now Grenada |archive-date=13 December 2021 |archive-url=https://web.archive.org/web/20211213090318/https://www.nowgrenada.com/2014/12/grenada-joins-alba/ |url-status=live }}</ref>
+
+=== Military ===
+Grenada has no standing military, leaving typical military functions to the [[Royal Grenada Police Force]] (RGPF) and the [[Royal Grenada Coast Guard]].<ref name="CIA World Factbook - Grenada"/> The [[Special Services Unit (Grenada)|Special Services Unit]] (SSU) of the RGPF is a [[paramilitary]] force with combat uniforms which participates in the [[Regional Security System]] (RSS), a military defence body of the Eastern Caribbean (who participated in the [[United States invasion of Grenada]] in 1983).<ref>{{Citation |website=Royal Grenada Police Force |year=2023 |title=Special Services Unit (SSU) |url=https://www.rgpf.gd/index.php/departments/special-services-unit-ssu |access-date=6 October 2023 |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017173922/https://www.rgpf.gd/index.php/departments/special-services-unit-ssu}}</ref>
+
+In 2019, Grenada signed the UN treaty on the [[Treaty on the Prohibition of Nuclear Weapons|Prohibition of Nuclear Weapons]].<ref>{{cite web |url=https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26&clang=_en |title=Chapter XXVI: Disarmament&nbsp;– No. 9 Treaty on the Prohibition of Nuclear Weapons |publisher=United Nations Treaty Collection |date=7 July 2017 |access-date=18 October 2019 |archive-date=6 August 2019 |archive-url=https://web.archive.org/web/20190806220546/https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26&clang=_en |url-status=live }}</ref>
+
+== Administrative divisions ==
+{{main|Parishes of Grenada}}
+
+Grenada is divided into [[Parishes of Grenada|six parishes]].<ref name="CIA World Factbook - Grenada"/> The area known as [[Carriacou and Petite Martinique]] (''not pictured'') has the status of a dependency.<ref name="CIA World Factbook - Grenada"/>
+
+{{Grenada parishes imagemap}}
+
+== Human rights ==
+{{Main|LGBT rights in Grenada}}
+
+Homosexuality is illegal in Grenada and punishable by imprisonment.<ref>{{cite web |title=State-Sponsored Homophobia 2019 |url=https://ilga.org/downloads/ILGA_World_State_Sponsored_Homophobia_report_global_legislation_overview_update_December_2019.pdf |website=International Lesbian Gay Bisexual Trans and Intersex Association |date=December 2019 |access-date=25 June 2021 |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601085217/https://ilga.org/downloads/ILGA_World_State_Sponsored_Homophobia_report_global_legislation_overview_update_December_2019.pdf |url-status=live }}</ref>
+
+In 2023, the country scored 89 out of 100 in the Freedom ratings.<ref name="freedomhouse"/>
+
+== Economy ==
+{{main|Economy of Grenada}}
+
+Grenada has a small economy in which tourism is the major [[Foreign exchange market|foreign exchange]] earner.<ref name="CIA World Factbook - Grenada"/> Major short-term concerns are the rising [[Government budget deficit|fiscal deficit]] and the deterioration in the external account balance. Grenada shares a common [[central bank]] and a common currency (the [[East Caribbean dollar]]) with seven other members of the [[Organisation of Eastern Caribbean States]] (OECS).<ref name="CIA World Factbook - Grenada"/><ref>{{cite web |url=http://www.oecs.org/ |title=Welcome to the OECS |publisher=Oecs.org |access-date=28 June 2010 |archive-date=6 January 2021 |archive-url=https://web.archive.org/web/20210106145319/https://www.oecs.org/ |url-status=live }}</ref>
+
+Grenada has suffered from a heavy external debt problem, with government debt service payments running at about 25% of total revenues in 2017; Grenada was listed as ninth from bottom in a study of 126 developing countries.<ref>{{cite news |url=https://www.theguardian.com/business/2018/mar/18/developing-countries-risk-from-us-rate-rise-jubilee-debt-campaign-warns |title=Developing countries at risk from US rate rise, debt charity warns |date=18 March 2018 |last=Elliott |first=Larry |access-date=19 March 2018 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204131112/https://www.theguardian.com/business/2018/mar/18/developing-countries-risk-from-us-rate-rise-jubilee-debt-campaign-warns |url-status=live }} Jubilee Debt Campaign study</ref>
+
+=== Agriculture and exports ===
+[[File:Myris fragr Fr 080112-3294 ltn.jpg|thumb|Opened [[nutmeg]] fruit, showing the [[seed]] and the red [[aril]] used for [[mace (spice)|mace]].]]
+
+Grenada is an exporter of several different spices, most notably [[nutmeg]], its top export and depicted on the national flag, and [[mace (spice)|mace]].<ref>{{cite web |title=Nutmeg, mace and cardamons (HS: 0908) Product Trade, Exporters and Importers |url=https://oec.world/en/profile/hs92/20908/ |access-date=12 June 2020 |website=oec.world |language=en |archive-date=1 August 2020 |archive-url=https://web.archive.org/web/20200801055152/https://oec.world/en/profile/hs92/20908/ |url-status=live }}</ref><ref name="britannica.com"/> Other major exports include bananas, cocoa, fruit and vegetables, clothing, chocolate and fish.<ref name="CIA World Factbook - Grenada"/>
+
+=== Nutmeg industry ===
+According to a case study released in November 2003,<ref>{{cite journal |last1=Singh |first1=Ranjit H. |title=THE NUTMEG AND SPICE INDUSTRY IN GRENADA: INNOVATIONS AND COMPETITIVENESS - A Case Study |pages=7, 10, 12, 25 |url=https://www.researchgate.net/publication/275771715 |journal=ResearchGate |access-date=11 March 2024 }}</ref> the nutmeg industry in Grenada provided a major source of foreign exchange earnings to the country and acted as a livelihood for a significant portion of the population. The majority of Grenada nutmeg producers are small (e.g. 74.2% of growers have sales volumes of <500 lbs per year, accounting for 21.77% of total production). Only 3.3% of growers have sales over 2500 lbs per year (accounting for 40% of the total output).
+
+At the time the study was released, the majority of the production of nutmeg from within Grenada was derived from four companies:
+* Grenada Co-operative Nutmeg Association (GCNA) ;
+* West India Spices (formerly W & W Spices, renamed in 2011 following purchase by St Bernard family. Re-sold in 2015 and name maintained);<ref>{{cite web |last1=Collins |first1=L Simeon |title=Agro-processing in Grenada and its future |url=https://nowgrenada.com/2024/02/agroprocessing-in-grenada-and-its-future/ |website=nowgrenada |date=19 February 2024 |access-date=11 March 2024 |archive-date=11 March 2024 |archive-url=https://web.archive.org/web/20240311231901/https://nowgrenada.com/2024/02/agroprocessing-in-grenada-and-its-future/ |url-status=live }}</ref>
+* Noelville Ltd ;
+* De La Grenada Industries.
+
+=== Tourism ===
+
+<div class="floatright">
+{|
+|+'''Tourist arrivals of 2024 in %'''<ref>{{Cite web |title=UN Tourism Data Dashboard |url=https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard |access-date=2025-08-05 |website=www.unwto.org |archive-date=26 July 2025 |archive-url=https://web.archive.org/web/20250726014611/https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard |url-status=live }}</ref>
+|-
+|
+<timeline>
+ImageSize=width:270 height:250
+PlotArea=left:60 bottom:25 top:3 right:16
+AlignBars=justify
+Period=from:0 till:12
+TimeAxis=orientation:horizontal
+
+Colors=
+ id:gray value:gray(0.5)
+ id:line1 value:gray(0.9)
+ id:line2 value:gray(0.7)
+
+ScaleMajor=unit:year increment:2 start:0 gridcolor:line2
+ScaleMinor=unit:year increment:2 start:0 gridcolor:line1
+
+BarData=
+ bar:January text:January
+ bar:February text:February
+ bar:March text:March
+ bar:April text:April
+ bar:May text:May
+ bar:June text:June
+ bar:July text:July
+ bar:August text:August
+ bar:September text:September
+ bar:October text:October
+ bar:November text:November
+ bar:December text:December
+
+PlotData=
+ color:tan1 width:10
+
+ bar:January from:start till:8.8 text:
+ bar:February from:start till:10.1 text:
+ bar:March from:start till:11.4 text:
+ bar:April from:start till:8.3 text:
+ bar:May from:start till:7 text:
+ bar:June from:start till:7.3 text:
+ bar:July from:start till:8.6 text:
+ bar:August from:start till:9.5 text:
+ bar:September from:start till:5.4 text:
+ bar:October from:start till:6.9 text:
+ bar:November from:start till:7.4 text:
+ bar:December from:start till:9.4 text: 
+</timeline>
+|}</div>
+
+Tourism is the mainstay of Grenada's economy.<ref name="CIA World Factbook - Grenada"/> Conventional beach and water-sports tourism is largely focused in the southwest region around St. George's, the airport, and the coastal strip. [[Ecotourism]] is growing in significance.{{citation needed|date=October 2022}}
+
+Grenada has many beaches around its coastline, including the {{cvt|3|km|mi}} long Grand Anse Beach in St. George's, often described as one of the best beaches in the world.<ref>{{cite news |url=https://www.telegraph.co.uk/core/Slideshow/slideshowContentFrameFragXL.jhtml?xml=/travel/slideshow/bestbeaches/pixbestbeaches1.xml&site= |archive-url=https://archive.today/20130421064550/http://www.telegraph.co.uk/core/Slideshow/slideshowContentFrameFragXL.jhtml?xml=/travel/slideshow/bestbeaches/pixbestbeaches1.xml&site= |archive-date=21 April 2013 |title=The 10 Best Beaches in the World |location=London |work=The Daily Telegraph }}</ref> Grenada's many waterfalls are also popular with tourists. The nearest to St. George's is the Annandale Waterfalls; others include Mt. Carmel, Concord, Tufton Hall and St Margaret's also known as Seven Sisters.<ref>{{cite web |url=http://www.cruise-panorama.com/grenada-the-number-one-of-popular-cruise-destinations/ |title=Top 10 Things to Do in Grenada |author=Cruisemanic |work=Cruise Panorama |date=14 June 2021 |access-date=7 March 2015 |archive-date=30 March 2022 |archive-url=https://web.archive.org/web/20220330034815/https://cruise-panorama.com/grenada-the-number-one-of-popular-cruise-destinations/ |url-status=live }}</ref>
+[[File:Grand Anse Beach Grenada.jpg|thumb|Grand Anse Beach, St. George's]]
+
+Several festivals also draw in tourists, such as Grenada's Carnival Spice Mas in August,<ref>{{Cite web |title=Spicemas Corporation |url=https://spicemasgrenada.com/ |access-date=30 August 2024 |language=en-US |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829213629/https://spicemasgrenada.com/ |url-status=live }}</ref> Carriacou Maroon and String Band Music Festival in April,<ref name="grenadagrenadines">{{cite web |url=http://www.grenadagrenadines.com/plan/events/carriacou-maroon-string-band-music-festival/ |title=11th Carriacou Maroon & String Band Music Festival {{!}} Events {{!}} Plan Your Vacation |website=www.grenadagrenadines.com |access-date=25 November 2019 |archive-date=27 December 2016 |archive-url=https://web.archive.org/web/20161227125541/http://www.grenadagrenadines.com/plan/events/carriacou-maroon-string-band-music-festival/ }}</ref> the Annual Budget Marine Spice Island Billfish Tournament,<ref>{{cite web |url=http://www.grenadagrenadines.com/plan/events/spice-island-billfish-tournament/ |title=51st Annual Budget Marine Spice Island Billfish Tournament {{!}} Events {{!}} Plan Your Vacation |website=www.grenadagrenadines.com |access-date=25 November 2019 |archive-date=27 December 2016 |archive-url=https://web.archive.org/web/20161227060849/http://www.grenadagrenadines.com/plan/events/spice-island-billfish-tournament/ }}</ref> the Island Water World Sailing Week,<ref name="grenadasailingweek.com">{{cite web |url=http://grenadasailingweek.com/taking-part/event-schedule/ |title=Event Schedule |date=27 February 2018 |website=Grenada Sailing Week |language=en-US |access-date=25 November 2019 |archive-date=3 October 2019 |archive-url=https://web.archive.org/web/20191003112254/http://grenadasailingweek.com/taking-part/event-schedule/ |url-status=live }}</ref> and the Grenada Sailing Festival Work Boat Regatta.<ref>{{cite web |url=https://pressmare.it/en/media/seahorse-magazine/2021-09-17/grenada-secret-gem-of-caribbean-a-must-see-sailing-destina-33752 |title=Grenada, secret gem of Caribbean, a must-see sailing destination |date=17 September 2021 |publisher=Seahorse Magazine |website=pressmare.it }}</ref>
+
+== Education ==
+{{main|Education in Grenada}}
+
+Education in Grenada consists of kindergarten, pre-primary school, primary school, secondary school, and tertiary education. The government spent 10.3% of its budget on education in 2016, the third highest rate in the world.<ref name="CIA World Factbook - Grenada"/> Literacy rates are very high, with 98.6% of the population being able to read and write.<ref name="CIA World Factbook - Grenada"/>
+
+[[St. George's University]] (SGU) is located in Grenada, specializing in medicine, veterinary medicine, public health, and other health sciences. Founded in 1976.
+
+== Transport ==
+{{main|Transport in Grenada}}
+
+=== Air travel ===
+[[Maurice Bishop International Airport]] is the country's main airport,<ref name="CIA World Factbook - Grenada"/> connecting the country with other Caribbean islands, the United States, Canada, and Europe. There is also an airport on Carriacou called Lauriston Airport.<ref name="Encyclopedia Britannica - Grenada"/>
+
+=== Buses ===
+A semi-organized bus system exists on the island running 9 zones with a total of 44 routes.<ref>{{Cite web |last=Grenada |title=Transport system |url=https://www.grenadapublictransportplan.com/index.php/transport-system/ |access-date=30 August 2024 |website=Public Transport Plan for Grenada |language=en-US |archive-date=30 August 2024 |archive-url=https://web.archive.org/web/20240830185216/https://www.grenadapublictransportplan.com/index.php/transport-system/ }}</ref> Buses are privately owned, high-volume (usually 17) passenger vehicles which display a large, circled, zone number sticker on the windshield of the vehicle and generally operate from about 8 AM to 8 PM.  The cost per person, per segment is $2.50 XCD ([[Eastern Caribbean dollar|Eastern Caribbean Dollar]]) and is paid to the "conductor", who usually sits in the first row of the main passenger space (so they can open the sliding door) or in the front passenger seat. This conductor can be told where to stop, or a stop can be requested by banging (with a non-ring-wearing hand) on the ceiling or wall of the vehicle.  It is not uncommon for a passing bus to honk at or for the conductor to yell out the window to a walking person to determine if there is interest in a ride.{{fact|date=July 2025}}
+
+A separate 3 zone/route system exists on the Grenada island of [[Carriacou]].
+
+=== Taxis ===
+Taxis are available throughout the island and will display a Taxi sticker on the windshield. Haylup, a Grenada-developed ride-sharing service similar to [[Uber]] or [[Lyft]], is also an available option for the main tourist areas of the island.
+
+== Demographics ==
+{{main|Demographics of Grenada}}
+
+{{further|Afro-Grenadians|Indo-Grenadians|List of cities in Grenada}}
+[[File:Carriacou Scene.jpg|thumb|A view of [[Carriacou]], with other Grenadine islands visible in the distance.]]
+
+A majority of Grenadians (82%) are primarily descended from [[Atlantic slave trade|enslaved Africans]].<ref name="CIA World Factbook - Grenada"/><ref name="Encyclopedia Britannica - Grenada"/> Few of the indigenous population remained after the [[French colonization of the Americas|French colonization of the island]] in the 17th century. A small percentage of descendants of [[Indian indenture system|indentured workers from India]] were brought to Grenada between 1857 and 1885.<ref>{{cite web |title=The Indian Community in Grenada: History and Culture |url=https://www.globalindiannetwork.com/indian-community-in-grenada/ |website=Global Indian Network |access-date=2025-05-18 }}{{Dead link|date=March 2026 |bot=InternetArchiveBot }}</ref> Today, Grenadians of [[Indo-Caribbean people|Indian descent]] constitute 2.2% of the population.<ref name="CIA World Factbook - Grenada"/> There is also a small community of French and English descendants.<ref name="Encyclopedia Britannica - Grenada"/> The rest of the population is of [[Mixed race|mixed descent]] (13%).<ref name="cia.gov">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/grenada/ |title=Grenada - The World Factbook |work=The World Factbook |publisher=Central Intelligence Agency (CIA) |access-date=15 January 2021 |archive-date=11 August 2022 |archive-url=https://web.archive.org/web/20220811231159/https://www.cia.gov/the-world-factbook/countries/grenada/ |url-status=dead }}</ref>
+
+Grenada, like many of the [[Caribbean islands]], is subject to a large amount of out-migration, with a large number of young people seeking more prospects abroad. Popular migration points for Grenadians include more prosperous islands in the Caribbean (such as [[Barbados]]), [[North America]]n cities (such as [[New York City]], [[Toronto]], and [[Montreal]]), and the [[United Kingdom]] (in particular, [[London]] and [[Yorkshire]]).<ref>{{cite news |title=Yorkshire's Windrush generation to share their stories in new film |url=https://www.yorkshirepost.co.uk/news/yorkshires-windrush-generation-share-their-stories-new-film-1758477 |access-date=7 May 2022 |work=Yorkshire Post |date=12 September 2018 |archive-date=7 May 2022 |archive-url=https://web.archive.org/web/20220507155216/https://www.yorkshirepost.co.uk/news/yorkshires-windrush-generation-share-their-stories-new-film-1758477 |url-status=live }}</ref>
+
+=== Religion ===
+{{Pie chart
+|thumb = right
+|caption = Religion in Grenada (2011 estimate)<ref name="CIATONGA"/>
+|label1 = [[Protestantism|Protestants]]
+|value1 = 49.2
+|color1 = DodgerBlue
+|label2 = [[Catholic Church in Grenada|Catholics]]
+|value2 = 36
+|color2 = Purple
+|label3 = [[Irreligion|None]]
+|value3 = 5.7
+|color3 = black
+|label4 = Unspecified
+|value4 = 1.3
+|color4 = silver
+|label5 = [[Jehovah's Witnesses]]
+|value5 = 1.2
+|color5 = red
+|label6 = [[Rastafari]]
+|value6 = 1.2
+|color6 = yellow
+|label7 = other (incl. [[Afro-American religions]], [[Hinduism]], [[Islam]], and [[Judaism]])
+|value7 = 5.5
+|color7 = grey
+}}
+
+Figures are 2011 estimates<ref name="CIATONGA">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/grenada/ |title=Central America and Caribbean :: GRENADA |date=19 October 2021 |publisher=CIA The World Factbook |access-date=15 January 2021 |archive-date=11 August 2022 |archive-url=https://web.archive.org/web/20220811231159/https://www.cia.gov/the-world-factbook/countries/grenada/ |url-status=dead }}</ref>
+* [[Protestantism|Protestants]] 49.2%; includes
+** [[Pentecostalism|Pentecostals]] 17.2%
+** [[Seventh-day Adventist Church|Seventh-day Adventists]] 13.2%
+** [[Anglicanism|Anglicans]] 8.5%
+** [[Baptists]] 3.2%
+** [[Church of God in Christ|Church of God]] 2.4%
+** [[Evangelicalism|Evangelicals]] 1.9%
+** [[Methodism|Methodists]] 1.6%
+** Other 1.2%
+* [[Catholic Church in Grenada|Catholics]] 36%
+* [[Irreligion|None]] 5.7%
+* Unspecified 1.3%
+* [[Jehovah's Witnesses]] 1.2%
+* [[Rastafari]] 1.2%
+* Other (incl. [[Afro-American religions]], [[Hinduism]], [[Islam]], and [[Judaism]]) 5.5%
+
+In 2022, Grenada was awarded a score of four out of four for religious freedom by the Freedom House organization.<ref name="freedomhouse">[https://freedomhouse.org/country/grenada/freedom-world/2022 Freedom House, "Grenada: Freedom in the World 2022 Country Report", retrieved 19 December 2023] {{Webarchive|url=https://web.archive.org/web/20231006215345/https://freedomhouse.org/country/grenada/freedom-world/2022 |date=6 October 2023 }}.</ref>
+
+=== Languages ===
+English is the country's official language,<ref name="CIA World Factbook - Grenada"/> but the primary spoken language is either of two [[creole language]]s ([[Grenadian Creole English]] and, less frequently, [[Grenadian Creole French]]) (sometimes called 'patois') which reflects the African, European, and native heritage of the nation. The creoles contain elements from a variety of African languages, French, and English.<ref>{{cite web |url=https://uil.unesco.org/document/featuring-caribbean-grenadas-plan-make-quality-training-accessible-all |title=Featuring the Caribbean: Grenada's plan to make quality training accessible to all |date=10 March 2017 |publisher=UNESCO Institute for Lifelong Learning |website=unesco.org |access-date=19 October 2022 |archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929035040/https://uil.unesco.org/document/featuring-caribbean-grenadas-plan-make-quality-training-accessible-all }}</ref> Grenadian Creole French is only spoken in smaller rural areas in the north primarily around the town of Gouyave and other smaller villages.<ref>[https://uwispace.sta.uwi.edu/server/api/core/bitstreams/94ae7a20-ebca-4efd-bc74-136c3c65d928/content University of the West Indies website] {{Webarchive|url=https://web.archive.org/web/20241208124312/https://uwispace.sta.uwi.edu/server/api/core/bitstreams/94ae7a20-ebca-4efd-bc74-136c3c65d928/content |date=8 December 2024 }} ''Are They Dying? The Case of Some French-lexifier Creoles'', by Jo-Anne Ferreira and David Holbrook (2001), page 9]</ref>
+
+Some [[Caribbean Hindustani|Hindustani]] terms are still spoken amongst the descendants of the Indo-Grenadian community.{{citation needed|date=July 2019}}
+
+The indigenous languages were [[Iñeri language|Iñeri]] and [[Karina language|Karina]] (Carib).{{citation needed|date=July 2019}}
+
+==Culture==
+{{main|Culture of Grenada|Music of Grenada}}
+
+[[File:GrenadaCarnival1965FeatheredHeaddresses.jpg|thumb|A carnival in 1965]]
+
+Island culture is heavily influenced by the [[Ethnic groups of Africa|African]] roots of most of the Grenadians, coupled with the country's long experience of colonial rule under the British. Although French influence on Grenadian culture is much less visible than in some other [[Caribbean islands]], surnames and place names in French remain, and the everyday language is laced with French words and the local Creole or Patois.<ref name="CIA World Factbook - Grenada"/> Stronger French influence is found in the well seasoned [[Spice|spicy food]] and styles of cooking similar to those found in [[New Orleans]], and some French architecture has survived from the 1700s.{{citation needed|date=July 2019}} Indian and [[Island Caribs|Carib Amerindian]] influence is also seen, especially in the island's cuisine.
+
+[[Oil down]], a stew, is considered the national dish.<ref name="Gov.gd">{{cite web |url=http://www.gov.gd/articles/grenada_oil_down.html |title=Oil down – National Dish of Grenada |publisher=Gov.gd |date=5 March 2010 |access-date=19 March 2012 |archive-date=26 December 2018 |archive-url=https://web.archive.org/web/20181226023149/https://www.gov.gd/articles/grenada_oil_down.html%20 |url-status=live }}</ref> The name refers to a dish cooked in coconut milk until all the milk is absorbed, leaving a bit of coconut oil in the bottom of the pot. Early recipes call for a mixture of salted pigtail, pig's feet (trotters), salt beef and chicken, dumplings made from flour, and provisions like breadfruit, green banana, yam and potatoes. [[Callaloo]] leaves are sometimes used to retain the steam and add extra flavour.<ref name="Gov.gd"/>
+
+[[Soca music|Soca]], [[Calypso music|calypso]], [[kaiso]] and [[reggae]] are popular music genres and are played at Grenada's annual [[Carnival]]. Over the years, [[rap]] music became popular amongst Grenadian youths, and numerous young rappers have emerged in the island's underground rap scene.{{citation needed|date=July 2019}} [[Zouk (musical movement)|Zouk]] is also being slowly introduced onto the island.{{citation needed|date=July 2019}}
+
+An important aspect of the Grenadian culture is the tradition of [[storytelling]], with [[Folklore|folk tale]]s bearing both African and French influences.{{citation needed|date=July 2019}} The character ''[[Anansi|Anancy]]'', a spider who is a [[trickster]], originated in West Africa and is prevalent on other islands as well. French influence can be seen in ''[[La Diablesse]]'', a well-dressed she-[[devil]], and ''[[Loogaroo]]'' (from "loup-garou"), a [[werewolf]].{{citation needed|date=July 2019}}
+
+=== Media ===
+{{main|List of newspapers in Grenada}}
+
+== Sports ==
+=== Olympics ===
+{{main|Grenada at the Olympics}}
+
+[[File:Kirani James Daegu 2011.jpg|thumb|right|upright|Kirani James, noted Grenadian sprinter]]
+
+Grenada has competed in every Summer Olympics since the [[Grenada at the 1984 Summer Olympics|1984 Summer Olympics]] in Los Angeles. [[Kirani James]] won the first Olympic [[gold medal]] for Grenada in the [[Athletics at the 2012 Summer Olympics – Men's 400 metres|men's 400 meters]] at the [[2012 Summer Olympics]] in London, the silver medal in the [[Athletics at the 2016 Summer Olympics – Men's 400 metres|men's 400 meters]] at the [[2016 Summer Olympics]] in Rio de Janeiro<ref>{{cite web |title=Ambassador Kirani James brings home Olympic silver medal for Grenada {{!}} One Young World |url=https://www.oneyoungworld.com/news-item/ambassador-kirani-james-brings-home-olympic-silver-medal-grenada |access-date=28 July 2021 |website=www.oneyoungworld.com |archive-date=19 July 2021 |archive-url=https://web.archive.org/web/20210719151736/https://www.oneyoungworld.com/news-item/ambassador-kirani-james-brings-home-olympic-silver-medal-grenada |url-status=live }}</ref> and the bronze medal in the [[Athletics at the 2020 Summer Olympics – Men's 400 metres|men's 400 meters]] at the [[2020 Summer Olympics]] in Tokyo.<ref>{{cite web |title=Kirani JAMES |url=https://olympics.com/en/athletes/kirani-james |access-date=28 July 2021 |website=Olympics.com |archive-date=5 June 2022 |archive-url=https://web.archive.org/web/20220605051013/https://olympics.com/en/athletes/kirani-james |url-status=live }}</ref><ref>{{cite web |title=GRENADA LOVES 400M |url=https://spikes.worldathletics.org/post/grenada-loves-400m-spikes#:~:text=Athletic%20affection,the%20nation's%20most%20popular%20sports. |website=World Athletics |date=9 August 2016 |access-date=7 February 2022 |archive-date=7 February 2022 |archive-url=https://web.archive.org/web/20220207121520/https://spikes.worldathletics.org/post/grenada-loves-400m-spikes#:~:text=Athletic%20affection,the%20nation's%20most%20popular%20sports. |url-status=live }}</ref> [[Anderson Peters]] and [[Lindon Victor]] also won bronze medals in the men's javelin throw and decathlon respectively at the [[2024 Summer Olympics]] in France.<ref>{{Cite web |last=DeShong |first=Dillon |date=8 August 2024 |title=Grenada's Anderson Peters takes bronze in men's javelin at Paris 2024 |url=https://caribbean.loopnews.com/content/grenadas-anderson-peters-takes-bronze-mens-javelin-paris-2024 |access-date=11 November 2024 |website=Loop News |language=en }}</ref><ref>{{Cite web |last=Hoopes |first=Tom |date=6 August 2024 |title=Always a Raven: Medalist's Journey From Kansas College to Paris Olympics |url=https://media.benedictine.edu/always-a-raven-medalists-journey-from-kansas-college-to-paris-olympics |access-date=11 November 2024 |website=Benedictine College Media & Culture |language=en-US }}</ref>
+
+=== Cricket ===
+{{see also|Cricket in the West Indies|Windward Islands cricket team}}
+
+As with other islands from the Caribbean, [[cricket]] is the national and most popular sport and is an intrinsic part of Grenadian culture. The [[Grenada national cricket team]] forms a part of the [[Windward Islands cricket team]] in regional domestic cricket; however, it plays as a separate entity in minor regional matches,<ref>{{cite web |url=https://cricketarchive.com/Archive/Teams/1/1853/Other_Matches.html |title=Other Matches played by Grenada |publisher=CricketArchive |access-date=9 August 2014 |archive-date=7 November 2017 |archive-url=https://web.archive.org/web/20171107164655/https://cricketarchive.com/Archive/Teams/1/1853/Other_Matches.html }}</ref> as well as having previously played [[Twenty20]] cricket in the [[Stanford 20/20]].<ref>{{cite web |url=https://cricketarchive.com/Archive/Teams/1/1853/Twenty20_Matches.html |title=Twenty20 Matches played by Grenada |publisher=CricketArchive |access-date=9 August 2014 |archive-date=10 August 2014 |archive-url=https://web.archive.org/web/20140810065553/http://cricketarchive.com/Archive/Teams/1/1853/Twenty20_Matches.html |url-status=live }}</ref>
+
+The [[Grenada National Cricket Stadium]] in St. George's hosts domestic and international cricket matches. [[Devon Smith]], record holder for top runs scored in regional first class cricket competitions, was born in the small town of [[Hermitage (Carriacou)|Hermitage]].<ref>{{Cite web |date=28 February 2019 |title=PAVILION NAMED IN HONOUR OF DEVON SMITH |url=https://www.windiescricket.com/news/pavilion-named-honour-devon-smith/ |access-date=11 November 2024 |website=[[WICB|Windies Cricket]] |archive-date=11 November 2024 |archive-url=https://web.archive.org/web/20241111201817/https://www.windiescricket.com/news/pavilion-named-honour-devon-smith/ |url-status=live }}</ref><ref>{{Cite web |last=McDonald |first=Michelle L. |date=20 April 2015 |title=Devon Smith On Verge Of Creating History In Grenada |url=https://www.cricketinterviews.com/devon-smith-on-verge-of-creating-history-in-grenada-audio/ |access-date=11 November 2024 |website=Cricket Interviews |language=en-US |archive-date=11 November 2024 |archive-url=https://web.archive.org/web/20241111201816/https://www.cricketinterviews.com/devon-smith-on-verge-of-creating-history-in-grenada-audio/ |url-status=live }}</ref> T20 World Cup winning allrounder [[Afy Fletcher]] was also born and raised in La Fillette, St Andrews.<ref>{{Cite web |last=Corion |first=Kimron |date=31 January 2017 |title=Afy Fletcher |url=http://iamgrenadian.com/stories/afy-fletcher/ |access-date=11 November 2024 |website=I Am Grenadian |language=en-US |archive-date=11 November 2024 |archive-url=https://web.archive.org/web/20241111201743/http://iamgrenadian.com/stories/afy-fletcher/ |url-status=live }}</ref><ref>{{Cite web |date=11 November 2024 |title=Female Cricketer Afy Fletcher recognised as a sports icon {{!}} NOW Grenada |url=https://nowgrenada.com/2024/11/female-cricketer-afy-fletcher-recognised-as-a-sports-icon/ |access-date=11 November 2024 |language=en-GB |archive-date=13 November 2024 |archive-url=https://web.archive.org/web/20241113090647/https://nowgrenada.com/2024/11/female-cricketer-afy-fletcher-recognised-as-a-sports-icon/ |url-status=live }}</ref>
+
+In April 2007, Grenada jointly hosted (along with several other Caribbean states) the [[2007 Cricket World Cup]]. The Island's prime minister was the [[CARICOM]] representative on cricket and was instrumental in bringing the World Cup games to the region. After Hurricane Ivan, the government of the People's Republic of China (PRC) paid for the new $40&nbsp;million [[Queen's Park, Grenada|national stadium]] and provided the aid of over 300 labourers to build and repair it.<ref>{{cite news |agency=Associated Press |title=Grenada: Bandleader Loses Job in Chinese Anthem Gaffe |date=8 February 2007 |work=[[The New York Times]] |url=https://www.nytimes.com/2007/02/08/world/americas/08briefs-grenadagaffe.html |access-date=5 August 2008 |archive-date=16 April 2009 |archive-url=https://web.archive.org/web/20090416023034/http://www.nytimes.com/2007/02/08/world/americas/08briefs-grenadagaffe.html |url-status=live }}</ref> During the opening ceremony, the anthem of the [[Republic of China]] (ROC, [[Taiwan]]) was accidentally played instead of the PRC's anthem, leading to the firing of top officials.<ref>{{cite web |date=5 February 2007 |title=Grenada Goofs: Anthem Mix Up |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fcaribbean%2Fnews%2Fstory%2F2007%2F02%2F070205_grendiplomatic2.shtml |access-date=28 June 2010 |website=BBCCaribbean.com |archive-date=2 December 2010 |archive-url=https://web.archive.org/web/20101202081402/http://www.bbc.co.uk/caribbean/news/story/2007/02/070205_grendiplomatic2.shtml |url-status=live }}</ref><ref>{{cite news |author=Scott Conroy |url=https://www.cbsnews.com/news/taiwan-anthem-played-for-china-officials/ |title=Taiwan Anthem Played For China Officials |work=CBS News |date=3 February 2007 |access-date=28 June 2010 |archive-date=25 December 2013 |archive-url=https://web.archive.org/web/20131225040716/http://www.cbsnews.com/news/taiwan-anthem-played-for-china-officials/ |url-status=live }}</ref>
+
+=== Football ===
+{{See also|Grenada national football team}}
+
+Football (soccer) is also a very popular sport in Grenada.<ref>{{cite web |title=Famous Soccer Players from Grenada |url=https://www.ranker.com/list/famous-soccer-players-from-grenada/reference |website=Ranker |access-date=7 February 2022 |archive-date=7 February 2022 |archive-url=https://web.archive.org/web/20220207121654/https://www.ranker.com/list/famous-soccer-players-from-grenada/reference |url-status=live }}</ref>
+
+== See also ==
+{{portal|Countries|Caribbean|North America|Islands
+}}
+
+* [[Outline of Grenada]]
+* [[Index of Grenada-related articles]]
+{{Clear}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+{{Refbegin}}
+* Adkin, Mark. 1989. ''Urgent Fury: The Battle for Grenada: The Truth Behind the Largest US Military Operation Since Vietnam''. Trans-Atlantic Publications. {{ISBN|0-85052-023-1}}
+* [[Robert J. Beck|Beck, Robert J.]] 1993. ''The Grenada Invasion: Politics, Law, and Foreign Policy Decisionmaking''. Boulder: Westview Press. {{ISBN|0-8133-8709-4}}
+* Brizan, George 1984. ''Grenada Island of Conflict: From Amerindians to People's Revolution 1498–1979''. London, Zed Books Ltd., publisher; Copyright, George Brizan, 1984.
+* Martin, John Angus. 2007. ''A–Z of Grenada Heritage''. Macmillan Caribbean.
+* {{cite web |url=http://grenadaheritage.com/default.aspx |title=Grenada Heritage |publisher=Grenadaheritage.com |access-date=28 June 2010 |url-status=usurped |archive-url=https://web.archive.org/web/20110510072846/http://grenadaheritage.com/default.aspx |archive-date=10 May 2011}}
+* Sinclair, Norma. 2003. ''Grenada: Isle of Spice (Caribbean Guides)''. Interlink Publishing Group; 3rd edition. {{ISBN|0-333-96806-9}}
+* Stark, James H. 1897. ''Stark's Guide-Book and History of Trinidad including Tobago, Grenada, and St. Vincent; also a trip up the Orinoco and a description of the great Venezuelan Pitch Lake''. Boston, James H. Stark, publisher; London, Sampson Low, Marston & Company.
+* {{cite book |last=Steele |first=Beverley A. |year=2003 |title=Grenada: A History of Its People (Island Histories) |location=Oxford |publisher=MacMillan Caribbean |isbn=978-0-333-93053-3 |url=https://books.google.com/books?id=Ofp6AAAAMAAJ}}
+{{Refend}}
+
+== External links ==
+{{Sister project links|auto=1|voy=Grenada}}
+
+* {{Wikiatlas|Grenada}}
+* [http://gov.gd/ Official Website of the Government of Grenada]
+* [https://web.archive.org/web/20081210073815/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-g/grenada.html Chief of State and Cabinet Members]
+* {{cite EB9 |wstitle=Grenada |volume=XI |last= |first= |page=184 |short=1}}
+* {{Cite EB1911 |wstitle=Grenada |volume=12 |last= |first= |page=578 |short=1}}
+* {{Cite CIA World Factbook|country=Grenada}}
+* [https://web.archive.org/web/20080607084908/http://ucblibraries.colorado.edu/govpubs/for/grenada.htm Grenada] at ''UCB Libraries GovPubs''.
+* [https://news.bbc.co.uk/2/hi/americas/country_profiles/1209605.stm Grenada] from the [[BBC News]].
+* [https://web.archive.org/web/20041112235418/http://pbcalumni.org/pbc_history2.asp Presentation Brothers College]
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=GD Key Development Forecasts for Grenada] from [[International Futures]].
+* [https://www.dloc.com/l/AA00000053/00001/allvolumes ''The Grenada Newsletter'' (1974–1994)] in the [[Digital Library of the Caribbean]]
+* [https://www.washingtonpost.com/podcasts/post-reports/the-dream-of-a-black-utopia/ The dream of a Black utopia], podcast from [[The Washington Post]] – includes interview with [[Dessima Williams]], Grenada's former ambassador to the U.S.
+
+{{Grenada topics}}
+{{Navboxes
+| title = Articles relating to Grenada
+| list  = {{Countries of North America}}
+{{Organisation of Eastern Caribbean States (OECS) |collapsed}}
+{{Caribbean Community (CARICOM) |collapsed}}
+{{Bolivarian Alliance for the Americas (ALBA)}}
+{{Commonwealth realms}}
+{{The Commonwealth}}
+{{English official language clickable map}}
+}}
+
+{{Authority control}}
+{{Coord|12.1|N|61.7|W|display=title}}
+[[Category:Grenada| ]]
+[[Category:1640s establishments in the Caribbean]]
+[[Category:1649 establishments in North America]]
+[[Category:1649 establishments in the French colonial empire]]
+[[Category:1760s establishments in the Caribbean]]
+[[Category:1763 establishments in North America]]
+[[Category:1763 establishments in the British Empire]]
+[[Category:1970s establishments in the Caribbean]]
+[[Category:1974 establishments in North America]]
+[[Category:Countries and territories where English is an official language]]
+[[Category:Countries in North America]]
+[[Category:Countries in the Caribbean]]
+[[Category:Former British colonies and protectorates in the Americas]]
+[[Category:Former French colonies]]
+[[Category:Island countries]]
+[[Category:Member states of the Caribbean Community]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the Organisation of Eastern Caribbean States]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:States and territories established in 1974]]
+[[Category:Volcanic islands]]
+[[Category:Windward Islands]]

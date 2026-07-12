@@ -1,0 +1,530 @@
+{{Short description|Country in Central Africa}}
+{{about|the country}}
+{{Use Nigerian English|date=May 2026}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox country
+| conventional_long_name = Gabonese Republic
+| native_name            = {{native name|fr|République gabonaise}}
+| common_name            = Gabon
+| image_flag             = Flag of Gabon.svg
+| image_coat             = Coat of arms of Gabon.svg
+| coa_size               = 90
+| image_map              = {{switcher|[[File:Gabon (orthographic projection).svg|frameless]]|Show globe|[[File:Location Gabon AU Africa.svg|upright=1.15|frameless]]|Show map of Africa|default=1}}
+| map_caption            = 
+| national_motto         = {{native phrase|fr|"Union, Travail, Justice"|italics=off|nolink=on}}<br/>"Union, Work, Justice"
+| national_anthem        = {{native phrase|fr|"[[La Concorde]]"|italics=off|nolink=on}}<br/>"The Concord"
+{{parabr}}{{center|[[File:La Concorde.ogg]]}}
+| capital                = [[Libreville]]
+| coordinates            = {{coord|0|23|N|9|27|E|type:city}}
+| largest_city           = capital
+| official_languages     = [[French language|French]]
+| languages_type         = Regional languages
+| languages              = {{collapsible list
+|framestyle=border:none; padding:0;
+|[[English language|English]]
+|[[Spanish language|Spanish]]
+|[[French language|French]]
+|[[Portuguese language|Portuguese]]
+|[[Fang language|Fang]] 
+|[[Mbete language|Mbete]]
+|[[Myene language|Myene]]
+|[[Nzebi language|Nzebi]]
+|[[Punu language|Punu]]
+|[[Teke language|Teke]]
+|[[Vili language|Vili]]}}
+| demonym                = {{unbulleted list |Gabonese |Gabonaise}}
+| ethnic_groups          = {{hlist|[[Fang people|Fang]] |[[Punu people|Punu]] |Nzebi |[[Teke people|Teke]] |[[Myene people|Myene]] |[[Kota people (Gabon)|Kota]] |[[Vili people|Vili]] |[[Mbama people|Mbama]] |and 42 others}}
+| ethnic_groups_year     = 
+| religion               = {{ublist |item_style=white-space:nowrap;
+  |80.2% [[Christianity in Gabon|Christianity]]
+  |10.8% [[Islam in Gabon|Islam]]
+  |7.0% [[Irreligion|no religion]]
+  |1.1% [[African Traditional Religion|traditional faiths]]
+  |0.9% others
+ }}
+| government_type        = Unitary [[presidential republic]]
+| leader_title1          = [[List of heads of state of Gabon|President]]
+| leader_name1           = [[Brice Oligui Nguema]]
+| leader_title2          = [[Vice President of Gabon|Vice President]]
+| leader_name2           = [[Alexandre Barro Chambrier]]
+| leader_title3          = [[Vice President of the Government]]
+| leader_name3           = [[Hermann Immongault]]
+| legislature            = [[Parliament of Gabon|Parliament]]
+| upper_house            = [[Senate of Gabon|Senate]]
+| lower_house            = [[National Assembly of Gabon|National Assembly]]
+| area_km2               = 267,668
+| area_sq_mi             = 103,347 <!--Do not remove per [[WP:MOSNUM]]-->
+| area_rank              = 76th
+| percent_water          = 3.76%
+| population_estimate    = {{IncreaseNeutral}} 2,397,368<ref>{{Cite CIA World Factbook|country=Gabon|access-date=22 June 2023|year=2023}}</ref>
+| population_estimate_year = 2023
+| population_estimate_rank = 146th
+| population_density_km2 = 7.9
+| population_density_sq_mi = 20.6 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 216th
+| GDP_PPP                = {{increase}} $57.054 billion<ref name="IMFWEO.GA">{{cite web |url=https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.RES:WEO(9.0.0) |title=World Economic Outlook Database (Gabon) |website=IMF.org |publisher=[[International Monetary Fund]] |date=9 September 2025}}</ref>
+| GDP_PPP_rank           = 130th
+| GDP_PPP_year           = 2025
+| GDP_PPP_per_capita     = {{increase}} $24,739<ref name="IMFWEO.GA" />
+| GDP_PPP_per_capita_rank = 79th
+| GDP_nominal            = {{increase}} $21.455 billion<ref name="IMFWEO.GA" />
+| GDP_nominal_rank       = 131st
+| GDP_nominal_year       = 2025
+| GDP_nominal_per_capita = {{increase}} $9,303<ref name="IMFWEO.GA" />
+| GDP_nominal_per_capita_rank = 90th
+| sovereignty_type       = Independence from
+| sovereignty_note       = [[France]]
+| established_event1     = Administrated under the [[French Congo]]
+| established_date1      = 1882–1910
+| established_event2     = Re-established as French Gabon under the administration of [[French Equatorial Africa]]
+| established_date2      = 1910–1958
+| established_event3     = Republic established
+| established_date3      = 28 November 1958
+| established_event4     = Independence Granted
+| established_date4      = 17 August 1960
+| established_event5     = [[1964 Gabonese coup d'état|1964 coup d'état]]
+| established_date5      = 17–19 February 1964
+| established_event6     = [[2023 Gabonese coup d'état|2023 coup d'état]]
+| established_date6      = 30 August 2023
+| Gini_year              = 2017
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini                   = 38 <!--number only-->
+| Gini_ref               = <ref>{{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=GA |title=GINI index (World Bank estimate) |publisher=World Bank |access-date=20 January 2019 |archive-url=https://web.archive.org/web/20190121010840/https://data.worldbank.org/indicator/SI.POV.GINI?locations=GA |archive-date=21 January 2019 |url-status=live |df=dmy-all}}</ref>
+| Gini_rank              = 
+| HDI_year               = 2023<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI                    = 0.733 <!--number only-->
+| HDI_ref                = <ref name="UNHDR">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[United Nations Development Programme]]}}</ref>
+| HDI_rank               = 108th
+| currency               = [[Central African CFA franc]]
+| currency_code          = XAF
+| time_zone              = [[West Africa Time|WAT]]
+| utc_offset             = +1
+| calling_code           = [[+241]]
+| cctld                  = [[.ga]]
+| religion_year          = 2021
+| religion_ref           = <ref>{{cite web | url=https://www.cia.gov/the-world-factbook/countries/gabon/summaries | title=Country Summary | access-date=17 June 2024 | archive-date=23 June 2024 | archive-url=https://web.archive.org/web/20240623185302/https://www.cia.gov/the-world-factbook/countries/gabon/summaries/ | url-status=dead }}</ref>
+| today                  = 
+}}
+
+'''Gabon''' ({{IPAc-en|ɡ|ə|ˈ|b|ɒ|n}} {{respell|gə|BON}}; {{IPA|fr|ɡabɔ̃|audio=Fr-Gabon.oga}}), officially the '''Gabonese Republic''' ({{langx|fr|République gabonaise}}), is a country on the Atlantic coast of [[Central Africa]], on the [[equator]], bordered by [[Equatorial Guinea]] to the northwest, [[Cameroon]] to the north, the [[Republic of the Congo]] to the east and south, and the [[Gulf of Guinea]] to the west. It has an area of {{convert|270000|sqkm}} and a population of {{#expr:{{formatnum:{{UN_Population|Gabon}}|R}}/1e6 round 1}} million people. There are coastal plains, mountains (the [[Crystal Mountains (Africa)|Cristal Mountains]] and the [[Chaillu Massif]] in the centre), and a [[savanna]] in the east. [[Libreville]] is the country's capital and largest city.
+
+Gabon's original inhabitants were the [[African Pygmies|Bambenga]]. In the 14th century, [[Bantu expansion|Bantu migrants]] also began settling in the area. The [[Kingdom of Orungu]] was established around 1700. France colonised the region in the late 19th century. Since its independence from France in 1960, Gabon has had four [[President of Gabon|presidents]]. In the 1990s, it introduced a multi-party system and a democratic constitution that aimed for a more transparent electoral process and reformed some governmental institutions. Despite this, the [[Gabonese Democratic Party]] (PDG) remained the dominant party until its removal from power during the [[2023 Gabonese coup d'état]].
+
+Gabon is a [[developing country]], ranking 108th in the [[List of countries by Human Development Index|Human Development Index]]. It is one of the wealthiest countries in Africa in terms of [[per capita income]]; however, large parts of the population are very poor. [[Omar Bongo]] came to office in 1967 and created a [[Bongo family|dynasty]], which stabilized its power through a client network, {{lang|fr|[[Françafrique]]}}.<ref>{{Cite web |title=Gabun und Niger: "Wichtig, die Länder individuell zu betrachten" |url=https://www.tagesschau.de/ausland/afrika/gabun-niger-putsche-100.html |access-date=2023-08-31 |website=tagesschau.de |language=de |archive-date=31 August 2023 |archive-url=https://web.archive.org/web/20230831125717/https://www.tagesschau.de/ausland/afrika/gabun-niger-putsche-100.html |url-status=live }}</ref>
+
+The [[official language]] of Gabon is [[French language|French]], and Bantu ethnic groups constitute around 95% of the country's population. [[Christianity]] is the nation's predominant religion, practised by about 80% of the population. With petroleum and foreign private investment, it has the [[List of countries by Human Development Index|fourth highest]] [[Human Development Index|HDI]]<ref name="HDI">{{cite web |title=Human Development Report 2021/2022 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf |publisher=[[United Nations Development Programme]] |date=8 September 2022 |access-date=8 September 2022 |archive-date=9 October 2022 |archive-url=https://ghostarchive.org/archive/20221009/https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22pdf_1.pdf |url-status=live }}</ref> (after [[Mauritius]], [[Seychelles]], and [[South Africa]]) and the [[List of African countries by GDP (PPP) per capita|fifth highest]] GDP per capita (PPP) (after [[Seychelles]], [[Mauritius]], [[Equatorial Guinea]], and [[Botswana]]) of any Sub-Saharan African nation. Gabon's nominal GDP per capita was $10,149 in 2023.<ref>{{cite web | url=https://opecfund.org/who-we-are/member-countries/gabon | title=Gabon - OPEC Fund for International Development | access-date=22 January 2024 | archive-date=22 April 2024 | archive-url=https://web.archive.org/web/20240422143809/https://opecfund.org/who-we-are/member-countries/gabon | url-status=live }}</ref>
+
+== Etymology ==
+The country's name derives from the Portuguese word "gabao" (also spelled "Gabão"), meaning "hooded cloak". Portuguese navigators in the 1470s applied the term to the Komo (Como) River estuary, whose outline they thought resembled a cloak; the usage later extended to the surrounding region and, eventually, the modern state.<ref>{{cite encyclopedia |title=Gabon Estuary |encyclopedia=Encyclopaedia Britannica |publisher=Encyclopaedia Britannica, Inc. |date=2025-09-27|url=https://www.britannica.com/place/Gabon-Estuary
+ |access-date=2025-11-10}}</ref>
+
+== History ==
+{{main|History of Gabon|French Equatorial Africa}}
+{{Cite check|section|date=February 2026|reason=The [https://2009-2017.state.gov/r/pa/ei/bgn/2826.htm US State Department source] does not verify the text.}}
+
+[[File:1670 Ogilby Map of West Africa ( Gold Coast, Slave Coast, Ivory Coast ) - Geographicus - Guinea-ogilby-1670.jpg|thumb|left|A map of [[West Africa]] in 1675]]
+
+=== Pre-colonisation ===
+[[African Pygmies|Bambenga]] in the area were largely replaced and absorbed by [[Bantu peoples|Bantu]] tribes as they migrated. By the 18th century, a [[Myene language|Myeni]]-speaking kingdom known as the [[Orungu Kingdom|Kingdom of Orungu]] formed as a trading centre with the ability to purchase and sell slaves, and fell with the demise of the slave trade in the 1870s.<ref name="Gates, page 1468">*{{cite book |author=Gates, Henry Louis & Kwame Anthony Appiah |title=Africana: The Encyclopedia of the African and African American Experience |publisher=Basic Civitas Books |location=New York City |year=1999 |pages=[https://archive.org/details/africanaencyclop00appi/page/1468 1468] |isbn=0-465-00071-1 |url-access=registration |url=https://archive.org/details/africanaencyclop00appi/page/2095 }}</ref>
+
+=== French rule and independence ===
+Explorer [[Pierre Savorgnan de Brazza]] led his first mission to the Gabon-Congo area in 1875.<ref name="EB1911">{{Cite EB1911 |wstitle=Brazza, Pierre Paul François Camille Savorgnan de |last=Goldie |first=George Dashwood Taubman |author-link=George Taubman Goldie |volume=4 |pages=464–465 |short=1}}</ref> He founded the town of [[Franceville]] and was later colonial governor. Some Bantu groups lived in the area when France officially occupied it in 1885.
+
+[[File:Gabon campaign '1e Compagnie de Chars de Combat de la France Libre'.jpg|thumb|The [[Battle of Gabon]] resulted in the [[Free French Forces]] taking the colony of Gabon from [[Vichy France|Vichy French]] forces, 1940.]]
+In 1910, Gabon became a territory of [[French Equatorial Africa]],<ref>{{cite web|url=https://www.bbc.com/news/world-africa-13376333|title=Gabon country profile|date=24 September 2018|website=BBC News|access-date=24 September 2018|archive-url=https://web.archive.org/web/20180925030921/https://www.bbc.com/news/world-africa-13376333|archive-date=25 September 2018|url-status=live|df=dmy-all}}</ref> a federation that survived until 1958. In [[World War II]], the Allies [[Battle of Gabon|invaded]] Gabon to overthrow the pro-[[Vichy France]] colonial administration. On 28 November 1958, Gabon became an autonomous republic within the [[French Community]], and on 17 August 1960, it became fully independent.<ref>{{cite web|url=http://www.archontology.org/nations/gabon/01_polity.php|title=Gabon|publisher=Archontology|access-date=21 January 2021|archive-date=28 January 2021|archive-url=https://web.archive.org/web/20210128073532/http://www.archontology.org/nations/gabon/01_polity.php|url-status=live}}</ref>
+
+=== M'ba rule ===
+The first president of Gabon, elected in 1961,<ref name=":2">{{Cite news |title=Léon M'ba {{!}} African leader, independence leader, Gabonese leader {{!}} Britannica |url=https://www.britannica.com/biography/Leon-Mba |archive-url=http://web.archive.org/web/20251102110923/https://www.britannica.com/biography/Leon-Mba |archive-date=2025-11-02 |access-date=2026-06-03 |work=Encyclopedia Britannica |language=en}}</ref> was [[Léon M'ba]],<ref>{{Cite web |last=Zuber |first=David |date=2022-04-01 |title=Léon M’ba (1902-1967) |url=https://blackpast.org/global-african-history/leon-mba-1902-1967/ |access-date=2026-06-03 |website=BlackPast.org |language=en-US}}</ref><ref name=":2" /> with [[Omar Bongo Ondimba]] as his vice president. After M'ba acceded to power, the press was suppressed, political demonstrations suppressed, [[freedom of expression]] curtailed, other political parties gradually excluded from power, and the Constitution changed along French lines to vest power in the Presidency, a post that M'ba assumed himself.<ref>{{Cite news |title=Gabon - Independence, Economy, Wildlife {{!}} Britannica |url=https://www.britannica.com/place/Gabon/Gabon-since-independence |archive-url=http://web.archive.org/web/20250815131737/https://www.britannica.com/place/Gabon/Gabon-since-independence |archive-date=2025-08-15 |access-date=2026-06-03 |work=Encyclopedia Britannica |language=en}}</ref> When M'ba dissolved the [[National Assembly (Gabon)|National Assembly]] in January 1964 to institute one-party rule, [[1964 Gabonese coup d'état|an army coup sought to oust him from power]] and restore parliamentary democracy. French paratroopers flew in within 24 hours to restore M'ba to power.<ref name=":3" /> After days of fighting, the coup ended, and the opposition was imprisoned, with protests and riots ensuing.<ref name=":3">{{Cite web |title=26.  Gabon (1960-present) |url=http://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/gabon-1960-present/ |archive-url=http://web.archive.org/web/20171026214048/http://uca.edu/politicalscience/dadm-project/sub-saharan-africa-region/gabon-1960-present/ |archive-date=2017-10-26 |access-date=2026-06-03 |website=uca.edu |language=en-US}}</ref>
+
+=== Bongo rule and PDG ===
+When M'ba died in 1967, Bongo replaced him as president. In March 1968, Bongo declared Gabon a one-party state by dissolving BDG and establishing a new party – the [[Parti Démocratique Gabonais]] (PDG). He invited all Gabonese, regardless of previous political affiliation, to participate. Bongo sought to forge a single national movement in support of the government's development policies, using PDG as a tool to submerge the regional and tribal rivalries that had divided Gabonese politics in the past. Bongo was elected president in February 1975; in April 1975, the position of vice president was abolished and replaced by the position of prime minister, who had no right to automatic succession. Bongo was re-elected President to two 7-year terms in December 1979 and November 1986.<ref name=bn/>
+
+In 1990, economic discontent and a desire for political liberalization provoked demonstrations and strikes by students and workers. In response to grievances by workers, Bongo negotiated with them on a sector-by-sector basis, making wage concessions. He promised to open up PDG and organize a national political conference in March–April 1990 to discuss Gabon's future political system. PDG and 74 political organizations attended the conference. Participants were essentially divided into 2 "loose" coalitions, the ruling PDG and its allies, and the United Front of Opposition Associations and Parties, consisting of the breakaway Morena Fundamental and the [[Gabonese Progress Party]].<ref name=bn/>
+
+==== Transitional government and RSDG ====
+The April 1990 conference approved political reforms, including the creation of a national [[Senate (Gabon)|Senate]], decentralization of the budgetary process, freedom of assembly and press, and cancellation of an [[exit visa]] requirement. In an attempt to guide the political system's transformation to multiparty democracy, Bongo resigned as PDG chairman and created a transitional government headed by a new Prime Minister, [[Casimir Oye-Mba]]. The Gabonese Social Democratic Grouping (RSDG), as the resulting government was called, was smaller than the previous government and included representatives from some opposition parties in its cabinet. RSDG drafted a provisional constitution in May 1990 that provided a basic [[bill of rights]] and an independent judiciary and retained "strong" executive powers for the president. After further review by a constitutional committee and the National Assembly, this document came into force in March 1991.<ref name=bn/>
+
+Opposition to PDG continued after the April 1990 conference, and in September 1990, two [[coup d'état]] attempts were uncovered and aborted. With demonstrations after the death of an opposition leader, the first multiparty National Assembly elections in almost 30 years took place in September–October 1990, with PDG garnering a majority.<ref name=bn/>
+
+In 1991, the Parliament of Gabon adopted a new constitution, and the country switched to multiparty elections.
+
+==== Bongo's re-election and rule ====
+[[File:Omar Bongo with George Bush May 26 2004-01.jpg|thumb|President [[George W. Bush]] welcomes President [[Omar Bongo]] to the [[Oval Office]], May 2004.]]
+
+Following President [[Omar Bongo]]'s re-election in December 1993 with 51% of the vote, opposition candidates refused to validate the election results. Civil disturbances and violent repression led to an agreement between the government and opposition factions to work toward a political settlement. These talks led to the Paris Accords in November 1994, under which some opposition figures were included in a government of national unity. This arrangement broke down, and the 1996 and 1997 legislative and municipal elections provided the background for renewed partisan politics. PDG won in the legislative election, and some cities, including [[Libreville]], elected opposition mayors during the 1997 local election.<ref name=bn/>
+
+====Boycott of elections and crisis ====
+Facing a divided opposition, President Omar Bongo coasted to re-election in December 1998. While some of Bongo's opponents rejected the outcome as fraudulent, some international observers characterized the results as representative, "despite many perceived irregularities". Legislative elections held in 2001–2002 were boycotted by several smaller opposition parties and were criticized for their administrative weaknesses, producing a National Assembly dominated by PDG and allied independents. In November 2005, President Omar Bongo was elected for his sixth term. He won re-election, and opponents claim that the balloting process was marred by irregularities. There were some instances of violence following the announcement of his win.<ref name=bn/> National Assembly elections were held in December 2006. Some seats contested because of voting irregularities were overturned by the [[Constitutional Court of Gabon|Constitutional Court]], and the subsequent run-off elections in 2007 yielded a PDG-controlled National Assembly.<ref name=bn/>
+
+==== Death of Bongo and succession ====
+{{More citations needed section|date=February 2026}}
+[[File:Independence Celebration in Gabon.JPG|thumb|Independence Day celebration in Gabon]]
+Following the death of President Omar Bongo on 8 June 2009 due to cardiac arrest at a Spanish hospital in Barcelona, Gabon entered a period of political transition. Per the amended constitution, [[Rose Francine Rogombé]], the President of the Senate, assumed the role of Interim President on 10 June 2009. The subsequent presidential elections, held on 30 August 2009, marked a historic moment as they were the first in Gabon's history not to feature Omar Bongo as a candidate. With a crowded field of 18 contenders, including Omar Bongo's son and ruling party leader, [[Ali Bongo Ondimba|Ali Bongo]], the elections were closely watched both domestically and internationally.
+
+After a rigorous three-week review by the Constitutional Court, Ali Bongo was officially declared the winner, leading to his inauguration on 16 October 2009. However, the announcement of his victory was met with scepticism by some opposition candidates, sparking sporadic protests across the country. Nowhere was this discontent more pronounced than in [[Port-Gentil]], where allegations of electoral fraud resulted in violent demonstrations. The unrest claimed four lives and led to significant property damage, including attacks on the French Consulate and a local prison. Subsequently, security forces were deployed, and a curfew remained in effect for over three months.
+
+In June 2010, a partial legislative by-election was held, marking the emergence of the Union Nationale (UN) coalition, primarily comprising defectors from the ruling PDG party following Omar Bongo's death. The contest for the five available seats saw both the PDG and UN claiming victory, underscoring the political tensions that persisted in the aftermath of the presidential transition.
+
+In January 2019 a group of soldiers [[2019 Gabonese coup attempt|launched an unsuccessful coup]] against President Ali Bongo while he was in [[Morocco]] recovering from a stroke.<ref>{{cite news |last1=Maclean |first1=Ruth |title=Gabon detains soldiers after failed coup |url=https://www.theguardian.com/world/2019/jan/07/gabon-military-seize-national-radio-station-in-apparent-coup-attempt |access-date=18 February 2026 |work=[[The Guardian]] |date=9 January 2019}}</ref>
+
+In June 2021, Gabon became the first African country to receive payments for reducing deforestation and associated [[Greenhouse gas emissions|emissions]].<ref>{{cite news |last1=James |first1=Francis |title=Gabon leads Africa in the preservation and conservation of forests |url=https://www.undp.org/fr/gabon/actualites/gabon-leads-africa-preservation-and-conservation-forests |access-date=18 February 2026 |work=[[United Nations Development Program]] |type=Press release |date=26 July 2021}}</ref> In June 2022, Gabon, along with [[Togo]], joined the [[Commonwealth of Nations]].<ref>{{cite press release |url=https://thecommonwealth.org/news/gabon-and-togo-join-commonwealth |title=Gabon and Togo join the Commonwealth |publisher=[[Commonwealth of Nations]] |date=25 June 2022 |access-date=24 September 2022 |archive-date=21 July 2022 |archive-url=https://web.archive.org/web/20220721122228/https://thecommonwealth.org/news/gabon-and-togo-join-commonwealth |url-status=live }}</ref>
+
+=== 2023 coup d'état ===
+{{Main|2023 Gabonese coup d'état}}
+
+In August 2023, following the announcement that Ali Bongo had won a third term in the [[2023 Gabonese general election|general election]], military officers announced that they had taken power in a [[2023 Gabonese coup d'état|coup d'état]] and cancelled the election results. They also dissolved state institutions, including the Judiciary, Parliament and the constitutional assembly.<ref>{{cite web |title=Gabon military officers claim power, say election lacked credibility |url=https://www.aljazeera.com/news/2023/8/30/gabon-military-officers-claim-power-say-election-lacked-credibility |access-date=30 August 2023 |publisher=Al Jazeera |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830050716/https://www.aljazeera.com/news/2023/8/30/gabon-military-officers-claim-power-say-election-lacked-credibility |url-status=live }}</ref><ref>{{cite news |date=30 August 2023 |title=Gabonese military officers announce they have seized power of oil-rich country |publisher=Reuters |url=https://www.reuters.com/world/africa/gabonese-military-officers-announce-they-have-seized-power-2023-08-30/ |access-date=30 August 2023 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830051446/https://www.reuters.com/world/africa/gabonese-military-officers-announce-they-have-seized-power-2023-08-30/ |url-status=live }}</ref> On 31 August 2023, army officers who seized power, ending the Bongo family's 55-year hold on power, named Gen [[Brice Clotaire Oligui Nguema|Brice Oligui Nguema]] as the country's transitional leader.<ref>{{cite news |title=Gabon coup leaders name Gen Brice Oligui Nguema as new leader |url=https://www.bbc.com/news/world-africa-66666585 |work=BBC News |date=31 August 2023 |access-date=5 September 2023 |archive-date=31 August 2023 |archive-url=https://web.archive.org/web/20230831010153/https://www.bbc.com/news/world-africa-66666585 |url-status=live }}</ref> On 4 September 2023, General Nguema was sworn in as interim president of Gabon.<ref>{{cite news |title=Gabon coup leader Brice Nguema vows free elections - but no date |url=https://www.bbc.com/news/world-africa-66705693 |work=BBC News |date=4 September 2023 |access-date=8 September 2023 |archive-date=4 September 2023 |archive-url=https://web.archive.org/web/20230904220628/https://www.bbc.com/news/world-africa-66705693 |url-status=live }}</ref>
+
+As a consequence of the coup, on the 18 September 2023, Gabon was partially suspended from the Commonwealth of Nations. The partial suspension excluded Gabon from the Councils of the Commonwealth, and the organization's meetings and events, such as the [[Commonwealth Heads of Government Meeting]]. This was done as a potential preamble to a full suspension from the Commonwealth, if "acceptable progress is not made within two years".<ref>{{Cite web |title=Gabon partially suspended from the Commonwealth pending restoration of democracy |url=https://thecommonwealth.org/news/gabon-partially-suspended-commonwealth-pending-restoration-democracy |archive-url=https://web.archive.org/web/20250724122459/https://thecommonwealth.org/news/gabon-partially-suspended-commonwealth-pending-restoration-democracy |archive-date=2025-07-24 |access-date=2025-08-07 |website=Commonwealth |language=en}}</ref> Gabon was restored to a position of full membership within the Commonwealth on 15 July 2025, with the organization stating that the [[2025 Gabonese presidential election|Presidential election held on 12 April 2025]] “largely reflected the will of the people who voted and that it was conducted in a credible, transparent and inclusive manner".<ref>{{Cite web |title=Concluding Statement of the Sixty-Ninth Meeting of the Commonwealth Ministerial Action Group |url=https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2025-07/concluding-statement-cmag69.pdf?VersionId=tw0TzCZSukXQxP3UmP8sihNAZeaL40_i |archive-url=https://web.archive.org/web/20250715201834/https://production-new-commonwealth-files.s3.eu-west-2.amazonaws.com/s3fs-public/2025-07/concluding-statement-cmag69.pdf?VersionId=tw0TzCZSukXQxP3UmP8sihNAZeaL40_i |archive-date=2025-07-15 |access-date=2025-08-07 |website=production-new-commonwealth-files.s3.eu-west-2.amazonaws.com}}</ref>
+
+In November 2024, a [[2024 Gabon constitutional referendum|referendum on a new constitution]] was approved, reforming the country's government.<ref>{{Cite web |date=2024-10-18 |title=Journal de l'Afrique - Nouvelle constitution au Gabon, le référendum fixé au 16 novembre |url=https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20241018-nouvelle-constitution-au-gabon-le-r%C3%A9f%C3%A9rendum-fix%C3%A9-au-16-novembre-prochain |access-date=2024-10-22 |publisher=France 24 |language=fr}}</ref> In April 2025, Brice Oligui Nguema won the [[2025 Gabonese presidential election|2025 presidential election]] with more than 90% of the vote, becoming the 4th president of Gabon.<ref>{{cite news |title=Gabon election: Coup leader Oligui Nguema wins poll by huge margin |url=https://www.bbc.com/news/articles/cp31kxg35dro |publisher=BBC |date=13 April 2025}}</ref>
+
+== Politics ==
+{{main|Politics of Gabon}}
+
+The presidential republic form of government is stated under the 1961 constitution (revised in 1975, rewritten in 1991, and revised in 2003). The president is elected by universal suffrage for a seven-year term; a 2003 constitutional amendment removed presidential term limits. The president can appoint and dismiss the prime minister, the cabinet, and judges of the independent Supreme Court. The president has other powers, such as the authority to dissolve the National Assembly, declare a state of siege, delay legislation, and conduct referendums.<ref name=bn/> Gabon has a [[Parliament of Gabon|bicameral legislature]] with a National Assembly and Senate. The National Assembly has 120 deputies who are popularly elected for a five-year term. The Senate is composed of 102 members who are elected by municipal councils and regional assemblies and serve for six years. The Senate was created in the 1990–1991 constitutional revision and was not brought into being until after the 1997 local elections. The President of the Senate is next in succession to the President.<ref name=bn/>
+
+In 1990, the government made changes to Gabon's political system. A transitional constitution was drafted in May 1990 as an outgrowth of the national political conference in March–April and later revised by a constitutional committee. Among its provisions were a Western-style [[bill of rights]], the creation of a National Council of Democracy to oversee the guarantee of those rights, a governmental advisory board on economic and social issues, and an independent judiciary. After approval by the National Assembly, the PDG Central Committee, and the President, the Assembly unanimously adopted the constitution in March 1991. Multiparty legislative elections were held in 1990–1991 when opposition parties had not been declared formally legal. In January 1991, the Assembly passed by unanimous vote a law governing the legalization of opposition parties.<ref name=bn/>
+
+After President [[Omar Bongo]] was re-elected in 1993, in a disputed election where only 51% of votes were cast, social and political disturbances led to the 1994 Paris Conference and Accords. These provided a framework for the next elections. Local and legislative elections were delayed until 1996–1997. In 1997, constitutional amendments put forward years earlier were adopted to create the Senate and the position of [[Vice President of Gabon|Vice President]] and to extend the President's term to seven years.<ref name=bn/>
+
+In October 2009, President [[Ali Bongo Ondimba]] began efforts to streamline the government. To reduce corruption and government bloat, he eliminated 17 minister-level positions, abolished the Vice Presidency and reorganized the portfolios of some ministries, bureaus and directorates. In November 2009, Bongo announced a new vision for the modernization of Gabon, called "Gabon Emergent". This program contains three pillars: Green Gabon, Service Gabon, and Industrial Gabon. The goals of Gabon Emergent are to diversify the economy so that Gabon becomes less reliant on petroleum, to eliminate corruption, and to modernize the workforce. Under this program, exports of raw timber have been banned, a government-wide census was held, the work day was changed to eliminate a long midday break, and a national oil company was created.<ref name=bn/>
+
+On 25 January 2011, opposition leader [[André Mba Obame]] claimed the presidency, saying the country should be run by someone the people wanted. He selected 19 ministers for his government, and the entire group, along with hundreds of others, spent the night at the [[United Nations]] headquarters. On January 26, the government dissolved Mba Obame's party. AU chairman [[Jean Ping]] said that Mba Obame's action "hurts the integrity of legitimate institutions and also endangers the peace, the security and the stability of Gabon."<ref name=Goma>{{cite news|url=http://hosted.ap.org/dynamic/stories/A/AF_GABON?SITE=NCWIN&SECTION=HOME&TEMPLATE=DEFAULT |archive-url=https://web.archive.org/web/20210416164620/http://hosted.ap.org/dynamic/stories/A/AF_GABON?SITE=NCWIN&SECTION=HOME&TEMPLATE=DEFAULT |url-status=dead |archive-date=16 April 2021 |title=Gabon opposition leader declares himself president |last=Goma |first=Yves Laurent |work=[[Winston-Salem Journal]] |agency=[[Associated Press]] |date=26 January 2011 |access-date=26 January 2011 }}</ref> Interior Minister Jean-François Ndongou accused Mba Obame and his supporters of [[treason]].<ref name=Goma/> The [[UN Secretary-General]], [[Ban Ki-moon]], said that he recognized Ondimba as the only official Gabonese president.<ref>{{Cite book|url=https://books.google.com/books?id=hd-rDwAAQBAJ&q=The+UN+Secretary-General%2C+Ban+Ki-moon%2C+said+that+he+recognized+Ondimba+as+the+only+official+Gabonese+president.&pg=PA48|title=Gabon: Doing Business, Investing in Gabon Guide Volume 1 Strategic, Practical Information, Regulations, Contacts|last=WWW.IBPUS.COM|date=13 March 2019|publisher=Lulu.com|isbn=9781514526613|access-date=11 November 2020|archive-date=16 April 2021|archive-url=https://web.archive.org/web/20210416160337/https://books.google.com/books?id=hd-rDwAAQBAJ&q=The+UN+Secretary-General%2C+Ban+Ki-moon%2C+said+that+he+recognized+Ondimba+as+the+only+official+Gabonese+president.&pg=PA48|url-status=live}}{{self-published source|date=February 2020}}</ref>{{self-published inline|date=February 2020}}
+
+The [[Gabonese presidential election, 2016|2016 presidential election]] was disputed, with "very close" official results reported. Protests broke out in the capital and met repression, which culminated in the alleged bombing of the opposition party headquarters by the presidential guard. Between 50 and 100 citizens were killed by security forces, and 1,000 were arrested.<ref>{{Cite news|url=http://www.france24.com/en/20160906-deaths-gabon-presidential-election-violence-ping-bongo|title='Between 50 and 100 killed' in Gabon election violence, presidential challenger tells FRANCE 24 – France 24|date=6 September 2016|publisher=France 24|access-date=9 August 2018|language=en-US|archive-url=https://web.archive.org/web/20180809184234/http://www.france24.com/en/20160906-deaths-gabon-presidential-election-violence-ping-bongo|archive-date=9 August 2018|url-status=live|df=dmy-all}}</ref> International observers criticized irregularities, including unnaturally high turnout reported for some districts. The country's supreme court threw out some suspect precincts, and the ballots have been destroyed. The election was declared in favour of the incumbent Ondimba. The European Parliament issued two resolutions denouncing the unclear results of the election and calling for an investigation into the human rights violations.<ref>{{cite web|url=http://www.europarl.europa.eu/sides/getDoc.do?type=MOTION&reference=B8-2017-0526&language=EN|title=Motion for a resolution on Gabon, repression of the opposition – B8-0526/2017|publisher=European Parliament|access-date=9 August 2018|archive-url=https://web.archive.org/web/20180809184124/http://www.europarl.europa.eu/sides/getDoc.do?type=MOTION&reference=B8-2017-0526&language=EN|archive-date=9 August 2018|url-status=live|df=dmy-all}}</ref>
+
+A few days after the controversial [[2023 Gabonese general election|presidential election]] in August 2023, a group of military officials declared a [[2023 Gabonese coup d'état|military coup]] and that they had overthrown the government and deposed Ali Bongo Ondimba. The announcement came hours after Bongo was officially re-elected for a third term.<ref>{{Cite news |last=Walsh |first=Declan |date=2023-08-30 |title=Gabon Military Officers Say They Are Seizing Power |language=en-US |work=The New York Times |url=https://www.nytimes.com/2023/08/30/world/africa/gabon-coup-election.html |access-date=2023-08-30 |issn=0362-4331 |archive-date=3 September 2023 |archive-url=https://web.archive.org/web/20230903073718/https://www.nytimes.com/2023/08/30/world/africa/gabon-coup-election.html |url-status=live }}</ref> [[Brice Clotaire Oligui Nguema|General Brice Oligui Nguema]] was appointed as the transitional leader. This event marked the eighth instance of military intervention in the region since 2020, raising concerns about democratic stability.<ref>{{Cite news |last=Wilfried Obangome |first=Gerauds |date=2023-08-30 |title=Gabon army officers say they have seized power after election in oil-rich country |language=en |work=Reuters |url=https://www.reuters.com/world/africa/gabonese-military-officers-announce-they-have-seized-power-2023-08-30/ |access-date=2023-08-31 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830051446/https://www.reuters.com/world/africa/gabonese-military-officers-announce-they-have-seized-power-2023-08-30/ |url-status=live }}</ref>
+
+=== Foreign relations ===
+{{further|Foreign relations of Gabon}}
+[[File:Vladimir Putin with Julien Nkoghe Bekale & his spouse.jpg|thumb|upright=1.25|Prime Minister of Gabon [[Julien Nkoghe Bekale]] and Russian President [[Vladimir Putin]] at the [[Russia–Africa Summit 2019|Russia-Africa Summit]] in [[Sochi]] in Russia in October 2019]]
+Since independence, Gabon has followed a nonaligned policy, advocating dialogue in international affairs and recognizing each side of divided countries. In intra-African affairs, it espouses development by evolution rather than revolution and favours regulated private enterprise as the system most likely to promote rapid economic growth. It involved itself in mediation efforts in [[Chad]], the [[Central African Republic]], [[Angola]], the [[Republic of the Congo]], the [[Democratic Republic of the Congo]] (D.R.C.), and [[Burundi]]. In December 1999, through the mediation efforts of President Bongo, a peace accord was signed in the Republic of the Congo (Brazzaville) between the government and most leaders of an armed rebellion. President Bongo was involved in the continuing D.R.C. peace process and played a role in mediating the crisis in [[Ivory Coast]].
+
+Gabon is a member of the [[United Nations]] (UN) and some of its specialized and related agencies, and of the [[World Bank]]; the [[IMF]]; the [[African Union]] (AU); the Central African Customs Union/Central African Economic and Monetary Community (UDEAC/CEMAC); EU/ACP association under the [[Lomé Convention]]; the [[Communauté Financière Africaine]] (CFA); the [[Organization of the Islamic Conference]] (OIC); the [[Nonaligned Movement]]; and the [[Economic Community of Central African States]] (ECCAS/CEEAC). In 1995, Gabon withdrew from the [[Organization of the Petroleum Exporting Countries]] (OPEC) [[cartel]], rejoining in 2016.<ref name="g417">{{cite journal | last=Roeben | first=Volker | title=What drives OPEC production policy? | journal=The Journal of World Energy Law & Business | volume=17 | issue=1 | date=2024 | issn=1754-9957 | doi=10.1093/jwelb/jwad031 | pages=19–34 | url=https://academic.oup.com/jwelb/article/17/1/19/7497082 | access-date=2026-06-25}}</ref> Gabon was elected to a non-permanent seat on the [[United Nations Security Council]] from January 2010 through December 2011 and held the rotating presidency in March 2010.<ref name=bn/> In 2022, Gabon joined the [[Commonwealth of Nations]].<ref>{{Cite web |date=2022-06-25 |title=West African nations Gabon and Togo join Commonwealth |url=https://www.france24.com/en/africa/20220625-west-african-nations-gabon-and-togo-join-commonwealth |access-date=2023-08-30 |publisher=France 24 |language=en |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830150837/https://www.france24.com/en/africa/20220625-west-african-nations-gabon-and-togo-join-commonwealth |url-status=live }}</ref> In 2024, ruling [[Military junta|junta]] leader [[Brice Oligui Nguema]] assured American and French leaders that Gabon would be an ally of the [[Western world|West]] moving forward, as a part of his broader plan to solve the ongoing debt crisis.<ref>{{Cite web |date=2024-06-07 |title=Gabon: Will the coup lead to democracy? |url=https://globalbar.se/2024/06/gabon-will-the-coup-lead-to-democracy/ |access-date=2024-06-07 |website=Global Bar Magazine |language=sv-SE}}</ref> On 31 August 2023, Gabon was suspended from the African Union following a [[2023 Gabonese coup d'état|coup d'état.]]<ref>{{Cite news |title=African Union suspends Gabon's membership after military coup |url=https://www.reuters.com/world/africa/gabon-awaits-next-move-junta-after-coup-ousts-president-bongo-2023-08-31/ |archive-url=https://web.archive.org/web/20240214030059/https://www.reuters.com/world/africa/gabon-awaits-next-move-junta-after-coup-ousts-president-bongo-2023-08-31/ |archive-date=14 February 2024 |access-date=2025-04-15 |work=Reuters |language=en-US |url-status=live }}</ref> On May 1, 2025, Gabon was re-instated after Brice Oligui Nguema was elected.<ref>{{Cite web |last=AfricaNews |date=2025-05-01 |title=African Union ends Gabon suspension after Oligui election |url=https://www.africanews.com/2025/05/01/african-union-ends-gabon-suspension-after-oligui-election// |access-date=2025-06-22 |website=Africanews |language=en}}</ref>
+
+=== Military ===
+{{Further|Armed Forces of Gabon}}
+
+It has a professional military of about 5,000 personnel, divided into [[Gabonese Army|army]], [[Gabonese Navy|navy]], [[Gabonese Air Force|air force]], [[gendarmerie]], and police force. A 1,800-member guard provides security for the president.<ref name=bn/>
+
+=== Administrative divisions ===
+{{Provinces of Gabon Image Map}}
+{{main|Subdivisions of Gabon}}
+
+It is divided into 9 provinces, which are subdivided into 50 [[Departments of Gabon|departments]]. The president appoints the provincial governors, the prefects, and the subprefects.<ref name=bn/>
+
+The provinces are (capitals in parentheses):
+#[[Estuaire Province|Estuaire]] ([[Libreville]])
+#[[Haut-Ogooué Province|Haut-Ogooué]] ([[Franceville]])
+#[[Moyen-Ogooué Province|Moyen-Ogooué]] ([[Lambaréné]])
+#[[Ngounié Province|Ngounié]] ([[Mouila]])
+#[[Nyanga Province|Nyanga]] ([[Tchibanga]])
+#[[Ogooué-Ivindo Province|Ogooué-Ivindo]] ([[Makokou]])
+#[[Ogooué-Lolo Province|Ogooué-Lolo]] ([[Koulamoutou]])
+#[[Ogooué-Maritime Province|Ogooué-Maritime]] ([[Port-Gentil]])
+#[[Woleu-Ntem Province|Woleu-Ntem]] ([[Oyem]])
+
+== Geography ==
+{{main|Geography of Gabon|Geology of Gabon}}
+
+{{MapLibrary|Gabon_sat.png|Gabon}}
+[[File:Koppen-Geiger Map GAB present.svg|thumb|Map of Köppen climate classification]]
+Gabon is located on the [[Atlantic Ocean|Atlantic]] coast of central Africa on the [[equator]], between latitudes [[3rd parallel north|3°N]] and [[4th parallel south|4°S]], and longitudes [[8th meridian east|8°]] and [[15th meridian east|15°E]]. Gabon has an [[equatorial climate]] with a system of [[Tropical rainforest|rainforests]], with 89.3% of its land area forested.<ref>{{cite web|url=http://www.fao.org/3/a-i4808e.pdfFAOSTAT|title=Global Forest Resources Assessment 2015 website|publisher=FAO|access-date=9 December 2018|archive-url=https://web.archive.org/web/20181210015903/http://www.fao.org/3/a-i4808e.pdfFAOSTAT|archive-date=10 December 2018|url-status=live|df=dmy-all}}</ref>
+
+There are coastal plains (ranging between {{convert|20| and |300|km|abbr=on|disp=sqbr|-1}} from the ocean's shore), the mountains (the Cristal Mountains to the northeast of Libreville, the Chaillu Massif in the centre), and the [[savanna]] in the east. The coastal plains form a section of the [[World Wildlife Fund]]'s [[Atlantic Equatorial coastal forests]] [[ecoregion]] and contain patches of [[Central African mangroves]] including on the [[Muni River]] estuary on the border with [[Equatorial Guinea]].<ref name="DinersteinOlson2017">{{cite journal|last1=Dinerstein|first1=Eric|last2=Olson|first2=David|last3=Joshi|first3=Anup|last4=Vynne|first4=Carly|last5=Burgess|first5=Neil D.|last6=Wikramanayake|first6=Eric|last7=Hahn|first7=Nathan|last8=Palminteri|first8=Suzanne|last9=Hedao|first9=Prashant|last10=Noss|first10=Reed|last11=Hansen|first11=Matt|last12=Locke|first12=Harvey|last13=Ellis|first13=Erle C|last14=Jones|first14=Benjamin|last15=Barber|first15=Charles Victor|last16=Hayes|first16=Randy|last17=Kormos|first17=Cyril|last18=Martin|first18=Vance|last19=Crist|first19=Eileen|last20=Sechrest|first20=Wes|last21=Price|first21=Lori|last22=Baillie|first22=Jonathan E. M.|last23=Weeden|first23=Don|last24=Suckling|first24=Kierán|last25=Davis|first25=Crystal|last26=Sizer|first26=Nigel|last27=Moore|first27=Rebecca|last28=Thau|first28=David|last29=Birch|first29=Tanya|last30=Potapov|first30=Peter|last31=Turubanova|first31=Svetlana|last32=Tyukavina|first32=Alexandra|last33=de Souza|first33=Nadia|last34=Pintea|first34=Lilian|last35=Brito|first35=José C.|last36=Llewellyn|first36=Othman A.|last37=Miller|first37=Anthony G.|last38=Patzelt|first38=Annette|last39=Ghazanfar|first39=Shahina A.|last40=Timberlake|first40=Jonathan|last41=Klöser|first41=Heinz|last42=Shennan-Farpón|first42=Yara|last43=Kindt|first43=Roeland|last44=Lillesø|first44=Jens-Peter Barnekow|last45=van Breugel|first45=Paulo|last46=Graudal|first46=Lars|last47=Voge|first47=Maianna|last48=Al-Shammari|first48=Khalaf F.|last49=Saleem|first49=Muhammad|title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm|journal=BioScience|volume=67|issue=6|year=2017|pages=534–545|issn=0006-3568|doi=10.1093/biosci/bix014|pmid=28608869|pmc=5451287|doi-access=free}}</ref>
+
+Geologically, Gabon is primarily [[Archean|Archaean]] and [[Palaeoproterozoic]] igneous and [[metamorphic basement rock]], belonging to the stable continental crust of the [[Congo craton]]. Some formations are more than 2 billion years old. Some rock units are overlain by marine [[carbonate]], lacustrine and continental sedimentary rocks, and unconsolidated sediments and soils that formed in the last 2.5 million years of the [[Quaternary]]. The rifting apart of the [[supercontinent]] [[Pangaea]] created rift basins that filled with sediments and formed the hydrocarbons.<ref>{{cite book |last=Schluter |first= Thomas |year=2006|title=Geological Atlas of Africa|publisher=Springer|pages=110–112}}</ref> There are Oklo reactor zones, a [[natural nuclear fission reactor]] on Earth which was active 2 billion years ago. The site was discovered during uranium mining in the 1970s to supply the French nuclear power industry.
+
+Its largest river is the [[Ogooué]], which is {{convert|1200|km|-1}} long. It has three [[Karst topography|karst]] areas where there are hundreds of caves located in the dolomite and limestone rocks. A National Geographic Expedition visited some caves in the summer of 2008 to document them.<ref>{{cite web|url=http://blogs.nationalgeographic.com/blogs/gabon-caves|title=Expedition website|access-date=30 May 2008|archive-url=https://web.archive.org/web/20090420132319/http://blogs.nationalgeographic.com/blogs/gabon-caves/|archive-date=20 April 2009|url-status=dead|df=dmy-all}}</ref>
+
+Gabon is highly vulnerable to [[climate change]] due to its dense coastal population, economic hubs along the shore, and dependence on [[Rainfed agriculture|rain-fed agriculture]].<ref name=":17">{{Cite web |last=World Bank Climate Change Knowledge Portal |title=Gabon |url=https://climateknowledgeportal.worldbank.org/country/gabon# |access-date=2025-03-17 |publisher=World Bank |language=en}}</ref> [[Sea level rise|Rising sea levels]] threaten to erode the coastline and contaminate freshwater sources with saltwater. The country is already experiencing more frequent and severe [[extreme weather]] events, such as floods, droughts, and storms, which damage infrastructure, displace communities, and disrupt [[food security]] and livelihoods.<ref name=":18">{{Cite web |last=Othering & Belonging Institute |title=Gabon Case Study |url=https://belonging.berkeley.edu/climatedisplacement/case-studies/gabon |access-date=2025-03-17 |website=belonging.berkeley.edu}}</ref> To adapt, Gabon prioritises protecting its coastal areas, as well as its fishing, agriculture, and forestry industries.<ref name=":17" /> Its vast forests act as a net [[carbon sink]].<ref name=":19">{{Cite web |last=UNDP Biofin |title=Gabon |url=https://www.biofin.org/gabon#: |access-date=2025-03-17 |website=BIOFIN |language=en}}</ref><ref name=":20">{{Cite book |last=UNFCCC |url=https://unfccc.int/sites/default/files/resource/FSVR1_GAB_Jun2024.pdf |title=Record of the facilitative sharing of views at the sixtieth session of the Subsidiary Body for Implementation: Gabon |publication-date=5 August 2024}}</ref> It is recognized as a global leader in [[climate action]] and is widely considered the most carbon-positive country in the world, due to its strong [[Environmental protection|conservation]] efforts.<ref name=":18" />
+
+In 2002, President Omar Bongo Ondimba designated roughly 10% of the nation's territory to be part of its [[List of national parks of Gabon|national park system]] (with 13 parks in total). The [[National Agency for National Parks]] manages Gabon's national park system. Gabon had a 2018 [[Forest Landscape Integrity Index]] mean score of 9.07/10, ranking it 9th globally out of 172 countries.<ref name="FLII-Supplementary">{{cite journal |last1=Grantham |first1=H. S. |last2=Duncan |first2=A. |last3=Evans |first3=T. D. |last4=Jones |first4=K. R. |last5=Beyer |first5=H. L. |last6=Schuster |first6=R. |last7=Walston |first7=J. |last8=Ray |first8=J. C. |last9=Robinson |first9=J. G. |last10=Callow |first10=M. |last11=Clements |first11=T. |last12=Costa |first12=H. M. |last13=DeGemmis |first13=A. |last14=Elsen |first14=P. R. |last15=Ervin |first15=J. |year=2020 |title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity – Supplementary Material |journal=Nature Communications |volume=11 |issue=1 |page=5978 |bibcode=2020NatCo..11.5978G |doi=10.1038/s41467-020-19493-3 |issn=2041-1723 |pmc=7723057 |pmid=33293507 |doi-access=free |last16=Franco |first16=P. |last17=Goldman |first17=E. |last18=Goetz |first18=S. |last19=Hansen |first19=A. |last20=Hofsvang |first20=E. |last21=Jantz |first21=P. |last22=Jupiter |first22=S. |last23=Kang |first23=A. |last24=Langhammer |first24=P. |last25=Laurance |first25=W. F. |last26=Lieberman |first26=S. |last27=Linkie |first27=M. |last28=Malhi |first28=Y. |last29=Maxwell |first29=S. |last30=Mendez |first30=M. |last31=Mittermeier |first31=R. |last32=Murray |first32=N. J. |last33=Possingham |first33=H. |last34=Radachowsky |first34=J. |last35=Saatchi |first35=S. |last36=Samper |first36=C. |last37=Silverman |first37=J. |last38=Shapiro |first38=A. |last39=Strassburg |first39=B. |last40=Stevens |first40=T. |last41=Stokes |first41=E. |last42=Taylor |first42=R. |last43=Tear |first43=T. |last44=Tizard |first44=R. |last45=Venter |first45=O. |last46=Visconti |first46=P. |last47=Wang |first47=S. |last48=Watson |first48=J. E. M.}}</ref>
+
+===Wildlife===
+{{main|Wildlife of Gabon}}
+
+Gabon has a large number of protected animal and plant species. The country's [[biodiversity]] is one of the most varied on the planet.<ref>{{cite book |url=https://books.google.com/books?id=OH1-F-ebDioC&pg=PA16 |title=La conservation des ecosystèmes forestiers du Gabon |last=Wilks |first=Chris |publisher=UICN |date=1990 |language=fr |page=16 |isbn=2-88032-988-4 |access-date=4 July 2023 |archive-date=7 September 2023 |archive-url=https://web.archive.org/web/20230907003445/https://books.google.com/books?id=OH1-F-ebDioC&pg=PA16 |url-status=live }}</ref>
+
+Gabon is home of 604 species of birds, 98 species of amphibians, between 95 and 160 species of reptiles and 198 different species of mammals.<ref>{{cite web | url=http://www.gabon-international.com/decouvrir-le-gabon/connaitre/le-gabon-berceau-de-la-biodiversite | archive-url=https://web.archive.org/web/20160403154427/http://www.gabon-international.com/decouvrir-le-gabon/connaitre/le-gabon-berceau-de-la-biodiversite | archive-date=3 April 2016 | title=Le Gabon, berceau de la biodiversité |url-status=usurped |language=fr}}</ref> In Gabon there are rare species, such as the Gabon [[pangolin]] and the [[grey-necked rockfowl]], or endemics, such as the Gabon [[guenon]].
+
+The country is one of the most varied and important fauna reserves in Africa:<ref>{{Cite web|title=Guide juridique pour la protection de la faune sauvage en République du Gabon|url=https://www.conservation-justice.org/wp-content/uploads/2021/09/Guidejuridique-Gabon-FINAL-1.pdf|author=Ministère des Eaux et Forêts|date=May 2011|access-date=26 December 2023|archive-date=26 December 2023|archive-url=https://web.archive.org/web/20231226180108/https://www.conservation-justice.org/wp-content/uploads/2021/09/Guidejuridique-Gabon-FINAL-1.pdf|url-status=live}}</ref> it is an important refuge for [[chimpanzee]]s (whose number, in 2003, was estimated between 27,000 and 64,000)<ref>{{Cite book |title=West African chimpanzees: status survey and conservation action plan |date=2003 |publisher=IUCN, The World Conservation Union |isbn=978-2-8317-0733-4 |editor-last=Kormos |editor-first=Rebecca |location=Cambridge |editor-last2=International Union for Conservation of Nature and Natural Resources}}</ref> and [[gorilla]]s (28,000-42,000 estimated in 1983).<ref name="Tutin_1984">{{cite journal |last1=Tutin |first1=C. E. G. |last2=Fernandez |first2=M. |year=1984 |title=Nationwide census of gorilla (gorilla g. gorilla) and chimpanzee (Pan t. troglodytes) populations in Gabon |journal=American Journal of Primatology |volume=6 |issue=4 |pages=313–336 |doi=10.1002/ajp.1350060403 |pmid=32160718 |bibcode=1984AmJPr...6..313T }}</ref> The "Gorilla and Chimpanzee Study Station" inside the [[Lopé National Park]] is dedicated to their study.<ref>{{Cite web |date=2019-08-22 |title=Lope National Park, Gabon {{!}} Wildlife safaris, tented camps, Mandrills |url=https://gabonwildlifecamps.com/gabon-parks-camps/lope-national-park/ |access-date=2026-01-19 |language=en-US}}</ref>
+
+The nation is also home to more than half the population of [[Loxodonta cyclotis|African forest elephants]],<ref name="Mutsaka 2021 q241">{{cite web | last=Mutsaka | first=Farai | title=Gabon is last bastion of endangered African forest elephants | website=AP News | date=November 18, 2021 | url=https://apnews.com/article/science-africa-environment-and-nature-forests-environment-2fc74761dac498146018192ecc830516 | access-date=March 15, 2024 | archive-date=15 March 2024 | archive-url=https://web.archive.org/web/20240315203818/https://apnews.com/article/science-africa-environment-and-nature-forests-environment-2fc74761dac498146018192ecc830516 | url-status=live }}</ref> many of them living in [[Minkébé National Park]]. However, from 2004 to 2014, the population in the park declined by 78-81%, a loss of more than 25,000 elephants, primarily due to [[poaching]].<ref>{{Cite journal |last1=Poulsen |first1=John R. |last2=Koerner |first2=Sally E. |last3=Moore |first3=Sarah |last4=Medjibe |first4=Vincent P. |last5=Blake |first5=Stephen |last6=Clark |first6=Connie J. |last7=Akou |first7=Mark Ella |last8=Fay |first8=Michael |last9=Meier |first9=Amelia |last10=Okouyi |first10=Joseph |last11=Rosin |first11=Cooper |last12=White |first12=Lee J.T. |date=2017-02-17 |title=Poaching empties critical Central African wilderness of forest elephants |url=https://www.cell.com/current-biology/fulltext/S0960-9822(17)30024-6 |journal=Current Biology |language=English |volume=27 |issue=4 |pages=R134–R135 |doi=10.1016/j.cub.2017.01.023 |pmid=28222286 |bibcode=2017CBio...27.R134P |issn=0960-9822 |archive-url=http://web.archive.org/web/20250306101120/https://www.cell.com/current-biology/fulltext/S0960-9822(17)30024-6 |archive-date=2025-03-06 |via=Cell Press|hdl=10161/15857 |hdl-access=free }}</ref> Gabon's national symbol is the [[black panther]].<ref name="BBC Sport 2016 f111">{{cite web | title=Gabon reveal 2017 Nations Cup mascot | website=BBC Sport | date=March 25, 2016 | url=https://www.bbc.com/sport/football/35900924 | access-date=March 15, 2024 | archive-date=15 March 2024 | archive-url=https://web.archive.org/web/20240315204159/https://www.bbc.com/sport/football/35900924 | url-status=live }}</ref>
+
+More than 6,000 species of plants and 400 species of trees form the flora of Gabon.<ref>{{cite journal |last1=Lee |first1=Michelle E. |last2=Alonso |first2=Alfonso |last3=Dallmeier |first3=Francisco |last4=Campbell |first4=Patrick |last5=Pauwels |first5=Olivier S. G. |year=2006 |title=The Gamba Complex of Protected Areas: an illustration of Gabon's biodiversity |journal=Bulletin of the Biological Society of Washington |volume=12 |pages=229–241}}</ref><ref>{{cite journal |last1=Maniatis |first1=Danae |last2=Malhi |first2=Yadvinder |last3=Saint Andre |first3=Laurent |last4=Mollicone |first4=Danilo |last5=Barbier |first5=Nicolas |last6=Saatchi |first6=Sassan S. |last7=Henry |first7=Matieu |last8=Tellier |first8=Laurent |last9=Schwartzenberg |first9=Mathieu |last10=White |first10=Lee |year=2011 |title=Evaluating the Potential of Commercial Forest Inventory Data to Report on Forest Carbon Stock and Forest Carbon Stock Changes for REDD+ under the UNFCCC |journal=International Journal of Forestry Research |volume=2011 |article-number=134526 |doi=10.1155/2011/134526 |doi-access=free |bibcode=2011IRvFR201134526M |hdl=1893/21129 |hdl-access=free }}</ref> Gabon is densely forested, with more than 85% of the country covered by forest, much of it largely undisturbed.<ref>{{cite journal |last1=Sannier |first1=Christophe |last2=McRoberts |first2=Ronald E. |last3=Fichet |first3=Louis-Vincent |year=2016 |title=Suitability of Global Forest Change data to report forest cover estimates at national level in Gabon |journal=Remote Sensing of Environment |volume=173 |pages=326–338 |doi=10.1016/j.rse.2015.10.032 |bibcode=2016RSEnv.173..326S }}</ref><ref>{{cite journal |last1=Laurance |first1=William F. |last2=Alonso |first2=Alfonso |last3=Lee |first3=Michelle E. |last4=Campbell |first4=Patrick |year=2006 |title=Challenges for forest conservation in Gabon, Central Africa |journal=Futures |volume=38 |issue=4 |pages=454–470 |doi=10.1016/j.futures.2005.07.012 |bibcode=2006Fut....38..454L }}</ref> The deforestation rate in Gabon is low, although some forests face localized pressures due to urbanization.<ref>{{cite journal |last1=Legault |first1=Danielle D. |last2=Cochrane |first2=Logan |year=2021 |title=Forests to the Foreigners: Large-Scale Land Acquisitions in Gabon |journal=Land |volume=10 |issue=4 |article-number=420 |doi=10.3390/land10040420 |doi-access=free |bibcode=2021Land...10..420L }}</ref><ref>{{cite journal |last1=Walters |first1=G. |last2=Ngagnia Ndjabounda |first2=E. |last3=Ikabanga |first3=D. |last4=Biteau |first4=J. P. |last5=Hymas |first5=O. |last6=White |first6=L. J. T. |last7=Ndong Obiang |first7=A.-M. |last8=Ndong Ondo |first8=P. |last9=Jeffery |first9=K. J. |last10=Lachenaud |first10=O. |last11=Stévart |first11=T. |year=2016 |title=Peri-urban conservation in the Mondah forest of Libreville, Gabon: Red List assessments of endemic plant species, and avoiding protected area downsizing |journal=Oryx |volume=50 |issue=3 |pages=419–430 |doi=10.1017/S0030605315000204}}</ref>
+
+== Economy ==
+{{main|Economy of Gabon}}
+
+[[File:GDP_per_capita_development_of_Gabon.svg|thumb|Change in per capita GDP of Gabon, 1950–2018. Figures are inflation-adjusted to 2011 International dollars.]]
+[[Oil revenue]] constitutes roughly 46% of the government's budget, 43% of the gross domestic product (GDP), and 81% of exports. Oil production declined from its higher point of 370,000 barrels per day in 1997. Some estimates suggest that Gabonese oil will be expended by 2025. Planning is beginning for an after-oil scenario.<ref name=bn>{{citation-attribution|1=[https://2009-2017.state.gov/r/pa/ei/bgn/2826.htm Background note: Gabon], [[U.S. Department of State]] (4 August 2010).}}</ref> The rich Grondin Oil Field was discovered in 1971 in {{convert|50|m|abbr=on}} water depths {{convert|40|km|abbr=on|round=5}} offshore in an [[anticline]] salt [[structural trap]] in Batanga [[sandstone]]s of [[Maastrichtian]] age, but about 60% of its estimated reserves had been extracted by 1978.<ref>Vidal, J., [https://archive.org/details/giantoilgasfield0000unse/page/577/mode/1up?view=theater "Geology of Grondin Field, 1980"], in ''Giant Oil and Gas Fields of the Decade: 1968–1978'', AAPG Memoir 30, Halbouty, M.T., editor, Tulsa: American Association of Petroleum Geologists, {{ISBN|0891813063}}, pp.577–590.</ref>
+
+As of 2023, Gabon produced about 200,000 barrels a day (bpd) of crude oil.<ref>{{Cite news |date=August 30, 2023 |title=Gabon's Assala Energy says oil production unaffected by coup |first=Ron |last=Bousso |language=en-GB |work=Reuters |url=https://www.reuters.com/world/africa/gabons-assala-energy-says-oil-production-unaffected-by-coup-2023-08-30/ |access-date=2023-12-04 |archive-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204002627/https://www.reuters.com/world/africa/gabons-assala-energy-says-oil-production-unaffected-by-coup-2023-08-30/ |url-status=live }}</ref> Gabon's economy remains heavily dependent on oil and other natural resources, leaving it exposed to global market shifts and climate-related risks.<ref name=":212">{{Cite web |last=Climate Watch |title=Gabon |url=https://www.climatewatchdata.org/countries/GAB?end_year=2021&start_year=1990 |access-date=2025-03-17 |website=climatewatchdata.org}}</ref>
+
+"Overspending" on the [[Trans-Gabon Railway]], the CFA franc devaluation of 1994, and periods of lower oil prices caused debt problems.<ref name=bn/>
+
+Successive [[International Monetary Fund]] (IMF) missions have criticized the Gabonese government for overspending on off-budget items (in good years and bad), over-borrowing from the [[Bank of Central African States|central bank]], and slipping on the schedule for [[privatization]] and administrative reform. In September 2005, Gabon successfully concluded a 15-month Stand-By Arrangement with the IMF. A three-year Stand-By Arrangement with the IMF was approved in May 2007. Due to the [[2008 financial crisis]] and social developments surrounding the death of President Omar Bongo and the elections, Gabon was unable to meet its economic goals under the Stand-By Arrangement in 2009.<ref name=bn/>
+
+Gabon's oil revenues have given it a per capita GDP of $8,600. A "skewed income distribution" and "poor social indicators" are "evident".<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook//fields/2116.html#gb|title=The World Factbook|publisher=Central Intelligence Agency|access-date=16 March 2016|archive-url=https://web.archive.org/web/20160315024427/https://www.cia.gov/library/publications/the-world-factbook/fields/2116.html#gb|archive-date=15 March 2016|url-status=dead|df=dmy-all}}</ref> The richest 20% of the population earn over 90% of the income while about a third of the Gabonese population lives in poverty.<ref name=bn/>
+
+The economy is dependent on extraction. Before the discovery of oil, logging was the "pillar" of the Gabonese economy. Then, logging and manganese mining are the "next-most-important" income generators. Some explorations suggest the presence of the world's largest unexploited iron ore deposit. For some who live in rural areas without access to employment opportunities in extractive industries, remittances from family members in urban areas or subsistence activities provide income.<ref name=bn/>
+
+Foreign and local observers have lamented the lack of diversity in the Gabonese economy. Factors that have "limited the development of new industries" were listed as follows:
+* The market is "small", about a million
+* dependent on imports from France
+* unable to capitalize on regional markets
+* Entrepreneurial zeal is not always present among the Gabonese
+* a "fairly regular" stream of oil "rent", even if it is diminishing
+
+Further investment in the agricultural or tourism sectors is "complicated by poor infrastructure". Some processing and service sectors are "largely dominated by a few prominent local investors".<ref name=bn/>
+
+At the World Bank and IMF's insistence, the government embarked in the 1990s on a program of privatization of its state-owned companies and administrative reform, including reducing public sector employment and salary growth. The government has voiced a commitment to work toward an economic transformation of the country.<ref name=bn/>
+
+=== Energy ===
+{{main|Energy in Gabon}}
+
+Gabon's energy comes from two main sources: solid [[Solid fuel|biofuels]] and waste (accounting for 75%), and [[Fossil-fuel|fossil fuels]], particularly oil.<ref name=":1">{{Cite web |last=International Energy Agency |title=Gabon - Countries & Regions |url=https://www.iea.org/countries/gabon |access-date=2025-04-10 |website=IEA |language=en-GB}}</ref> Just under half (48%) of Gabon's share of power generation comes from [[Renewable energy|renewables]].<ref name=":1" /> Nearly two-thirds of the population of Gabon has access to electricity.<ref name=":1" /> However, rural electrification remains limited - only 15% of rural areas had electricity as of 2014.<ref name=":0">{{Cite web |date=2015-08-20 |title=Gabon seeks universal power access by 2035 |url=https://oxfordbusinessgroup.com/analysis/solutions-rural-power-working-towards-goal-universal-access-2035 |access-date=2020-05-23 |website=Oxford Business Group |language=en}}</ref> The country aims to provide electricity to 85% of rural areas by 2025 and universal access to electricity by 2035.<ref name=":0" /> Most of Gabon's rural population is dependent on [[Solid fuel#Biomass|biomass fuels]] for cooking and heating, such as wood and charcoal.<ref>{{Cite web |last=African Energy Commission (AFREC) |title=Gabon |url=https://au-afrec.org/gabon |access-date=2025-04-10 |website=au-afrec.org}}</ref>
+
+In 2023, the country accounted for just over 0.04% of global [[greenhouse gas emissions]] (24.7 million tonnes). Gabon has pledged to stay [[Net-zero emissions|carbon neutral]] beyond 2050 and, with adequate support, aims to maintain net carbon removals of 100 million tons CO<sub>2</sub> equivalent per year beyond that date.<ref name=":212"/> It also seeks to expand its [[renewable energy]] sector.<ref name=":22">{{Cite web |title=National Climate Plan (Plan Climat) - Climate Change Laws of the World |url=https://climate-laws.org/document/national-climate-plan-plan-climat_082c |access-date=2025-03-17 |website=climate-laws.org}}</ref>
+
+=== Manganese ===
+Gabon is currently the world's second-largest producer of [[manganese]], an ore vital for steel and battery production. Manganese ore exports are one of Gabon's top sources of revenue, and in 2023, they accounted for 16% of Gabon's exports.<ref>{{Cite web |title=The Observatory of Economic Complexity |url=https://oec.world/en/profile/[...bespoke |access-date=2025-12-30 |website=The Observatory of Economic Complexity |language=en}}</ref> Despite the country's large production of ore, Gabon currently lacks any domestic manganese processing capabilities; as such, the government announced in June 2025 that Gabon would ban domestic exports of manganese ore.
+
+By stopping raw exports, Gabon's government seeks to encourage the construction of domestic processing, which would generate skilled employment, boost tax revenues, and capture greater value from Gabon's natural resources. The ban on exports will come into effect on January 1, 2029, giving the mining industry three years to construct manganese processing plants domestically. A public-private partnership is being established by the government to help prepare for the transition.<ref>{{Cite web |last=AfricaNews |date=2025-06-01 |title=Gabon to halt manganese exports by 2029 |url=https://www.africanews.com/2025/06/01/gabon-to-halt-manganese-exports-by-2029/ |access-date=2025-12-30 |website=Africanews |language=en}}</ref><ref>{{Cite web |date=2025-06-02 |title=French mining group digs in as Gabon tightens grip on manganese exports |url=https://www.rfi.fr/en/africa/20250602-french-mining-group-digs-in-as-gabon-tightens-grip-on-manganese-exports |access-date=2025-12-30 |publisher=Radio France Internationale |language=en}}</ref>
+
+== Transport ==
+{{main|Transport in Gabon}}
+
+== Demographics ==
+{{main|Demographics of Gabon}}
+
+{|class="wikitable" style="float: right; margin-left: 10px"
+|+Population in Gabon{{UN_Population|ref}}
+! Year
+! Million
+|-
+|style="text-align:left;"|1950 ||style="text-align:right;"|0.5
+|-
+|style="text-align:left;"|2000 ||style="text-align:right;"|1.2
+|-
+|style="text-align:left;"|{{UN_Population|Year}} ||style="text-align:right;"|{{#expr:{{formatnum:{{UN_Population|Gabon}}|R}}/1e6 round 1}}
+|}
+[[File:Crowd on Beach in Gabon.JPG|thumb|Crowd on beach]]
+Gabon has a population of approximately {{#expr:{{formatnum:{{UN_Population|Gabon}}|R}}/1e6 round 1}} million.{{UN_Population|ref}} Historical and environmental factors caused its population to decline between 1900 and 1940.<ref>{{cite web|url=https://2009-2017.state.gov/outofdate/bgn/gabon/40492.htm|title=Gabon|website=U.S. Department of State|access-date=24 May 2019|archive-date=24 February 2021|archive-url=https://web.archive.org/web/20210224204514/https://2009-2017.state.gov/outofdate/bgn/gabon/40492.htm|url-status=live}}</ref> It has one of the lowest [[Population density|population densities]] of any country in Africa,<ref name=bn/> and the fourth highest [[Human Development Index]] in [[Sub-Saharan Africa]].<ref name=HDI/>
+
+=== Ethnic groups ===
+Gabon has at least 40 [[ethnic group]]s,<ref name=bn/> including [[Fang people|Fang]], [[Myene language|Myènè]], [[Punu people|Punu]]-Échira, [[Nzebi languages|Nzebi]]-Adouma, [[Teke people|Teke]]-Mbete, Mèmbè, [[Kota people (Gabon)|Kota]], Akélé.<ref>{{cite web|title=Gabon – The World Factbook|url=https://www.cia.gov/the-world-factbook/countries/gabon/|access-date=4 April 2021|publisher=Central Intelligence Agency|archive-date=18 March 2021|archive-url=https://web.archive.org/web/20210318205257/https://www.cia.gov/the-world-factbook/countries/equatorial-guinea|url-status=dead}}</ref> There are indigenous [[Pygmy]] peoples: the [[Bongo people (Gabon)|Bongo]], and [[Baka people (Cameroon and Gabon)|Baka]].<ref name=bn/> The latter speak the only non-Bantu language in Gabon. More than 10,000 native French live in Gabon, including an estimated 2,000 dual nationals.<ref name=bn/>
+
+Some ethnicities are spread throughout Gabon, leading to contact, interaction among the groups, and intermarriage.
+
+Non-Africans include more than 12,000 [[French people]].<ref>{{cite web|url=https://2009-2017.state.gov/outofdate/bgn/gabon/131846.htm |title=Gabon (10/09) }}</ref>
+
+=== Population centres ===
+{{Further|List of cities in Gabon}}
+[[File:Front de mer.jpg|thumb|Libreville]]
+[[File:Park In Gabon.JPG|thumb|People in Libreville]]
+{| class="wikitable"
+|+'''Cities of Gabon'''
+! rowspan="2"| Rank || rowspan="2" | City || colspan="2" | Population || rowspan="2" | Province
+|-
+! 2003 census<ref name="citypopulation.de">{{cite web|url=http://citypopulation.de/Gabon-Cities.html|title=Gabon: Provinces, Cities & Urban Places – Population Statistics in Maps and Charts|website=Citypopulation.de|access-date=7 January 2019|archive-url=https://web.archive.org/web/20180724005941/http://citypopulation.de/Gabon-Cities.html|archive-date=24 July 2018|url-status=live|df=dmy-all}}</ref> || 2013 census<ref name="citypopulation.de"/>
+|-
+|align=right | 1. || [[Libreville]] || align=right | 538,195 || align=right | 703,940 || [[Estuaire Province|Estuaire]]
+|-
+|align=right | 2. || [[Port-Gentil]] || align=right | 105,712 || align=right | 136,462 || [[Ogooué-Maritime]]
+|-
+|align=right | 3. || [[Franceville]] || align=right | 103,840 || align=right | 110,568 || [[Haut-Ogooué]]
+|-
+|align=right | 4. || [[Owendo]] || align=right | 51,661 || align=right | 79,300 || [[Estuaire Province|Estuaire]]
+|-
+|align=right | 5. || [[Oyem]] || align=right | 35,241 || align=right | 60,685 || [[Woleu-Ntem]]
+|-
+|align=right | 6. || [[Moanda, Gabon|Moanda]] || align=right | 42,703 || align=right | 59,154 || [[Haut-Ogooué]]
+|-
+|align=right | 7. || [[Ntoum]] || align=right | 12,711 || align=right | 51,954 || [[Estuaire Province|Estuaire]]
+|-
+|align=right | 8. || [[Lambaréné]] || align=right | 24,883 || align=right | 38,775 || [[Moyen-Ogooué]]
+|-
+|align=right | 9. || [[Mouila]] || align=right | 21,074 || align=right | 36,061 || [[Ngounié Province|Ngounié]]
+|-
+|align=right | 10. || [[Akanda]] || align=right | – || align=right | 34,548 || [[Estuaire Province|Estuaire]]
+|}
+
+=== Languages ===
+{{Further|Languages of Gabon}}
+
+[[French language|French]] is the sole official language. It is estimated that 80% of the population can speak French and that 30% of Libreville residents are native speakers of the language.
+
+Nationally, a majority of the Gabonese people speak indigenous languages according to their ethnic group; this proportion is lower than in most other Sub-Saharan African countries. The 2013 census found that 63.7% of Gabon's population could speak a Gabonese language, broken down by 86.3% in rural areas and 60.5% in urban areas, speaking at least one national language.<ref name="recensement2013">{{cite web|url=http://www.dgstat.ga/images/DSD/RESULTATS-GLOBAUX-RGPL2013-OK_DECEMBRE-2015.pdf|title=Résultats Globaux du Recensement Général de la Population et des Logements de 2013 du Gabon (RGPL-2013)|publisher=Direction Générale des Statistiques du Gabon|access-date=7 May 2020|archive-date=13 September 2020|archive-url=https://web.archive.org/web/20200913223158/http://www.dgstat.ga/images/DSD/RESULTATS-GLOBAUX-RGPL2013-OK_DECEMBRE-2015.pdf|url-status=live}}</ref>
+
+=== Religion ===
+{{Further|Religion in Gabon}}
+{{Pie chart
+| thumb = left
+| caption = Religion in Gabon by the [[Association of Religion Data Archives]] (2025)<ref name="ARDA">{{cite web|year=2025|title=Gabon|access-date=2025-12-29|publisher=[[Association of Religion Data Archives]]|url=https://www.thearda.com/world-religion/national-profiles?u=86c}}</ref>
+| label1 = [[Roman Catholic]]
+| value1 = 42.00
+| color1 = Blue
+| label2 = Other [[Christianity|Christian]]
+| value2 = 43.32
+| color2 = Darkorchid
+| label4 = [[Muslim]]
+| value4 = 10.19
+| color4 = MediumSeaGreen
+| label3 = [[Animism]]
+| value3 = 3.25
+| color3 = Gold
+| label5 = Other
+| value5 = 0.64
+| color5 = Pink
+| label6 = None
+| color6 = black
+| value6 = 1.36
+}}
+Religions practised in Gabon include [[Christianity]] ([[Roman Catholicism]] and [[Protestantism]]), [[Islam]], and traditional indigenous religious beliefs.<ref name=report>{{citation-attribution|1=[https://2001-2009.state.gov/g/drl/rls/irf/2007/90098.htm International Religious Freedom Report 2007: Gabon]. United States [[Bureau of Democracy, Human Rights and Labor]] (September 14, 2007)}}</ref> Some people practise elements of both [[Christianity]] and indigenous religious beliefs.<ref name=report/> Approximately 85% of the population practise one of the denominations of [[Christianity]]; 10% practise [[Islam]] (mainly [[Sunni]]); the remainder practise other religions.
+
+=== Health ===
+{{main|Health in Gabon}}
+
+{{More citations needed section|date=November 2025}}
+A private hospital was established in 1913 in [[Lambaréné]] by [[Albert Schweitzer]]. By 1985, there were 28 hospitals, 87 medical centres, and 312 infirmaries and dispensaries. {{As of|2004}}, there were an estimated 29 physicians per 100,000 people, and "approximately 90% of the population had access to health care services".
+
+In 2000, 70% of the population had access to "safe drinking water" and 21% had "adequate sanitation". A government health program treats such diseases as [[leprosy]], [[African trypanosomiasis|sleeping sickness]], [[malaria]], [[filariasis]], [[intestinal worms]], and [[tuberculosis]]. Rates for immunization of children under the age of 1 were 97% for tuberculosis and 65% for [[polio]]. Immunization rates for [[DPT vaccine|DPT]] and [[measles]] were 37% and 56%, respectively. Gabon has a domestic supply of pharmaceuticals from a factory in Libreville.
+
+The [[total fertility rate]] has decreased from 5.8 in 1960 to 4.2 children per mother during childbearing years in 2000. 10% of all births were "low birth weight". The [[maternal mortality rate]] was 520 per 100,000 live births as of 1998. In 2005, the [[infant mortality rate]] was 55.35 per 1,000 live births, and life expectancy was 55.02 years. As of 2002, the overall mortality rate was estimated at 17.6 per 1,000 inhabitants.
+
+The [[HIV/AIDS]] [[prevalence]] is estimated to be 5.2% of the adult population (ages 15–49).<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html?countryName=Lesotho&countryCode=LT&regionCode=af#gb|title=COUNTRY COMPARISON :: HIV/AIDS – ADULT PREVALENCE RATE|work=The World Factbook|access-date=2 April 2012|archive-url=https://web.archive.org/web/20120307101419/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html?countryName=Lesotho&countryCode=LT&regionCode=af#gb|archive-date=7 March 2012|url-status=dead|df=dmy-all}}</ref> {{As of|2009}}, approximately 46,000 people were living with HIV/AIDS.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2156rank.html?countryName=Gabon&countryCode=gb&regionCode=afr&rank=59#gb|title=COUNTRY COMPARISON :: HIV/AIDS – PEOPLE LIVING WITH HIV/AIDS|work=The World Factbook|access-date=2 April 2012|archive-url=https://web.archive.org/web/20120521170133/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2156rank.html?countryName=Gabon&countryCode=gb&regionCode=afr&rank=59#gb|archive-date=21 May 2012|url-status=dead|df=dmy-all}}</ref> There were an estimated 2,400 deaths from AIDS in 2009 – down from 3,000 deaths in 2003.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2157rank.html?countryName=Gabon&countryCode=gb&regionCode=afr&rank=52#gb|title=Country comparison :: HIV/AIDS – deaths|work=The World Factbook|access-date=2 April 2012|archive-url=https://web.archive.org/web/20120521170527/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2157rank.html?countryName=Gabon&countryCode=gb&regionCode=afr&rank=52#gb|archive-date=21 May 2012|url-status=dead|df=dmy-all}}</ref>
+
+In the 2024 Global Hunger Index (GHI), Gabon ranks 78th out of 127 countries with sufficient data. Gabon's GHI score is 17.4, which indicates a moderate level of hunger.<ref>{{Cite web |title=Global Hunger Index Scores by 2024 GHI Rank |url=https://www.globalhungerindex.org/ranking.html |access-date=2024-12-18 |website=Global Hunger Index (GHI) - peer-reviewed annual publication designed to comprehensively measure and track hunger at the global, regional, and country levels |language=en}}</ref>
+
+=== Education ===
+{{main|Education in Gabon}}
+
+{{More citations needed section|date=November 2025}}
+Its education system is regulated by two ministries: the Ministry of Education, in charge of pre-kindergarten through the last high school grade, and the Ministry of Higher Education and Innovative Technologies, in charge of universities, higher education, and professional schools.
+
+Education is compulsory for children ages 6 to 16 under the Education Act. Some children in Gabon start their school lives by attending nurseries or "Crèche", then kindergarten, known as "Jardins d'enfants". At age 6, they are enrolled in primary school, "École Primaire", which is made up of 6 grades. The next level is "École Secondaire", which is made up of 7 grades. The planned graduation age is 19 years. Those who graduate can apply for admission to institutions of higher learning, including engineering schools or business schools. As of 2012, the literacy rate of a population ages 15 and above was 82%.<ref>{{cite web|url=https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?view=chart|title=Literacy rate, adult total (% of people ages 15 and above) {{!}} Data|publisher=World Bank|access-date=22 September 2019|archive-url=https://web.archive.org/web/20190922184701/https://data.worldbank.org/indicator/SE.ADT.LITR.ZS%3Fview%3Dchart|archive-date=22 September 2019|url-status=live}}</ref>
+
+The government has used oil revenue for school construction, paying teachers' salaries, and promoting education, including in rural areas. Maintenance of school structures and teachers' salaries has been declining. In 2002, the gross primary enrollment rate was 132%, and in 2000, the net primary enrollment rate was 78%. Gross and net enrollment ratios are based on the number of students formally registered in primary school. As of 2001, 69% of children who started primary school were "likely" to reach grade 5. Problems in the education system include "poor management and planning, lack of oversight, poorly qualified teachers", and "overcrowded classrooms".<ref name=ilab>{{citation-attribution|1="Gabon". [https://web.archive.org/web/20061201190837/http://www.dol.gov/ilab/media/reports/iclp/tda2005/tda2005.pdf ''2005 Findings on the Worst Forms of Child Labor'']. [[Bureau of International Labor Affairs]], [[U.S. Department of Labor]] (2006). }}</ref> Various universities in Gabon are being chartered, licensed, or accredited by the appropriate Gabonese higher education-related organization.<ref>{{Cite web |title=Top Universities in Gabon {{!}} 2024 University Rankings |url=https://www.unirank.org/ga/ranking/ |access-date=2024-06-28 |website=www.unirank.org |language=en}}</ref>
+
+== Culture ==
+{{main|Culture of Gabon}}
+
+{{Unreferenced section|date=November 2025}}[[File:TsogoMask.jpg|thumb|A Gabonese mask]]
+
+Some traditionalists in Gabon, known as "raconteurs", work to continue practices like the mvett among the Fangs and the Ingwala among the Nzebis.
+
+Masks, like the n'goltang masks of the Fang people and the reliquary figures of the [[Kota people (Gabon)|Kota]], are a central part of Gabonese culture. These masks are used in ceremonies marking significant life events such as marriage, birth, and funerals. They are crafted using local, often rare materials including wood.
+
+=== Music ===
+{{Further|Music of Gabon}}
+[[File:Harpa - Fang, Gabon - Royal Museum for Central Africa - DSC06968.JPG|thumb|Ngombi of Fang people, type 3.]]
+Music in Gabon reflects the country's ethnolinguistic diversity and combines traditional, ritual, popular and urban forms. Musical life has historically been closely linked to storytelling, dance, healing, initiation societies and oral literature. Among the best-known traditional forms is the Fang ''mvet'', which refers both to a stringed harp-zither and to an epic genre of sung and spoken narration performed with the instrument. Ritual music associated with ''bwiti'' and ''bwete'' religious traditions has also played a major cultural role, especially through chant, responsorial singing and harp performance.<ref>{{cite book |editor-last=Stone |editor-first=Ruth M. |title=The Garland Handbook of African Music |edition=2nd |publisher=Routledge |location=New York |year=2008 |isbn=978-0-415-96102-8}}</ref><ref>{{cite journal |last=Alexandre |first=Pierre |title=Introduction to a Fang oral art genre: Gabon and Cameroon ''mvet'' |journal=Bulletin of the School of Oriental and African Studies |volume=37 |issue=1 |year=1974 |pages=1–7 |doi=10.1017/S0041977X00094799}}</ref>
+
+Gabonese traditional instruments include the ''ngombi'' harp, balafon, drums, rattles, horns and a variety of stringed instruments. Regional musical styles are associated with communities such as the Fang, Myènè, Teke, Punu, Kota, Mitsogo and Babongo peoples. Scholars have emphasized that Gabon does not have a single national folk style, but rather many localized repertoires shaped by language, ceremony and geography.<ref>{{cite book |last=Norborg |first=Åke |title=A Handbook of Musical and Other Sound-Producing Instruments from Equatorial Guinea and Gabon |series=Musikmuseets skrifter |volume=16 |publisher=Musikmuseet |location=Stockholm |year=1989}}</ref>
+
+From the late colonial period onward, Gabonese musicians absorbed outside influences including church music, French-language chanson, [[Cuban Rumba|rumba]], [[makossa]], [[soukous]], [[zouk]], rock and later hip hop. In the post-independence era, music became an important part of national cultural identity. Internationally known artists include [[Pierre Akendengué]], noted for poetic and pan-African songwriting, and [[Oliver N'Goma]], whose 1990 album ''Bane'' became a major Afro-zouk success. Since the late 1980s, hip hop has become an important urban genre, particularly in [[Libreville]].<ref>{{cite encyclopedia |last=Yates |first=Douglas A. |title=The History of Gabon |encyclopedia=Oxford Research Encyclopedia of African History |publisher=Oxford University Press |date=2020-12-17 |doi=10.1093/acrefore/9780190277734.013.729 |isbn=978-0-19-785172-2 }}</ref><ref>{{cite web |title=Oliver N'Goma |url=https://www.lusafrica.com/en/our-artists/oliver-ngoma/ |website=Lusafrica |access-date=2026-04-19}}</ref>
+
+=== Media ===
+{{Further|Media of Gabon}}
+{{Unreferenced section|date=August 2022}}
+
+[[Radio Télévision Gabonaise|Radio-Diffusion Télévision Gabonaise]] (RTG) is Gabon's national state-owned broadcaster. Its output is primarily in French, and the group airs regular news bulletins in indigenous languages.<ref>{{cite web |title=Radio Télévision Gabonaise (RTG) |url=https://statemediamonitor.com/2025/06/radio-television-gabonaise-rtg/
+ |website=State Media Monitor |date=2025-06-18 |access-date=2025-11-10}}</ref> Colour television using the SECAM standard was introduced in 1975, following French cooperation that financed a colour TV studio in Gabon by that year.<ref>{{cite news |title=Les accords de coopération avec la France vont être révisés |url=https://www.lemonde.fr/archives/article/1975/06/24/les-accords-de-cooperation-avec-la-france-vont-etre-revises_2578410_1819218.html
+ |work=Le Monde |date=1975-06-24 |language=fr |access-date=2025-11-10}}</ref><ref>{{cite news |title=Un millier de coopérants |url=https://www.lemonde.fr/archives/article/1976/08/07/un-millier-de-cooperants_2965116_1819218.html
+ |work=Le Monde |date=1976-08-07 |language=fr |access-date=2025-11-10}}</ref>
+
+In 2004, the government operated 2 radio stations, and another 7 were privately owned. There were 2 government television stations and 4 privately owned. In 2003, there were an estimated 488 radios and 308 television sets for every 1,000 people. About 11.5 of every 1,000 people were cable subscribers. In 2003, there were 22.4 personal computers for every 1,000 people, and 26 of every 1,000 people had access to the [[Internet]]. The national press service is the Gabonese Press Agency, which publishes a daily paper, ''Gabon-Matin'' (circulation 18,000 as of 2002).
+
+''L'Union'' in [[Libreville]], the government-controlled daily newspaper, had an average daily circulation of 40,000 in 2002. The weekly ''Gabon d'Aujourd'hui'' is published by the Ministry of Communications. There are about 9 privately owned periodicals that are either independent or affiliated with political parties. These are published in certain numbers that have been delayed by financial constraints. The constitution of Gabon provides for free speech and a free press, and the government supports these rights. Some periodicals actively criticize the government, and foreign publications are available.
+
+=== Cuisine ===
+{{Further|Gabonese cuisine}}
+
+Gabonese cuisine is influenced by French cuisine, and [[staple foods]] are available.<ref name="Foster">Foster, Dean (2002). [https://archive.org/details/globaletiquetteg00dean/page/177 ''The Global Etiquette Guide to Africa and the Middle East: Everything You Need to Know for Business and Travel Success''] {{Webarchive|url=https://web.archive.org/web/20160611032634/https://books.google.com/books?id=ObyrcJ-Ksv8C&pg=PA177 |date=11 June 2016 }}. John Wiley & Sons. p. 177. {{ISBN|0471272825}}</ref>
+
+===Sports===
+
+The [[Gabon national football team]] has represented the nation since 1962.<ref>{{cite web |url=https://www.fifa.com/associations/association=GAB/about.html |title=Gabon: Gabon Fédération Gabonaise de Football |publisher=FIFA |access-date=25 January 2017 |archive-url=https://web.archive.org/web/20171210003222/http://www.fifa.com/associations/association=GAB/about.html |archive-date=10 December 2017 |url-status=dead |df=dmy-all }}</ref> The [[Gabon national under-23 football team|Under-23 football team]] won the [[2011 CAF U-23 Championship]] and qualified for the [[Football at the 2012 Summer Olympics – Men's tournament|2012 London Olympics]]. Gabon were joint hosts, along with [[Equatorial Guinea]], of the [[2012 Africa Cup of Nations]],<ref>{{cite news|title=Gabon will host the 2012 Africa Cup of Nations final|url=http://news.bbc.co.uk/sport1/hi/football/africa/8488241.stm|website=BBC Sport|publisher=BBC|access-date=25 January 2017|date=29 January 2010|archive-date=14 February 2022|archive-url=https://web.archive.org/web/20220214044217/http://news.bbc.co.uk/sport1/hi/football/africa/8488241.stm|url-status=live}}</ref> and the sole hosts of the competition's [[2017 Africa Cup of Nations|2017 tournament]].<ref>{{cite web|title=Gabon named hosts of AFCON 201|url=http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=5EBYaO1Q3VpcNMG04lbrDA%3d%3d|website=Cafonline.com|publisher=CAF|access-date=25 January 2017|date=8 April 2015|archive-url=https://web.archive.org/web/20170209065745/http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=5EBYaO1Q3VpcNMG04lbrDA%3D%3D|archive-date=9 February 2017|url-status=live|df=dmy-all}}</ref>
+
+The [[Gabon national basketball team]], nicknamed ''Les Panthères'',<ref>[http://gabonreview.com/blog/afrobasket-2015-les-pantheres-en-mise-au-vert-en-serbie/ Afrobasket 2015 : Les Panthères en mise au vert en Serbie] {{Webarchive|url=https://web.archive.org/web/20160618125121/http://gabonreview.com/blog/afrobasket-2015-les-pantheres-en-mise-au-vert-en-serbie/|date=18 June 2016}}, ''GABON Review'', 19 August 2015. Retrieved 12 August 2016. {{in lang|fr}}</ref> finished 8th at the [[AfroBasket 2015]].
+
+[[Gabon at the Olympics|Gabon]] has competed at most Summer Olympics since 1972. [[Anthony Obame]] won a silver medal in [[taekwondo]] at the [[2012 Summer Olympics|2012 Olympics]] held in London.<ref>{{cite web|url=https://sports.yahoo.com/news/history-making-obame-rues-inexperience-233356551--oly.html|archive-url=https://web.archive.org/web/20120815024157/http://sports.yahoo.com/news/history-making-obame-rues-inexperience-233356551--oly.html|url-status=dead|title=History-making Obame rues inexperience|archive-date=15 August 2012}}</ref>
+
+Gabon has [[recreational fishing]] and is considered the "best place in the world" to catch [[Atlantic tarpon]].<ref>{{cite web |last1=Olander |first1=Doug |title=World's Best Tarpon Fishing Spots |url=https://www.sportfishingmag.com/tarpon-fishing-best-locations/ |website=sportfishingmag.com |date=29 May 2014 |publisher=Sport Fishing Magazine |access-date=21 June 2019 |archive-url=https://web.archive.org/web/20190621011305/https://www.sportfishingmag.com/tarpon-fishing-best-locations/ |archive-date=21 June 2019 |url-status=live }}</ref>
+
+Since 2006, Gabon has hosted [[La Tropicale Amissa Bongo]], a professional week-long bicycle race which includes both European and African teams.<ref>{{cite web |title=La Tropicale Amissa Bongo |url=https://www.procyclingstats.com/race/la-tropicale-amissa-bongo |website=Pro Cycling Stats |access-date=12 August 2024}}</ref>
+
+== See also ==
+{{Portal|Countries|Africa
+}}
+* [[List of Gabonese people]]
+* [[Outline of Gabon]]
+* [[Lambaréné]]
+* [[Hôpital Albert Schweitzer]]
+{{Clear}}
+
+== References ==
+{{Reflist|30em}}
+https://www.state.gov/reports/2021-report-on-international-religious-freedom/gabon/
+
+== Bibliography ==
+{{refbegin|30em}}
+* Bachmann, Olaf. "Gabon: An Uneasy Civil‒Military Concord." ''Oxford Research Encyclopedia of Politics'' (2020).
+* Gardinier, David E. "France and Gabon since 1993: The reshaping of a neo-colonial relationship." ''Journal of Contemporary African Studies'' 18.2 (2000): 225–242. [https://www.tandfonline.com/doi/pdf/10.1080/713675627 online]
+*{{cite book |title=Untapped: The Scramble for Africa's Oil |last=Ghazvinian |first=John |year=2008 |publisher=Harcourt |location=Orlando |isbn=978-0-15-101138-4 |url=https://archive.org/details/untappedscramble00ghaz }}
+* Gray, Christopher J. "Cultivating citizenship through xenophobia in Gabon, 1960-1995." ''Africa today'' 45.3/4 (1998): 389-409 [https://www.jstor.org/stable/4187235 online]
+* Gray, Christopher. "Who Does Historical Research in Gabon? Obstacles to the Development of a Scholarly Tradition1." ''History in Africa'' 21 (1994): 413–433. 
+* Jean-Baptiste, Rachel. ''Multiracial Identities in Colonial French Africa: Race, Childhood, and Citizenship'' (Cambridge University Press, 2023).
+* Ngolet, François. "Ideological manipulations and political longevity: the power of Omar Bongo in Gabon since 1967." ''African Studies Review'' 43.2 (2000): 55–71. [https://www.cambridge.org/core/journals/african-studies-review/article/ideological-manipulations-and-political-longevity-the-power-of-omar-bongo-in-gabon-since-1967/1F2512D996B3D7655772152AF6D40DCE online]
+*{{cite book |title=A Workman Is Worthy of His Meat: Food and Colonialism in the Gabon Estuary |last=Rich |first=Jeremy |year=2007 |publisher=University of Nebraska Press |location=Lincoln |isbn=978-0-8032-0741-7 }}
+*{{cite book |title=Poisoned Wells: The Dirty Politics of African Oil |last=Shaxson |first=Nicholas |year=2007 |publisher=Palgrave Macmillan |location=New York |isbn=978-1-4039-7194-4 |url=https://archive.org/details/poisonedwellsdir00shax }}
+*{{cite book |title=Bradt Travel Guide: Gabon and São Tomé and Príncipe |last=Warne |first=Sophie |year=2003 |publisher=Chalfont St. Peter |location=Guilford, CT |isbn=1-84162-073-4 }}
+*{{cite book |title=The Rentier State in Africa: Oil Rent Dependency and Neo-colonialism in the Republic of Gabon |last=Yates |first=Douglas A. |year=1996 |publisher=Africa World Press |location=Trenton, NJ |isbn=0-86543-520-0 }}
+* Yates, Douglas A. ''Historical dictionary of Gabon'' (Rowman & Littlefield, 2017) [https://books.google.com/books?id=zbZGDwAAQBAJ&dq=History+GABON&pg=PR7 online] {{Webarchive|url=https://web.archive.org/web/20230907003444/https://books.google.com/books?id=zbZGDwAAQBAJ&dq=History+GABON&pg=PR7 |date=7 September 2023 }}
+* Yates, Douglas. "The dynastic republic of Gabon." ''Cahiers d’études africaines'' (2019): 483–513. [https://journals.openedition.org/etudesafricaines/pdf/25961 online] {{Webarchive|url=https://web.archive.org/web/20230704050108/https://journals.openedition.org/etudesafricaines/pdf/25961 |date=4 July 2023 }}
+* Yates, Douglas A. "The History of Gabon." ''Oxford Research Encyclopedia of African History'' (2020).
+* Yates, Douglas Andrew. ''The rentier state in Africa: Oil rent dependency and neocolonialism in the Republic of Gabon'' (Africa World Press, 1996) [https://books.google.com/books?id=uB68SH_cYBIC&dq=History+GABON&pg=PP6 online] {{Webarchive|url=https://web.archive.org/web/20230907003445/https://books.google.com/books?id=uB68SH_cYBIC&dq=History+GABON&pg=PP6 |date=7 September 2023 }}.
+{{refend}}
+
+== External links ==
+{{Sister project links|Gabon|voy=Gabon}}
+*{{Official website|http://www.gouvernement.ga/}}
+*[https://web.archive.org/web/20260118145830/https://www.cia.gov/the-world-factbook/countries/gabon/ Gabon]. ''[[The World Factbook]]''. [[Central Intelligence Agency]].
+*[https://www.bbc.co.uk/news/world-africa-13376333 Gabon] from the [[BBC News]]
+*{{Wikiatlas|Gabon}}
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=GA Key Development Forecasts for Gabon] from [[International Futures]]
+*[https://web.archive.org/web/20140514044931/http://www.stat-gabon.org/documents/PDF/Donnees%20stat/Compteannuaire/Ann09.pdf 2009 report (PDF)] from [[Direction générale de la statistique et des études économiques]]
+{{Gabon topics}}
+{{Navboxes
+|title = Related articles
+|list =
+{{Countries of Africa}}
+{{Organisation of the Islamic Conference}}
+{{African Union}}
+{{La Francophonie}}
+{{Commonwealth of Nations}}
+}}
+
+{{Authority control}}
+
+{{coord|1|S|12|E|display=title}}
+
+[[Category:Gabon| ]]
+[[Category:Former military dictatorships]]<!--The indexing for this category should be a blank space (" ") as this article is the topic's main article-->
+[[Category:Countries in Central Africa]]
+[[Category:Former French colonies]]
+[[Category:Countries and territories where French is an official language]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Organisation of Islamic Cooperation]]
+[[Category:Member states of OPEC]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:Republics in the Commonwealth of Nations]]
+[[Category:States and territories established in 1960]]
+[[Category:1960 establishments in Africa]]
+[[Category:Countries in Africa]]

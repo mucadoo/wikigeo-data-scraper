@@ -1,0 +1,1009 @@
+{{Short description|none}}
+{{Featured list}}
+{{pp-pc|small=yes}}
+{{Use dmy dates|date=February 2025}}
+{{Use Oxford spelling|date=February 2025}}
+
+[[File:United Nations (Member States and Territories).svg|thumb|
+{{legend|#009edb|193 United Nations member states}}
+{{legend|#9edb00|2 [[United Nations General Assembly observers#Current non-member observers|UN General Assembly observer states]] (the [[Holy See]]{{efn|The [[sovereignty|sovereign entity]] with [[state (polity)|statehood]] over the territory of the [[Vatican City|Vatican City State]].}} and [[Palestine]])}}
+{{legend|#db9e00|2 non-member states (the [[Cook Islands]] and [[Niue]])<ref>{{Cite web|url = https://www.un.org/en/development/desa/population/publications/pdf/policy/WPP2013/Chapters/a_Preface.pdf |title = UN: "Data for 197 countries: all 193 member states, two observer states (the Holy See and Palestine), and two non-member states (Cook Islands and Niue)" |date = |access-date = 2023-04-28 |website = UN.org |publisher = |last = |first = }}</ref><ref name=map1>{{Cite web|url = https://www.un.org/geospatial/content/world-today |title = United Nations - The World Today |date = 2019-09-01 |access-date = 2023-04-28 |website = UN.org |publisher = |last = |first = }}</ref>}}
+{{legend|#c0c0c0|17 [[United Nations list of non-self-governing territories|non-self-governing territories]]}}
+{{legend|#f0f0f0|[[Antarctica]] (assertion of [[territorial claims in Antarctica|territorial claims]] suspended under the [[Antarctic Treaty System]])}}]]
+[[File:Palais des Nations unies, à Genève.jpg|alt=A long row of flags|thumb|Flags of the member states of the United Nations, in front of the [[Palace of Nations]] ([[Geneva]], [[Switzerland]]). Since 2015, the flags of the two [[United Nations General Assembly observers#Present non-member observers|observer states]] are raised alongside those of the 193 member states.]]
+{{United Nations series}}
+The [[United Nations]] comprise {{UNnum}} [[sovereign state]]s and the world's largest [[international organization|intergovernmental organization]]. All members have equal representation in the [[United Nations General Assembly]].<ref>{{Cite web |last=Library |first=Dag Hammarskjöld |title=Research Guides: UN Membership: Current UN Member States Resources |url=https://research.un.org/en/unmembers/currentmembers |access-date=2025-04-23 |website=research.un.org |language=English}}</ref>
+
+The [[Charter of the United Nations]] defines the rules for admission of member states. Membership is open to all states which accept certain terms of the charter and are able to carry them out. New members must be recommended by the [[United Nations Security Council]]. In addition to the member states, the UN also invites non-member states to be [[United Nations General Assembly observers|observer states]] at the UN General Assembly. A member state that has persistently violated the principles of the United Nations Charter can be [[Expulsion from the United Nations|expelled from the United Nations]].<ref>{{cite web| url =https://www.unov.org/unov/en/faq.html| title =Frequently asked questions| publisher =[[United Nations Office at Vienna]]| date =| accessdate =17 December 2023| archive-date =4 July 2023| archive-url =https://web.archive.org/web/20230704205955/https://www.unov.org/unov/en/faq.html| url-status =dead}}</ref>
+
+{{TOC limit|3}}
+
+==Membership {{Anchor|Membership terms}}==
+The criteria for admission of new members to the UN are established in [[Chapter II of the United Nations Charter|Chapter II]], Article 4 of the [[UN Charter]]:<ref name="charter ch2">{{cite web|title=Charter of the United Nations, Chapter II: Membership|url=https://www.un.org/en/about-us/un-charter/chapter-2|url-status=live|archive-url=https://web.archive.org/web/20210803042726/https://www.un.org/en/about-us/un-charter/chapter-2|archive-date=3 August 2021|access-date=22 August 2021|publisher=United Nations}}</ref>
+
+* Membership in the United Nations is open to all states which accept the obligations contained in the present Charter and, in the judgement of the Organization, are able and willing to carry out these obligations.
+* The admission of any such state to membership in the United Nations will be effected by a decision of the General Assembly upon the recommendation of the [[United Nations Security Council|Security Council]].
+
+A recommendation for admission from the Security Council requires affirmative votes from at least nine of the council's fifteen members, with none of the five [[Permanent members of the United Nations Security Council|permanent members]] using their [[United Nations Security Council veto power|veto power]]. The [[United Nations Security Council|Security Council]]'s recommendation must then be approved in the [[United Nations General Assembly|General Assembly]] by a two-thirds majority vote.<ref>{{cite web|date=2015-08-06|title=About UN Membership|url=https://www.un.org/en/about-us/about-un-membership|publisher=United Nations}}</ref>
+
+In principle, only [[sovereign state]]s can become UN members,<ref>{{Cite web |author=United Nations |title=United Nations Charter (full text) |url=https://www.un.org/en/about-us/un-charter/full-text |access-date=2026-04-11 |website=United Nations |language=en}}</ref> and currently, all UN members are sovereign states. Although five members were not sovereign when they joined the UN, they all subsequently became fully independent between 1946 and 1991.<ref>{{Cite web |title=Where can I find information about the founding members of the UN? - Ask DAG! |url=https://ask.un.org/faq/243656 |access-date=2026-04-11 |website=ask.un.org}}</ref> Because a state can only be admitted to membership in the UN by the approval of the Security Council and the General Assembly,<ref>{{Cite web |author=United Nations |title=How a State Becomes a UN Member |url=https://www.un.org/en/model-united-nations/how-state-becomes-un-member |access-date=2026-04-11 |website=United Nations |language=en}}</ref><ref>{{Cite web |author=United Nations |title=United Nations Charter (full text) |url=https://www.un.org/en/about-us/un-charter/full-text |access-date=2026-04-11 |website=United Nations |language=en}}</ref> [[List of states with limited recognition|a number of states that are considered sovereign]] according to the [[Montevideo Convention]] are not members of the UN. This is because the UN does not consider them to possess [[sovereignty]], mainly due to the lack of [[diplomatic recognition|international recognition]] or due to opposition from one of the permanent members.
+
+In addition to the member states, the UN also invites non-member states to become [[United Nations General Assembly observers|observer states]] at the [[United Nations General Assembly|UN General Assembly]],<ref>{{cite web |last1=Secretariat |title=UN GA invitations to non-member states |url=https://undocs.org/en/A/INF/74/3 |website=United Nations |publisher=United Nations General Assembly |access-date=4 November 2019}}</ref> allowing them to participate and speak in General Assembly meetings, but not vote. Observers are generally intergovernmental organizations and international organizations and entities whose statehood or sovereignty is not precisely defined.
+
+==Original members==
+{{Further|History of the United Nations}}
+
+[[File:United Nations Member States-1945.png|thumb|upright=2|The world in 1945, after [[World War II]]. In light blue, the founding members of the United Nations. In dark blue, protectorates and territories of the founding members.]]
+
+The UN officially came into existence on 24 October 1945, after ratification of the [[United Nations Charter]] by the [[Permanent members of the United Nations Security Council|five permanent members]] of the [[United Nations Security Council]] (the [[Republic of China (1912–1949)|Republic of China]], [[France]], the [[Soviet Union]], the [[United Kingdom]], and the [[United States]]) and a majority of the other signatories.<ref>{{cite web|url=https://www.un.org/en/sections/history/history-united-nations/index.html |title=History of the United Nations |publisher=United Nations |date=2015-08-21 }}</ref> A total of 51 original members (or founding members) joined that year; 50 of them signed the Charter at the [[United Nations Conference on International Organization]] in [[San Francisco]] on 26 June 1945, while [[Poland]], which was not represented at the conference, signed it on 15 October 1945.<ref>{{cite web|url=https://www.un.org/depts/dhl/unms/founders.shtml|archive-url=https://web.archive.org/web/20091121135646/https://www.un.org/depts/dhl/unms/founders.shtml|archive-date=21 November 2009|title=Founding Member States|date=28 September 2009 |publisher=United Nations}}</ref><ref name=originalmembers>{{cite web|url=https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=I-1&chapter=1&clang=_en|title=Chapter I – Charter of the United Nations and Statute of the International Court of Justice|access-date=2020-05-23|publisher=United Nations}}</ref>
+
+The original members of the United Nations were: [[France]] (then the [[Provisional Government of the French Republic|Provisional Government]]), [[Russia]] (then the [[Soviet Union]]), [[China]] (then [[Republic of China (1912–49)|Republic of China]]), the [[United Kingdom]], the [[United States]]—these first five forming the Security Council—[[Argentina]], [[Australia]], [[Belarus]] (then the [[Byelorussian Soviet Socialist Republic|Byelorussian SSR]]), [[Belgium]], [[Bolivia]], [[Brazil]] (then the [[Vargas Era|Vargas Era Brazil]]), [[Canada]], [[Chile]] (then the [[Presidential Republic (1925–73)|1925–73 Presidential Republic]]), [[Colombia]], [[Costa Rica]], [[Cuba]] (then the [[Republic of Cuba (1902–59)|1902–59 Republic]]), [[Czechoslovakia]] (then the [[Third Czechoslovak Republic|Third Republic]]), [[Realm of Denmark|Denmark]], the [[Dominican Republic]], [[Ecuador]], [[Egypt]] (then the [[Kingdom of Egypt]]), [[El Salvador]], [[Ethiopia]] (then the [[Ethiopian Empire]]), [[Greece]] (then the [[Kingdom of Greece]]), [[Guatemala]], [[Haiti]] (then the [[Republic of Haiti (1859–1957)|1859–1957 Republic]]), [[Honduras]], [[India]] (then the [[British Raj]]), [[Iran]] (then the [[Pahlavi Iran|Imperial State of Iran]]), [[Iraq]] (then the [[Kingdom of Iraq]]), [[Lebanon]], [[Liberia]], [[Luxembourg]], [[Mexico]], the [[Kingdom of the Netherlands|Netherlands]], [[Realm of New Zealand|New Zealand]] (then the [[Dominion of New Zealand]]), [[Nicaragua]], [[Norway]], [[Panama]], [[Paraguay]], [[Peru]], the [[Philippines]] (then the [[Commonwealth of the Philippines|Commonwealth]]), [[Poland]] (then the [[Provisional Government of National Unity]]), [[Saudi Arabia]], [[South Africa]] (then the [[Union of South Africa]]), [[Syria]] (then the [[Mandatory Syrian Republic|Mandatory Republic]]), [[Turkey]], [[Ukraine]] (then the [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]]), [[Uruguay]], [[Venezuela]] and [[Yugoslavia]] (then the [[Democratic Federal Yugoslavia]]).<ref name=originalmembers/>
+
+Among the original members, 49 are either still UN members or had their memberships in the UN continued by a [[succession of states|successor state]] ''(see table below)''; for example, the membership of the [[Soviet Union]] was continued by the [[Russia|Russian Federation]] after its dissolution ''(see the section [[#Soviet Union (1945–1991)|Former members: Union of Soviet Socialist Republics]])''. The other two original members, [[Czechoslovakia]] and [[Socialist Federal Republic of Yugoslavia|Yugoslavia]] (i.e., the Socialist Federal Republic of Yugoslavia), had been dissolved and their memberships in the UN not continued from 1992 by any one successor state ''(see the sections [[#Czechoslovakia (1945–1992)|Former members: Czechoslovakia]] and [[#Yugoslavia / Serbia and Montenegro (1945–2006)|Former members: Yugoslavia]])''.<ref name=originalmembers/>
+
+At the time of UN's founding, the [[China and the United Nations|seat of China in the UN]] was held by the [[Republic of China (1912–49)|Republic of China]], but as a result of [[United Nations General Assembly Resolution 2758]] in 1971, it is now held by the [[China|People's Republic of China]] ''(see the section [[#Republic of China (1945–1971)|Former members: Republic of China (Taiwan)]])''.
+
+A number of the original members were not sovereign when they joined the UN, and only gained full independence later:<ref name="theworldin1945">{{cite web| url=https://www.un.org/Depts/Cartographic/map/profile/world45.pdf| title=The World in 1945| publisher=United Nations| archive-url=https://web.archive.org/web/20070913001847/https://www.un.org/Depts/Cartographic/map/profile/world45.pdf| archive-date=13 September 2007| url-status=dead}}</ref>
+
+* [[Belarus]] (then the [[Byelorussian Soviet Socialist Republic]]) and [[Ukraine]] (then the [[Ukrainian Soviet Socialist Republic]]) were both [[Republics of the Soviet Union|constituent republics of the Soviet Union]], until gaining full independence in 1991.
+* [[India]] (whose territory at that time, before the [[Partition of India]], also included the present-day territories of [[Bangladesh]] and [[Pakistan]]) was under [[British Raj|British colonial rule]], until gaining full independence in 1947.
+* [[New Zealand]], while ''de facto'' sovereign at that time, "only gained full capacity to enter into relations with other states in 1947 when it passed the [[Statute of Westminster Adoption Act 1947|Statute of Westminster Adoption Act]]. This occurred 16 years after the British Parliament passed the [[Statute of Westminster 1931|Statute of Westminster Act]] in 1931 that recognised New Zealand's autonomy. If judged by the [[Montevideo Convention]] criteria, New Zealand did not achieve full ''de jure'' statehood until 1947."<ref>{{cite web| url=http://www.parliament.nz/en-NZ/ParlSupport/ResearchPapers/9/1/8/00PLLawRP07041-New-Zealand-sovereignty-1857-1907-1947-or-1987.htm| title=New Zealand Sovereignty: 1857, 1907, 1947, or 1987?| date=August 2007| publisher=New Zealand Parliament| author=John Wilson| url-status=dead| archive-url=https://web.archive.org/web/20110522195038/http://www.parliament.nz/en-NZ/ParlSupport/ResearchPapers/9/1/8/00PLLawRP07041-New-Zealand-sovereignty-1857-1907-1947-or-1987.htm| archive-date=22 May 2011| df=dmy-all}}</ref> However, the UN considers New Zealand to have been independent in 1945, at the time the UN was formed.<ref name="theworldin1945"/>
+* The [[Philippines]] (then the [[Commonwealth of the Philippines|Philippine Commonwealth]]) was a [[Commonwealth (U.S. insular area)|commonwealth with the United States]], until gaining full independence in 1946.
+{{clear}}
+
+==Current members==
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi plainrowheaders"
+|+ {{sronly|UN member states}}
+! scope="col" | Member state
+! scope="col" | Date of admission
+! scope="col" | Notes
+|-
+! scope="row" data-sort-value=Afghanistan |<!--Some countries (e.g. Iran, Bolivia) use their formal name as official UN short name. Afghanistan's official UN short name is simply "Afghanistan"--> {{flag|Afghanistan|2013}}<!--Per the 2022 decision of UN legal and political bodies that the Islamic Republic could no longer be considered the representative of Afghanistan at the UN (sources below), Afghanistan's seat does not have an official representative government. However, the UN continues to use the previous government's flag and list the full name of the country as the Islamic Republic of Afghanistan on the list of official member state long names.-->
+| {{dts|format=dmy|1946|11|19}}<ref>The General Assembly voted for admission on 9 November 1946.</ref>
+|''[[Afghanistan and the United Nations]]''{{pb}}
+The United Nations currently does not recognize any person as the head of state of Afghanistan, nor does it recognize any other Afghan official as legitimate, having determined through a process involving two committees that the last officeholders lost their authority when the government the UN recognized, the [[Islamic Republic of Afghanistan]], ceased to exist on 15 August 2021, and was therefore no longer official.{{efn|The UN has largely attempted to avoid making decisions of any kind on Afghanistan's representation, preferring to keep Faiq by default, and not changing the name "Islamic Republic of Afghanistan" on the [https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/officialnamesofcountries.pdf Official Names of the United Nations Membership] or ending the use of its flag, despite the functional decision made no longer to consider the IRA a legal representative at the UN, allowing Faiq to operate independently without answering to anyone.<ref name="UN non-decision on AFG" /><ref name="TOLOnews" />}} UN legal and political experts made this determination when [[Haneef Atmar]], who had been the recognized foreign minister, attempted to communicate with the UN in 2022. The country's temporary representative [[Naseer Faiq]] has been retained by default on the decision of the UN, against the wishes of Atmar and other members of the UN delegation.<ref name="TOLOnews">{{cite news |quote='[[Haneef Atmar|[Haneef] Atmar]]’s letter and his attempt to introduce a new acting head of mission led the UN departments, including legal and political sections, to assess the letter. Then, it was decided that the former government was not official after its collapse on August 15 and that the letter was not considered. This also led to the removal of their names from the UN system,' Faiq said. |last1=Taieb |first1=Rajab |title=Ghani Removed From UN Heads of State List |url=https://tolonews.com/index.php/afghanistan-176824 |access-date=27 April 2026 |work=[[TOLOnews]] |date=22 February 2022}}</ref> Faiq has since forcefully denied being a representative of the Islamic Republic, accusing its officials of corruption and claiming to represent Afghanistan independently.<ref name="UN non-decision on AFG">{{cite web |last1=Ruttig |first1=Thomas |title=Whose Seat Is It Anyway: The UN’s (non)decision on who represents Afghanistan |url=https://www.afghanistan-analysts.org/en/reports/international-engagement/whose-seat-is-it-anyway-the-uns-nondecision-on-who-represents-afghanistan/ |publisher=[[Afghanistan Analysts Network]] |access-date=28 April 2026 |date=7 December 2023}}</ref> His voting rights in the General Assembly were suspended under Article 19 of the UN Charter in 2024.<ref>{{cite news |last1=Rahmati |first1=Fidel |title=Afghanistan's UN voting rights suspended for another year |url=https://www.khaama.com/afghanistans-un-voting-rights-suspended-for-another-year/ |access-date=8 February 2025 |work=Khaama Press Agency |date=10 October 2024}}</ref>{{pb}}A decision on whether to credential appointees of the new [[Taliban]] authorities has been repeatedly deferred.<ref name="Credentials 12/12">{{cite news |last1=Nichols |first1=Michelle |title=Afghan Taliban administration, Myanmar junta not allowed into United Nations for now |url=https://www.reuters.com/world/afghan-taliban-administration-myanmar-junta-not-allowed-into-united-nations-now-2022-12-15/ |access-date=16 December 2022 |work=[[Reuters]] |date=14 December 2022}}</ref><ref name="credentials2023">{{cite web|url=https://www.afintl.com/en/202404248203|title=United Nations Does Not Allot Afghanistan Seat to Taliban, Again|date=24 April 2024 }}</ref><ref name="credentials2023_2">{{cite web|url=https://undocs.org/en/A/78/605|title=Report of the Credentials Committee : General Assembly, 78th session}}</ref>
+|-
+! scope="row" | {{flag|Albania}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Algeria}}
+| {{dts|format=dmy|1962|10|8}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Andorra}}
+| {{dts|format=dmy|1993|7|28}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Angola}}
+| {{dts|format=dmy|1976|12|1}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Antigua and Barbuda}}
+| {{dts|format=dmy|1981|11|11}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Argentina}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Argentina and the United Nations]]''
+|-
+! scope="row" | {{flag|Armenia}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']] and ''[[Armenia and the United Nations]]''
+|-
+! scope="row" | {{flag|Australia}}
+| {{dts|format=dmy|1945|11|1}}
+| ''[[Australia and the United Nations]]''
+|-
+! scope="row" | {{flag|Austria}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Azerbaijan}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']], and ''[[Azerbaijan and the United Nations]]''
+|-
+! scope="row" | {{flag|Bahamas, The}}<!-- official UN name, including the capital T -->
+| {{dts|format=dmy|1973|9|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Bahrain}}
+| {{dts|format=dmy|1971|9|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Bangladesh}}
+| {{dts|format=dmy|1974|9|17}}
+| ''[[Bangladesh and the United Nations]]''
+|-
+! scope="row" | {{flag|Barbados}}
+| {{dts|format=dmy|1966|12|9}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Belarus}}
+| {{dts|format=dmy|1945|10|24}}
+| [[#Soviet Union (1945-1991)|Former member: ''Byelorussian Soviet Socialist Republic'']]
+|-
+! scope="row" | {{flag|Belgium}}
+| {{dts|format=dmy|1945|12|27}}
+| ''[[Belgium and the United Nations]]''
+|-
+! scope="row" | {{flag|Belize}}
+| {{dts|format=dmy|1981|9|25}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Benin}}
+| {{dts|format=dmy|1960|9|20}}
+| Name was changed from [[Republic of Dahomey|Dahomey]] on 2 December 1975.
+|-
+! scope="row" | {{flag|Bhutan}}
+| {{dts|format=dmy|1971|9|21}}
+| {{sort|~|}}
+|-
+! scope="row" data-sort-value=Bolivia | {{flag|Bolivia}}
+| {{dts|format=dmy|1945|11|14}}
+| 
+|-
+! scope="row" | {{flag|Bosnia and Herzegovina}}
+| {{dts|format=dmy|1992|5|22}}
+| [[#Yugoslavia / Serbia and Montenegro (1945-2006)|Former member: ''Yugoslavia'']]
+|-
+! scope="row" | {{flag|Botswana}}
+| {{dts|format=dmy|1966|10|17}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Brazil}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Brazil and the United Nations]]''
+|-
+! scope="row" | {{flag|Brunei}}
+| {{dts|format=dmy|1984|9|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Bulgaria}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Burkina Faso}}
+| {{dts|format=dmy|1960|9|20}}
+| Name was changed from [[Republic of Upper Volta|Upper Volta]] on 6 August 1984.
+|-
+! scope="row" | {{flag|Burundi}}
+| {{dts|format=dmy|1962|9|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Cabo Verde}}
+| {{dts|format=dmy|1975|9|16}}
+| Previously referred to as Cape Verde. On 24 October 2013, Cabo Verde requested that its name no longer be translated into different languages.<ref>{{cite web|url=http://unterm.un.org/dgaacs/unterm.nsf/c2f5f1ea9d52ce7485256dc5006e5940/564216703eaddfae85257c1300729613/$FILE/Cabo%20Verde%20change%20of%20name.pdf|title=Change of name - Cape Verde|date=29 October 2013|access-date=2 January 2014|publisher=United Nations|url-status=dead|archive-url=https://web.archive.org/web/20140102195859/http://unterm.un.org/dgaacs/unterm.nsf/c2f5f1ea9d52ce7485256dc5006e5940/564216703eaddfae85257c1300729613/%24FILE/Cabo%20Verde%20change%20of%20name.pdf|archive-date=2 January 2014|df=dmy-all}}</ref>
+|-
+! scope="row" | {{flag|Cambodia}}
+| {{dts|format=dmy|1955|12|14}}
+| Name was changed to the [[Khmer Republic]] on 7 October 1970, and back to Cambodia on 30 April 1975. Name was changed again to [[Democratic Kampuchea]] on 6 April 1976, and back to Cambodia on 3 February 1990.
+|-
+! scope="row" | {{flag|Cameroon}}
+| {{dts|format=dmy|1960|9|20}}
+| Previously referred to as [[French Cameroon|Cameroun]] (before merging with [[Southern Cameroons]] in 1961). By a letter of 4 January 1974, the Secretary-General was informed that Cameroon had changed its name to the United Republic of Cameroon. Name was changed back to Cameroon on 4 February 1984.
+|-
+! scope="row" | {{flag|Canada}}
+| {{dts|format=dmy|1945|11|9}}
+| ''[[Canada and the United Nations]]''
+|-
+! scope="row" | {{flag|Central African Republic}}
+| {{dts|format=dmy|1960|9|20}}
+| Country known as [[Central African Empire]] from 20 December 1976 to 20 September 1979.
+|-
+! scope="row" | {{flag|Chad}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Chile}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|China}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[China and the United Nations]]''<br />[[#Republic of China (1945–1971)|Former member: ''Republic of China'']]
+|-
+! scope="row" | {{flag|Colombia}}
+| {{dts|format=dmy|1945|11|5}}
+| ''[[Colombia and the United Nations]]''
+|-
+! scope="row" | {{flag|Comoros}}
+| {{dts|format=dmy|1975|11|12}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Congo}}
+| {{dts|format=dmy|1960|9|20}}
+| Previously referred to as the [[People's Republic of the Congo]]. Name was changed to Congo on 15 November 1971.
+|-
+! scope="row" | {{flag|Costa Rica}}
+| {{dts|format=dmy|1945|11|2}}
+| ''[[Costa Rica and the United Nations]]''
+|-
+! scope="row" | {{flag|Côte d'Ivoire}}
+| {{dts|format=dmy|1960|9|20}}
+| Until 31 December 1985 referred to as Ivory Coast.
+|-
+! scope="row" | {{flag|Croatia}}
+| {{dts|format=dmy|1992|5|22}}
+|[[#Yugoslavia / Serbia and Montenegro (1945-2006)|Former member: ''Yugoslavia'']]
+|-
+! scope="row" | {{flag|Cuba}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Cyprus}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Czechia}}
+| {{dts|format=dmy|1993|1|19}}
+| [[#Czechoslovakia (1945-1992)|Former member: ''Czechoslovakia'']] 
+Name was changed from Czech Republic on 17 May 2016. Its nameplate continued to display Czech Republic until sometime in 2022.<ref name="ecosocmembers">{{cite web|url=https://research.un.org/en/unmembers/ecosocmembers|title=Economic and Social Council Membership - UN Membership - Research Guides at United Nations Dag Hammarskjöld Library}}</ref>{{Better source needed|date=June 2024|reason=Talk page mentions an "exception" where the Czech Republic told the UN its short name was Czechia in 2016, but its name plate was not updated until 2022. This sounds right by my recollection, but I can't find a source on the date other than the ECOSOC membership page, where the Czech Republic was elected to a 3-year term starting Jan 2022 and its name in the membership list has changed to Czechia by Jan 2023}}
+|-
+! scope="row" data-sort-value="Democratic People's Republic of Korea" | {{flagdeco|North Korea}} [[Democratic People's Republic of Korea]]
+| {{dts|format=dmy|1991|9|17}}
+| ''[[Korea and the United Nations]]''
+|-
+! scope="row" data-sort-value="Democratic Republic of the Congo" | {{flag|Democratic Republic of the Congo}}
+| {{dts|format=dmy|1960|9|20}}
+| Country used the name [[Zaire]] from 27 October 1971 to 16 May 1997.
+|-
+! scope="row" | {{flagdeco|Denmark}} [[Danish Realm|Denmark]]{{efn|Denmark represents its metropolitan portion as well as the other constituent countries of the [[Danish Realm]]: the [[Faroe Islands]] and [[Greenland]].<ref name="art102">{{citation|format=PDF |url=http://legal.un.org/repertory/ |title=Repertory of Practice |publisher=[[United Nations|UN]] |contribution=Organs Supplement |number=8 |page=10}}</ref><ref name=map1/>}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Djibouti}}
+| {{dts|format=dmy|1977|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Dominica}}
+| {{dts|format=dmy|1978|12|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Dominican Republic}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Ecuador}}
+| {{dts|format=dmy|1945|12|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Egypt}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Egypt and the United Nations]]''<br />[[#United Arab Republic (1958–1961)|Former member: ''United Arab Republic'']]
+|-
+! scope="row" | {{flag|El Salvador}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Equatorial Guinea}}
+| {{dts|format=dmy|1968|11|12}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Eritrea}}
+| {{dts|format=dmy|1993|5|28}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Estonia}}
+| {{dts|format=dmy|1991|9|17}}
+|
+|-
+! scope="row" | {{flag|Eswatini}}
+| {{dts|format=dmy|1968|9|24}}
+| Name was changed from [[Eswatini|Swaziland]] on 19 April 2018.
+|-
+! scope="row" | {{flag|Ethiopia}}
+| {{dts|format=dmy|1945|11|13}}
+| ''[[Ethiopia and the United Nations]]''
+|-
+! scope="row" | {{flag|Fiji}}
+| {{dts|format=dmy|1970|10|13}}
+| ''[[Fiji and the United Nations]]''
+|-
+! scope="row" | {{flag|Finland}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|France}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[France and the United Nations]]''
+|-
+! scope="row" | {{flag|Gabon}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flagcountry|The Gambia|name=Gambia (Republic of The)}}<!-- official UN name, including the capital T -->
+| {{dts|format=dmy|1965|9|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Georgia}}
+| {{dts|format=dmy|1992|7|31}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+|-
+! scope="row" | {{flag|Germany}}
+| {{dts|format=dmy|1973|9|18}}
+| [[#German Democratic Republic (1973-1990)|Former member: ''German Democratic Republic'']]
+[[East Germany]] and [[West Germany]] were admitted separately on the same date; they unified in 1990; see also ''[[Germany and the United Nations]].''
+|-
+! scope="row" | {{flag|Ghana}}
+| {{dts|format=dmy|1957|3|8}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Greece}}
+| {{dts|format=dmy|1945|10|25}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Grenada}}
+| {{dts|format=dmy|1974|9|17}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Guatemala}}
+| {{dts|format=dmy|1945|11|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Guinea}}
+| {{dts|format=dmy|1958|12|12}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Guinea-Bissau}}
+| {{dts|format=dmy|1974|9|17}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Guyana}}
+| {{dts|format=dmy|1966|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Haiti}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Honduras}}
+| {{dts|format=dmy|1945|12|17}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Hungary}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Iceland}}
+| {{dts|format=dmy|1946|11|19}}<ref>The General Assembly voted for admission on 9 November 1946.</ref>
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|India}}
+| {{dts|format=dmy|1945|10|30}}
+| ''[[India and the United Nations]]''
+|-
+! scope="row" | {{flag|Indonesia}}
+| {{dts|format=dmy|1950|9|28}}
+| ''[[Indonesia and the United Nations]]''
+|-
+! scope="row" data-sort-value=Iran | {{flag|Iran (Islamic Republic of)}}
+| {{dts|format=dmy|1945|10|24}}
+| Previously referred to as Iran. By a communication of 4 November 1982, Iran informed the Secretary-General that it should be referred to as the Islamic Republic of Iran.{{citation needed|date=August 2024}}
+|-
+! scope="row" | {{flag|Iraq}}
+| {{dts|format=dmy|1945|12|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Ireland}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Israel}}
+| {{dts|format=dmy|1949|5|11}}
+| ''[[Israel and the United Nations]]''
+|-
+! scope="row" | {{flag|Italy}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Jamaica}}
+| {{dts|format=dmy|1962|9|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Japan}}
+| {{dts|format=dmy|1956|12|18}}
+| ''[[Japan and the United Nations]]''
+|-
+! scope="row" | {{flag|Jordan}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Kazakhstan}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+Spelling was changed from {{sic|Kaza|kstan|hide=y}} on 20 June 1997.
+|-
+! scope="row" | {{flag|Kenya}}
+| {{dts|format=dmy|1963|12|16}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Kiribati}}
+| {{dts|format=dmy|1999|9|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Kuwait}}
+| {{dts|format=dmy|1963|5|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Kyrgyzstan}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+|-
+! scope="row" | {{flag|Lao People's Democratic Republic}}
+| {{dts|format=dmy|1955|12|14}}
+| Name was changed from Laos on 2 December 1975.
+|-
+! scope="row" | {{flag|Latvia}}
+| {{dts|format=dmy|1991|9|17}}
+|
+|-
+! scope="row" | {{flag|Lebanon}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Lebanon and the United Nations]]''
+|-
+! scope="row" | {{flag|Lesotho}}
+| {{dts|format=dmy|1966|10|17}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Liberia}}
+| {{dts|format=dmy|1945|11|2}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Libya}}
+| {{dts|format=dmy|1955|12|14}}
+| Formerly recognised as the Libyan Arab Republic from 1969 after originally being admitted as Libya. By ''notes verbales'' of 1 and 21 April 1977, the Libyan Arab Republic advised that it had changed its name to the [[History of Libya under Muammar Gaddafi#Great Socialist People's Libyan Arab Jamahiriya (1977-2011)|Libyan Arab Jamahiriya]]. On 16 September 2011, the UN General Assembly awarded the UN seat to the [[National Transitional Council]], thereby restoring the original name of Libya.
+
+On 12 December 2022, the [[United Nations Credentials Committee|Credentials Committee]] deferred a decision on allowing the [[Government of National Stability]] to represent Libya at the U.N., allowing the [[Government of National Unity (Libya)|Government of National Unity]] to retain the seat.<ref name="Credentials 12/12" />
+|-
+! scope="row" | {{flag|Liechtenstein}}
+| {{dts|format=dmy|1990|9|18}}
+| ''[[Liechtenstein and the United Nations]]''
+|-
+! scope="row" | {{flag|Lithuania}}
+| {{dts|format=dmy|1991|9|17}}
+|
+|-
+! scope="row" | {{flag|Luxembourg}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Luxembourg and the United Nations]]''
+|-
+! scope="row" | {{flag|Madagascar}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Malawi}}
+| {{dts|format=dmy|1964|12|1}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Malaysia}}
+| {{dts|format=dmy|1957|9|17}}
+| ''[[Malaysia and the United Nations]]''<br />Name was changed from [[Federation of Malaya (1957-1963)|Federation of Malaya]] on 16 September 1963, following the admission to the new federation of [[Singapore]], [[Sabah]] and [[Sarawak]].
+|-
+! scope="row" | {{flag|Maldives}}
+| {{dts|format=dmy|1965|9|21}}
+| Name was changed from Maldive Islands on 14 April 1969.
+|-
+! scope="row" | {{flag|Mali}}
+| {{dts|format=dmy|1960|9|28}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Malta}}
+| {{dts|format=dmy|1964|12|1}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Marshall Islands}}
+| {{dts|format=dmy|1991|9|17}}
+| ''[[Marshall Islands and the United Nations]]''
+|-
+! scope="row" | {{flag|Mauritania}}
+| {{dts|format=dmy|1961|10|27}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Mauritius}}
+| {{dts|format=dmy|1968|4|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Mexico}}
+| {{dts|format=dmy|1945|11|7}}
+| ''[[Mexico and the United Nations]]''
+|-
+! scope="row" data-sort-value=Micronesia | {{flag|Micronesia (Federated States of)}}
+| {{dts|format=dmy|1991|9|17}}
+| ''[[Federated States of Micronesia and the United Nations]]''
+|-
+! scope="row" | {{flag|Monaco}}
+| {{dts|format=dmy|1993|5|28}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Mongolia}}
+| {{dts|format=dmy|1961|10|27}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Montenegro}}
+| {{dts|format=dmy|2006|6|28}}
+| [[#Yugoslavia / Serbia and Montenegro (1945-2006)|Former member: ''Yugoslavia'']], ''Serbia and Montenegro''
+|-
+! scope="row" | {{flag|Morocco}}
+| {{dts|format=dmy|1956|11|12}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Mozambique}}
+| {{dts|format=dmy|1975|9|16}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Myanmar}}
+| {{dts|format=dmy|1948|4|19}}
+| Name was changed from Burma on 17 June 1989.{{pb}}
+The UN has repeatedly deferred any consideration of credentialing [[Min Aung Hlaing]]'s nominee for Permanent Representative after he seized power in 2021 and served as a transitional military ruler until becoming the president in 2026. Even after Min Aung Hlaing's transition to the civilian presidency in 2026, the UN has not credentialed his nominee or identified him as the head of state (despite publishing an updated list just three days after his inauguration), with UN Secretary General António Guterres labeling the election process not free or fair. The list still names former president [[Win Myint]] as the current president, despite his lack of participation in any political activity. Even after Win Myint's 2026 release from prison upon being pardoned by Min Aung Hlaing, he has stayed silent on whether he supports the unrecognized opposition [[National Unity Government of Myanmar]] (NUG), which has unilaterally designated him its president without his involvement.<ref name=unseats>{{cite news|url=https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html |archive-url=https://ghostarchive.org/archive/20211228/https://www.nytimes.com/2021/12/01/world/americas/united-nations-taliban-myanmar.html |archive-date=2021-12-28 |url-access=limited|title=U.N. Seats Denied, for Now, to Afghanistan's Taliban and Myanmar's Junta|first=Rick|last=Gladstone|work=[[The New York Times]]|date=2021-12-01|access-date=2021-12-02}}{{cbignore}}</ref><ref name="Credentials 12/12" /><ref name="credentials2023_2"/><ref>{{cite news |last1=Sullivan |first1=Michael |title=Myanmar is holding phased elections. Here's why they're being called a 'sham' |url=https://www.npr.org/2025/12/27/nx-s1-5649519/myanmar-election |access-date=26 April 2026 |work=[[NPR]] |date=28 December 2025}}</ref><ref>{{cite news |title=United Nations refuses to recognize Myanmar’s Min Aung Hlaing as president in updated diplomatic list |url=https://eng.mizzima.com/2026/04/16/33192 |access-date=26 April 2026 |work=[[Mizzima News]] |date=16 April 2026}}</ref><ref>{{cite news |last1=Paddock |first1=Richard C. |title=Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi |url=https://www.nytimes.com/2026/04/17/world/asia/myanmar-president-amnesty.html |access-date=18 April 2026 |work=[[The New York Times]] |date=17 April 2026}}</ref><ref>{{cite news |author1=Nyan Kyal |title=President U Win Myint was released on Myanmar New Year’s Day |url=https://moemaka.net/eng/2026/04/president-u-win-myint-was-released-on-myanmar-new-years-day/ |access-date=19 April 2026 |work=MoeMaKa |date=18 April 2026 |quote=There are also differing usages and recognitions, such as the National Unity Government (NUG) continuing to designate U Win Myint as president... However, in practical terms and in the actual situation on the ground, questions remain as to whether U Win Myint himself accepts or agrees with his continued designation as president by the NUG.}}</ref>{{pb}}While still the president, Win Myint appointed [[Kyaw Moe Tun]] as Myanmar's permanent representative to the UN in 2020, and he continues to hold the position and vote on Myanmar's behalf in the General Assembly. Kyaw Moe Tun has aligned himself with the NUG, though the NUG has not been recognized by the UN nor by any country in the world, and there is no formal UN engagement with its leadership. UN official Richard Gowan has stated that Kyaw Moe Tun is not a representative of the NUG at the UN, and the UN has refused the NUG's attempts to appoint a replacement for Kyaw Moe Tun on that basis.<ref name="NUG recognition">{{cite journal |last1=Renshaw |first1=Catherine |title=The National Unity Government: Legitimacy and Recognition |journal=Myanmar’s Changing Political Landscape |date=2023 |pages=225–241 |doi=10.1007/978-981-19-9357-2_13}}</ref><ref name="FP Richard Gowan">{{cite news |author1=Colum Lynch |author2=Robbie Gramer |author3=Jack Detsch |title=U.S. and China Reach Deal to Block Myanmar's Junta From U.N. |url=https://foreignpolicy.com/2021/09/13/myanmar-united-nations-china-biden-general-assembly/ |access-date=26 April 2026 |work=[[Foreign Policy (magazine)|Foreign Policy]] |date=13 September 2021}}</ref>{{pb}}Most countries of the world have taken an ambiguous stance on who they recognize as the president of Myanmar, while many others, including the major powers Russia and China as well as fellow regional [[ASEAN]] members Cambodia and Thailand, sent Myanmar formal letters of congratulation on Min Aung Hlaing's appointment as the president.<ref>{{cite news |title=Thai prime minister congratulates Min Aung Hlaing as regional recognition grows for new regime |url=https://eng.mizzima.com/2026/04/11/33067 |access-date=26 April 2026 |work=[[Mizzima News]] |date=11 April 2026}}</ref><ref>{{cite news |last1=Sokhean |first1=Ben |title=Cambodia welcomes Myanmar amnesty, urges further peace steps |url=https://www.khmertimeskh.com/501885257/cambodia-welcomes-myanmar-amnesty-urges-further-peace-steps/ |access-date=26 April 2026 |work=[[Khmer Times]] |date=24 April 2026 |quote=In a letter dated April 6, Mr Hun Sen—who is also serving as acting head of state—conveyed his “sincere congratulations” after the Myanmar parliament elected Min Aung Hlaing as president on April 3.}}</ref>
+
+|-
+! scope="row" | {{flag|Namibia}}
+| {{dts|format=dmy|1990|4|23}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Nauru}}
+| {{dts|format=dmy|1999|9|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Nepal}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Netherlands}}{{efn|The Netherlands represents its metropolitan portion as well as the three other constituent countries of the [[Kingdom of the Netherlands]]: [[Aruba]], [[Curaçao]], and [[Sint Maarten]].<ref name="art102">{{citation|format=PDF |url=http://legal.un.org/repertory/ |title=Repertory of Practice |publisher=[[United Nations|UN]] |contribution=Organs Supplement |number=8 |page=10}}</ref><ref name=map1/>}}
+| {{dts|format=dmy|1945|12|10}}
+| ''[[Netherlands and the United Nations]]''
+|-
+! scope="row" | {{flag|New Zealand}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[New Zealand and the United Nations]]''
+|-
+! scope="row" | {{flag|Nicaragua}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Niger}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Nigeria}}
+| {{dts|format=dmy|1960|10|7}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|North Macedonia}}
+| {{dts|format=dmy|1993|4|8}}
+| [[#Yugoslavia / Serbia and Montenegro (1945-2006)|Former member: ''Yugoslavia'']]
+Name was changed from The former Yugoslav Republic of Macedonia on 11 February 2019.
+|-
+! scope="row" | {{flag|Norway}}
+| {{dts|format=dmy|1945|11|27}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Oman}}
+| {{dts|format=dmy|1971|10|7}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Pakistan}}
+| {{dts|format=dmy|1947|9|30}}
+| ''[[Pakistan and the United Nations]]''
+|-
+! scope="row" | {{flag|Palau}}
+| {{dts|format=dmy|1994|12|15}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Panama}}
+| {{dts|format=dmy|1945|11|13}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Papua New Guinea}}
+| {{dts|format=dmy|1975|10|10}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Paraguay}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Peru}}
+| {{dts|format=dmy|1945|10|31}}
+| ''[[Peru and the United Nations]]''
+|-
+! scope="row" | {{flag|Philippines}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Philippines and the United Nations]]''
+|-
+! scope="row" | {{flag|Poland}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Poland and the United Nations]]''
+|-
+! scope="row" | {{flag|Portugal}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Qatar}}
+| {{dts|format=dmy|1971|9|21}}
+| {{sort|~|}}
+|-
+! scope="row" data-sort-value="Republic of Korea" | {{flagdeco|South Korea}} [[Republic of Korea]]
+| {{dts|format=dmy|1991|9|17}}
+| ''[[Korea and the United Nations]]''
+|-
+! scope="row" data-sort-value="Republic of Moldova" | {{flag|Republic of Moldova}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+Referred to as Moldova from 6 October 2006 to 10 September 2008.
+|-
+! scope="row" | {{flag|Romania}}
+| {{dts|format=dmy|1955|12|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Russian Federation}}
+| {{dts|format=dmy|1945|10|24}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']] (''[[Soviet Union and the United Nations]]'') and ''[[Russia and the United Nations]]''
+|-
+! scope="row" | {{flag|Rwanda}}
+| {{dts|format=dmy|1962|9|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Saint Kitts and Nevis}}
+| {{dts|format=dmy|1983|9|23}}
+| Referred to as Saint Christopher and Nevis until 28 December 1986.
+|-
+! scope="row" | {{flag|Saint Lucia}}
+| {{dts|format=dmy|1979|9|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Saint Vincent and the Grenadines}}
+| {{dts|format=dmy|1980|9|16}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Samoa}}
+| {{dts|format=dmy|1976|12|15}}
+| The country was formerly named "Western Samoa" until 4 July 1997, but nevertheless always referred to as just "Samoa".
+|-
+! scope="row" | {{flag|San Marino}}
+| {{dts|format=dmy|1992|3|2}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Sao Tome and Principe}}
+| {{dts|format=dmy|1975|9|16}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Saudi Arabia}}
+| {{dts|format=dmy|1945|10|24}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Senegal}}
+| {{dts|format=dmy|1960|9|28}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Serbia}}
+| {{dts|format=dmy|2000|11|1}}
+| [[#Yugoslavia / Serbia and Montenegro (1945-2006)|Former member: ''Yugoslavia'']], ''Serbia and Montenegro'', and ''[[Serbia and the United Nations]]''
+|-
+! scope="row" | {{flag|Seychelles}}
+| {{dts|format=dmy|1976|9|21}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Sierra Leone}}
+| {{dts|format=dmy|1961|9|27}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Singapore}}
+| {{dts|format=dmy|1965|9|21}}
+| [[#Federation of Malaya (1957-1963)|Former member: ''Malaysia'']] and ''[[Singapore and the United Nations]]''
+|-
+! scope="row" | {{flag|Slovakia}}
+| {{dts|format=dmy|1993|1|19}}
+| [[#Czechoslovakia (1945-1992)|Former member: ''Czechoslovakia'']]
+|-
+! scope="row" | {{flag|Slovenia}}
+| {{dts|format=dmy|1992|5|22}}
+| [[#Yugoslavia / Serbia and Montenegro (1945-2006)|Former member: ''Yugoslavia'']]
+|-
+! scope="row" | {{flag|Solomon Islands}}
+| {{dts|format=dmy|1978|9|19}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Somalia}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|South Africa}}
+| {{dts|format=dmy|1945|11|7}}
+| Referred to as the [[Union of South Africa]] until 13 May 1961.
+|-
+! scope="row" | {{flag|South Sudan}}
+| {{dts|format=dmy|2011|7|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Spain}}
+| {{dts|format=dmy|1955|12|14}}
+| ''[[Spain and the United Nations]]''
+|-
+! scope="row" | {{flag|Sri Lanka}}
+| {{dts|format=dmy|1955|12|14}}
+| Name was changed from [[Dominion of Ceylon|Ceylon]] on 29 August 1972.
+|-
+! scope="row" | {{flag|Sudan}}
+| {{dts|format=dmy|1956|11|12}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Suriname}}
+| {{dts|format=dmy|1975|12|4}}
+| Name was changed from Surinam on 23 January 1978.
+|-
+! scope="row" | {{flag|Sweden}}
+| {{dts|format=dmy|1946|11|19}}<ref>The General Assembly voted for admission on 9 November 1946.</ref>
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Switzerland}}
+| {{dts|format=dmy|2002|9|10}}
+| {{sort|~|}}
+|-
+! scope="row"|{{flag|Syrian Arab Republic}}
+| {{dts|format=dmy|1945|10|24}}
+| [[#United Arab Republic (1958–1961)|Former member: ''United Arab Republic'']]
+|-
+! scope="row" | {{flag|Tajikistan}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+|-
+! scope="row" | {{flag|Thailand}}
+| {{dts|format=dmy|1946|12|16}}<ref>The General Assembly voted for admission on 15 December 1946.</ref>
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Timor-Leste}}
+| {{dts|format=dmy|2002|9|27}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Togo}}
+| {{dts|format=dmy|1960|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Tonga}}
+| {{dts|format=dmy|1999|9|14}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Trinidad and Tobago}}
+| {{dts|format=dmy|1962|9|18}}
+| ''[[Trinidad and Tobago and the United Nations]]''
+|-
+! scope="row" | {{flag|Tunisia}}
+| {{dts|format=dmy|1956|11|12}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Türkiye}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[Turkey and the United Nations]]''
+Previously referred to as Turkey until 31 May 2022.
+|-
+! scope="row" | {{flag|Turkmenistan}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+|-
+! scope="row" | {{flag|Tuvalu}}
+| {{dts|format=dmy|2000|9|5}}
+| ''[[Tuvalu and the United Nations]]''
+|-
+! scope="row" | {{flag|Uganda}}
+| {{dts|format=dmy|1962|10|25}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Ukraine}}
+| {{dts|format=dmy|1945|10|24}}
+| [[#Soviet Union (1945-1991)|Former member: ''Ukrainian Soviet Socialist Republic'']], ''[[Ukraine and the United Nations]]''
+|-
+! scope="row" | {{flag|United Arab Emirates}}
+| {{dts|format=dmy|1971|12|9}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|United Kingdom of Great Britain and Northern Ireland}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[United Kingdom and the United Nations]]''
+|-
+! scope="row" | {{flag|United Republic of Tanzania}}
+| {{dts|format=dmy|1961|12|14}}
+| [[#Tanganyika_(1961-1964)_and_Zanzibar_(1963-1964)|Former member: ''Zanzibar'']]
+Name was changed from United Republic of Tanganyika and Zanzibar on 2 November 1964.
+|-
+! scope="row" | {{flag|United States of America}}
+| {{dts|format=dmy|1945|10|24}}
+| ''[[United States and the United Nations]]''
+|-
+! scope="row" | {{flag|Uruguay}}
+| {{dts|format=dmy|1945|12|18}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Uzbekistan}}
+| {{dts|format=dmy|1992|3|2}}
+| [[#Soviet Union (1945-1991)|Former member: ''Union of Soviet Socialist Republics'']]
+|-
+! scope="row" | {{flag|Vanuatu}}
+| {{dts|format=dmy|1981|9|15}}
+| ''[[Vanuatu and the United Nations]]''
+|-
+! scope="row" data-sort-value=Venezuela | {{flag|Venezuela (Bolivarian Republic of)}}
+| {{dts|format=dmy|1945|11|15}}
+| Previously referred to as Venezuela until 17 November 2004.
+|-
+! scope="row" | {{flag|Vietnam}}<!--The name by the UN is two separate words-->
+| {{dts|format=dmy|1977|9|20}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Yemen}}
+| {{dts|format=dmy|1947|9|30}}
+| [[#Yemen (1947-1990) and Democratic Yemen (1967-1990)|Former members: ''Yemen'' and ''People's Democratic Republic of Yemen'']]
+|-
+! scope="row" | {{flag|Zambia}}
+| {{dts|format=dmy|1964|12|1}}
+| {{sort|~|}}
+|-
+! scope="row" | {{flag|Zimbabwe}}
+| {{dts|format=dmy|1980|8|25}}
+| {{sort|~|}}
+|}
+
+===Package deal===
+The start of the [[Cold War]] led to membership conflicts almost immediately, with the United States refusing to admit countries in [[Eastern Europe]] while the Soviet Union refused to admit countries in [[Western Europe]]. Starting as early as January 1946, the United States used its "automatic majority"<ref name="bosco2009">{{cite book |last1=Bosco |first1=David L. |title=Five to Rule Them All: The UN Security Council and the Making of the Modern World |date=2009 |publisher=Oxford University Press |isbn=9780195328769 |url-access=registration |url=https://archive.org/details/fivetorulethemal00bosc |page=118 }}</ref> on the [[United Nations Security Council|Security Council]]{{efn|Before 1966, [[List of members of the United Nations Security Council#Non-permanent (1946–1965)|at least five seats]] out of eleven, and often more, were guaranteed to be aligned with the United States, enough to block the required seven-vote supermajority without a veto.}} to refuse the application of [[People's Republic of Albania|Albania]] without a veto, while the Soviet Union [[United Nations Security Council veto power|vetoed]] the applications of Ireland, Portugal and Finland. The Soviet Union also vetoed the applications of [[Jordan]] and [[Ceylon]], stating that it did not believe they were sufficiently independent from the United Kingdom.
+
+Starting in September 1949, the Soviet Union began to veto the applications of some neutral countries such as [[Nepal]] as well, stating that it would not admit them until its preferred applicants were also admitted. Both the United States and Soviet Union stated that they were willing to admit each other's preferred applicants, but the United States demanded that Western European applicants be voted on first while the Soviet Union demanded that Eastern European applicants be voted on first. Both superpowers refused to allow multiple applicants to be voted on simultaneously.
+
+The impasse continued until the [[Death and state funeral of Joseph Stalin|death of Stalin]] caused a brief [[Khrushchev Thaw|thaw]] in the Cold War. By this time, 18 applications had been blocked, and the superpowers stated that they would no longer oppose a simultaneous vote. The [[List of vetoed United Nations Security Council resolutions#Republic of China|veto of Mongolia]] by the [[Republic of China]] delayed the proceedings by one day, with the Soviet Union offering to exclude Mongolia from the list of 18 if Japan were also excluded. The United States abstained on the offering. In what was widely described as a "package deal", the remaining 16 countries (Albania, Jordan, Ireland, Portugal, Italy, Austria, Finland, Ceylon, Nepal, Libya, Cambodia, Laos, Hungary, Romania, Bulgaria, and Spain) were simultaneously admitted to the United Nations on 14 December 1955 ([[United Nations Security Council Resolution 109]]).<ref>{{cite web|url=https://cdn.un.org/unyearbook/yun/chapter_pdf/1955YUN/1955_P1_SEC1_CH3.pdf|title=[ 1955 ] Part 1 Sec 1 Chapter 1 - 1955_P1_SEC1_CH3.pdf}}{{Dead link|date=April 2026 |bot=InternetArchiveBot }}</ref>
+
+==Former members==
+===Republic of China (1945–1971)===
+{{further|China and the United Nations}}
+[[File:China map.png|alt=A map of East Asia highlighting the Chinese states|thumb|Areas controlled by the People's Republic of China and the Republic of China]]
+The [[Republic of China (1912–1949)|Republic of China]] (ROC) joined the UN as an original member on 24 October 1945, and as set out by the [[United Nations Charter]], [[Chapter V of the United Nations Charter|Chapter V]], Article 23, became one of the five permanent members of the [[United Nations Security Council]].<ref name="charter ch5">{{cite web|url=https://www.un.org/en/sections/un-charter/chapter-v/index.html |title=Charter of the United Nations, Chapter V: The Security Council |publisher=United Nations|date=2015-06-17 }}</ref> In 1949, as a result of the [[Chinese Civil War]], the [[Kuomintang]]-led ROC government lost effective control of [[mainland China]] and relocated to the [[island of Taiwan]], and the [[Communist Party of China|Communist Party]]-led government of the [[China|People's Republic of China]] (PRC), declared on 1 October 1949, took control of mainland China. The UN was notified on 18 November 1949 of the formation of the [[State Council of the People's Republic of China|Central People's Government of the People's Republic of China]]; however, the [[Government of the Republic of China]] continued to represent China at the UN, despite the small size of the ROC's jurisdiction of [[List of islands of the Republic of China|Taiwan and a number of smaller islands]] compared to the PRC's jurisdiction of mainland China. As both governments claimed to be the sole legitimate representative of China, proposals to effect a change in the representation of China in the UN were discussed but rejected for the next two decades. Both sides rejected compromise proposals to allow both states to participate in the UN, based on the [[One-China policy]].<ref>{{cite web|url=http://www.brookings.edu/research/opinions/2012/06/20-taiwan-un-winkler|title=Taiwan's UN Dilemma: To Be or Not To Be|publisher=[[Brookings Institution]]|first=Sigrid|last=Winkler|date=June 2012|access-date=2016-04-25}}</ref>
+
+By the 1970s, a shift had occurred in international diplomatic circles and the PRC had gained the upper hand in international diplomatic relations and recognition count. On 25 October 1971, the 21st time the [[United Nations General Assembly]] debated on the PRC's admission into the UN,<ref>{{cite web| url=http://www.upi.com/Audio/Year_in_Review/Events-of-1971/Red-China-Admitted-to-UN/12295509436546-3/| title=1971 Year in Review: Red China Admitted to UN| work=United Press International| year=1971}}</ref> [[United Nations General Assembly Resolution 2758]] was adopted, by which it recognized that "the representatives of the Government of the People's Republic of China are the only lawful representatives of China to the United Nations and that the People's Republic of China is one of the five permanent members of the Security Council," and decided "to restore all its rights to the People's Republic of China and to recognize the representatives of its Government as the only legitimate representatives of China to the United Nations, and to expel forthwith the representatives of [[Chiang Kai-shek]] from the place which they unlawfully occupy at the United Nations and in all the organizations related to it."<ref>{{UN document |docid=A-RES-2758(XXVI) |type=Resolution |body=General Assembly |session=26 |resolution_number=2758 |highlight=rect_485,223_914,684 |page=1 |access-date=2016-04-24|date=25 October 1971|title=Restoration of the lawful rights of the People's Republic of China in the United Nations}}</ref> This effectively transferred the seat of China in the UN, including its permanent seat on the Security Council, from the ROC to the PRC, and expelled the ROC from the UN.
+
+In addition to losing its seat in the UN, the UN Secretary-General concluded from the resolution that the General Assembly considered Taiwan to be a province of "China", which refers to the Greater China region. Consequently, the Secretary-General decided that it was not permitted for the ROC to become a party to treaties deposited with it.<ref>{{cite web|url=https://treaties.un.org/doc/source/publications/FC/English.pdf|title=Final Clauses of Multilateral Treaties|year=2003|access-date=2016-04-25|publisher=United Nations|quote=Hence, instruments received from the Taiwan Province of China will not be accepted by the Secretary-General in his capacity as depositary.|archive-url=https://web.archive.org/web/20120312032445/https://treaties.un.org/doc/source/publications/FC/English.pdf|archive-date=12 March 2012|url-status=live}}</ref>
+
+====Bids for readmission as the representative of Taiwan====
+{{Further|Political status of Taiwan|Four-Stage Theory of the Republic of China|2008 Taiwanese United Nations membership referendum}}
+
+[[File:Voa chinese ma ying jeou tw 09Oct10 480.jpg|alt=Ma Ying-jeou stands behind a podium decked with flowers|thumb|The presidency of [[Ma Ying-jeou]] saw the first participation of the [[Taiwan|Republic of China]] on a United Nations body in almost 40 years.]]
+
+In 1993, the ROC began campaigning to rejoin the UN separately from the People's Republic of China. A number of options were considered, including seeking membership in the [[list of specialized agencies of the United Nations|specialized agencies]], applying for [[United Nations General Assembly observers|observer status]], applying for full membership, or having resolution 2758 revoked to reclaim the seat of China in the UN.<ref name=Lindemann/>
+
+Every year from 1993 to 2006, UN member states submitted a memorandum to the UN Secretary-General requesting that the UN General Assembly consider allowing the ROC to resume participating in the United Nations.<ref>{{Cite web|url=https://www.brookings.edu/opinions/taiwans-un-dilemma-to-be-or-not-to-be/|title=Taiwan's UN Dilemma: To Be or Not To Be|last=Winkler|first=Sigrid|date=2012-06-20|website=Brookings|language=en-US|access-date=2019-01-19}}</ref>{{efn|Specific items include:<br />{{UN document |docid=A/48/191 |type=A |body=General Assembly |session=48|access-date=2016-04-18|date=1993-08-09}}<br />{{UN document |docid=A/49/144 |type=A |body=General Assembly |session=49|access-date=2016-04-18|date=1994-07-19}}<br />{{UN document |docid=A/50/145 |type=A |body=General Assembly |session=50|access-date=2016-04-18|date=1995-07-19}}<br />{{UN document |docid=A/51/142 |type=A |body=General Assembly |session=51|access-date=2016-04-19|date=1996-07-18}}<br />{{UN document |docid=A/52/143 |type=A |body=General Assembly |session=52|access-date=2016-04-19|date=1997-07-16}}<br />{{UN document |docid=A/53/145 |type=A |body=General Assembly |session=53|access-date=2016-04-19|date=1998-07-08}}<br />{{UN document |docid=A/54/194 |type=A |body=General Assembly |session=54|access-date=2016-04-20|date=1999-08-12}}<br />{{UN document |docid=A/55/227 |type=A |body=General Assembly |session=55|access-date=2016-04-23|date=2000-08-04}}<br />{{UN document |docid=A/56/193 |type=A |body=General Assembly |session=56|access-date=2016-04-23|date=2001-08-08}}<br />{{UN document |docid=A/57/191 |type=A |body=General Assembly |session=57|access-date=2016-04-23|date=2002-08-20}}<br />{{UN document |docid=A/58/197 |type=A |body=General Assembly |session=58|access-date=2016-04-23|date=2003-08-05}}<br />{{UN document |docid=A/59/194 |type=A |body=General Assembly |session=59|access-date=2016-04-24|date=2004-08-10}}<br />{{UN document |docid=A/60/192 |type=A |body=General Assembly |session=60|access-date=2016-04-24|date=2005-08-11}}<br />{{UN document |docid=A/61/194 |type=A |body=General Assembly |session=61|access-date=2016-04-24|date=2006-08-11}}}} This approach was chosen, rather than a formal application for membership, because it could be enacted by the General Assembly, while a membership application would need Security Council approval, where the PRC held a veto.<ref name=Lindemann>{{cite book|url=https://books.google.com/books?id=Mw3IBAAAQBAJ|title=Cross-Strait Relations and International Organizations: Taiwan's Participation in IGOs in the Context of Its Relationship with China|year=2014|first=Björn Alexander|last=Lindemann|publisher=[[Springer Science+Business Media]]|pages=258|isbn=9783658055271}}</ref> Early proposals recommended admitting the ROC with parallel representation over China, along with the People's Republic of China, pending eventual reunification, citing examples of other divided countries which had become separate UN member states, such as [[East Germany|East]] and [[West Germany]] and [[North Korea|North]] and [[South Korea]]. Later proposals emphasized that the ROC was a separate state, over which the PRC had no effective sovereignty. These proposed resolutions referred to the ROC under a variety of names: "Republic of China in Taiwan" (1993–1994), "Republic of China on Taiwan" (1995–1997, 1999–2002), "Republic of China" (1998), "Republic of China (Taiwan)" (2003), and "Taiwan" (2004–2006).{{Citation needed|date=July 2023}}
+
+However, all fourteen attempts were unsuccessful as the General Assembly's [[United Nations General Committee|General Committee]] declined to put the issue on the Assembly's agenda for debate, under strong opposition from the PRC.<ref name=europers>{{cite book|url=https://books.google.com/books?id=RLcDLDQsgy0C|title=European Perspectives on Taiwan|first1=Jens|last1=Damm|first2=Paul|last2=Lim|year=2012|publisher=[[Springer Science+Business Media]]|pages=160–63|quote=By mid 2009, 16 applications for membership on behalf of Taiwan had been sent to the UN, but, in each of these cases, the General Assembly's General Committee, which sets the Assembly's agenda, decided against even raising the question during the Assembly's session.|isbn=9783531943039}}</ref>
+
+While all these proposals were vague, requesting the ROC be allowed to participate in UN activities without specifying any legal mechanism, in 2007 the ROC submitted a formal application under the name "Taiwan" for full membership in the UN.<ref name="A/62/193">{{UN document |docid=A/62/193 |type=A |body=General Assembly |session=62|access-date=2016-04-24|date=2007-08-17|title=Request for the inclusion of a supplementary item in the agenda of the sixty-second session Urging the Security Council to process Taiwan's membership application pursuant to rules 59 and 60 of the provisional rules of procedure of the Security Council and Article 4 of the Charter of the United Nations}}</ref> However, the application was rejected by the [[United Nations Office of Legal Affairs]] citing General Assembly Resolution 2758,<ref>{{cite web| url=https://www.un.org/News/briefings/docs/2007/db070723.doc.htm| title=Transcript: Daily Press Briefing by the Office of the Spokesperson for the Secretary-General| publisher=United Nations| date=23 July 2007}}</ref> without being forwarded to the Security Council. [[Secretary-General of the United Nations]] [[Ban Ki-moon]] stated that:
+{{Blockquote|The position of the United Nations is that the People's Republic of China is representing the whole of China as the sole and legitimate representative Government of China. The decision until now about the wish of the people in Taiwan to join the United Nations has been decided on that basis. The resolution (General Assembly Resolution 2758) that you just mentioned is clearly mentioning that the Government of China is the sole and legitimate Government and the position of the United Nations is that Taiwan is part of China.<ref>{{cite web|title=Ban Ki-moon Convenes Largest-Ever Meeting of Global Leaders on Climate Change |url=https://www.un.org/apps/news/story.asp?NewsID=23926 |publisher=United Nations |date=24 September 2007 |access-date=2017-06-08}}</ref>}}
+
+Responding to the UN's rejection of its application, the ROC government has stated that Taiwan is not now nor has it ever been under the jurisdiction of the PRC, and that since General Assembly Resolution 2758 did not clarify the issue of Taiwan's representation in the UN, it does not prevent Taiwan's participation in the UN as an independent sovereign nation.<ref>{{cite web|url=http://www.mofa.gov.tw/webapp/ct.asp?xItem=26680&ctNode=1028&mp=6|title=Talking points for Taiwan's UN Membership Application|publisher=Ministry of Foreign Affairs, Republic of China|url-status=dead|archive-url=https://web.archive.org/web/20090109022444/http://www.mofa.gov.tw/webapp/ct.asp?xItem=26680&ctNode=1028&mp=6|archive-date=9 January 2009|df=dmy-all}}</ref> The ROC government also criticized Ban for asserting that Taiwan is part of China and returning the application without passing it to the Security Council or the General Assembly,<ref>{{cite web| url=http://www.mofa.gov.tw/webapp/ct.asp?xItem=26682&ctNode=1028&mp=6| title=President Chen Shui-bian's Letters to UN Secretary-General Ban Ki-moon and UN Security Council President Wang Guangya on 31 July (Office of the President)| publisher=Ministry of Foreign Affairs, Republic of China| url-status=dead| archive-url=https://web.archive.org/web/20090904110812/http://www.mofa.gov.tw/webapp/ct.asp?xItem=26682&ctNode=1028&mp=6| archive-date=4 September 2009| df=dmy-all}}</ref> contrary to UN's standard procedure (Provisional Rules of Procedure of the Security Council, Chapter X, Rule 59).<ref>{{cite web|url=https://www.un.org/en/sc/about/rules/ |title=Provisional Rules of Procedure of the Security Council |publisher=United Nations}}</ref> On the other hand, the PRC government, which has stated that Taiwan is part of China and firmly opposes the application of any Taiwan authorities to join the UN either as a member or an observer, praised that UN's decision "was made in accordance with the UN Charter and Resolution 2758 of the UN General Assembly, and showed the UN and its member states' universal adherence to the [[One-China policy|one-China principle]]".<ref>{{cite web| url=http://news.xinhuanet.com/english/2007-07/24/content_6425429.htm| title=China praises UN's rejection of Taiwan's application for membership| agency=Xinhua News Agency| date=24 July 2007| url-status=dead| archive-url=https://web.archive.org/web/20090111170303/http://news.xinhuanet.com/english/2007-07/24/content_6425429.htm| archive-date=11 January 2009| df=dmy-all}}</ref> A group of UN member states put forward a draft resolution for that fall's UN General Assembly calling on the Security Council to consider the application.<ref name="A/62/193"/>
+
+The following year [[2008 Taiwanese United Nations membership referendums|two referendums]] in Taiwan on the government's attempts to regain participation at the UN did not pass due to low turnout. That fall the ROC took a new approach, with its allies submitting a resolution requesting that the "Republic of China (Taiwan)" be allowed to have "meaningful participation" in the UN [[specialized agencies]].<ref>{{UN document |docid=A/63/194 |type=A |body=General Assembly |session=63|access-date=2016-04-24|date=2008-08-22|title=Request for the inclusion of a supplementary item in the agenda of the sixty-third session Need to examine the fundamental rights of the 23 million people of the Republic of China (Taiwan) to participate meaningfully in the activities of the United Nations specialized agencies}}</ref> Again the issue was not put on the Assembly's agenda.<ref name=europers/> In 2009, the ROC chose not to bring the issue of its participation in the UN up for debate at the General Assembly for the first time since it began the campaign in 1993.<ref>{{cite magazine|url=https://www.economist.com/asia/2009/09/24/not-even-asking|title=Not even asking|date=2009-09-24|access-date=2016-04-24|newspaper=[[The Economist]]}}</ref>
+
+In May 2009, the [[Department of Health (Republic of China)|Department of Health of the Republic of China]] was invited by the [[World Health Organization]] to attend the 62nd [[World Health Assembly]] as an observer under the name "[[Chinese Taipei]]". This was the ROC's first participation in an event organized by a [[List of specialized agencies of the United Nations|UN-affiliated agency]] since 1971, as a result of the improved [[cross-strait relations]] since [[Ma Ying-jeou]] became the [[President of the Republic of China]] a year before.<ref>{{cite web|url=http://www.upi.com/Top_News/2009/05/18/Taiwan-attends-WHA-as-observer/UPI-68411242697115/|title=Taiwan attends WHA as observer|work=United Press International| date=18 May 2009}}</ref>
+
+The Republic of China is officially {{Numrec|ROC|recognized by|UN member states}} and the [[Holy See]]. It maintains unofficial relations with around 60 nations, including the [[United States]] and [[Japan]].
+
+===States that no longer exist===
+====British Raj (1945–1947)====
+The [[British Raj]] was a founding member of the United Nations.
+
+====Czechoslovakia (1945–1992)====
+[[Czechoslovakia]] joined the United Nations as an original member on 24 October 1945. Upon the imminent [[dissolution of Czechoslovakia]], in a letter dated 10 December 1992, its Permanent Representative informed the [[Secretary-General of the United Nations|United Nations Secretary-General]] that the Czech and Slovak Federative Republic would cease to exist on 31 December 1992 and that the [[Czech Republic]] and [[Slovakia]], as successor states, would apply for membership in the UN. Neither state sought sole successor state status. Both states were readmitted to the UN on 19 January 1993.<ref name="yearbook">{{cite web| url=http://unyearbook.un.org/| title=Yearbook of the United Nations| publisher=United Nations| access-date=13 May 2009| archive-date=15 August 2010| archive-url=https://web.archive.org/web/20100815092703/http://unyearbook.un.org/| url-status=dead}}</ref>
+
+====German Democratic Republic (1973–1990)====
+Both the [[West Germany|Federal Republic of Germany]] (West Germany) and the [[East Germany|German Democratic Republic]] (East Germany) were admitted to the UN on 18 September 1973. Through the [[German reunification|accession of the East German federal states to the Federal Republic of Germany]], effective from 3 October 1990, the territory of the German Democratic Republic became part of the Federal Republic of Germany. In a letter to the general secretary, the German Foreign Minister notified the UN about this unification and stated that the Federal Republic of Germany would subsequently assume its membership under the name ''Germany''. Consequently, the Federal Republic of Germany continued being a member of the UN while the German Democratic Republic ceased to exist.<ref name="yearbook" />
+
+====Tanganyika (1961–1964) and Zanzibar (1963–1964)====
+[[Tanganyika (1961–1964)|Tanganyika]] was admitted to the UN on 14 December 1961, and the [[Sultanate of Zanzibar]] was admitted to the UN on 16 December 1963. Following the ratification on 26 April 1964 of the Articles of Union between Tanganyika and the [[People's Republic of Zanzibar]], the two states merged to form the single member "United Republic of Tanganyika and Zanzibar", with its name changed to the [[Tanzania|United Republic of Tanzania]] on 1 November 1964.<ref name="yearbook" /><ref name="growth">{{cite web|url=https://www.un.org/en/sections/member-states/growth-united-nations-membership-1945-present/index.html |title=Growth in United Nations membership, 1945–present |publisher=United Nations|date=2015-08-06 }}</ref>
+
+====Soviet Union (1945–1991)====
+{{Further|Soviet Union and the United Nations}}
+[[File:Soviet Union map 1945-09-20 to 1946-02-02.png|alt=A map of Eurasia highlighting the USSR|thumb|The USSR as its borders and republics were configured upon entry to the UN. Border changes and the dissolution of various republics happened over the course of its membership.]]
+The [[Soviet Union|Union of Soviet Socialist Republics]] (USSR) joined the UN as an original member on 24 October 1945, and as set out by the [[United Nations Charter]], [[Chapter V of the United Nations Charter|Chapter V]], Article 23, became one of the five permanent members of the [[United Nations Security Council]].<ref name="charter ch5" /> Upon the imminent [[Dissolution of the Soviet Union|dissolution of the USSR]], in a letter dated 24 December 1991, [[Boris Yeltsin]], the [[President of Russia|President of the Russian Federation]], informed the [[Secretary-General of the United Nations|United Nations Secretary-General]] that the membership of the USSR in the Security Council and all other UN organs was being continued by the [[Russia|Russian Federation]] with the support of the 11 [[member states of the Commonwealth of Independent States]].<ref name="yearbook" />
+
+The other fourteen independent states established from the former Soviet Republics were all admitted to the UN:
+* The [[Byelorussian Soviet Socialist Republic]] and the [[Ukrainian Soviet Socialist Republic]] joined the UN on 24 October 1945 together with the USSR. After declaring independence, the Ukrainian Soviet Socialist Republic changed its name to [[Ukraine]] on 24 August 1991, and on 19 September 1991, the Byelorussian Soviet Socialist Republic informed the UN that it had changed its name to [[Belarus]].
+* [[Estonia]], [[Latvia]], and [[Lithuania]] were admitted to the UN on 17 September 1991, after [[State continuity of the Baltic states|regaining independence]] before the dissolution of the [[Soviet Union|USSR]]. They do not consider themselves to have been legally represented by the Soviet Union during their occupation.<ref>{{cite book|chapter-url=https://brill.com/view/book/9789004464896/BP000013.xml|title=Illegal Annexation and State Continuity|chapter=The Legal Status of the Baltic States in International Law After 1991: Claims and Responses|access-date=24 October 2022|last=Mälksoo|first=Lauri|date=28 June 2022 |publisher=Brill Nijhoff |isbn=9789004464896 }}</ref>
+* [[Russia]] took over the Soviet Union's seat on 24 December 1991, after a letter by president [[Boris Yeltsin]] was received by then [[Secretary-General of the United Nations|secretary-general]] [[Javier Pérez de Cuéllar]]. 
+* [[Armenia]], [[Azerbaijan]], [[Kazakhstan]], [[Kyrgyzstan]], the [[Moldova|Republic of Moldova]], [[Tajikistan]], [[Turkmenistan]], and [[Uzbekistan]] were admitted to the UN on 2 March 1992.
+* [[Georgia (country)|Georgia]] was admitted to the UN on 31 July 1992.
+
+====United Arab Republic (1958–1961)====
+[[File:United Arab Republic (orthographic - close).svg|alt=A map of the UAR |thumb|The United Arab Republic, including the [[Occupation of the Gaza Strip by the United Arab Republic|occupied Gaza Strip]]]]
+[[File:NasserQuwatliUAR.jpg|alt=|thumb|Egyptian president [[Gamal Abdel Nasser]] (seated right) and Syrian president [[Shukri al-Quwatli]] sign the accord to form the [[United Arab Republic]] in 1958. The political union briefly represented both states and was used as the name of [[Egypt]] following [[Syria]]'s withdrawal in 1961.]]
+Both [[Egypt]] and [[Syria]] joined the UN as original members on 24 October 1945. Following a plebiscite on 21 February 1958, the [[United Arab Republic]] was established by a union of Egypt and Syria and continued as a single member. On 13 October 1961, [[Syria]], having regained its status as an independent state, resumed its separate membership in the UN. No objections were raised to Syria's return to membership in this manner.<ref>{{UN doc |docid=A/PV.1035 |title=General Assembly, 16th session : 1035th plenary meeting, Friday, 13 October 1961, New York |access-date=11 December 2025}}</ref> Egypt continued as a UN member under the name of the United Arab Republic, until it reverted to its original name on 2 September 1971. Syria changed its name to the Syrian Arab Republic on 14 September 1961.<ref name="yearbook" />
+
+====Democratic Yemen (1967–1990)====
+[[South Yemen|Democratic Yemen]] (i.e., '''South Yemen''') was admitted to the UN under the name '''People's Republic of South Yemen''' on 14 December 1967, with its name changed to the '''People's Democratic Republic of Yemen''' on 30 November 1970, and was later referred to as Democratic Yemen. On 22 May 1990, [[Yemeni unification|the state merged]] with the [[Yemen Arab Republic]], which had been a member state since 1947, to form the Republic of Yemen, which continued as a single member under the name [[Yemen]].<ref name="yearbook" />
+
+====Yugoslavia / Serbia and Montenegro (1945–2006)====
+{{main|Yugoslavia and the United Nations}}
+[[File:Former Yugoslavia 2006.svg|alt=|thumb|upright=2.2|The [[Socialist Federal Republic of Yugoslavia]] disintegrated into several states starting in the early 1990s. By 2006, six UN member states existed in its former territory. Kosovo declared independence in 2008.]]
+The [[Socialist Federal Republic of Yugoslavia]], referred to as Yugoslavia, joined the UN as an original member on 24 October 1945. By 1992, it had been effectively [[Breakup of Yugoslavia|dissolved]] into five independent states, which were all subsequently admitted to the UN:
+* [[Republic of Bosnia and Herzegovina|Bosnia and Herzegovina]], [[Croatia]], and [[Slovenia]] were admitted to the UN on 22 May 1992.<ref>{{cite news|url=https://www.nytimes.com/1992/05/23/world/3-ex-yugoslav-republics-are-accepted-into-un.html |title=3 Ex-Yugoslav Republics Are Accepted into U.N. |newspaper=[[The New York Times]] |author=[[Paul L. Montgomery]] |date=23 May 1992 |access-date=29 July 2012 |archive-date=11 November 2012 |url-status=live |archive-url=https://web.archive.org/web/20121111013548/http://www.nytimes.com/1992/05/23/world/3-ex-yugoslav-republics-are-accepted-into-un.html }}</ref>
+* [[North Macedonia]] was admitted to the UN on 8 April 1993, provisionally referred to for all purposes within the UN as "The former Yugoslav Republic of Macedonia" pending settlement of the [[Macedonia naming dispute|difference that had arisen over its name]].<ref>{{cite news| first=Paul| last=Lewis |title=U.N. Compromise Lets Macedonia Be a Member| url=https://www.nytimes.com/1993/04/08/world/un-compromise-lets-macedonia-be-a-member.html| newspaper=The New York Times| date=8 April 1993}}</ref> On 13 February 2019, it notified the UN that it had officially changed its name, following a settlement with Greece, to the Republic of North Macedonia.<ref>{{Cite news| title=UN Notified Of North Macedonia's Name Change| url=https://www.rferl.org/a/un-notified-of-north-macedonia-s-name-change/29768586.html| publisher=Radio Free Europe| date=13 February 2019}}</ref>
+* The [[Federal Republic of Yugoslavia]] (name later changed to [[Serbia and Montenegro]]) was admitted to the UN on 1 November 2000.<ref name="fr yugoslavia" />
+
+Due to the [[succession of Yugoslavia|dispute over its legal successor states]], the member state "Yugoslavia", referring to the former Socialist Federal Republic of Yugoslavia, remained on the official roster of UN members for many years after its effective dissolution,<ref name="yearbook" /> including the presence of the [[Flag of Yugoslavia|SFRY flag]] at UN headquarters.<ref>{{Cite news |first=Johnathon |last=Steele |url=https://www.theguardian.com/world/2000/nov/02/balkans.unitednations |title=UN welcomes Yugoslavia and furls Tito's flag |work=The Guardian |date=2000-11-02 |accessdate=2021-05-23 |archive-date=2021-05-23 |archive-url=https://web.archive.org/web/20210523115216/https://www.theguardian.com/world/2000/nov/02/balkans.unitednations |url-status=live }}</ref> Following the admission of all five states as new UN members, "Yugoslavia" was removed from the official roster of UN members.
+
+The government of the Federal Republic of Yugoslavia, established on 28 April 1992 by the remaining Yugoslav republics of [[Republic of Montenegro (1992–2006)|Montenegro]] and [[Republic of Serbia (1990–2006)|Serbia]],<ref name="nytfry">{{cite news| first=John F.| last=Burns| title=Confirming Split, Last 2 Republics Proclaim a Small New Yugoslavia| url=https://www.nytimes.com/1992/04/28/world/confirming-split-last-2-republics-proclaim-a-small-new-yugoslavia.html| newspaper=The New York Times| date=28 April 1992}}</ref> claimed itself as the legal [[succession of states|successor state]] of the former Socialist Federal Republic of Yugoslavia;<ref>{{cite web| url=http://www.serbia-info.com/enc/history/breakup.html | title=History of Serbia: The Break-up of SFR Yugoslavia (1991–1995)| publisher=Serbia Info |archive-url = https://web.archive.org/web/20071222072852/http://www.serbia-info.com/enc/history/breakup.html |archive-date = 22 December 2007}}</ref> however, on 30 May 1992, [[United Nations Security Council Resolution 757]] was adopted, by which it imposed [[international sanctions]] on the Federal Republic of Yugoslavia due to its role in the [[Yugoslav Wars]], and noted that "the claim by the Federal Republic of Yugoslavia (Serbia and Montenegro) to continue automatically the membership of the former Socialist Federal Republic of Yugoslavia in the United Nations has not been generally accepted,"<ref>{{cite web| url=http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/011/16/IMG/NR001116.pdf?OpenElement| title=United Nations Security Council Resolution 757| publisher=United Nations| url-status=dead| archive-url=https://web.archive.org/web/20110814060549/http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/011/16/IMG/NR001116.pdf?OpenElement| archive-date=14 August 2011| df=dmy-all}}</ref> and on 22 September 1992, United Nations General Assembly Resolution A/RES/47/1 was adopted, by which it considered that "the Federal Republic of Yugoslavia (Serbia and Montenegro) cannot continue automatically the membership of the former Socialist Federal Republic of Yugoslavia in the United Nations," and therefore decided that "the Federal Republic of Yugoslavia (Serbia and Montenegro) should apply for membership in the United Nations and that it shall not participate in the work of the [[United Nations General Assembly|General Assembly]]".<ref>{{cite web| url=http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/023/69/IMG/NR002369.pdf?OpenElement| title=United Nations General Assembly Resolution A/RES/47/1| publisher=United Nations| url-status=dead| archive-url=https://web.archive.org/web/20110814061053/http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/023/69/IMG/NR002369.pdf?OpenElement| archive-date=14 August 2011| df=dmy-all}}</ref><ref>{{cite news| first=Chuck| last=Sudetic| title=U.N. Expulsion of Yugoslavia Breeds Defiance and Finger-Pointing| url=https://www.nytimes.com/1992/09/24/world/un-expulsion-of-yugoslavia-breeds-defiance-and-finger-pointing.html |url-access=subscription | newspaper=The New York Times| date=24 September 1992}}</ref> For many years the Federal Republic of Yugoslavia refused to comply with the resolution, arguing that it was the legitimate successor to the Socialist Federal Republic of Yugoslavia and that the resolution and the sanctions were illegal and counted as a de facto expulsion of Yugoslavia from the UN (though the UN itself declared that the resolution was legal and de jure not an expulsion of Yugoslavia since they were not the legal successors of the Socialist Federal Republic of Yugoslavia and so the Federal Republic of Yugoslavia was never a UN member). Following the ousting of [[President of Serbia and Montenegro|President]] [[Slobodan Milošević]] from office, the Federal Republic of Yugoslavia applied for membership, and was admitted to the UN on 1 November 2000.<ref name="fr yugoslavia">{{cite news| title=A Different Yugoslavia, 8 Years Later, Takes Its Seat at the U.N.| url=https://www.nytimes.com/2000/11/02/world/a-different-yugoslavia-8-years-later-takes-its-seat-at-the-un.html| newspaper=The New York Times| date=2 November 2000}}</ref> On 4 February 2003, it had its official name changed to Serbia and Montenegro, following the adoption and promulgation of the [[Constitutional Charter of Serbia and Montenegro]] by the Assembly of the Federal Republic of Yugoslavia.<ref>{{cite news| title=Yugoslavia consigned to history| url=http://news.bbc.co.uk/2/hi/europe/2724047.stm| work=BBC News| date=4 February 2003}}</ref>
+
+On the basis of a [[2006 Montenegrin independence referendum|referendum]] held on 21 May 2006, [[Montenegro]] declared independence from [[Serbia and Montenegro]] on 3 June 2006. In a letter dated on the same day, the [[President of Serbia]] informed the [[Secretary-General of the United Nations|United Nations Secretary-General]] that the membership of Serbia and Montenegro in the UN was being continued by [[Serbia]], following Montenegro's declaration of independence, in accordance with the Constitutional Charter of Serbia and Montenegro.<ref>{{cite news| title=World Briefing&nbsp;– Europe: Serbia: Going Solo| url=https://query.nytimes.com/gst/fullpage.html?res=980CE5D91431F935A35755C0A9609C8B63| newspaper=The New York Times| date=6 June 2006}}</ref> Montenegro was admitted to the UN on 28 June 2006.<ref>{{cite news| first=Daniel B.| last=Schneider| title=World Briefing&nbsp;– Europe: Montenegro: U.N. Makes It Official| url=https://query.nytimes.com/gst/fullpage.html?res=9F04E6DB1430F93AA15755C0A9609C8B63| newspaper=The New York Times| date=29 June 2006}}</ref>
+
+In the aftermath of the [[Kosovo War]], the territory of [[Kosovo]], then an [[Autonomous Province of Kosovo and Metohija|autonomous province]] of the Federal Republic of Yugoslavia, was put under the interim administration of the [[United Nations Interim Administration Mission in Kosovo|United Nations Mission in Kosovo]] on 10 June 1999. On 17 February 2008 [[2008 Kosovo declaration of independence|Kosovo declared independence]], but this has not been recognised by Serbia. The [[Kosovo|Republic of Kosovo]] is not a member of the UN, but is a member of the [[International Monetary Fund]]<ref>{{cite web| url=http://www.imf.org/external/np/sec/memdir/members.htm| title=IMF Members' Quotas and Voting Power, and IMF Board of Governors| publisher=International Monetary Fund}}</ref> and the [[World Bank Group]],<ref>{{cite web| url=http://go.worldbank.org/14OS09UZ90| archive-url=http://webarchive.loc.gov/all/20110219031539/http%3A//web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/BODEXT/0%2C%2CcontentMDK%3A20122871%7EmenuPK%3A64020025%7EpagePK%3A64020054%7EpiPK%3A64020408%7EtheSitePK%3A278036%2C00.html| url-status=dead| archive-date=2011-02-19| title=World Bank Group Members| publisher=World Bank}}</ref> both [[List of specialized agencies of the United Nations|specialized agencies]] in the [[United Nations System]]. The Republic of Kosovo has been {{Numrec|Kos|recognised by|UN member states}}, including three of the five permanent members of the [[United Nations Security Council]] (France, the United Kingdom, and the United States); eight countries have suspended or withdrawn their recognition of Kosovo's independence, bringing the total to 110 out of 193 (57%) [[United Nations]] member states, as of December 2025. On 22 July 2010, the [[International Court of Justice]], the primary judicial organ of the UN, issued an [[International Court of Justice advisory opinion on Kosovo's declaration of independence|advisory opinion]], ruling that Kosovo's declaration of independence was not in violation of international law.<ref>{{cite news| url=https://www.bbc.co.uk/news/av/world-europe-10734676| title=Kosovo independence not illegal, says UN court| work=BBC News| date=22 July 2010}}</ref>
+
+==Suspension, expulsion and withdrawal of members==
+{{See also|Withdrawal from the United Nations}}
+A member state may be suspended or expelled from the UN, according to the [[United Nations Charter]]. From [[Chapter II of the United Nations Charter|Chapter II]], Article 5:<ref name="charter ch2" />
+{{Blockquote|
+A Member of the United Nations against which preventive or enforcement action has been taken by the [[United Nations Security Council|Security Council]] may be suspended from the exercise of the rights and privileges of membership by the [[United Nations General Assembly|General Assembly]] upon the recommendation of the Security Council. The exercise of these rights and privileges may be restored by the Security Council.
+}}
+
+From Article 6:<ref name="charter ch2" />
+{{Blockquote|
+A Member of the United Nations which has persistently violated the Principles contained in the present Charter may be expelled from the Organization by the General Assembly upon the recommendation of the Security Council.
+}}
+
+Since its inception, no member state has been suspended or expelled from the UN under Articles 5 or 6. However, in a few cases, states were suspended or expelled from participating in UN activities by means other than Articles 5 or 6:
+* On 25 October 1971, [[United Nations General Assembly Resolution 2758]] was adopted, which recognized the [[China|People's Republic of China]] instead of the [[Taiwan|Republic of China]] (since 1949 controlling only Taiwan) as the legitimate representative of China in the UN and effectively expelled the Republic of China from the UN in 1971 ''(see the section [[#Republic of China (1945–1971)|Former members: Republic of China]])''. This act did not constitute as the expulsion of a member state under Article 6, as this would have required Security Council approval and been subjected to [[United Nations Security Council veto power|vetoes]] by its permanent members, which included the Republic of China itself and the United States, which at that time still recognized the Republic of China.<ref name="bolton">{{cite journal |url=http://www.aei.org/publication/new-directions-for-the-chen-administration-on-taiwanese-representation-in-the-united-nations/ |title=New Directions for the Chen Administration on Taiwanese Representation in the United Nations |date=1 July 2000 |author=[[John R. Bolton]] |journal=China Affairs Quarterly |volume=1 |page=29 }}{{Dead link|date=March 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* In October 1974, the Security Council considered a draft resolution that would have recommended that the General Assembly immediately expel [[South Africa]] from the UN, in compliance with Article 6 of the United Nations Charter, due to [[Apartheid in South Africa|its apartheid policies]].<ref name="yearbook" /> However, the resolution was not adopted because of vetoes by three permanent members of the Security Council: France, the United Kingdom, and the United States. In response, the General Assembly decided to suspend South Africa from participation in the work of the Assembly's 29th session on 12 November 1974; however, South Africa was not formally suspended under Article 5. The suspension lasted until the General Assembly welcomed South Africa back to full participation in the UN on 23 June 1994, following its successful democratic [[1994 South African general election|elections earlier that year]].<ref>{{cite web| url=http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N94/278/46/PDF/N9427846.pdf?OpenElement| title=United Nations General Assembly Resolution A/RES/48/258| publisher=United Nations| url-status=dead| archive-url=https://web.archive.org/web/20120924221014/http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N94/278/46/PDF/N9427846.pdf?OpenElement| archive-date=24 September 2012| df=dmy-all}}</ref>
+* On 28 April 1992, the new [[Federal Republic of Yugoslavia]] was established, by the remaining republics of Serbia and Montenegro of the former [[Socialist Federal Republic of Yugoslavia]]. On 22 September 1992, [[United Nations General Assembly Resolution 47/1|United Nations General Assembly Resolution A/RES/47/1]] was adopted, by which it considered that "the Federal Republic of Yugoslavia (Serbia and Montenegro) cannot continue automatically the membership of the former Socialist Federal Republic of Yugoslavia in the United Nations," and therefore decided that "the Federal Republic of Yugoslavia (Serbia and Montenegro) should apply for membership in the United Nations and that it shall not participate in the work of the General Assembly". It did not apply for membership until [[Slobodan Milošević]] was ousted from the presidency and was admitted on 1 November 2000 ''(see the section [[#Yugoslavia / Serbia and Montenegro (1945–2006)|Former members: Yugoslavia]])''.
+
+===De facto withdrawal of Indonesia (1965–1966)===
+{{Main|CONEFO}}
+[[File:Presiden Sukarno (retouched).jpg|alt=A black-and-white three-quarters view of Sukarno's face|upright=0.6|thumb|[[Indonesia]]n president [[Sukarno]]'s withdrawal in 1965 was the only time a UN member attempted to withdraw; it rejoined a year later.]]
+Since the inception of the UN, only one member state (excluding those that dissolved or merged with other member states) has unilaterally attempted to withdraw from the UN. During the [[Indonesia–Malaysia confrontation]], and in response to the election of [[Malaysia]] as a [[List of members of the United Nations Security Council|non-permanent member of the United Nations Security Council]], in a letter dated 20 January 1965, [[Indonesia]] informed the [[Secretary-General of the United Nations|United Nations Secretary-General]] that it had decided "at this stage and under the present circumstances" to withdraw from the UN. However, following the overthrow of [[President of Indonesia|President]] [[Sukarno]], in a telegram dated 19 September 1966, Indonesia notified the Secretary-General of its decision "to resume full cooperation with the United Nations and to resume participation in its activities starting with the twenty-first session of the General Assembly". On 28 September 1966, the [[United Nations General Assembly]] took note of the decision of the Government of Indonesia and its [[President of the United Nations General Assembly|President]] invited the representatives of that country to take their seats in the Assembly, with the UN effectively treating Indonesia's course of action as a "temporary cessation of cooperation" as opposed to a true withdrawal.<ref name="yearbook" />
+
+Unlike suspension and expulsion, no express provision is made in the United Nations Charter of whether or how a member can legally withdraw from the UN (largely to prevent the threat of withdrawal from being used as a form of political blackmail, or to evade obligations under the Charter, similar to withdrawals that weakened the UN's predecessor, the [[League of Nations]]),<ref name="bolton" /> or on whether a request for readmission by a withdrawn member should be treated the same as an application for membership, i.e., requiring Security Council as well as General Assembly approval. Indonesia's return to the UN would suggest that this is not required; however, scholars have argued that the course of action taken by the General Assembly was not in accordance with the Charter from a legal point of view.<ref>{{cite book| title=Eroding the United Nations Charter| year=1993| last=Blum| first=Yehuda Zvi| publisher=Martinus Nijhoff Publishers| isbn=978-0-7923-2069-2| url=https://books.google.com/books?id=39qvWCYWo5QC}}</ref>
+
+==Observers and non-members==
+{{Main|United Nations General Assembly observers}}
+{{See also|Holy See and the United Nations|Palestine and the United Nations|European Union and the United Nations}}
+===Observers===
+In addition to the member states, there are two [[United Nations General Assembly observers#Non-member observers|United Nations General Assembly non-member observer states]]: the [[Holy See]] and the [[State of Palestine]].<ref name="Gharib">{{Cite news|url=http://www.thedailybeast.com/articles/2012/12/20/u-n-adds-new-name-state-of-palestine.html|title=U.N. Adds New Name: "State of Palestine"|last=Gharib|first=Ali|date=20 December 2012|access-date=10 January 2013|work=[[The Daily Beast]]|archive-url=https://web.archive.org/web/20130101145115/http://www.thedailybeast.com/articles/2012/12/20/u-n-adds-new-name-state-of-palestine.html|archive-date=1 January 2013|url-status=dead}}</ref>
+* The [[Holy See]] holds sovereignty over the state of [[Vatican City]] and maintains diplomatic relations with 180 other states. It has been a [[United Nations General Assembly]] (UNGA) non-member observer state since 6 April 1964,{{citation needed|date=August 2020}} and gained all the rights of full membership except voting on 1 July 2004.<ref>{{UN document|title=Participation of the Holy See in the work of the United Nations|date=2004-07-16|access-date=2016-04-24|publisher=[[United Nations]]|docid=A/RES/58/314|body=General Assembly|type=Resolution|resolution_number=314|session=58}}</ref>
+* The [[Palestine Liberation Organization]] was granted observer status as a "non-member entity" on 22 November 1974.<ref>{{UN document |docid=A-RES-3237(XXIX)|title=Observer status for the Palestine Liberation Organization |type=Resolution |body=General Assembly |session=29 |resolution_number=3237 |date=1974-11-22|access-date=2016-04-24}}</ref> Acknowledging the proclamation of the [[State of Palestine]] by the [[Palestinian National Council|Palestine National Council]] on 15 November 1988, the [[United Nations General Assembly]] decided that, effective as of 15 December 1988, the designation "Palestine" should be used in place of the designation "Palestine Liberation Organization" in the [[United Nations System]].<ref>{{UN document |docid=A-RES-43-177 |title=Question of Palestine|type=Resolution |body=General Assembly |session=43 |resolution_number=177 |date=1988-12-15|access-date=2016-04-24}}</ref> On 23 September 2011, [[Palestinian National Authority]] [[President of the Palestinian National Authority|President]] [[Mahmoud Abbas]] submitted the [[Palestine 194|application for UN membership]] for the State of Palestine to [[Secretary-General of the United Nations|United Nations Secretary-General]] [[Ban Ki-moon]];<ref>{{UN document|title=Application of Palestine for admission to membership in the United Nations|date=2011-09-23|access-date=2016-04-16|publisher=[[United Nations]]|docid=A/66/371|body=A|type=A|session=66|document_number=116}}</ref><ref>{{cite news| url=https://www.un.org/apps/news/story.asp?NewsID=39722&Cr=palestin&Cr1=| title=Ban sends Palestinian application for UN membership to Security Council| publisher=United Nations| date=23 September 2011}}</ref> the application has not been voted on by the UN Security Council. On 31 October 2011, the General Assembly of [[UNESCO]] voted to admit Palestine as a member, becoming the first UN agency to admit Palestine as a full member.<ref>{{cite web| url=http://www.unesco.org/new/en/media-services/single-view/news/general_conference_admits_palestine_as_unesco_member_state/| title=General Conference admits Palestine as UNESCO Member State| publisher=United Nations Educational, Scientific and Cultural Organization| date=31 October 2011}}</ref> The State of Palestine was recognized as a [[United Nations General Assembly]] non-member observer state on 29 November 2012, when the [[United Nations General Assembly|UN General Assembly]] passed [[United Nations General Assembly resolution 67/19]] by a vote of 138 to 9, with 41 abstentions.<ref>{{UN document |docid=A-RES-67-19 |title=Status of Palestine in the United Nations |type=Resolution |body=General Assembly |session=67 |resolution_number=19 |date=2012-12-04|access-date=2016-04-24}}</ref><ref>{{cite news|url=https://www.reuters.com/article/us-palestinians-statehood-idUSBRE8AR0EG20121129|title=Palestinians win implicit U.N. recognition of sovereign state|date=29 November 2012|work=Reuters|access-date=29 November 2012}}</ref><ref>{{cite news| url= http://www.3news.co.nz/LIVE-STREAM-Palestine-asks-United-Nations-for-a-birth-certificate-ahead-of-vote/tabid/417/articleID/278702/Default.aspx| work= 3 News NZ| title= UN makes Palestine nonmember state| date= 30 November 2012| access-date= 10 December 2012| archive-url= https://web.archive.org/web/20130116091340/http://www.3news.co.nz/LIVE-STREAM-Palestine-asks-United-Nations-for-a-birth-certificate-ahead-of-vote/tabid/417/articleID/278702/Default.aspx| archive-date= 16 January 2013| url-status= dead| df= dmy-all}}</ref> The change in status was described by ''[[The Independent]]'' as "de facto recognition of the sovereign state of Palestine".<ref name="UNStatehoodBid2012accepted">{{cite news |title=Israel defies UN after vote on Palestine with plans for 3,000 new homes in the West Bank|url=https://www.independent.co.uk/news/world/middle-east/israel-defies-un-after-vote-on-palestine-with-plans-for-3000-new-homes-in-the-west-bank-8372494.html |archive-url=https://ghostarchive.org/archive/20220512/https://www.independent.co.uk/news/world/middle-east/israel-defies-un-after-vote-on-palestine-with-plans-for-3000-new-homes-in-the-west-bank-8372494.html |archive-date=12 May 2022 |url-access=subscription |url-status=live|last=Williams|first=Dan|work=The Independent|date=1 December 2012}}</ref> On 17 December 2012, then UN Chief of Protocol Yeocheol Yoon decided that "the designation of 'State of Palestine' shall be used by the Secretariat in all official United Nations documents".<ref name="Gharib"/> On 10&nbsp;May 2024, the [[United Nations General Assembly|UN general assembly]] overwhelmingly passed [[United Nations General Assembly Resolution ES-10/23|a resolution]] which urged the Security Council to give "favourable consideration" to Palestine's request for membership. It also granted Palestine additional rights as an Observer State, including the right to sit in the general assembly among other states in alphabetical order, rather than in its current observer seat at the back of the chamber. However, the resolution also stated that "the state of Palestine, in its capacity as an observer state, does not have the right to vote in the general assembly or to put forward its candidature to United Nations organs." The assembly voted by 143 to nine, with 25 abstentions, for the resolution.<ref>{{Cite web |date=2024-05-10 |title=UN General Assembly presses Security Council to give 'favourable consideration' to full Palestinian membership {{!}} UN News |url=https://news.un.org/en/story/2024/05/1149596 |access-date=2024-05-10 |website=news.un.org |language=en}}</ref><ref>{{Cite news |last1=Borger |first1=Julian |last2=Tondo |first2=Lorenzo |date=2024-05-10 |title=UN general assembly votes to back Palestinian bid for membership |url=https://www.theguardian.com/world/article/2024/may/10/un-support-palestine-membership |access-date=2024-05-10 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+The [[Sovereign Military Order of Malta]] (not to be confused with the [[Republic of Malta]], a UN member state), which is not a sovereign state but an entity, has observer status at the UN and maintains diplomatic relations with 113 countries.<ref>[http://www.theutenberg.se/pdf/the_holy_see_the_order_of_malta_and_international_law.pdf The Holy See, the Order of Malta and International Law], {{Webarchive|url=https://web.archive.org/web/20151121180847/http://www.theutenberg.se/pdf/the_holy_see_the_order_of_malta_and_international_law.pdf |date=21 November 2015 }}, Bo J. Theutenberg, {{ISBN|91-974235-6-4}}</ref><ref>{{cite web|url=http://www.un.int/orderofmalta |title=Malta Permanent Mission to the United Nations |website=Un.int |access-date=12 April 2016}}</ref><ref>[https://www.orderofmalta.int/diplomatic-activities/bilateral-relations/ Bilateral relations of the Sovereign Order of Malta], 2023-12-07.</ref>
+
+A number of states were also granted observer status before being admitted to the UN as full members.<ref>{{cite web|url=https://www.un.org/en/sections/member-states/about-permanent-observers/index.html |title=What is a Permanent Observer? |publisher=United Nations |date=2015-08-07 }}</ref><ref name="osmanczyk">{{cite book| title=Encyclopedia of the United Nations and International Agreements| edition=3rd| year=2003| last=Osmańczyk| first=Jan| editor-last=Mango| editor-first=Anthony| publisher=Routledge| isbn=978-0-415-93920-1| url=https://books.google.com/books?id=QqlFx7xHiSUC}}</ref><ref>{{cite book| title=Constructing the Nation-State: International Organization and Prescriptive Action| year=1995| last=McNeely| first=Connie L.| publisher=Greenwood Publishing Group| isbn=978-0-313-29398-6| url=https://archive.org/details/constructingnati00mcne | url-access=registration|pages=[https://archive.org/details/constructingnati00mcne/page/44 44]–45}}</ref> The most recent case of an observer state becoming a member state was [[Switzerland]], which was admitted in 2002.<ref>{{cite web| url=https://www.un.org/News/Press/docs/2002/sc7464.doc.htm| title=Security Council Recommends Admission of Switzerland as Member of United Nations| publisher=United Nations| date=24 July 2002|archive-date=2006-06-17|archive-url=https://web.archive.org/web/20060617201537/https://www.un.org/News/Press/docs/2002/sc7464.doc.htm}}</ref>
+
+A [[European Union]] institution, the [[European Commission]], was granted observer status at the UNGA through Resolution 3208 in 1974. The [[Treaty of Lisbon]] in 2009 resulted in the delegates being accredited directly to the EU.<ref>{{cite web |url=http://www.europa-eu-un.org/articles/articleslist_s33_en.htm |title=About the EU at the UN&nbsp;– European Union Delegations |publisher=Europa |access-date=22 September 2011 |url-status=dead |archive-url=https://archive.today/20060904023447/http://www.europa-eu-un.org/articles/articleslist_s33_en.htm |archive-date=4 September 2006 |df=dmy-all }}</ref> It was accorded full rights in the General Assembly, bar the right to vote and put forward candidates, via UNGA Resolution A/RES/65/276 on 3 May 2011.<ref>{{cite web |url=http://www.unbrussels.org/images/pdf/2011/A_RES_65_276.pdf |title=Resolution adopted by the General Assembly: Participation of the European Union in the work of the United Nations |publisher=United Nations |access-date=22 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20131208032745/http://unbrussels.org/images/pdf/2011/A_RES_65_276.pdf |archive-date=8 December 2013 |df=dmy-all }}</ref> It is the only non-state party to over 50 multilateral conventions, and has participated in every way except for having a vote in a number of UN conferences.<ref>{{cite web |url=http://www.europa-eu-un.org/articles/articleslist_s88_en.htm |title=About the EU at the UN |publisher=Europa |access-date=22 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20080212075215/http://www.europa-eu-un.org/articles/articleslist_s88_en.htm |archive-date=12 February 2008 |df=dmy-all }}</ref>
+
+===Non-member states===
+The [[Cook Islands]] and [[Niue]] are both [[associated state]]s of [[New Zealand]], giving them a unique [[Political status of the Cook Islands and Niue|political status]]. While neither are member states of the UN, both are member states of [[list of specialized agencies of the United Nations|specialized agencies of the UN]] such as [[World Health Organization|WHO]]<ref>{{cite web| url=https://www.who.int/countries/en/| archive-url=https://web.archive.org/web/20040821102654/http://www.who.int/countries/en/| url-status=dead| archive-date=21 August 2004| title=Countries| publisher=World Health Organization}}</ref> and [[UNESCO]],<ref>{{cite web| url=http://erc.unesco.org/portal/UNESCOMemberStates.asp?language=en| title=Member States| publisher=United Nations Educational, Scientific and Cultural Organization| url-status=dead| archive-url=https://archive.today/20120708192533/http://erc.unesco.org/portal/UNESCOMemberStates.asp?language=en| archive-date=8 July 2012| df=dmy-all}}</ref> and have had their "full treaty-making capacity" recognized by [[United Nations Secretariat]] in 1992 and 1994 respectively.<ref name="art102"/><ref name=map2>{{citation |url=https://www.un.org/Depts/Cartographic/map/profile/world00.pdf |publisher=[[United Nations|UN]] |title=The World today |archive-url=https://web.archive.org/web/20070911212713/https://www.un.org/Depts/Cartographic/map/profile/world00.pdf |archive-date=11 September 2007 |url-status=dead }}</ref><ref>{{Cite web|url = https://treaties.un.org/Pages/HistoricalInfo.aspx#CookIslands |title = United Nations Treaty Collection |website = Treaties.un.org |access-date = 28 April 2023}}</ref> They have since become parties to a number of international treaties for which the UN Secretariat acts as a [[depositary]], such as the [[United Nations Framework Convention on Climate Change]]<ref>{{cite web| url=http://unfccc.int/parties_and_observers/parties/items/2352.php| title=Parties to the Convention and Observer States| publisher=United Nations| url-status=dead| archive-url=https://web.archive.org/web/20130705201620/http://unfccc.int/parties_and_observers/parties/items/2352.php| archive-date=5 July 2013| df=dmy-all}}</ref> and the [[United Nations Convention on the Law of the Sea]],<ref>{{cite web| url=https://www.un.org/Depts/los/reference_files/chronological_lists_of_ratifications.htm| title=Chronological lists of ratifications of the United Nations Convention on the Law of the Sea| publisher=United Nations}}</ref> and are treated as non-member states.<ref>{{cite web| url=https://www.un.org/Depts/Cartographic/map/profile/world00.pdf| title=The World Today| publisher=United Nations| archive-url=https://web.archive.org/web/20070911212713/https://www.un.org/Depts/Cartographic/map/profile/world00.pdf| archive-date=11 September 2007| url-status=dead}}</ref><ref name=art102 /> Both the Cook Islands and Niue have expressed a desire to become a UN member state, but New Zealand has said that they would not support the application without a change in their constitutional relationship, in particular their right to [[New Zealand citizenship]].<ref>{{cite web|url=http://www.radionz.co.nz/international/pacific-news/276695/nz-pm-rules-out-discussion-on-cooks-un-membership|title=NZ PM rules out discussion on Cooks UN membership|date=2015-06-19|access-date=2016-04-16|publisher=[[Radio New Zealand]]}}</ref><ref>{{cite web|url=http://www.radionz.co.nz/international/programmes/datelinepacific/audio/201821415/niue-to-seek-un-membership|title=Niue to seek UN membership|date=2016-10-27|access-date=2017-07-08|publisher=[[Radio New Zealand]]}}</ref> In 2025, Cook Islands prime minister [[Mark Brown (Cook Islands)|Mark Brown]] stated that the UN had confirmed that the Cook Islands did not meet the requirements for UN membership.<ref>{{cite news|url=https://www.rnz.co.nz/international/pacific-news/538066/cook-islands-not-qualified-for-un-membership-says-prime-minister|title=Cook Islands not qualified for UN membership, says prime minister|date=4 January 2025|access-date=7 January 2025|first=Talaia|last=Mika|newspaper=Cook Islands News|via=RNZ International}}</ref>
+
+The sovereignty of [[Western Sahara]] is [[Political status of Western Sahara|disputed]] between the [[Polisario Front]]'s declared [[Sahrawi Arab Democratic Republic]], which controls 30% of Western Sahara as its [[Free Zone (region)|Free Zone]], and [[Morocco]], which [[military occupation|occupies]] the remaining 70% of the territory. Western Sahara is listed by the UN as a [[United Nations list of non-self-governing territories|non-self-governing territory]].<ref>{{cite web|url=https://www.un.org/en/decolonization/nonselfgovterritories.shtml |title=Non-Self-Governing Territories |publisher=United Nations}}</ref> The Polisario Front is recognized by the UN as the [[List of active national liberation movements recognized by intergovernmental organizations|legitimate representative]] of Western Sahara and is occasionally invited to speak as the territory's representative before the [[Special Committee on Decolonization]].<ref>{{UN doc|docid=A/AC.109/2016/SR.5|title=Question of Western Sahara ''(continued''): Hearing of representatives of the Non-Self-Governing Territory|date=16 July 2016|accessdate=1 July 2025}}</ref>
+
+Sovereignty over Kosovo is disputed between the [[Republic of Kosovo]], which maintains [[foreign relations of Kosovo|diplomatic relations with over half of UN member states]], and [[Serbia]], which claims it as an [[Autonomous Province of Kosovo and Metohija|autonomous province]]. As per [[United Nations Security Council Resolution 1244]] and the [[Kosovo–Serbia relations|ongoing dialogue]] on the [[political status of Kosovo]], the Republic of Kosovo is not a member of the United Nations, however it is a member of two [[List of specialized agencies of the United Nations|specialized agencies]] within the [[United Nations System]]: the [[International Monetary Fund]] and [[World Bank]]. It applied for [[UNESCO]] membership in 2015 but was unsuccessful.<ref>{{Cite web|url=http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/GBS/38GC/images/38_VR_10_init_multilingual.pdf|title=Tenth plenary meeting of the 38th session of the General Conference, Page 14|website=UNESCO.org|access-date=2015-11-09|archive-url=https://web.archive.org/web/20151227043312/http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/GBS/38GC/images/38_VR_10_init_multilingual.pdf|archive-date=2015-12-27|url-status=dead}}</ref>
+
+The [[Taiwan|Republic of China (Taiwan)]] is not a member of the UN, as the [[People's Republic of China]] claims sovereignty over "[[Taiwan Province, People's Republic of China|Taiwan Province]]". See the discussion above in section [[#Bids for readmission as the representative of Taiwan|Bids for readmission as the representative of Taiwan]].
+
+==See also==
+{{Portal|Countries|Politics}}
+* [[Enlargement of the United Nations]]
+* [[List of current permanent representatives to the United Nations]]
+* [[Member states of the League of Nations]]
+* [[Palestine 194]]
+* [[United Nations list of non-self-governing territories]]
+* [[High-Level Week of the 80th Session of the United Nations General Assembly 2025]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commonscatinline|Member states of the United Nations}}
+*{{Official website}}
+
+{{United Nations}}
+{{United Nations' relations with its Member States}}
+{{Authority control}}
+
+[[Category:Member states of the United Nations| ]]
+[[Category:United Nations relations]]
+[[Category:History of the United Nations]]
+[[Category:Countries by international organization|United Nations]]
+[[Category:United Nations-related lists|United Nations]]
