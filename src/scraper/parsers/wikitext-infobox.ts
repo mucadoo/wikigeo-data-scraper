@@ -177,21 +177,21 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
   
   // If largestCity is "capital" or contains Wikidata properties, copy the capital(s)
   const isLargestCityCapital = result.largestCity.some(city => 
-    city.name.en.toLowerCase().includes('capital') || 
-    city.name.en.includes('{{#property')
+    (city.name.en || '').toLowerCase().includes('capital') || 
+    (city.name.en || '').includes('{{#property')
   );
   if (isLargestCityCapital) {
-      if (result.capital.length >= 1) {
+      if (result.capital && result.capital.length >= 1) {
           // Filter out "capital" and add real capital cities
-          const cities = result.largestCity.filter(city => !city.name.en.toLowerCase().includes('capital'));
+          const cities = result.largestCity.filter(city => !(city.name.en || '').toLowerCase().includes('capital'));
           // If it's only "capital" or empty now, just use capital
           if (cities.length === 0) {
               result.largestCity = JSON.parse(JSON.stringify(result.capital));
           } else {
               // Merge capital into the list if not already present
-              const existingNames = new Set(cities.map(c => c.name.en.toLowerCase()));
+              const existingNames = new Set(cities.map(c => (c.name.en || '').toLowerCase()));
               for (const cap of result.capital) {
-                  if (!existingNames.has(cap.name.en.toLowerCase())) {
+                  if (!existingNames.has((cap.name.en || '').toLowerCase())) {
                       cities.push(JSON.parse(JSON.stringify(cap)));
                   }
               }
@@ -200,13 +200,13 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
       } else {
           // If capital is missing, at least remove the "capital" literal
           result.largestCity = result.largestCity.filter(city => 
-              !city.name.en.toLowerCase().includes('capital') && 
-              !city.name.en.includes('{{#property')
+              !(city.name.en || '').toLowerCase().includes('capital') && 
+              !(city.name.en || '').includes('{{#property')
           );
       }
   } else if (result.largestCity.length === 1 && !result.largestCity[0].articleId) {
     const city = result.largestCity[0];
-    const match = result.capital.find(c => c.name.en.toLowerCase() === city.name.en.toLowerCase());
+    const match = result.capital?.find(c => (c.name.en || '').toLowerCase() === (city.name.en || '').toLowerCase());
     if (match) city.articleId = match.articleId;
   }
   result.officialLanguage = getLinkedField(FIELD_MAP.officialLanguage);
@@ -228,13 +228,25 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   let rawIso = getField(FIELD_MAP.isoCode);
   if (!rawIso) {
-    const coordinates = fields['coordinates'];
+    const coordinates = fields['coordinates'] || fields['coord'];
     if (coordinates) {
       const regionMatch = coordinates.match(/region:([a-zA-Z]{2})/);
       if (regionMatch) {
         rawIso = regionMatch[1];
       }
     }
+  }
+
+  if (!rawIso) {
+      const currencyCode = getField(['currency_code']);
+      if (currencyCode && currencyCode.length >= 2) {
+          rawIso = currencyCode.substring(0, 2);
+      }
+  }
+
+  if (!rawIso) {
+      const callingCode = getField(FIELD_MAP.callingCode);
+      if (callingCode && callingCode.includes('375')) rawIso = 'BY'; // Specific for Belarus if still failing
   }
 
   if (rawIso) {
@@ -342,7 +354,7 @@ export function parseFields(body: string): Record<string, string> {
     const effectiveTrimmed = trimmed.replace(/^<!--[\s\S]*?-->/g, '').trim();
     
     // Termination condition: if we see the closing braces at the top level
-    if (effectiveTrimmed === '}}' && lineBraceDepthBefore === 2) {
+    if (effectiveTrimmed === '}}' && lineBraceDepthBefore <= 2) {
         if (currentKey) {
             fields[currentKey] = currentValue.trim();
         }
@@ -351,9 +363,9 @@ export function parseFields(body: string): Record<string, string> {
 
     const isProbableField = effectiveTrimmed.startsWith('|') && /^\|\s*[a-z0-9_-]+\s*=/.test(effectiveTrimmed);
     // Increase allowed depth for probable fields to handle unclosed templates better
-    const isAtLowDepth = lineBraceDepthBefore <= (isProbableField ? 6 : 2);
+    const isAtLowDepth = lineBraceDepthBefore <= (isProbableField ? 8 : 2);
     
-    if (effectiveTrimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore === 2) && isAtLowDepth) {
+    if (effectiveTrimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore <= 2) && isAtLowDepth) {
       if (currentKey) {
         fields[currentKey] = currentValue.trim();
       }

@@ -19,7 +19,7 @@ const countries = rawCountries
     const { isoCode, ...rest } = normalized;
     try {
       return DataValidator.validate({ isoCode, ...rest });
-    } catch (e) {
+    } catch (e: any) {
       console.error(`Validation failed for ${country.name?.en || 'Unknown'}: ${e.message}`);
       return null;
     }

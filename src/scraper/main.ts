@@ -80,7 +80,7 @@ async function run() {
       
       const nameLoc = getEmptyLocalizedField();
       nameLoc.en = title;
-      const countryData: Country = {
+      let countryData: Country = {
         ...getEmptyCountry(),
         ...enData,
         name: nameLoc,
@@ -109,15 +109,11 @@ async function run() {
           const description = parseDescriptionFromWikitext(wikitext, lang);
           
           const localizedData: Partial<Country> = {
+            name: { ...getEmptyLocalizedField(), [lang]: locTitle },
             description: { ...getEmptyLocalizedField(), [lang]: description }
           };
           
-          if (!localizedData.name) {
-            localizedData.name = getEmptyLocalizedField();
-            localizedData.name[lang] = locTitle;
-          }
-          
-          mergeIntoCountry(countryData, localizedData, lang);
+          countryData = mergeCountryData(JSON.stringify(countryData), localizedData);
         } else {
           // Fallback to English name and description if no translation exists
           countryData.name[lang] = countryData.name.en;
@@ -134,8 +130,8 @@ async function run() {
         insertCountry.run(countryId, JSON.stringify(merged));
       })();
       await writeLocks[countryId];
-    } catch (e) {
-      console.error(`Error processing ${title}:`, e);
+    } catch (e: any) {
+      console.error(`Error processing ${title}: ${e.message}`);
     } finally {
       semaphore.release();
     }
@@ -190,32 +186,6 @@ async function run() {
   });
 }
 
-function mergeIntoCountry(target: any, source: any, lang: string) {
-  if (source.name) target.name[lang] = source.name[lang];
-  if (source.description) target.description[lang] = source.description[lang];
-  
-  ['capital', 'largestCity', 'officialLanguage', 'currency', 'demonym', 'government', 'timeZone'].forEach(field => {
-    if (source[field]) {
-      source[field].forEach((item: any) => {
-        let targetItems = target[field] || [];
-        const existing = targetItems.find((t: any) => t.articleId === item.articleId || t.name.en === item.name.en);
-        if (existing) {
-          existing.name[lang] = item.name[lang] || item.name.en;
-        } else {
-          targetItems.push({
-            ...item,
-            name: { 
-                ...getEmptyLocalizedField(), 
-                en: item.name.en, 
-                [lang]: item.name[lang] || item.name.en 
-            }
-          });
-        }
-        target[field] = targetItems;
-      });
-    }
-  });
-}
 
 class Semaphore {
   private count: number;
@@ -231,4 +201,8 @@ class Semaphore {
   }
 }
 
-run().catch(err => { console.error('Scraper failed', err); process.exit(1); });
+run().catch(err => { 
+  console.error('Scraper failed completely:', err.message);
+  if (err.stack) console.error(err.stack);
+  process.exit(1); 
+});
