@@ -120,6 +120,20 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     if (val) result.population = parseInt(val, 10);
   }
 
+  // Fallback population: try all fields in map if the first one failed
+  if (!result.population) {
+      for (const key of FIELD_MAP.population) {
+          const raw = fields[key] || fields[key.toLowerCase()];
+          if (raw && raw.trim()) {
+              const val = ExtractionUtils.extractPopulation(raw);
+              if (val) {
+                  result.population = parseInt(val, 10);
+                  break;
+              }
+          }
+      }
+  }
+
   const rawArea = getField(FIELD_MAP.areaKm2);
   if (rawArea) {
     const val = ExtractionUtils.extractArea(rawArea);
@@ -131,6 +145,20 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     if (rawAreaSqMi) {
       const val = ExtractionUtils.extractArea(rawAreaSqMi);
       if (val) result.areaKm2 = parseFloat(val) * 2.58999;
+    }
+  }
+
+  // Fallback area: try all fields in map if failed
+  if (!result.areaKm2) {
+    for (const key of FIELD_MAP.areaKm2) {
+        const raw = fields[key] || fields[key.toLowerCase()];
+        if (raw && raw.trim()) {
+            const val = ExtractionUtils.extractArea(raw);
+            if (val) {
+                result.areaKm2 = parseFloat(val);
+                break;
+            }
+        }
     }
   }
 
@@ -260,58 +288,35 @@ export function extractInfoboxBody(wikitext: string): string | null {
   if (startIdx === -1) return null;
 
   let braceCount = 0;
-  let j = startIdx;
-  
-  while (j < wikitext.length) {
-    if (wikitext.startsWith('{{{', j)) {
+  for (let i = startIdx; i < wikitext.length; i++) {
+    if (wikitext[i] === '{') {
       braceCount++;
-      j += 3;
-      continue;
-    } else if (wikitext.startsWith('}}}', j)) {
+    } else if (wikitext[i] === '}') {
       braceCount--;
-      j += 3;
-      if (braceCount <= 0) {
-        const remaining = wikitext.substring(j).substring(0, 100).trim();
-        // If the next thing is a pipe at the start of a line, it's likely a miscounted brace
-        if (remaining.startsWith('|') || remaining.startsWith('\n|')) {
-            braceCount = 1;
-            continue;
+      if (braceCount === 0) {
+        // Lookahead to see if this is really the end
+        const remaining = wikitext.substring(i + 1).trim();
+        if (remaining.startsWith('|') && /^\|\s*[a-z0-9_-]+\s*=/.test(remaining)) {
+          // It's likely a missing closing brace for a template inside a field
+          braceCount = 1;
+          continue;
         }
-        return wikitext.substring(startIdx, j);
+        return wikitext.substring(startIdx, i + 1);
       }
-      continue;
-    } else if (wikitext.startsWith('{{', j)) {
-      braceCount++;
-      j += 2;
-      continue;
-    } else if (wikitext.startsWith('}}', j)) {
-      braceCount--;
-      j += 2;
-      if (braceCount <= 0) {
-        const remaining = wikitext.substring(j).substring(0, 100).trim();
-        if (remaining.startsWith('|') || remaining.startsWith('\n|')) {
-            braceCount = 1;
-            continue;
-        }
-        return wikitext.substring(startIdx, j);
-      }
-      continue;
     }
-    
-    // Safety: if we hit a new section or a very long distance without closing, stop.
-    // Infoboxes are rarely more than 20k chars.
-    if (j > startIdx + 20000) break;
-    if (braceCount > 0 && j > startIdx + 500 && (wikitext.startsWith('\n==', j) || wikitext.startsWith('\n[[Category:', j))) {
-        const lastBraces = wikitext.lastIndexOf('}}', j);
-        if (lastBraces > startIdx) {
-            return wikitext.substring(startIdx, lastBraces + 2);
-        }
-        break;
-    }
-    j++;
+    // Safety break for extremely long articles or missing end
+    if (i - startIdx > 25000) break;
   }
-  
-  return wikitext.substring(startIdx, j);
+
+  // Fallback: find the last }} before the first section
+  const nextSection = wikitext.indexOf('\n==', startIdx);
+  const endLimit = nextSection !== -1 ? nextSection : wikitext.length;
+  const lastBraces = wikitext.lastIndexOf('}}', endLimit);
+  if (lastBraces > startIdx) {
+    return wikitext.substring(startIdx, lastBraces + 2);
+  }
+
+  return null;
 }
 
 export function parseFields(body: string): Record<string, string> {
@@ -327,11 +332,9 @@ export function parseFields(body: string): Record<string, string> {
     const lineBraceDepthBefore = braceDepth;
     
     // Track braces in the entire line
-    for (let i = 0; i < line.length; i++) {
-      if (line.startsWith('{{{', i)) { braceDepth++; i += 2; }
-      else if (line.startsWith('}}}', i)) { braceDepth--; i += 2; }
-      else if (line.startsWith('{{', i)) { braceDepth++; i++; }
-      else if (line.startsWith('}}', i)) { braceDepth--; i++; }
+    for (const char of line) {
+      if (char === '{') braceDepth++;
+      else if (char === '}') braceDepth--;
     }
 
     // We identify fields that start with | at the top level of the infobox.
@@ -339,18 +342,18 @@ export function parseFields(body: string): Record<string, string> {
     const effectiveTrimmed = trimmed.replace(/^<!--[\s\S]*?-->/g, '').trim();
     
     // Termination condition: if we see the closing braces at the top level
-    if (effectiveTrimmed === '}}' && lineBraceDepthBefore === 1) {
+    if (effectiveTrimmed === '}}' && lineBraceDepthBefore === 2) {
         if (currentKey) {
             fields[currentKey] = currentValue.trim();
         }
         return fields;
     }
 
-    const isProbableField = effectiveTrimmed.startsWith('|') && /\|\s*[a-z0-9_-]+\s*=/.test(effectiveTrimmed);
+    const isProbableField = effectiveTrimmed.startsWith('|') && /^\|\s*[a-z0-9_-]+\s*=/.test(effectiveTrimmed);
     // Increase allowed depth for probable fields to handle unclosed templates better
-    const isAtLowDepth = lineBraceDepthBefore <= (isProbableField ? 6 : 1);
+    const isAtLowDepth = lineBraceDepthBefore <= (isProbableField ? 6 : 2);
     
-    if (effectiveTrimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore === 1) && isAtLowDepth) {
+    if (effectiveTrimmed.startsWith('|') && (isProbableField || lineBraceDepthBefore === 2) && isAtLowDepth) {
       if (currentKey) {
         fields[currentKey] = currentValue.trim();
       }

@@ -18,8 +18,10 @@ export class ExtractionUtils {
   static extractArea(text: string): string {
     if (!text) return '';
     
+    let clean = this.stripAllTemplates(text);
+
     // Clean spaces, commas (often thousands separators), and common units
-    const clean = text
+    clean = clean
       .replace(/[\u00A0\u200B-\u200F\uFEFF]/g, '')
       .replace(/&nbsp;/g, ' ')
       .replace(/km\u00B2/g, 'km2')
@@ -37,9 +39,12 @@ export class ExtractionUtils {
   static extractPopulation(text: string): string {
     if (!text) return '';
 
-    const clean = text
-      .replace(/{{formatnum:([0-9,]+)}}/gi, '$1')
-      .replace(/{{[^}]*}}/g, '')
+    let clean = text
+      .replace(/{{formatnum:([0-9,]+)}}/gi, '$1');
+    
+    clean = this.stripAllTemplates(clean);
+
+    clean = clean
       .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
       .replace(/\b(19|20)\d{2}\b/g, '')
       .replace(/,/g, '')

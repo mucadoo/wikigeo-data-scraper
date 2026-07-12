@@ -49,6 +49,7 @@
     "lint": "eslint 'src/**/*.ts' 'tests/**/*.ts' 'scripts/**/*.ts'",
     "lint:fix": "eslint 'src/**/*.ts' 'tests/**/*.ts' 'scripts/**/*.ts' --fix",
     "scrape": "node dist/src/scraper/main.js",
+    "post-process": "npx tsx scripts/post-process.ts",
     "canary": "node --loader ts-node/esm src/canary.ts",
     "test": "vitest run",
     "test:watch": "vitest",

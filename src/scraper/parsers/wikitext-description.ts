@@ -1,7 +1,10 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+import { extractInfoboxBody } from './wikitext-infobox.js';
+import { ExtractionUtils } from '../utils/extraction.js';
+
 export function parseDescriptionFromWikitext(wikitext: string, _lang: string): string {
   // 1. Remove the first Infobox block and other top-level templates
-  let text = removeFirstInfobox(wikitext);
+  let text = wikitext.replace(/<noinclude>|<\/noinclude>/gi, '');
+  text = removeFirstInfobox(text);
   text = removeTopTemplates(text);
   
   // Remove HTML comments
@@ -21,47 +24,38 @@ export function parseDescriptionFromWikitext(wikitext: string, _lang: string): s
     p = p.trim();
     if (!p) continue;
     
+    // Skip common top-level junk that isn't a paragraph
+    const lowerP = p.toLowerCase();
+    if (p.startsWith('[[File:') || p.startsWith('[[Image:') || p.startsWith('{{') || lowerP.startsWith('{{infobox') || excludeRegex.test(p)) continue;
+    
     // Check the first line of the paragraph
     const firstLine = p.split('\n')[0].trim();
     // Only exclude paragraphs that start with a template ({{)
     if (!firstLine.startsWith('{{')) {
       // More lenient: if it's reasonably long OR has bold OR it's one of the first few paragraphs
       if (p.length > 20 || p.includes("'''")) {
-        paragraph = p;
-        break;
-      } else {
+        // Clean it first to see if it's just a comment or junk
+        let cleaned = p.replace(/<!--[\s\S]*?-->/g, '')
+                       .replace(/<[^>]+>.*?<\/[^>]+>|<[^>]+>/g, '')
+                       .trim();
+        if (cleaned.length > 10) {
+            paragraph = p;
+            break;
+        }
       }
-    } else {
     }
   }
 
   if (!paragraph) return '';
 
-  // 4. Strip Wikimarkup
+  // 4. Strip Wikimarkup and Templates
+  paragraph = ExtractionUtils.stripAllTemplates(paragraph);
+  
   // Wikilinks: [[Article|Text]] -> Text; [[Article]] -> Article
   paragraph = paragraph.replace(/\[\[([^\]|]+\|)?([^\]|]+)\]\]/g, '$2');
   // Bold/italic markers
   paragraph = paragraph.replace(/'''|''/g, '');
-  // HTML tags
-  paragraph = paragraph.replace(/<[^>]+>.*?<\/[^>]+>|<[^>]+>/g, '');
   
-  // Remove ALL templates {{...}} including multi-line ones
-  // We use a more aggressive approach for templates in paragraphs
-  let braceCount = 0;
-  let cleanPara = '';
-  for (let i = 0; i < paragraph.length; i++) {
-    if (paragraph.startsWith('{{', i)) {
-      braceCount++;
-      i++;
-    } else if (paragraph.startsWith('}}', i)) {
-      braceCount = Math.max(0, braceCount - 1);
-      i++;
-    } else if (braceCount === 0) {
-      cleanPara += paragraph[i];
-    }
-  }
-  paragraph = cleanPara;
-
   // 5. Iteratively remove innermost (...)
   paragraph = removeNestedParentheses(paragraph);
 
@@ -101,9 +95,16 @@ export function removeTopTemplates(text: string): string {
           if (braceCount <= 0) break;
           continue;
         }
+        // Safety: don't let a single template consume more than 2000 chars of top-level junk
+        if (j - i > 2000) break;
         j++;
       }
-      i = j;
+      if (braceCount <= 0) {
+        i = j;
+      } else {
+        // If not closed properly, don't skip it as a top template
+        break;
+      }
     } else {
       break;
     }
@@ -112,53 +113,13 @@ export function removeTopTemplates(text: string): string {
 }
 
 export function removeFirstInfobox(wikitext: string): string {
+  const body = extractInfoboxBody(wikitext);
+  if (!body) return wikitext;
+
   const startIdx = wikitext.toLowerCase().indexOf('{{infobox');
   if (startIdx === -1) return wikitext;
 
-  let braceCount = 0;
-  let j = startIdx;
-  
-  while (j < wikitext.length) {
-    if (wikitext.startsWith('{{{', j)) {
-      braceCount++;
-      j += 3;
-      continue;
-    } else if (wikitext.startsWith('}}}', j)) {
-      braceCount--;
-      j += 3;
-      if (braceCount <= 0) {
-        const remaining = wikitext.substring(j).substring(0, 100).trim();
-        if (!remaining.startsWith('|')) return wikitext.substring(0, startIdx) + wikitext.substring(j);
-        braceCount = 1;
-      }
-      continue;
-    } else if (wikitext.startsWith('{{', j)) {
-      braceCount++;
-      j += 2;
-      continue;
-    } else if (wikitext.startsWith('}}', j)) {
-      braceCount--;
-      j += 2;
-      if (braceCount <= 0) {
-        const remaining = wikitext.substring(j).substring(0, 100).trim();
-        if (!remaining.startsWith('|')) return wikitext.substring(0, startIdx) + wikitext.substring(j);
-        braceCount = 1;
-      }
-      continue;
-    }
-    
-    // Safety: if we hit a new section, the infobox must have ended
-    if (braceCount > 0 && j > startIdx + 500 && wikitext.startsWith('\n==', j)) {
-        const lastBraces = wikitext.lastIndexOf('}}', j);
-        if (lastBraces > startIdx) {
-            return wikitext.substring(0, startIdx) + wikitext.substring(lastBraces + 2);
-        }
-        break;
-    }
-    j++;
-  }
-  
-  return wikitext.substring(0, startIdx) + wikitext.substring(j);
+  return wikitext.substring(0, startIdx) + wikitext.substring(startIdx + body.length);
 }
 
 function removeNestedParentheses(text: string): string {
