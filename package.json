@@ -51,7 +51,7 @@
     "scrape": "node dist/src/scraper/main.js",
     "post-process": "npx tsx scripts/post-process.ts",
     "canary": "node --loader ts-node/esm src/canary.ts",
-    "test": "vitest run",
+    "test": "vitest run --exclude dist",
     "test:watch": "vitest",
     "audit": "npx tsx scripts/audit-data.ts",
     "verify:loc": "npx tsx scripts/verify-localization.ts",
