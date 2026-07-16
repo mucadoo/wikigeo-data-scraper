@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-13T12:58:14.581Z",
+    "generatedAt": "2026-07-16T02:32:19.442Z",
     "version": "0.1.17",
     "license": "ISC",
     "source": "Wikipedia"
@@ -621,7 +621,7 @@
         "pt": "Em área, era a menor república integrante da União Soviética. A Arménia configura-se num Estado unitário, multipartidário, democrático, com uma antiga herança histórica e cultural. Historicamente, foi a primeira nação a adotar o cristianismo como religião de Estado, em 301. O país é constitucionalmente um Estado laico, tendo a fé cristã uma grande identificação com o povo. A Fé Bahá’í está presente no país desde o final do século 19 apos a chegada dos primeiros pioneiros Cavalheiros de Bahá’u’lláh.",
         "fr": "LArménie, en forme longue la république d'Arménie, est un État-nation unitaire, démocratique et multipartite.",
         "it": "LArmenia, ufficialmente Repubblica di Armenia, è uno Stato dell'Asia occidentale, situato nel Caucaso meridionale; la capitale è Erevan.",
-        "es": "Armenia, oficialmente la República de Armenia, es un país sin salida al mar localizado en Europa. Cultural, histórica y políticamente, Armenia se considera como parte de Europa Oriental. Comparte frontera al oeste con Turquía, al norte con Georgia, al este con Azerbaiyán, y al sur con Irán y el exclave azerbaiyano de Najicheván."
+        "es": "Armenia, oficialmente la República de Armenia, es un país sin salida al mar localizado en Eurasia. Cultural, histórica y políticamente, Armenia se considera como parte de Europa del Este. Comparte frontera al oeste con Turquía, al norte con Georgia, al este con Azerbaiyán, y al sur con Irán y el exclave azerbaiyano de Najicheván."
       },
       "capital": [
         {
@@ -2395,13 +2395,13 @@
           }
         },
         {
-          "articleId": null,
+          "articleId": "Bissa language",
           "name": {
-            "en": ", alongside any other languages so recognized by law",
-            "pt": ", alongside any other languages so recognized by law",
-            "fr": ", alongside any other languages so recognized by law",
-            "it": ", alongside any other languages so recognized by law",
-            "es": ", alongside any other languages so recognized by law"
+            "en": "Bissa",
+            "pt": "Língua bissa",
+            "fr": "Bissa (langue)",
+            "it": "Bissa",
+            "es": "Bissa"
           }
         }
       ],
@@ -2464,7 +2464,7 @@
       "description": {
         "en": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania across the Danube river to the north. It covers a territory of, making it the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Plovdiv, Varna, and Burgas.",
         "pt": "Uma das primeiras sociedades nas terras da atual Bulgária foi a cultura neolítica de Karanovo, que remonta a Na Antiguidade, a região tornou-se um campo de batalha para os trácios, persas, celtas e gregos macedônios até que foi conquistada pelo Império Romano em O Império Romano do Oriente, ou Império Bizantino, perdeu alguns desses territórios para uma horda búlgara invasora no final do. Os búlgaros fundaram o primeiro estado búlgaro unificado em 681, que dominou a maioria da Península Balcânica e influenciou significativamente as culturas eslavas, desenvolvendo a escrita cirílica. O primeiro Império Búlgaro durou até o início do, quando o imperador bizantino Basílio II conquistou e desmantelou-o. Uma revolta búlgara de sucesso em 1185 estabeleceu um Segundo Império Búlgaro que atingiu seu ápice sob João Asen II. Depois de inúmeras guerras exaustivas e lutas feudais, o Segundo Império Búlgaro se desintegrou em 1396 e seus territórios ficaram sob domínio otomano por quase cinco séculos.",
-        "fr": "La Bulgarie, en forme longue la république de Bulgarie, est un pays d'Europe du Sud-Est situé dans les Balkans. Elle est bordée par la mer Noire à l'est, par la Grèce et la Turquie au sud, au nord par le Danube et la Roumanie, à l'ouest par la Serbie et la Macédoine du Nord. Sa capitale est Sofia.",
+        "fr": "La Bulgarie, en forme longue la république de Bulgarie, est un pays d'Europe du Sud-Est situé dans les Balkans, et qui fait partie de l’Union Européenne depuis 2007. Elle est bordée par la mer Noire à l'est, par la Grèce et la Turquie au sud, au nord par le Danube et la Roumanie, à l'ouest par la Serbie et la Macédoine du Nord. Sa capitale est Sofia.",
         "it": "Confina con il mar Nero a est, con la Grecia e la Turchia a sud, con la Serbia e la Macedonia del Nord a ovest e con la Romania a nord, da cui è divisa dal fiume Danubio. Con una superficie di la Bulgaria è il 14º Stato europeo per estensione. La sua posizione l'ha resa nel corso della storia un importante incrocio per varie civiltà ed è infatti il luogo di ritrovamento di alcuni dei più antichi artefatti metallurgici, religiosi e culturali al mondo. La lunghezza complessiva dei confini bulgari è di 2 245 km, di cui 1 181 terrestri, 686 fluviali e 378 costieri. La rete stradale della Bulgaria è lunga 36 720 km, la rete ferroviaria ne ha invece 4 300.",
         "es": "Bulgaria, oficialmente República de Bulgaria, es uno de los veintisiete Estados soberanos que forman la Unión Europea. Está situado en Europa Oriental, Europa meridional, y Europa del Sudeste. Limita con Rumania al norte, Serbia y Macedonia del Norte al oeste, con Grecia y Turquía al sur, y con el mar Negro al este."
       },
@@ -2610,7 +2610,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Bahrain.svg?width=250",
       "description": {
-        "en": "Bahrain, officially the Kingdom of Bahrain, is an island country in West Asia. Situated near the western shore of the Persian Gulf, the country comprises a small archipelago of 33 natural islands and an additional 50 artificial islands, centered on Bahrain Island, which makes up around 80 percent of the country's landmass. Bahrain is situated between Qatar and the northeastern coast of Saudi Arabia, to which it is connected by the King Fahd Causeway. The population is 1,588,670 as of 2024, of whom 739,736 are Bahraini nationals, and 848,934 are expatriates. Bahrain spans some 760 and is the third-smallest nation in Asia after Maldives and Singapore. The capital and largest city is Manama.",
+        "en": "Bahrain, officially the Kingdom of Bahrain, is an island country in the eastern part of Arabian Peninsula in West Asia. Situated near the western shore of the Persian Gulf, the country comprises a small archipelago of 33 natural islands and an additional 50 artificial islands, centered on Bahrain Island, which makes up around 80 percent of the country's landmass. Bahrain is situated between Qatar and the northeastern coast of Saudi Arabia, to which it is connected by the King Fahd Causeway. The population is 1,588,670 as of 2024, of whom 739,736 are Bahraini nationals, and 848,934 are expatriates. Bahrain spans some 760 and is the third-smallest nation in Asia after Maldives and Singapore. The capital and largest city is Manama.",
         "pt": "O Barém é o local da antiga civilização de Dilmum. A ilha é famosa desde a antiguidade por sua pesca de pérolas, que foram consideradas as melhores do mundo no século XIX. O Barém foi uma das primeiras áreas a se converter ao Islã, durante a vida de Maomé em 628. Após um período de domínio árabe, o Barém foi governado pelo Império Português de 1521 a 1602, após a conquista pelo xá Abas I do Império Safávida. Em 1783, o clã Bani Oteba capturou o Barém de Nácer Almadecur e desde então tem sido governado pela família real Al Khalifa, com Ahmed al Fateh como o primeiro emir do Barém.",
         "fr": "Bahreïn a été l'un des lieux emblématiques de la civilisation antique de Dilmun, avant de tomber sous les dominations successives des empires parthe et sassanide. La région est convertie à l'islam en 628, ce qui en fait l'un des premiers pays musulmans. Après une période de domination par les Arabes, Bahreïn est occupé par les Portugais en 1521, avant d'être conquise par le Chah de l'Empire perse des Séfévides en 1602. En 1783, la tribu arabe Bani Utbah, venue du centre de la péninsule Arabique, s'empare de l'île et le pays est depuis dirigé par la famille royale Al Khalifa. À la fin du, Bahreïn devient un protectorat britannique, et ce n'est qu'en 1971, à la suite du retrait britannique de la région à la fin des, que Bahreïn déclare son indépendance. Le pays se constitue en royaume sous l'impulsion de l'émir Hamed ben Issa al-Khalifa, qui devient le roi. Le système politique est une monarchie.",
         "it": "Il Bahrein o Bahrain, ufficialmente Regno del Bahrein, è un piccolo Stato sviluppato su un arcipelago di 33 isole vicino alle coste dell'Arabia Saudita, nel Golfo Persico. La capitale è Manama e la lingua ufficiale è l'arabo.",
@@ -5348,139 +5348,6 @@
       ]
     },
     {
-      "isoCode": "CN",
-      "name": {
-        "en": "User:Xzkdeng/sandbox",
-        "pt": "User:Xzkdeng/sandbox",
-        "fr": "User:Xzkdeng/sandbox",
-        "it": "User:Xzkdeng/sandbox",
-        "es": "User:Xzkdeng/sandbox"
-      },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_People's_Republic_of_China.svg?width=250",
-      "description": {
-        "en": "China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area.",
-        "pt": "China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area.",
-        "fr": "China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area.",
-        "it": "China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area.",
-        "es": "China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area."
-      },
-      "capital": [
-        {
-          "articleId": "Beijing",
-          "name": {
-            "en": "Beijing",
-            "pt": "Pequim",
-            "fr": "Pékin",
-            "it": "Pechino",
-            "es": "Pekín"
-          }
-        }
-      ],
-      "largestCity": [
-        {
-          "articleId": "Shanghai",
-          "name": {
-            "en": "Shanghai",
-            "pt": "Xangai",
-            "fr": "Shanghai",
-            "it": "Shanghai",
-            "es": "Shanghái"
-          }
-        }
-      ],
-      "population": 1404890000,
-      "areaKm2": 9596961,
-      "densityKm2": 146.39,
-      "government": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Unitary",
-            "pt": "Unitary",
-            "fr": "Unitary",
-            "it": "Unitary",
-            "es": "Unitary"
-          }
-        },
-        {
-          "articleId": "communist state",
-          "name": {
-            "en": "communist state",
-            "pt": "communist state",
-            "fr": "communist state",
-            "it": "communist state",
-            "es": "communist state"
-          }
-        }
-      ],
-      "officialLanguage": [
-        {
-          "articleId": "Standard Chinese",
-          "name": {
-            "en": "Standard Chinese",
-            "pt": "Mandarim padrão",
-            "fr": "Mandarin standard",
-            "it": "Lingua cinese standard",
-            "es": "Mandarín estándar"
-          }
-        }
-      ],
-      "demonym": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Chinese",
-            "pt": "Chinese",
-            "fr": "Chinese",
-            "it": "Chinese",
-            "es": "Chinese"
-          }
-        }
-      ],
-      "gdp": 20.852,
-      "hdi": 0.797,
-      "currency": [
-        {
-          "articleId": "Renminbi",
-          "name": {
-            "en": "Renminbi",
-            "pt": "Renminbi",
-            "fr": "Yuan",
-            "it": "Renminbi cinese",
-            "es": "Renminbi"
-          },
-          "isoCode": null
-        }
-      ],
-      "timeZone": [
-        {
-          "articleId": "UTC+08:00",
-          "name": {
-            "en": "+8",
-            "pt": "UTC+8",
-            "fr": "UTC+08:00",
-            "it": "UTC+8",
-            "es": "UTC+08:00"
-          }
-        }
-      ],
-      "callingCode": [
-        "+86",
-        "+852",
-        "+853"
-      ],
-      "internetTld": [
-        ".cn",
-        ".中国",
-        ".中國",
-        ".hk",
-        ".香港",
-        ".mo",
-        ".澳门",
-        ".澳門"
-      ]
-    },
-    {
       "isoCode": "CO",
       "name": {
         "en": "Colombia",
@@ -6777,7 +6644,7 @@
         "pt": "A principal língua falada no país é o espanhol. Entre os idiomas oficiais em comunidades nativas estão o quíchua, o shuar e onze outros idiomas. A sua capital e cidade mais populosa é a cidade de São Francisco de Quito, mas comumente conhecida como Quito, que foi declarada Patrimônio da Humanidade pela UNESCO em 1970, por ter o centro histórico mais bem preservado e menos alterado da América Latina. O porto principal e a segunda cidade mais populosa do país é Guayaquil, localizado na região costeira. O centro histórico de Cuenca, a terceira maior cidade do país, foi declarado Patrimônio Mundial em 1999, como um exemplo notável de uma cidade planejada, de estilo espanhol colonial, no interior da América.",
         "fr": "LÉquateur, en forme longue la république de l'Équateur, est un pays d'Amérique du Sud, frontalier du Pérou au sud et à l'est et de la Colombie au nord-est, baigné à l'ouest par l'océan Pacifique.",
         "it": "LEcuador, ufficialmente Repubblica dell'Ecuador (; meno comunemente Equador e fino a inizio '900 anche Equatore, è una repubblica presidenziale del Sudamerica con un'estensione territoriale di e una popolazione di abitanti.",
-        "es": "Ecuador, oficialmente República del Ecuador, es un país soberano ubicado en la región noroccidental de América del Sur. Está constituido en un Estado social, democrático, de derecho y plurinacional, cuya forma de gobierno es la de una república presidencialista, unitaria y descentralizada. Su capital es Quito, y su ciudad más poblada es Guayaquil. Es miembro de la Comunidad Andina y está organizado en veinticuatro provincias que a su vez se subdividen en cantones. Limita al norte con Colombia, al este y sur con Perú, y al oeste con el océano Pacífico. El cual lo separa del archipiélago de Colón o islas Galápagos por aproximadamente mil kilómetros de la costa continental, entre la península de Santa Elena y la isla San Cristóbal. Limita, así mismo, con Costa Rica por la frontera marítima de la región insular. La línea equinoccial o paralelo 0° atraviesa el país y divide los territorios continental e insular en dos, quedando así la mayor parte del territorio ecuatoriano en el hemisferio sur."
+        "es": "Ecuador, oficialmente República del Ecuador, es un país soberano ubicado en la región noroccidental de América del Sur. Está constituido como un Estado social, democrático, de derecho y plurinacional, cuya forma de gobierno es la de una república presidencialista, unitaria y descentralizada. Su capital es Quito, y su ciudad más poblada es Guayaquil. Es miembro de la Comunidad Andina y está organizado en veinticuatro provincias que a su vez se subdividen en cantones. Limita al norte con Colombia, al este y sur con Perú, y al oeste con el océano Pacífico. El cual lo separa del archipiélago de Colón o islas Galápagos por aproximadamente mil kilómetros de la costa continental, entre la península de Santa Elena y la isla San Cristóbal. Limita, así mismo, con Costa Rica por la frontera marítima de la región insular. La línea equinoccial o paralelo 0° atraviesa el país y divide los territorios continental e insular en dos, quedando así la mayor parte del territorio ecuatoriano en el hemisferio sur."
       },
       "capital": [
         {
@@ -7583,31 +7450,11 @@
         {
           "articleId": "Federal monarchy",
           "name": {
-            "en": "Federal",
+            "en": "Federal constitutional monarchy",
             "pt": "Monarquia federal",
             "fr": "Monarchie fédérale",
             "it": "Monarchia federale",
             "es": "Monarquía federal"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "parliamentary",
-            "pt": "parliamentary",
-            "fr": "parliamentary",
-            "it": "parliamentary",
-            "es": "parliamentary"
-          }
-        },
-        {
-          "articleId": "constitutional monarchy",
-          "name": {
-            "en": "constitutional monarchy",
-            "pt": "constitutional monarchy",
-            "fr": "constitutional monarchy",
-            "it": "constitutional monarchy",
-            "es": "constitutional monarchy"
           }
         }
       ],
@@ -7645,13 +7492,13 @@
       ],
       "demonym": [
         {
-          "articleId": "Belgians",
+          "articleId": null,
           "name": {
             "en": "Belgian",
-            "pt": "Belgas",
-            "fr": "Belges (nationalité)",
-            "it": "Belgi (popolo moderno)",
-            "es": "Belgas"
+            "pt": "Belgian",
+            "fr": "Belgian",
+            "it": "Belgian",
+            "es": "Belgian"
           }
         }
       ],
@@ -8957,13 +8804,13 @@
       ],
       "largestCity": [
         {
-          "articleId": "St. Paul's Bay",
+          "articleId": "Valletta",
           "name": {
-            "en": "St. Paul's Bay",
-            "pt": "St. Paul's Bay",
-            "fr": "San Pawl il-Baħar",
-            "it": "Baia di San Paolo",
-            "es": "San Pawl il-Baħar"
+            "en": "Valletta",
+            "pt": "Valeta",
+            "fr": "La Valette",
+            "it": "La Valletta",
+            "es": "La Valeta"
           }
         }
       ],
@@ -9615,7 +9462,7 @@
         {
           "articleId": "Spanish language",
           "name": {
-            "en": "Castilian (Spanish)",
+            "en": "Spanish",
             "pt": "Língua castelhana",
             "fr": "Espagnol",
             "it": "Lingua spagnola",
@@ -12742,7 +12589,7 @@
         "pt": "Depois de tornar uma possessão espanhola conhecida como Santiago, em 1655 a ilha passa ao domínio britânico e é nomeada como \"Jamaica\". O país conseguiu sua completa independência do Reino Unido apenas em 6 de agosto de 1962. Com 2,8 milhões de pessoas, é o terceiro país anglófono mais populoso na América, depois dos Estados Unidos e do Canadá. Kingston é a maior cidade e a capital do país, com uma população que ronda um milhão de habitantes. A Jamaica tem uma grande diáspora em todo o mundo, devido à emigração do país.",
         "fr": "La Jamaïque est un État insulaire de la mer des Caraïbes, couvrant. Troisième plus grande île des Grandes Antilles et de la Caraïbe après Cuba et l'Hispaniola, elle est située à environ au sud de Cuba et à à l'ouest d'Hispaniola. Avec près de trois millions d'habitants, elle est le quatrième pays le plus peuplé des Caraïbes. Kingston est sa capitale et sa principale ville.",
         "it": "Il Sovrano della Giamaica coincide con quello del Regno Unito di Gran Bretagna e Irlanda del Nord: attualmente il Re della Giamaica è Carlo III.",
-        "es": "Jamaica es uno de los trece países que forman la América insular, Antillas o islas del mar Caribe. Es uno de los treinta y cinco países del continente americano. Su capital y ciudad más poblada es Kingston. El país está formado por una sola isla. Cuenta con 240 km de largo y un máximo de 80 km de ancho. Está situada en el mar Caribe. Está a 630 km del subcontinente centroamericano. Se encuentra a 150 km al sur de Cuba. Y a 180 km al oeste de la isla de La Española, donde se ubican Haití y la República Dominicana. Asimismo, está situada a unos 621 km de Puerto Rico."
+        "es": "Jamaica es uno de los trece países que forman la América insular, Antillas o islas del mar Caribe. Es uno de los treinta y cinco países del continente americano. Su capital y ciudad más poblada es Kingston. El país está formado por una sola isla. Cuenta con 240 km de largo y un máximo de 80 km de ancho. Está situada en el mar Caribe. Se encuentra a 150 km al sur de Cuba. Y a 180 km al oeste de la isla de La Española, donde se ubican Haití y la República Dominicana. Asimismo, está situada a unos 621 km de Puerto Rico."
       },
       "capital": [
         {
@@ -13144,7 +12991,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Kenya.svg?width=250",
       "description": {
-        "en": "Kenya, officially the Republic of Kenya, is a country located in East Africa. With an estimated population of more than 53.3 million as of mid-2025, it is the 27th-most populous country in the world and the seventh-most populous in Africa. Kenya's capital and largest city is Nairobi. The second-largest and oldest city is Mombasa, a port city located on Mombasa Island. Other major cities within the country include Kisumu, Nakuru and Eldoret. Going clockwise, Kenya is bordered by South Sudan to the northwest, Ethiopia to the north, Somalia to the east, the Indian Ocean to the southeast, Tanzania to the southwest, and Lake Victoria and Uganda to the west. Its geography, climate and population vary. In western Rift Valley counties, the landscape includes cold, snow-capped mountaintops with surrounding forests, wildlife, and fertile agricultural regions in temperate climates. In other areas there are dry, arid, and semi-arid climates, as well as absolute deserts.",
+        "en": "Kenya, officially the Republic of Kenya, is a country located in East Africa. With an estimated population of more than 54.2 million as of mid-2026, it is the 27th-most populous country in the world and the seventh-most populous in Africa. Kenya's capital and largest city is Nairobi. The second-largest and oldest city is Mombasa, a port city located on Mombasa Island. Other major cities within the country include Kisumu, Nakuru and Eldoret. Going clockwise, Kenya is bordered by South Sudan to the northwest, Ethiopia to the north, Somalia to the east, the Indian Ocean to the southeast, Tanzania to the southwest, and Lake Victoria and Uganda to the west. Its geography, climate and population vary. In western Rift Valley counties, the landscape includes cold, snow-capped mountaintops with surrounding forests, wildlife, and fertile agricultural regions in temperate climates. In other areas there are dry, arid, and semi-arid climates, as well as absolute deserts.",
         "pt": "O país tem um clima quente e úmido ao longo de sua costa no Oceano Índico, com fauna rica em savana e gramados do interior para a capital. Nairóbi tem um clima frio que vai decrescendo ao ir se aproximando do Monte Quênia, que tem três picos permanentemente cobertos de neve. Mais para o interior, há um clima quente e úmido em torno do Lago Vitória, e áreas florestais e montanhosas de clima temperado na região oeste. As regiões do nordeste ao longo da fronteira com a Somália e Etiópia são regiões áridas e semiáridas com paisagens quase desérticas. O Lago Vitória, o segundo maior lago de água doce do mundo e maior lago tropical do mundo, situa-se a sudoeste do país e é compartilhado com a Uganda e Tanzânia. O Quênia é famoso por seus safáris e diversas reservas de vida selvagem e parques nacionais, como o Parque Nacional de Tsavo-Oeste, o Masai Mara, o Lago Nakuru e o Parque Nacional Aberdares. Existem vários sítios de patrimônio mundial como Lamu, e praias de renome mundial, tais como Kilifi, onde são realizadas competições de iatismo internacional a cada ano.",
         "fr": "Le Kenya ou Kénya, en forme longue la république du Kenya ou république du Kénya, est un pays d’Afrique de l'Est, limitrophe du Soudan du Sud au nord-ouest, de l’Éthiopie au nord, de la Somalie à l’est, de l’Ouganda à l’ouest et de la Tanzanie au sud-sud-ouest. Il est baigné par l’océan Indien au sud-est. La capitale et la plus grande ville du pays est Nairobi.",
         "it": "Il Kenya, ufficialmente Repubblica del Kenya, è uno Stato dell'Africa orientale, confinante a nord con Etiopia e Sudan del Sud, a sud con la Tanzania, a ovest con l'Uganda, a nord-est con la Somalia ed è bagnato a est dall'oceano Indiano. Nairobi ne è la capitale e la città più grande.",
@@ -13174,7 +13021,7 @@
           }
         }
       ],
-      "population": 53330978,
+      "population": 54227015,
       "areaKm2": 580367,
       "densityKm2": 82,
       "government": [
@@ -13369,11 +13216,21 @@
         {
           "articleId": null,
           "name": {
+            "en": "•",
+            "pt": "•",
+            "fr": "•",
+            "it": "•",
+            "es": "•"
+          }
+        },
+        {
+          "articleId": "Kyrgyzstani",
+          "name": {
             "en": "Kyrgyzstani",
-            "pt": "Kyrgyzstani",
-            "fr": "Kyrgyzstani",
-            "it": "Kyrgyzstani",
-            "es": "Kyrgyzstani"
+            "pt": "Demografia do Quirguistão",
+            "fr": "Démographie du Kirghizistan",
+            "it": "Demografia del Kirghizistan",
+            "es": "Demografía de Kirguistán"
           }
         }
       ],
@@ -13634,7 +13491,7 @@
       "description": {
         "en": "Kiribati,",
         "pt": "Quiribáti, Quiribati ou Kiribati, oficialmente República de Quiribáti, é um país insular na sub-região da Micronésia, na Oceania. O estado compreende 33 ilhas, com atóis e recifes espalhados por uma vasta área ao centro do oceano Pacífico, abrangendo da Micronésia à Polinésia. É o único país do mundo com territórios nos quatro hemisférios da Terra. Apesar disso, seu território terrestre total, somado, coloca-o entre os menores países do mundo. É o primeiro país do mundo a mudar de ano, na ilha de Quiritimati, devido ao fuso horário, de modo que a República de Quiribáti é o país mais adiantado em questão de horário.",
-        "fr": "Les Kiribati, en forme longue la république de Kiribati ou la république des Kiribati ou, anciennement connues sous le nom des îles Gilbert, sont un État archipélagique en Océanie, composé de trois archipels de l'océan Pacifique : les îles Gilbert proprement dites, les îles Phœnix et la majeure partie des îles de la Ligne ainsi que de Banaba.",
+        "fr": "Les Kiribati, en forme longue la république de Kiribati ou la république des Kiribati, anciennement connues sous le nom des îles Gilbert, sont un État archipélagique en Océanie, composé de trois archipels de l'océan Pacifique : les îles Gilbert proprement dites, les îles Phœnix et la majeure partie des îles de la Ligne ainsi que de Banaba.",
         "it": "Le Kiribati, ufficialmente Repubblica delle Kiribati, sono uno Stato insulare dell'Oceania di circa 135.000 abitanti.",
         "es": "Kiribati, oficialmente la República de Kiribati, es un archipiélago y país insular ubicado en la zona central oeste del océano Pacífico, al noreste de Australia. Su capital y ciudad más poblada es Tarawa Sur."
       },
@@ -14517,7 +14374,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Laos.svg?width=250",
       "description": {
-        "en": "Laos, officially the Lao People's Democratic Republic, is a country in Mainland Southeast Asia, and the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. Laos has a population of more than 7.5 million, and its capital and most populous city is Vientiane. It has three UNESCO World Heritage Sites: the town of Luang Prabang, the temple complex of Vat Phou, and the Plain of Jars. The 2021 completion of the Boten–Vientiane railway, Laotian section of the Laos–China Railway, connects Vientiane to Kunming.",
+        "en": "Laos, officially the Lao People's Democratic Republic, is a country in Mainland Southeast Asia, and the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest. It has a population of more than 7.5 million, and its capital and most populous city is Vientiane. It has three UNESCO World Heritage Sites: the town of Luang Prabang, the temple complex of Vat Phou, and the Plain of Jars. The 2021 completion of the Boten–Vientiane railway, Laotian section of the Laos–China Railway, connects Vientiane to Kunming.",
         "pt": "A história do Laos é traçada desde o reino de Lan Xang, que existiu do século XIV ao XVIII, quando era dividida em três reinos separados. Em 1893, formou-se um protetorado francês na região, constituído pelos reinos de Luang Phrabang, Vientiane e Champasak, unindo-se para formar o que hoje é conhecido como Laos. Ele rapidamente ganhou a independência em 1945, após a ocupação japonesa, mas retornou ao domínio francês até que foi concedida sua autonomia em 1949. Laos se tornou independente de facto em 1953, com uma monarquia constitucional governada por Sisavang Vong. Logo após a independência, uma longa guerra civil no país culminou com o fim da monarquia, quando o movimento comunista Pathet Lao chegou ao poder em 1975.",
         "fr": "Le Laos, en forme longue la République démocratique populaire lao, également sous la forme est un pays sans accès à la mer d'Asie du Sud-est, entouré par la Birmanie et la Chine au nord-ouest, la Thaïlande à l'ouest, le Cambodge au sud et le Viêt Nam à l'est. La capitale est Vientiane qui est aussi la ville la plus peuplée du pays, la langue officielle le lao, la monnaie officielle le kip.",
         "it": "Il Laos, ufficialmente Repubblica Popolare Democratica del Laos, è uno Stato del sud-est asiatico che non ha sbocco sul mare. Confina a nord con la Cina, a est con il Vietnam, a sud con la Cambogia, a ovest con la Thailandia e a nord-ovest con la Birmania, da cui è diviso dal fiume Mekong.",
@@ -17396,7 +17253,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Mexico.svg?width=250",
       "description": {
-        "en": "Mexico, officially the United Mexican States, is a country in North America. It is the northernmost country in Latin America and borders the United States of America to the north, and Guatemala and Belize to the southeast; while having maritime boundaries with the Pacific Ocean to the west, the Caribbean Sea to the southeast, and the Gulf of Mexico to the east. Mexico covers 1,972,550 km, and is the thirteenth-largest country in the world by land area. With a population exceeding 134 million as of 2026, Mexico City is the capital and largest city in Mexico, which ranks among the most populous metropolitan areas in the world.",
+        "en": "Mexico, officially the United Mexican States, is a country in North America. It is the northernmost country in Latin America, bordering the United States of America to the north and Guatemala and Belize to the southeast, while having maritime boundaries with the Pacific Ocean to the west, the Caribbean Sea to the southeast, and the Gulf of Mexico to the east. Mexico covers 1,972,550 km, and is the thirteenth-largest country in the world by land area. With a population exceeding 134 million as of 2026, Mexico City is the capital and largest city in Mexico, which ranks among the most populous metropolitan areas in the world.",
         "pt": "Na Mesoamérica pré-colombiana muitas culturas amadureceram e se tornaram civilizações avançadas como a dos olmecas, toltecas, teotihuacanos, zapotecas, maias e astecas, antes do primeiro contato com os europeus. Em 1521, a Espanha conquistou e colonizou o território mexicano a partir de sua base em Tenochtitlán e administrou-o como o Vice-Reino da Nova Espanha. Este território viria a ser o México com o reconhecimento da independência da colônia em 1821. O período pós-independência foi marcado pela instabilidade econômica, a Guerra Mexicano-Americana e a consequente cessão territorial para os Estados Unidos, uma guerra civil, dois impérios e uma ditadura nacional. Esta última levou à Revolução Mexicana em 1910, que culminou na promulgação da Constituição de 1917 e a emergência do atual sistema político do país. Eleições realizadas em julho de 2000 marcaram a primeira vez que um partido de oposição conquistou a presidência do Partido Revolucionário Institucional.",
         "fr": "Le Mexique, officiellement et en forme longue les États-Unis mexicains, est un pays situé dans la partie méridionale de l'Amérique du Nord. Délimité à l'est-sud-est par le Guatemala et le Belize, et au nord-nord-ouest par les États-Unis d'Amérique, il est bordé à l'est par le golfe du Mexique, à l'est-sud-est par la mer des Caraïbes, au sud-ouest par l'océan Pacifique et à l'ouest-nord-ouest par le golfe de Californie. Il se classe au quatorzième rang mondial par sa superficie avoisinant deux millions de kilomètres carrés.",
         "it": "Il Messico, denominato ufficialmente Stati Uniti Messicani, è una repubblica federale presidenziale composta da 32 entità federative. Secondo la Costituzione messicana, la sede dei poteri della federazione e capitale dello Stato è Città del Messico. Occupa la parte meridionale dell'America settentrionale e la parte settentrionale dell'America Latina. Il Messico è delimitato a nord dal confine con gli Stati Uniti d'America, a est dal golfo del Messico e dal Mare Caraibico, a sud-est dal Belize e dal Guatemala e a ovest dall'Oceano Pacifico. Con una superficie di, il Messico è il 14º Stato più esteso del mondo, mentre con più di abitanti, oltreché ad essere il 10º Stato più popoloso del mondo, è anche lo Stato ispanofono più popoloso, il terzo Stato più popoloso del continente americano dopo gli Stati Uniti e il Brasile e il secondo Stato cattolico più popoloso dopo il Brasile. Lo spagnolo è parlato in Messico con molte lingue indigene, ufficialmente riconosciute.",
@@ -18395,7 +18252,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Netherlands.svg?width=250",
       "description": {
-        "en": ", informally Holland, is a country in Northwestern Europe, with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces and three overseas special municipalities. European Netherlands has land borders with Germany to the east and with Belgium to the south, and a coastline to the north and west. It shares maritime borders with the United Kingdom, Germany, and Belgium in the North Sea. The official language is Dutch, with West Frisian as a secondary official language in the province of Friesland.",
+        "en": ", also informally known as Holland, is a country in Northwestern Europe, with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces and three overseas special municipalities. European Netherlands has land borders with Germany to the east and with Belgium to the south, and a coastline to the north and west. It shares maritime borders with the United Kingdom, Germany, and Belgium in the North Sea. The official language is Dutch, with West Frisian as a secondary official language in the province of Friesland.",
         "pt": "Países Baixos, informalmente conhecidos como Holanda, são uma nação constituinte do Reino dos Países Baixos localizada na Europa ocidental. O país é uma monarquia constitucional parlamentar democrática banhada pelo mar do Norte a norte e a oeste, que faz fronteira com a Bélgica a sul e com a Alemanha a leste. A capital é Amesterdão ou Amsterdã e a sede do governo é na cidade de Haia.",
         "fr": "Les Pays-Bas sont l'un des quatre pays constitutifs du royaume des Pays-Bas, un État souverain à qui il fournit l'essentiel de sa superficie et de sa population, de sorte qu'on le désigne lui-même le plus souvent sous le nom de Pays-Bas. La quasi-totalité du territoire du pays constitutif des Pays-Bas est située en Europe.",
         "it": "I Paesi Bassi, spesso colloquialmente indicati impropriamente come Olanda, sono una delle quattro nazioni costitutive del Regno dei Paesi Bassi; si trovano principalmente in Europa, ma comprendono anche i cosiddetti Paesi Bassi caraibici.",
@@ -19020,7 +18877,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_New_Zealand.svg?width=250",
       "description": {
-        "en": "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island —and over 600 smaller islands. It is the sixth-largest island country by area and lies east of Australia across the Tasman Sea and south of the islands of New Caledonia, Fiji, and Tonga. The country's varied topography and sharp mountain peaks, including the Southern Alps, owe much to tectonic uplift and volcanic eruptions. New Zealand's capital city is Wellington, and its most populous city is Auckland.",
+        "en": "New Zealand is an island country in the southwestern Pacific Ocean. It comprises two main landmasses—the North Island and the South Island —and over 700 smaller islands. It is the sixth-largest island country by area and lies east of Australia across the Tasman Sea and south of the islands of New Caledonia, Fiji, and Tonga. The country's varied topography and sharp mountain peaks, including the Southern Alps, owe much to tectonic uplift and volcanic eruptions. New Zealand's capital city is Wellington, and its most populous city is Auckland.",
         "pt": "A Nova Zelândia é notável por seu isolamento geográfico: está situada a cerca de km a sudeste da Austrália, separados através do mar da Tasmânia e os seus vizinhos mais próximos ao norte são a Nova Caledônia, Fiji e Tonga. Devido ao seu isolamento, o país desenvolveu uma fauna distinta dominada por pássaros, alguns dos quais foram extintos após a chegada dos seres humanos e dos mamíferos introduzidos por eles. A maioria da população da Nova Zelândia é de ascendência europeia, sobretudo britânica, enquanto os nativos maoris, ou seus descendentes, são minoria. Asiáticos e polinésios não maori também são grupos de minoria significativa, especialmente em áreas urbanas. A língua mais falada é o inglês, trazida pelos colonizadores britânicos, embora também sejam considerados idiomas oficiais línguas nativas, como a língua maori.",
         "fr": "La Nouvelle-Zélande est un pays insulaire d'Océanie situé dans l'Est de la mer de Tasman. Elle est constituée de deux îles principales : l'île du Nord et l'île du Sud, ainsi que de 700 plus petites îles. Se situant à environ au sud-sud-est de la Grande Terre, en Nouvelle-Calédonie, dont elle est séparée par l'océan Pacifique Sud et à à l'est-sud-est de la Tasmanie, elle se trouve également à de Vanuatu, à au sud-est de l'Australie continentale et à environ au sud-sud-est des Fidji et des Tonga. La topographie variée du pays et ses pics montagneux, dont ceux des Alpes du Sud, doivent beaucoup au soulèvement tectonique et aux éruptions volcaniques. Sa capitale est Wellington et sa plus grande ville est Auckland. La plus grande ville de l'île du sud est Christchurch.",
         "it": "Questo nome appariva come Nu Tireni nella lingua Māori. Nel 1834, un documento scritto in Māori e intitolato \"He Wakaputanga o te Rangatiratanga o Nu Tireni\" fu tradotto in inglese ed è diventato la Dichiarazione di Indipendenza della Nuova Zelanda. Fu preparato dalle Te Wakaminenga o Nga Rangatiratanga o Nga Hapu o Nu Tireni, le Tribù Unite della Nuova Zelanda, e una copia fu inviata al re Guglielmo IV che aveva già riconosciuto la bandiera delle Tribù Unite della Nuova Zelanda, e che riconobbe la dichiarazione in una lettera di Lord Glenelg.",
@@ -20642,9 +20499,9 @@
         "it": "Romania",
         "es": "Rumania"
       },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Romania_(2023%E2%80%93present).svg?width=250",
+      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Romania.svg?width=250",
       "description": {
-        "en": "Romania is a country in Southeast and Central Europe. It lies on the lower course of the Danube, north of the Balkan Peninsula, and on the northwestern shore of the Black Sea. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast. It is the twelfth-largest country in Europe by area, covering 238397, and the sixth-most populous member state of the European Union, with 19 million inhabitants. The capital, largest city and economic centre is Bucharest. Other major cities include Cluj-Napoca, Iași, Constanța, Timișoara and Brașov.",
+        "en": "Romania is a country in Central and Southeastern Europe. It lies on the lower course of the Danube, north of the Balkan Peninsula, and on the northwestern shore of the Black Sea. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast. It is the twelfth-largest country in Europe by area, covering 238397, and the sixth-most populous member state of the European Union, with 19 million inhabitants. The capital, largest city and economic centre is Bucharest. Other major cities include Cluj-Napoca, Iași, Constanța, Timișoara and Brașov.",
         "pt": "Com 20,1 milhões de habitantes, é o sétimo membro mais populoso da União Europeia. Sua capital e maior cidade, Bucareste, é a sexta maior cidade da UE. Cerca de 90% da população identifica-se como praticantes da Ortodoxia Oriental e são falantes nativos do romeno, uma língua românica. Com uma rica história cultural, a Romênia tem sido o lar de artistas, músicos e inventores influentes e apresenta uma variedade de atrações turísticas, como o \"Castelo do Drácula\".",
         "fr": "La Roumanie est un pays d'Europe de l'Est, partagé entre Europe centrale, orientale et du Sud-Est. C’est le sixième pays le plus peuplé de l'Union européenne et le huitième pays le plus grand pour sa superficie totale. La géographie du pays est structurée par les Carpates, le Danube et le littoral de la mer Noire. La Roumanie a comme pays frontaliers la Hongrie, l'Ukraine, la Moldavie, la Bulgarie et la Serbie.",
         "it": "Confina a ovest con l'Ungheria e la Serbia, a sud con la Bulgaria, a est con il Mar Nero, la Moldavia e l'Ucraina e a nord nuovamente con l'Ucraina. Dal 29 marzo 2004 la Romania fa parte della NATO e, dal 1º gennaio 2007, dell'Unione europea.",
@@ -22601,6 +22458,26 @@
             "it": "parliamentary republic",
             "es": "parliamentary republic"
           }
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "under a",
+            "pt": "under a",
+            "fr": "under a",
+            "it": "under a",
+            "es": "under a"
+          }
+        },
+        {
+          "articleId": "Constitution of Somalia",
+          "name": {
+            "en": "Provisional Constitution",
+            "pt": "Provisional Constitution",
+            "fr": "Constitution de la Somalie",
+            "it": "Provisional Constitution",
+            "es": "Provisional Constitution"
+          }
         }
       ],
       "officialLanguage": [
@@ -23427,7 +23304,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Eswatini.svg?width=250",
       "description": {
-        "en": "Eswatini, formally the Kingdom of Eswatini, also known by its former official names Swaziland and the Kingdom of Swaziland, is a landlocked country in Southern Africa. It is bordered by South Africa on all sides except the east, where it shares a border with Mozambique. At no more than north to south and east to west, Eswatini is one of the smallest countries in Africa. However, its climate and topography are diverse, ranging from a cool and mountainous highveld to a hot and dry lowveld. The executive capital and largest city is Mbabane, and the legislative and second capital is Lobamba.",
+        "en": "Eswatini, formally the Kingdom of Eswatini, also known by its former official names Swaziland and the Kingdom of Swaziland, is a landlocked country in Southern Africa. It is bordered by South Africa on all sides except the east, where it shares a border with Mozambique. At no more than north to south and east to west, Eswatini is the second smallest country in Africa. However, its climate and topography are diverse, ranging from a cool and mountainous highveld to a hot and dry lowveld. The executive capital and largest city is Mbabane, and the legislative and second capital is Lobamba.",
         "pt": "Essuatíni é um país em desenvolvimento com uma economia pequena, baseada na agropecuária. Porém o país não é autossuficiente na produção de alimentos, sendo exportador da cana-de-açúcar e abrigando importantes reservas de carvão mineral. Seu PIB per capita é de US$, classificando a nação com renda média-baixa. Como membro da União Aduaneira da África Austral e do Mercado Comum da África Oriental e Austral, o seu principal parceiro comercial local é a África do Sul. Os principais parceiros comerciais no exterior são os Estados Unidos e a União Europeia. A maior parte do emprego do país é fornecida pelos setores agrícola e manufatureiro. Essuatíni é membro da Comunidade de Desenvolvimento da África Austral, da União Africana, da Commonwealth e das Nações Unidas.",
         "fr": "L'Eswatini, en forme longue le royaume d'Eswatini, appelé Swaziland jusqu'en, est un pays d'Afrique australe sans accès à la mer, bordé par l'Afrique du Sud et le Mozambique. Le nom historique du pays est Ngwané ; les souverains portaient autrefois ce nom.",
         "it": "LeSwatini, ufficialmente Regno di eSwatini, è uno Stato indipendente dell'Africa meridionale.",
@@ -23717,7 +23594,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Tajikistan.svg?width=250",
       "description": {
-        "en": "Tajikistan, officially the Republic of Tajikistan, is a landlocked country located in Central Asia. Dushanbe is the largest city and the capital city of the country and it is most populous city, with a population of over 1.2 million. Tajikistan borders Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north, and China to the east; it is narrowly separated from Pakistan by Afghanistan's Wakhan Corridor. Its total population exceeds 11 million.",
+        "en": "Tajikistan, officially the Republic of Tajikistan, is a landlocked country located in Central Asia. Dushanbe is the capital and largest city of the country, with a population of over 1.2 million. Tajikistan borders Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north, and China to the east; it is narrowly separated from Pakistan by Afghanistan's Wakhan Corridor. Its total population exceeds 11 million.",
         "pt": "A maioria da população do Tajiquistão pertence ao grupo étnico tajique, que partilha sua cultura e história com o Afeganistão e falam persa. Uma vez parte do Império Samânida, o Tajiquistão tornou-se uma república constituinte da União Soviética durante o, conhecida como a República Socialista Soviética Tajique. 90% do seu território é coberto por montanhas.",
         "fr": "Le Tadjikistan, en forme longue la république du Tadjikistan, est un pays montagneux d'Asie centrale, sans accès à la mer. Sa capitale est Douchanbé. Il est limitrophe du Kirghizistan au nord-nord-est, de la Chine à l'est, de l'Afghanistan au sud-sud-ouest et de l'Ouzbékistan à l'ouest. C'est le seul État issu de l'ancienne Asie centrale soviétique où la langue dominante n'est pas une langue turcique mais iranienne, le tadjik. Les Tadjiks, qui forment le groupe ethnique majoritaire, appartiennent à la famille des peuples iraniens.",
         "it": "Dal 9 settembre 1991 il Tagikistan è una repubblica presidenziale, di fatto una dittatura autoritaria; il presidente è il leader Emomalī Rahmon, che nomina ogni anno il Primo ministro. L'Assemblea suprema viene eletta dal popolo e resta in carica 5 anni. La costituzione del paese è stata varata nel 1994. Dal marzo 2013, è diventato un membro dell'Organizzazione mondiale del commercio.",
@@ -23826,13 +23703,23 @@
       ],
       "demonym": [
         {
-          "articleId": null,
+          "articleId": "Tajikistani",
           "name": {
             "en": "Tajikistani",
-            "pt": "Tajikistani",
-            "fr": "Tajikistani",
+            "pt": "Demografia do Tajiquistão",
+            "fr": "Démographie du Tadjikistan",
             "it": "Tajikistani",
-            "es": "Tajikistani"
+            "es": "Demografía de Tayikistán"
+          }
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "•",
+            "pt": "•",
+            "fr": "•",
+            "it": "•",
+            "es": "•"
           }
         },
         {
@@ -24057,7 +23944,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Turkmenistan.svg?width=250",
       "description": {
-        "en": "Turkmenistan is a landlocked country in Central Asia, bordered by Kazakhstan and Uzbekistan to the north, Afghanistan to the southeast, Iran to the south and southwest, and the Caspian Sea to the west. It is one of six independent Turkic states. Ashgabat is the capital and largest city. With over 7 million people, Turkmenistan is the 35th most-populous country in Asia and has the lowest population of the Central Asian republics while being one of the most sparsely populated nations located on the Asian continent.",
+        "en": "Turkmenistan officially the Republic of Turkmenistan is a landlocked country located in Central Asia, it is bordered by Kazakhstan and Uzbekistan to the north, Afghanistan to the southeast, Iran to the south and southwest, and the Caspian Sea to the west. It is one of six independent Turkic states. Ashgabat is the capital and largest city. With over 7 million people, Turkmenistan is the 35th most-populous country in Asia and has the lowest population of the Central Asian republics while being one of the most sparsely populated nations located on the Asian continent.",
         "pt": "O atual Turquemenistão encontra-se em territórios que já foram caminhos usados por civilizações por séculos. Na Idade Média, Merv era uma das grandes cidades do mundo islâmico, e um importante ponto de parada na Rota da Seda, uma imensa rota usada para o comércio com a China até meados do Século XV. Anexado ao Império Russo em 1881, o Turquemenistão chegou a ter um papel proeminente no movimento antibolchevique na Ásia Central. Em 1924, o Turquemenistão tornou-se uma república constituinte da União Soviética, a República Socialista Soviética Turcomena ; tornou-se independente após a dissolução da URSS em 1991.",
         "fr": "Le Turkménistan est un pays d'Asie centrale. Il est bordé par le Kazakhstan au nord-ouest, l'Ouzbékistan au nord-nord-est et à l'est, l'Afghanistan au sud-est, l'Iran au sud-sud-ouest et la mer Caspienne à l'ouest. Achgabat est la capitale et la plus grande ville. Il est l'un des six États turciques indépendants. Avec une population de 7 millions d'habitants, le Turkménistan est le pays plus peuplé d'Asie. Il possède la plus faible population d'Asie centrale et est l'un des pays les moins peuplés du continent asiatique. La majeure partie de son territoire est couverte par le désert du Karakoum.",
         "it": "Il Turkmenistan, ufficialmente Repubblica del Turkmenistan, è una repubblica presidenziale situata nell'Asia centrale. Ha una popolazione di 5,6 milioni di abitanti, la capitale è Aşgabat, che è anche città più popolosa. Confina con l'Iran e l'Afghanistan a sud e con l'Uzbekistan e il Kazakistan a nord e si affaccia sul Mar Caspio. È la seconda potenza economica dell'Asia centrale grazie ai suoi giacimenti ricchi di gas naturale e alla coltivazione del cotone.",
@@ -24146,13 +24033,23 @@
       ],
       "demonym": [
         {
-          "articleId": null,
+          "articleId": "Turkmenistani",
           "name": {
-            "en": "TurkmenistaniTurkmen",
-            "pt": "TurkmenistaniTurkmen",
-            "fr": "TurkmenistaniTurkmen",
-            "it": "TurkmenistaniTurkmen",
-            "es": "TurkmenistaniTurkmen"
+            "en": "Turkmenistani",
+            "pt": "Turkmenistani",
+            "fr": "Démographie du Turkménistan",
+            "it": "Turkmenistani",
+            "es": "Demografía de Turkmenistán"
+          }
+        },
+        {
+          "articleId": "Turkmen",
+          "name": {
+            "en": "Turkmen",
+            "pt": "Turcomano",
+            "fr": "Turkmène (homonymie)",
+            "it": "Turkmeno",
+            "es": "Turcomano"
           }
         }
       ],
@@ -25364,7 +25261,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Uruguay.svg?width=250",
       "description": {
-        "en": "Uruguay, officially the Oriental Republic of Uruguay, is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215. It has a population of almost 3.5 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.",
+        "en": "Uruguay, officially the Eastern Republic of Uruguay, is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215. It has a population of almost 3.5 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.",
         "pt": "Uruguai, oficialmente República Oriental do Uruguai, é um país localizado na parte sudeste da América do Sul. Sua população é de cerca de 3,5 milhões de habitantes, dos quais 1,8 milhão vivem na capital, Montevidéu, e em sua área metropolitana. Estima-se que entre 88% e 94% da população possua ascendência principalmente europeia ou castiça. A única fronteira terrestre do Uruguai é com o estado brasileiro do Rio Grande do Sul, no norte, sendo a segunda menor fronteira do Brasil com outro país sul-americano. Para o oeste encontra-se o rio Uruguai e a sudoeste situa-se o estuário do rio da Prata. O país faz fronteira com a Argentina apenas em alguns bancos de qualquer um dos rios citados acima, enquanto a sudeste fica o oceano Atlântico. O Uruguai é o segundo menor país da América do Sul, sendo maior apenas que o Suriname.",
         "fr": "LUruguay, en forme longue la république orientale de l'Uruguay, est un pays du Cône Sud de l'Amérique du Sud, situé au sud du Brésil et au nord-est de l'Argentine, dont il est séparé par le fleuve Uruguay qui lui a donné son nom.",
         "it": "LUruguay, ufficialmente Repubblica Orientale dell'Uruguay, è uno Stato dell'America meridionale. Ha una superficie di e abitanti, la capitale è Montevideo.",
@@ -25622,7 +25519,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Venezuela.svg%3C!--DO_NOT_REPLACE_THE_FLAG_WITH_THE_PRE-CHAVEZ_FLAG._THIS_IS_OFFICIAL_FLAG%E2%80%94SEE_TALK_PAGE.--%3E?width=250",
       "description": {
-        "en": "Venezuela, officially the Bolivarian Republic of Venezuela, is a country and de facto puppet state The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, including in the capital.",
+        "en": "Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and various islands and islets in the Caribbean Sea. It comprises an area of 912,050, with a population estimated at 31.8 million in 2025. The capital and largest urban agglomeration is Caracas. The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east, and on the east by Guyana. Venezuela consists of 23 states, the Capital District, and federal dependencies covering Venezuela's offshore islands. Venezuela is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north, including in the capital.",
         "pt": "Venezuela, oficialmente República Bolivariana da Venezuela, é um país localizado na porção norte da América do Sul, constituído por uma parte continental e inúmeras pequenas ilhas no Mar do Caribe. Possui uma área de, sendo o 32.º maior país no mundo em território, e sua capital e maior aglomeração urbana é a cidade de Caracas. Suas fronteiras são delimitadas a norte com o Mar do Caribe, a oeste com a Colômbia, ao sul com o Brasil e ao leste com a Guiana, com quem mantém disputas territoriais. Através das suas zonas marítimas, tem soberania sobre 71 295 km² de mar territorial, 22 224 km² na zona contígua, 471 507 km² do Mar do Caribe e o Oceano Atlântico sob o conceito de zona econômica exclusiva, e 99 889 km² de plataforma continental. Esta área marinha faz fronteira com treze estados soberanos, sendo Trinidad e Tobago, Granada, São Vicente e Granadinas, Santa Lúcia e Barbados alguns deles. Sua população é estimada em e a capital nacional é Caracas.",
         "fr": "Le Venezuela ou Vénézuéla ; en espagnol : ), en forme longue la république bolivarienne du Venezuela ou république bolivarienne du Vénézuéla, en espagnol ', nom officiel en l'honneur de Simón Bolívar, est une république fédérale située dans la partie la plus septentrionale de l'Amérique du Sud, bordé au nord par la mer des Caraïbes, à l'est-sud-est par le Guyana, au sud par le Brésil, au sud-ouest et à l'ouest par la Colombie.",
         "it": "Situato subito a nord dell'equatore, è considerato come uno dei Paesi con la maggiore diversità ecologica nel mondo. Abitata già in epoca precolombiana da gruppi tribali amerindi come caribe e arawak, fu toccata da Cristoforo Colombo nel suo terzo viaggio nel 1498 e venne inglobata nel vasto impero sudamericano spagnolo nel XVI secolo, anche se il clima limitò fortemente l'entità della colonizzazione. Fu il primo Stato sudamericano ad emanciparsi dalla Corona spagnola, proclamando formalmente il 5 luglio 1811 la propria indipendenza, che divenne però effettiva solo nel 1821.",
@@ -27128,7 +27025,7 @@
       "description": {
         "en": "Saint Vincent and the Grenadines, sometimes known simply as Saint Vincent, is an archipelagic country in the eastern Caribbean. It is located in the southeast Windward Islands of the Lesser Antilles, which lie in the West Indies, at the southern end of the eastern border between the Caribbean Sea and the Atlantic Ocean. To the north lies Saint Lucia, to the east is Barbados and Grenada lies to the south.",
         "pt": "Com uma área de 389 km², seu território consiste principalmente na ilha de São Vicente e os dois terços restantes em Granadinas, que são uma cadeia de ilhas menores que se estende ao sul da Ilha de São Vicente, em direção a Granada. A ilha principal de São Vicente mede 18 km de comprimento, 11 km de largura e 344 km² de área. As ilhas Granadinas, em sua totalidade, abrangem 60,4 quilómetros, com uma área total de 45 km². A maior parte da nação se encontra dentro do Cinturão de furacões.",
-        "fr": "Saint-Vincent-et-les-Grenadines, parfois désigné par le sigle SVG, est un État des Petites Antilles, situé en mer des Caraïbes, entre Sainte-Lucie et la Grenade et à l'ouest de Barbade. Il appartient, depuis 1981, à l'Organisation des États de la Caraïbe orientale.",
+        "fr": "Saint-Vincent-et-les-Grenadines, parfois désigné par le sigle SVG, est un État des Petites Antilles, situé en mer des Caraïbes, entre Sainte-Lucie et la Grenade et à l'ouest de Barbade. Saint-Vincent-et-les-Grenadines est membre de l'Organisation des États de la Caraïbe orientale depuis 1981.",
         "it": "Saint Vincent e Grenadine è uno stato insulare dell'America centrale facente parte delle Piccole Antille. L'isola principale è Saint Vincent di, in cui è ubicata la capitale Kingstown.",
         "es": "Con una superficie de 387 km², la mayor parte de su territorio consiste en la isla más septentrional de San Vicente, que incluye la capital y ciudad más grande, Kingstown. Al sur se encuentran dos tercios de la parte norte de las Granadinas, una cadena de 32 islas más pequeñas; el tercio sur restante conforma Granada. Siete de las islas están habitadas, de las cuales las más grandes y pobladas son Bequia, Mustique, Canouan y Unión."
       },
@@ -27936,7 +27833,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Yemen.svg?width=250",
       "description": {
-        "en": "Yemen, officially the Republic of Yemen, is a country in the southern part of West Asia. Including the Socotra Archipelago, mainland Yemen is located in southern Arabia; bordering Saudi Arabia to the north, Oman to the northeast, the south-eastern part of the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west, sharing maritime borders with Djibouti, Eritrea, Somaliland and Somalia across the Horn of Africa. Covering roughly 455,503 square kilometres, and the largest by population.",
+        "en": "Yemen, officially the Republic of Yemen, is a country in the southern part of West Asia. Including the Socotra Archipelago, mainland Yemen is located in southern Arabia; bordering Saudi Arabia to the north, Oman to the northeast, the south-eastern part of the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west, sharing maritime borders with Djibouti, Eritrea, Somaliland and Somalia across the Horn of Africa. Covering roughly 455,503 square kilometres, and the second-largest by population.",
         "pt": "A capital e cidade mais populosa do país é Saná.",
         "fr": "Le Yémen, en forme longue la république du Yémen, est un pays d’Asie de l’Ouest, plus précisément du Moyen-Orient, il est situé à la pointe sud-ouest de la péninsule d'Arabie. Il possède une frontière terrestre avec l’Arabie saoudite au nord et avec Oman au nord-est, et une frontière maritime avec Djibouti et l'Érythrée à l'ouest et la Somalie au sud. Il présente une importante façade maritime sur le golfe d'Aden, une moindre sur la mer Rouge, et contrôle, avec Djibouti, le détroit de Bab-el-Mandeb qui mène vers le canal de Suez. Sa capitale, Sanaa, se situe dans l'ouest du pays, et son principal port est Aden.",
         "it": "La repubblica, oltre al territorio continentale, comprende l'arcipelago di Socotra, composto da quattro isole fra cui l'isola di Socotra nell'Oceano Indiano, e gli arcipelaghi di Perim, Kamaran e Zuqur-Hānīsh nel Mar Rosso. Confina a nord con l'Arabia Saudita, a est con l'Oman, a ovest con il Mar Rosso, a sud con il golfo di Aden. La sua capitale è Sana'a.",
