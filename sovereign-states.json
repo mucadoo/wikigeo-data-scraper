@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-18T02:20:10.497Z",
+    "generatedAt": "2026-07-19T02:37:07.993Z",
     "version": "0.1.17",
     "license": "ISC",
     "source": "Wikipedia"
@@ -47,9 +47,9 @@
           }
         }
       ],
-      "population": 89368,
-      "areaKm2": 467.63,
-      "densityKm2": 187.1,
+      "population": 89752,
+      "areaKm2": 468,
+      "densityKm2": 191.8,
       "government": [
         {
           "articleId": null,
@@ -4036,7 +4036,7 @@
         "pt": "Canadá é um país que ocupa grande parte da América do Norte e se estende desde o oceano Atlântico, a leste, até o oceano Pacífico, a oeste. Ao norte o país é limitado pelo oceano Ártico. É o segundo maior país do mundo em área total, superado apenas pela Rússia, e a sua fronteira comum com os Estados Unidos, no sul e no noroeste, é a mais longa fronteira terrestre do mundo.",
         "fr": "Le Canada est un pays d'Amérique septentrionale constitué de dix provinces et de trois territoires.",
         "it": "Secondo Stato al mondo per estensione dopo la Russia, il Canada confina con il territorio degli Stati Uniti d'America, quelli continentali a sud, in buona parte lungo la linea del 49º parallelo Nord, e con lo stato dell'Alaska a nord-ovest quasi interamente lungo il 141º meridiano Ovest: si tratta del confine terrestre tra due Stati più lungo del mondo. L'altro confine della nazione è con il Regno di Danimarca sull' Isola Hans che è il confine terrestre internazionale più settentrionale del mondo e il terzo confine terrestre più breve tra due Stati. Il Canada è lo Stato più esteso del mondo per estensione costiera.",
-        "es": "Canadá, ;, ) es un país soberano ubicado en América del Norte, cuya forma de gobierno es la monarquía parlamentaria federal. Su territorio está organizado en diez provincias y tres territorios. Su capital es la ciudad de Ottawa y su ciudad más poblada es Toronto, seguida por Montreal y Vancouver."
+        "es": "Canadá es un país soberano ubicado en América del Norte, cuya forma de gobierno es la monarquía parlamentaria federal. Su territorio está organizado en diez provincias y tres territorios. Su capital es la ciudad de Ottawa y su ciudad más poblada es Toronto, seguida por Montreal y Vancouver."
       },
       "capital": [
         {
@@ -12834,7 +12834,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Japan.svg?width=250",
       "description": {
-        "en": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th most populous country. Tokyo is the country's capital and largest city.",
+        "en": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan, the Sea of Okhotsk in the north, and the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th most populous country. Tokyo is the country's capital and largest city.",
         "pt": "oficialmente é um país insular da Ásia Oriental. Localizado no Oceano Pacífico, a leste do Mar do Japão, da China, da Coreia do Norte, da Coreia do Sul e da Rússia, estendendo-se do Mar de Okhotsk, no norte, ao Mar da China Oriental e Taiwan, ao sul.",
         "fr": "Le Japon est un pays insulaire de l'Asie de l'Est, situé entre la mer du Japon et l'océan Pacifique, à l'est de la Chine, de la Corée du Sud et de la Corée du Nord, au sud de la Russie, et au nord-est de Taïwan.",
         "it": "Il Giappone, ufficialmente Stato del Giappone è uno Stato insulare dell'Asia orientale. Situato nell'Oceano Pacifico, è limitato a ovest dal Mar del Giappone, a nord dal Mare di Ochotsk, a est dall'Oceano Pacifico settentrionale e a sud dal Mar Cinese Orientale. È un arcipelago perlopiù montuoso di isole, le cui cinque più grandi sono Hokkaidō, Honshū, Kyūshū, Shikoku e Okinawa, che da sole rappresentano circa il 97% della superficie terrestre del Giappone. Molte isole sono montagne, alcune di origine vulcanica; la vetta più alta è il Fuji, un vulcano in quiescenza dal 1707. Con una popolazione di circa 126 milioni di abitanti, è l'undicesimo paese più popolato al mondo. La Grande Area di Tokyo, che include Tokyo e numerose prefetture vicine, è la più grande area metropolitana del mondo con oltre 38 milioni di residenti.",
@@ -18244,6 +18244,175 @@
     {
       "isoCode": "NL",
       "name": {
+        "en": "Netherlands",
+        "pt": "Países Baixos",
+        "fr": "Pays-Bas (pays constitutif)",
+        "it": "Paesi Bassi",
+        "es": "Países Bajos"
+      },
+      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Netherlands.svg?width=250",
+      "description": {
+        "en": ", also informally known as Holland, is a country in Northwestern Europe, with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces and three overseas special municipalities. European Netherlands has land borders with Germany to the east and with Belgium to the south, and a coastline to the north and west. It shares maritime borders with the United Kingdom, Germany, and Belgium in the North Sea. The official language is Dutch, with West Frisian as a secondary official language in the province of Friesland.",
+        "pt": "Países Baixos, informalmente conhecidos como Holanda, são uma nação constituinte do Reino dos Países Baixos localizada na Europa ocidental. O país é uma monarquia constitucional parlamentar democrática banhada pelo mar do Norte a norte e a oeste, que faz fronteira com a Bélgica a sul e com a Alemanha a leste. A capital é Amesterdão ou Amsterdã e a sede do governo é na cidade de Haia.",
+        "fr": "Les Pays-Bas sont l'un des quatre pays constitutifs du royaume des Pays-Bas, un État souverain à qui il fournit l'essentiel de sa superficie et de sa population, de sorte qu'on le désigne lui-même le plus souvent sous le nom de Pays-Bas. La quasi-totalité du territoire du pays constitutif des Pays-Bas est située en Europe.",
+        "it": "I Paesi Bassi, spesso colloquialmente indicati impropriamente come Olanda, sono una delle quattro nazioni costitutive del Regno dei Paesi Bassi; si trovano principalmente in Europa, ma comprendono anche i cosiddetti Paesi Bassi caraibici.",
+        "es": "Países Bajos es una de las cuatro naciones constituyentes del Reino de los Países Bajos y un Estado miembro de la Unión Europea. Su capital y ciudad más poblada oficial es Ámsterdam,no obstante, la sede del gobierno, del parlamento, de la monarquía y de los órganos judiciales se encuentra en La Haya."
+      },
+      "capital": [
+        {
+          "articleId": "Amsterdam",
+          "name": {
+            "en": "Amsterdam",
+            "pt": "Amesterdão",
+            "fr": "Amsterdam",
+            "it": "Amsterdam",
+            "es": "Ámsterdam"
+          }
+        }
+      ],
+      "largestCity": [
+        {
+          "articleId": "Amsterdam",
+          "name": {
+            "en": "Amsterdam",
+            "pt": "Amesterdão",
+            "fr": "Amsterdam",
+            "it": "Amsterdam",
+            "es": "Ámsterdam"
+          }
+        }
+      ],
+      "population": 18044027,
+      "areaKm2": 41865,
+      "densityKm2": 541,
+      "government": [
+        {
+          "articleId": null,
+          "name": {
+            "en": "Unitary",
+            "pt": "Unitary",
+            "fr": "Unitary",
+            "it": "Unitary",
+            "es": "Unitary"
+          }
+        },
+        {
+          "articleId": "Parliamentary system",
+          "name": {
+            "en": "parliamentary",
+            "pt": "parliamentary",
+            "fr": "Régime parlementaire",
+            "it": "Sistema parlamentare",
+            "es": "Sistema parlamentario"
+          }
+        },
+        {
+          "articleId": "constitutional monarchy",
+          "name": {
+            "en": "constitutional monarchy",
+            "pt": "constitutional monarchy",
+            "fr": "constitutional monarchy",
+            "it": "constitutional monarchy",
+            "es": "constitutional monarchy"
+          }
+        }
+      ],
+      "officialLanguage": [
+        {
+          "articleId": "Dutch language",
+          "name": {
+            "en": "Dutch",
+            "pt": "Língua neerlandesa",
+            "fr": "Néerlandais",
+            "it": "Lingua olandese",
+            "es": "Idioma neerlandés"
+          }
+        }
+      ],
+      "demonym": [
+        {
+          "articleId": null,
+          "name": {
+            "en": "Dutch",
+            "pt": "Dutch",
+            "fr": "Dutch",
+            "it": "Dutch",
+            "es": "Dutch"
+          }
+        }
+      ],
+      "gdp": 1.45,
+      "hdi": 0.955,
+      "currency": [
+        {
+          "articleId": "Euro",
+          "name": {
+            "en": "Euro",
+            "pt": "Euro",
+            "fr": "Euro",
+            "it": "Euro",
+            "es": "Euro"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "(€) (",
+            "pt": "(€) (",
+            "fr": "(€) (",
+            "it": "(€) (",
+            "es": "(€) ("
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": "ISO 4217",
+          "name": {
+            "en": "USD",
+            "pt": "ISO 4217",
+            "fr": "ISO 4217",
+            "it": "ISO 4217",
+            "es": "ISO 4217"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": ")",
+            "pt": ")",
+            "fr": ")",
+            "it": ")",
+            "es": ")"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "United States dollar (US$) (",
+            "pt": "United States dollar (US$) (",
+            "fr": "United States dollar (US$) (",
+            "it": "United States dollar (US$) (",
+            "es": "United States dollar (US$) ("
+          },
+          "isoCode": null
+        }
+      ],
+      "timeZone": [],
+      "callingCode": [
+        "+31",
+        "+599"
+      ],
+      "internetTld": [
+        ".nl",
+        ".bq"
+      ]
+    },
+    {
+      "isoCode": "NL",
+      "name": {
         "en": "Kingdom of the Netherlands",
         "pt": "Reino dos Países Baixos",
         "fr": "Pays-Bas",
@@ -18428,175 +18597,6 @@
       ],
       "callingCode": [],
       "internetTld": []
-    },
-    {
-      "isoCode": "NL",
-      "name": {
-        "en": "Netherlands",
-        "pt": "Países Baixos",
-        "fr": "Pays-Bas (pays constitutif)",
-        "it": "Paesi Bassi",
-        "es": "Países Bajos"
-      },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Netherlands.svg?width=250",
-      "description": {
-        "en": ", also informally known as Holland, is a country in Northwestern Europe, with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces and three overseas special municipalities. European Netherlands has land borders with Germany to the east and with Belgium to the south, and a coastline to the north and west. It shares maritime borders with the United Kingdom, Germany, and Belgium in the North Sea. The official language is Dutch, with West Frisian as a secondary official language in the province of Friesland.",
-        "pt": "Países Baixos, informalmente conhecidos como Holanda, são uma nação constituinte do Reino dos Países Baixos localizada na Europa ocidental. O país é uma monarquia constitucional parlamentar democrática banhada pelo mar do Norte a norte e a oeste, que faz fronteira com a Bélgica a sul e com a Alemanha a leste. A capital é Amesterdão ou Amsterdã e a sede do governo é na cidade de Haia.",
-        "fr": "Les Pays-Bas sont l'un des quatre pays constitutifs du royaume des Pays-Bas, un État souverain à qui il fournit l'essentiel de sa superficie et de sa population, de sorte qu'on le désigne lui-même le plus souvent sous le nom de Pays-Bas. La quasi-totalité du territoire du pays constitutif des Pays-Bas est située en Europe.",
-        "it": "I Paesi Bassi, spesso colloquialmente indicati impropriamente come Olanda, sono una delle quattro nazioni costitutive del Regno dei Paesi Bassi; si trovano principalmente in Europa, ma comprendono anche i cosiddetti Paesi Bassi caraibici.",
-        "es": "Países Bajos es una de las cuatro naciones constituyentes del Reino de los Países Bajos y un Estado miembro de la Unión Europea. Su capital y ciudad más poblada oficial es Ámsterdam,no obstante, la sede del gobierno, del parlamento, de la monarquía y de los órganos judiciales se encuentra en La Haya."
-      },
-      "capital": [
-        {
-          "articleId": "Amsterdam",
-          "name": {
-            "en": "Amsterdam",
-            "pt": "Amesterdão",
-            "fr": "Amsterdam",
-            "it": "Amsterdam",
-            "es": "Ámsterdam"
-          }
-        }
-      ],
-      "largestCity": [
-        {
-          "articleId": "Amsterdam",
-          "name": {
-            "en": "Amsterdam",
-            "pt": "Amesterdão",
-            "fr": "Amsterdam",
-            "it": "Amsterdam",
-            "es": "Ámsterdam"
-          }
-        }
-      ],
-      "population": 18044027,
-      "areaKm2": 41865,
-      "densityKm2": 541,
-      "government": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Unitary",
-            "pt": "Unitary",
-            "fr": "Unitary",
-            "it": "Unitary",
-            "es": "Unitary"
-          }
-        },
-        {
-          "articleId": "Parliamentary system",
-          "name": {
-            "en": "parliamentary",
-            "pt": "parliamentary",
-            "fr": "Régime parlementaire",
-            "it": "Sistema parlamentare",
-            "es": "Sistema parlamentario"
-          }
-        },
-        {
-          "articleId": "constitutional monarchy",
-          "name": {
-            "en": "constitutional monarchy",
-            "pt": "constitutional monarchy",
-            "fr": "constitutional monarchy",
-            "it": "constitutional monarchy",
-            "es": "constitutional monarchy"
-          }
-        }
-      ],
-      "officialLanguage": [
-        {
-          "articleId": "Dutch language",
-          "name": {
-            "en": "Dutch",
-            "pt": "Língua neerlandesa",
-            "fr": "Néerlandais",
-            "it": "Lingua olandese",
-            "es": "Idioma neerlandés"
-          }
-        }
-      ],
-      "demonym": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Dutch",
-            "pt": "Dutch",
-            "fr": "Dutch",
-            "it": "Dutch",
-            "es": "Dutch"
-          }
-        }
-      ],
-      "gdp": 1.45,
-      "hdi": 0.955,
-      "currency": [
-        {
-          "articleId": "Euro",
-          "name": {
-            "en": "Euro",
-            "pt": "Euro",
-            "fr": "Euro",
-            "it": "Euro",
-            "es": "Euro"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "(€) (",
-            "pt": "(€) (",
-            "fr": "(€) (",
-            "it": "(€) (",
-            "es": "(€) ("
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": "ISO 4217",
-          "name": {
-            "en": "USD",
-            "pt": "ISO 4217",
-            "fr": "ISO 4217",
-            "it": "ISO 4217",
-            "es": "ISO 4217"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": ")",
-            "pt": ")",
-            "fr": ")",
-            "it": ")",
-            "es": ")"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "United States dollar (US$) (",
-            "pt": "United States dollar (US$) (",
-            "fr": "United States dollar (US$) (",
-            "it": "United States dollar (US$) (",
-            "es": "United States dollar (US$) ("
-          },
-          "isoCode": null
-        }
-      ],
-      "timeZone": [],
-      "callingCode": [
-        "+31",
-        "+599"
-      ],
-      "internetTld": [
-        ".nl",
-        ".bq"
-      ]
     },
     {
       "isoCode": "NO",
@@ -21410,7 +21410,7 @@
           }
         }
       ],
-      "population": 121355,
+      "population": 1,
       "areaKm2": 457,
       "densityKm2": 262.3,
       "government": [
@@ -22036,13 +22036,13 @@
       ],
       "demonym": [
         {
-          "articleId": "Slovenes",
+          "articleId": "Demographics of Slovenia",
           "name": {
             "en": "Slovenian",
-            "pt": "Eslovenos",
-            "fr": "Slovènes",
-            "it": "Sloveni",
-            "es": "Pueblo esloveno"
+            "pt": "Slovenian",
+            "fr": "Démographie de la Slovénie",
+            "it": "Slovenian",
+            "es": "Demografía de Eslovenia"
           }
         }
       ],
@@ -27156,7 +27156,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Benin.svg?width=250",
       "description": {
-        "en": "Benin, officially the Republic of Benin, formerly known as Dahomey, is a country in West Africa. It is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the northwest, and Niger to the northeast. The majority of its population lives on the southern coastline of the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean. The capital is Porto-Novo, and the seat of government is in Cotonou, the most populous city and economic capital. Benin covers an area of,",
+        "en": "Benin, officially the Republic of Benin, formerly known as Dahomey, is a country in West Africa. It is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the northwest, and Niger to the northeast. The majority of its population lives on the southern coastline of the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean. The capital is Porto-Novo, and the seat of government is in Cotonou, the most populous city and economic capital. Benin covers an area of, and its population in 2026 was estimated to be approximately. It is a tropical country with an economy heavily dependent on agriculture and the exports of palm oil and cotton.",
         "pt": "A língua oficial do Benim é o francês, sendo que o fon, bariba, iorubá e dendi também são falados. O maior grupo religioso no Benim é o catolicismo romano, seguido pelo islamismo, vodum e protestantismo. Benim é integrante de várias organizações internacionais, como as Nações Unidas, a Organização para a Cooperação Islâmica, Organização Internacional da Francofonia e Zona de Paz e Cooperação do Atlântico Sul, sendo membro, também, de organizações regionais como a União Africana, Comunidade Econômica dos Estados da África Ocidental, Comunidade dos Estados do Sahel-Saara, Organização Africana de Produtores de Petróleo e a Autoridade da Bacia do Níger.",
         "fr": "Le Bénin, en forme longue la république du Bénin, historiquement connu sous le nom de Dahomey, est un État d'Afrique de l'Ouest, qui couvre une superficie de et s'étend sur, du fleuve Niger au nord à la côte atlantique au sud. Le Bénin comptait en 2025. Le pays fait partie des États membres de la CEDEAO et a comme voisins le Togo à l'ouest, le Nigeria à l'est, le Niger au nord-est et le Burkina Faso au nord-ouest.",
         "it": "Il Benin, ufficialmente Repubblica del Benin, è uno Stato dell'Africa occidentale, fino al 1975 conosciuto con il nome di Dahomey.",
@@ -27186,7 +27186,7 @@
           }
         }
       ],
-      "population": 13754688,
+      "population": 15170420,
       "areaKm2": 114763,
       "densityKm2": 94.8,
       "government": [
@@ -27984,7 +27984,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_South_Africa.svg?width=250",
       "description": {
-        "en": "South Africa, officially the Republic of South Africa, is the southernmost country in Africa. Its nine provinces are bounded to the south by of coastline that stretches along the South Atlantic, and Indian Ocean; to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe to the east and northeast by Mozambique, and Eswatini, and it encloses Lesotho. Covering an area of 1221037, the country has a population of over 63 million people, making it the sixth-most populated country in Africa. Pretoria is the administrative capital, while Cape Town, as the seat of Parliament, is the legislative capital, and Bloemfontein is regarded as the judicial capital. The largest and most populous city is Johannesburg, followed by Cape Town and Durban.",
+        "en": "South Africa, officially the Republic of South Africa, is the southernmost country in Africa. Its nine provinces are bounded to the south by of coastline that stretches along the South Atlantic, and Indian Ocean; to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe to the east and northeast by Mozambique, and Eswatini, and it encloses Lesotho. Covering an area of 1221037, the country has a population of over 63 million people, making it the sixth-most populated country in Africa.",
         "pt": "África do Sul, oficialmente República da África do Sul e mais raramente referida como Suláfrica, é um país localizado no extremo sul da África, entre os oceanos Atlântico e Índico, com quilômetros de litoral. É limitado pela Namíbia, Botsuana e Zimbábue ao norte; Moçambique e Essuatíni a leste; e com o Lesoto, um enclave totalmente rodeado pelo território sul-africano. O país é conhecido por sua biodiversidade e pela grande variedade de culturas, idiomas e crenças religiosas. A Constituição reconhece 11 línguas oficiais. Duas dessas línguas são de origem europeia: o africâner, uma língua que se originou principalmente a partir do neerlandês e que é falado pela maioria dos brancos e mestiços sul-africanos, e o inglês sul-africano, que é a língua mais falada na vida pública oficial e comercial, mas é apenas o quinto idioma mais falado em casa.",
         "fr": "LAfrique du Sud, en forme longue la république d'Afrique du Sud, est un pays d'Afrique australe. Sa capitale administrative est Pretoria. Il est frontalier à l'ouest-nord-ouest avec la Namibie, au nord et au nord-nord-est avec le Botswana, au nord-est avec le Zimbabwe et à l'est-nord-est avec le Mozambique et l'Eswatini. Le Lesotho est pour sa part un État enclavé dans le territoire sud-africain.",
         "it": "Il Sudafrica, ufficialmente Repubblica del Sudafrica, è uno Stato indipendente dell'Africa australe.",
