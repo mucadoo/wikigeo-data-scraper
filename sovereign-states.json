@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-21T02:36:09.266Z",
+    "generatedAt": "2026-07-24T02:36:24.993Z",
     "version": "0.1.17",
     "license": "ISC",
     "source": "Wikipedia"
@@ -54,11 +54,11 @@
         {
           "articleId": null,
           "name": {
-            "en": "Unitary parliamentary constitutional",
-            "pt": "Unitary parliamentary constitutional",
-            "fr": "Unitary parliamentary constitutional",
-            "it": "Unitary parliamentary constitutional",
-            "es": "Unitary parliamentary constitutional"
+            "en": "Unitary parliamentary",
+            "pt": "Unitary parliamentary",
+            "fr": "Unitary parliamentary",
+            "it": "Unitary parliamentary",
+            "es": "Unitary parliamentary"
           }
         },
         {
@@ -96,7 +96,7 @@
           }
         }
       ],
-      "gdp": 3.897,
+      "gdp": 4.8792026,
       "hdi": 0.913,
       "currency": [
         {
@@ -175,7 +175,7 @@
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_Arab_Emirates.svg?width=250",
       "description": {
         "en": "The United Arab Emirates, also known simply as the Emirates, is a country in West Asia, situated at the eastern end of the Arabian Peninsula. It is a federal semi-constitutional monarchy made up of seven emirates, with Abu Dhabi serving as its national capital. The UAE borders Oman to the east and northeast, and Saudi Arabia to the south and southwest. It shares maritime borders with Saudi Arabia, Qatar, and Iran in the Persian Gulf, and with Oman in the Gulf of Oman. In 2024, the UAE had an estimated population of over 11 million. Dubai is the country's largest city. Islam is the state religion. Arabic is the official language while English remains the most spoken language and the language of business.",
-        "pt": "Antes de 1971, os Emirados Árabes Unidos eram conhecidos como Estados da Trégua, em referência a uma trégua do século XIX entre o Reino Unido e vários xeques árabes. O nome Costa Pirata também foi utilizado em referência aos emirados que ocupam a região do século XVIII até o início do século XX. O sistema político dos Emirados Árabes Unidos, baseado na constituição de 1971, dispõe de vários órgãos ligados intrinsecamente. O islamismo é a religião oficial e o idioma árabe, a língua oficial.",
+        "pt": "Antes de 1971, os Emirados Árabes Unidos eram conhecidos como Estados da Trégua, em referência a uma trégua do entre o Reino Unido e vários xeques árabes. O nome Costa Pirata também foi utilizado em referência aos emirados que ocupam a região do até o início do XX. O sistema político dos Emirados Árabes Unidos, baseado na constituição de 1971, dispõe de vários órgãos ligados intrinsecamente. O islamismo é a religião oficial e o idioma árabe, a língua oficial.",
         "fr": "Les Émirats arabes unis sont un État fédéral, créé en 1971, situé au Moyen-Orient entre le golfe Persique et le golfe d'Oman. Ils réunissent sept émirats : Abou Dabi, Ajman, Charjah, Dubaï, Fujaïrah, Ras el Khaïmah et Oumm al Qaïwaïn. La capitale fédérale est Abou Dabi, mais la plus grande ville est Dubaï.",
         "it": "Gli Emirati Arabi Uniti, ufficialmente Stato degli Emirati Arabi Uniti, sono un Paese arabo del Medio Oriente situato nel sud-est della penisola arabica, in Asia occidentale, che confina con l'Oman a sud-est, con l'Arabia Saudita a sud-ovest ed è bagnato dal Golfo Persico a nord. Lo Stato è composto da sette emirati: Abu Dhabi, ʿAjmān, Dubai, Fujaira, Ra's al-Khayma, Sharja e Umm al-Qaywayn.",
         "es": "El petróleo es la principal fuente de ingresos y el componente esencial de su PIB. Los Emiratos Árabes Unidos son la 30.ª economía por volumen de PIB y en cuanto al índice de desarrollo humano, elaborado por Naciones Unidas, fueron situados en el puesto n.º 42 entre 188 países en 2016."
@@ -2462,7 +2462,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Bulgaria.svg?width=250",
       "description": {
-        "en": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania across the Danube river to the north. It covers a territory of, making it the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Plovdiv, Varna, and Burgas.",
+        "en": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeastern Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania across the Danube river to the north. It covers a territory of, making it the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Plovdiv, Varna, and Burgas.",
         "pt": "Uma das primeiras sociedades nas terras da atual Bulgária foi a cultura neolítica de Karanovo, que remonta a Na Antiguidade, a região tornou-se um campo de batalha para os trácios, persas, celtas e gregos macedônios até que foi conquistada pelo Império Romano em O Império Romano do Oriente, ou Império Bizantino, perdeu alguns desses territórios para uma horda búlgara invasora no final do. Os búlgaros fundaram o primeiro estado búlgaro unificado em 681, que dominou a maioria da Península Balcânica e influenciou significativamente as culturas eslavas, desenvolvendo a escrita cirílica. O primeiro Império Búlgaro durou até o início do, quando o imperador bizantino Basílio II conquistou e desmantelou-o. Uma revolta búlgara de sucesso em 1185 estabeleceu um Segundo Império Búlgaro que atingiu seu ápice sob João Asen II. Depois de inúmeras guerras exaustivas e lutas feudais, o Segundo Império Búlgaro se desintegrou em 1396 e seus territórios ficaram sob domínio otomano por quase cinco séculos.",
         "fr": "La Bulgarie, en forme longue la république de Bulgarie, est un pays d'Europe du Sud-Est situé dans les Balkans, et qui fait partie de l’Union Européenne depuis 2007. Elle est bordée par la mer Noire à l'est, par la Grèce et la Turquie au sud, au nord par le Danube et la Roumanie, à l'ouest par la Serbie et la Macédoine du Nord. Sa capitale est Sofia.",
         "it": "Confina con il mar Nero a est, con la Grecia e la Turchia a sud, con la Serbia e la Macedonia del Nord a ovest e con la Romania a nord, da cui è divisa dal fiume Danubio. Con una superficie di la Bulgaria è il 14º Stato europeo per estensione. La sua posizione l'ha resa nel corso della storia un importante incrocio per varie civiltà ed è infatti il luogo di ritrovamento di alcuni dei più antichi artefatti metallurgici, religiosi e culturali al mondo. La lunghezza complessiva dei confini bulgari è di 2 245 km, di cui 1 181 terrestri, 686 fluviali e 378 costieri. La rete stradale della Bulgaria è lunga 36 720 km, la rete ferroviaria ne ha invece 4 300.",
@@ -2655,13 +2655,13 @@
           }
         },
         {
-          "articleId": "semi-constitutional monarchy",
+          "articleId": "constitutional monarchy",
           "name": {
-            "en": "semi-constitutional monarchy",
-            "pt": "semi-constitutional monarchy",
-            "fr": "semi-constitutional monarchy",
-            "it": "semi-constitutional monarchy",
-            "es": "semi-constitutional monarchy"
+            "en": "constitutional monarchy",
+            "pt": "constitutional monarchy",
+            "fr": "constitutional monarchy",
+            "it": "constitutional monarchy",
+            "es": "constitutional monarchy"
           }
         },
         {
@@ -2744,7 +2744,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Burundi.svg?width=250",
       "description": {
-        "en": "Burundi, officially the Republic of Burundi, is a landlocked country in East Africa. It is located in the Great Rift Valley at the junction between the African Great Lakes region and Southeast Africa, with a population of over 14 million people. It is bordered by Rwanda to the north, Tanzania to the east and southeast, and the Democratic Republic of the Congo to the west; Lake Tanganyika lies along its southwestern border. The political capital city is Gitega and the economic capital and largest city is Bujumbura.",
+        "en": "Burundi, officially the Republic of Burundi, is a landlocked country in East Africa. It is located in the Great Rift Valley at the junction between the African Great Lakes region and Southeastern Africa, with a population of over 14 million people. It is bordered by Rwanda to the north, Tanzania to the east and southeast, and the Democratic Republic of the Congo to the west; Lake Tanganyika lies along its southwestern border. The political capital city is Gitega and the economic capital and largest city is Bujumbura.",
         "pt": "O Burundi continua sendo principalmente uma sociedade rural, com apenas 13,4% da população vivendo em áreas urbanas em 2019. A densidade populacional de cerca de 315 hab./km quadrado é a segunda maior da África Subsaariana. Aproximadamente 85% da população são de origem étnica hútu, 15% são tútsis e menos de 1% são tuá. As línguas mais faladas no país são o kirundi, o francês e o inglês, sendo o kirundi reconhecido oficialmente como a língua nacional.",
         "fr": "Le Burundi, en forme longue la république du Burundi, est un pays d'Afrique de l'Est sans accès à la mer mais possédant un grand rivage sur le lac Tanganyika, situé dans la région des Grands Lacs et bordé à l'ouest par la république démocratique du Congo, au nord par le Rwanda et à l'est et au sud par la Tanzanie.",
         "it": "Il Burundi, ufficialmente Repubblica del Burundi, è uno Stato africano dalla superficie di.",
@@ -4615,11 +4615,11 @@
         {
           "articleId": null,
           "name": {
-            "en": "Unitary parliamentary semi-",
-            "pt": "Unitary parliamentary semi-",
-            "fr": "Unitary parliamentary semi-",
-            "it": "Unitary parliamentary semi-",
-            "es": "Unitary parliamentary semi-"
+            "en": "Unitary",
+            "pt": "Unitary",
+            "fr": "Unitary",
+            "it": "Unitary",
+            "es": "Unitary"
           }
         },
         {
@@ -7897,6 +7897,164 @@
     {
       "isoCode": "EU",
       "name": {
+        "en": "Greece",
+        "pt": "Grécia",
+        "fr": "Grèce",
+        "it": "Grecia",
+        "es": "Grecia"
+      },
+      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Greece.svg?width=250",
+      "description": {
+        "en": "Greece, officially the Hellenic Republic, is a country of 10 million people on the southern tip of the Balkan peninsula in Southeastern Europe. With nine regions and thousands of islands, it has the longest coastline on the Mediterranean. The Ionian Sea is west of the mainland, Albania northwest, and North Macedonia and Bulgaria north. Turkey is east both by land and the Aegean Sea. The capital, Athens, is the largest Greek city, followed by Thessaloniki and Patras.",
+        "pt": "Grécia, oficialmente República e historicamente conhecida como Hélade, é um país localizado no sul da Europa. De acordo com dados do censo de 2011, a população grega é de cerca de 11 milhões de pessoas. Atenas é a capital e a maior cidade do país.",
+        "fr": "La Grèce, en forme longue la République hellénique, est un pays d’Europe du Sud et des Balkans. On la désigne parfois par le terme Hellade.",
+        "it": "La Grecia, ufficialmente Repubblica Ellenica, è uno Stato indipendente dell'Europa meridionale, ubicato all'estremità della penisola balcanica. È una repubblica parlamentare unitaria e la sua capitale è Atene.",
+        "es": "Grecia, oficialmente llamada República Helénica, es uno de los veintisiete Estados soberanos que forman la Unión Europea."
+      },
+      "capital": [
+        {
+          "articleId": "Athens",
+          "name": {
+            "en": "Athens",
+            "pt": "Atenas",
+            "fr": "Athènes",
+            "it": "Atene",
+            "es": "Atenas"
+          }
+        }
+      ],
+      "largestCity": [
+        {
+          "articleId": "Athens",
+          "name": {
+            "en": "Athens",
+            "pt": "Atenas",
+            "fr": "Athènes",
+            "it": "Atene",
+            "es": "Atenas"
+          }
+        }
+      ],
+      "population": 10372335,
+      "areaKm2": 131957,
+      "densityKm2": 78.9,
+      "government": [
+        {
+          "articleId": "Unitary parliamentary republic",
+          "name": {
+            "en": "Unitary parliamentary republic",
+            "pt": "Unitary parliamentary republic",
+            "fr": "Unitary parliamentary republic",
+            "it": "Unitary parliamentary republic",
+            "es": "Unitary parliamentary republic"
+          }
+        }
+      ],
+      "officialLanguage": [
+        {
+          "articleId": "Greek language",
+          "name": {
+            "en": "Greek",
+            "pt": "Língua grega",
+            "fr": "Grec",
+            "it": "Lingua greca",
+            "es": "Idioma griego"
+          }
+        }
+      ],
+      "demonym": [
+        {
+          "articleId": "Greeks",
+          "name": {
+            "en": "Greek",
+            "pt": "Gregos",
+            "fr": "Grecs",
+            "it": "Greci",
+            "es": "Pueblo griego"
+          }
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "Hellene",
+            "pt": "Hellene",
+            "fr": "Hellene",
+            "it": "Hellene",
+            "es": "Hellene"
+          }
+        }
+      ],
+      "gdp": 307.554,
+      "hdi": 0.908,
+      "currency": [
+        {
+          "articleId": "Euro",
+          "name": {
+            "en": "Euro",
+            "pt": "Euro",
+            "fr": "Euro",
+            "it": "Euro",
+            "es": "Euro"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "(",
+            "pt": "(",
+            "fr": "(",
+            "it": "(",
+            "es": "("
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": "Euro sign",
+          "name": {
+            "en": "€",
+            "pt": "€",
+            "fr": "Symbole euro",
+            "it": "Simbolo dell'euro",
+            "es": "Símbolo del euro"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": ")",
+            "pt": ")",
+            "fr": ")",
+            "it": ")",
+            "es": ")"
+          },
+          "isoCode": null
+        }
+      ],
+      "timeZone": [
+        {
+          "articleId": null,
+          "name": {
+            "en": "+02:00",
+            "pt": "+02:00",
+            "fr": "+02:00",
+            "it": "+02:00",
+            "es": "+02:00"
+          }
+        }
+      ],
+      "callingCode": [
+        "+30"
+      ],
+      "internetTld": [
+        ".gr",
+        ".ελ"
+      ]
+    },
+    {
+      "isoCode": "EU",
+      "name": {
         "en": "Germany",
         "pt": "Alemanha",
         "fr": "Allemagne",
@@ -8049,164 +8207,6 @@
       ],
       "internetTld": [
         ".de"
-      ]
-    },
-    {
-      "isoCode": "EU",
-      "name": {
-        "en": "Greece",
-        "pt": "Grécia",
-        "fr": "Grèce",
-        "it": "Grecia",
-        "es": "Grecia"
-      },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Greece.svg?width=250",
-      "description": {
-        "en": "Greece, officially the Hellenic Republic, is a country of 10 million people on the southern tip of the Balkan peninsula in Southeast Europe. With nine regions and thousands of islands, it has the longest coastline on the Mediterranean. The Ionian Sea is west of the mainland, Albania northwest, and North Macedonia and Bulgaria north. Turkey is east both by land and the Aegean Sea. The capital, Athens, is the largest Greek city, followed by Thessaloniki and Patras.",
-        "pt": "Grécia, oficialmente República e historicamente conhecida como Hélade, é um país localizado no sul da Europa. De acordo com dados do censo de 2011, a população grega é de cerca de 11 milhões de pessoas. Atenas é a capital e a maior cidade do país.",
-        "fr": "La Grèce, en forme longue la République hellénique, est un pays d’Europe du Sud et des Balkans. On la désigne parfois par le terme Hellade.",
-        "it": "La Grecia, ufficialmente Repubblica Ellenica, è uno Stato indipendente dell'Europa meridionale, ubicato all'estremità della penisola balcanica. È una repubblica parlamentare unitaria e la sua capitale è Atene.",
-        "es": "Grecia, oficialmente llamada República Helénica, es uno de los veintisiete Estados soberanos que forman la Unión Europea."
-      },
-      "capital": [
-        {
-          "articleId": "Athens",
-          "name": {
-            "en": "Athens",
-            "pt": "Atenas",
-            "fr": "Athènes",
-            "it": "Atene",
-            "es": "Atenas"
-          }
-        }
-      ],
-      "largestCity": [
-        {
-          "articleId": "Athens",
-          "name": {
-            "en": "Athens",
-            "pt": "Atenas",
-            "fr": "Athènes",
-            "it": "Atene",
-            "es": "Atenas"
-          }
-        }
-      ],
-      "population": 10372335,
-      "areaKm2": 131957,
-      "densityKm2": 78.9,
-      "government": [
-        {
-          "articleId": "Unitary parliamentary republic",
-          "name": {
-            "en": "Unitary parliamentary republic",
-            "pt": "Unitary parliamentary republic",
-            "fr": "Unitary parliamentary republic",
-            "it": "Unitary parliamentary republic",
-            "es": "Unitary parliamentary republic"
-          }
-        }
-      ],
-      "officialLanguage": [
-        {
-          "articleId": "Greek language",
-          "name": {
-            "en": "Greek",
-            "pt": "Língua grega",
-            "fr": "Grec",
-            "it": "Lingua greca",
-            "es": "Idioma griego"
-          }
-        }
-      ],
-      "demonym": [
-        {
-          "articleId": "Greeks",
-          "name": {
-            "en": "Greek",
-            "pt": "Gregos",
-            "fr": "Grecs",
-            "it": "Greci",
-            "es": "Pueblo griego"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "Hellene",
-            "pt": "Hellene",
-            "fr": "Hellene",
-            "it": "Hellene",
-            "es": "Hellene"
-          }
-        }
-      ],
-      "gdp": 307.554,
-      "hdi": 0.908,
-      "currency": [
-        {
-          "articleId": "Euro",
-          "name": {
-            "en": "Euro",
-            "pt": "Euro",
-            "fr": "Euro",
-            "it": "Euro",
-            "es": "Euro"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "(",
-            "pt": "(",
-            "fr": "(",
-            "it": "(",
-            "es": "("
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": "Euro sign",
-          "name": {
-            "en": "€",
-            "pt": "€",
-            "fr": "Symbole euro",
-            "it": "Simbolo dell'euro",
-            "es": "Símbolo del euro"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": ")",
-            "pt": ")",
-            "fr": ")",
-            "it": ")",
-            "es": ")"
-          },
-          "isoCode": null
-        }
-      ],
-      "timeZone": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "+02:00",
-            "pt": "+02:00",
-            "fr": "+02:00",
-            "it": "+02:00",
-            "es": "+02:00"
-          }
-        }
-      ],
-      "callingCode": [
-        "+30"
-      ],
-      "internetTld": [
-        ".gr",
-        ".ελ"
       ]
     },
     {
@@ -9401,9 +9401,9 @@
         "it": "Spagna",
         "es": "España"
       },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bandera_de_Espa%C3%B1a.svg?width=250",
+      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Kingdom_of_Spain.svg?width=250",
       "description": {
-        "en": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa. Peninsular Spain is bordered to the north by France, Andorra, and the Bay of Biscay; to the east and south by the Mediterranean Sea and Gibraltar and Morocco, through its exclaves in North Africa; and to the west by Portugal and the Atlantic Ocean. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Seville, Zaragoza, Málaga, Murcia, and Palma de Mallorca.",
+        "en": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa. Peninsular Spain is bordered to the north by France, Andorra, and the Bay of Biscay; to the east and south by the Mediterranean Sea and Gibraltar and Morocco, through its exclaves in North Africa; and to the west by Portugal and the Atlantic Ocean. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Seville, Zaragoza, Málaga, Murcia, and Palma de Mallorca, Santa Cruz de Tenerife, Cádiz,Toledo, Granada,",
         "pt": "Espanha, oficialmente Reino de/da Espanha, é um país principalmente localizado na Península Ibérica na Europa. Seu território também inclui dois arquipélagos: as ilhas Canárias, na costa da África, e as ilhas Baleares, no mar Mediterrâneo. Os enclaves africanos de Ceuta e Melilla fazem da Espanha o único país europeu a ter uma fronteira terrestre com um país africano. Várias pequenas ilhas no mar de Alborão também fazem parte do território espanhol. A Espanha continental é limitada a sul e a leste pelo Mediterrâneo, exceto por uma pequena fronteira terrestre com Gibraltar; a norte e a nordeste pela França, por Andorra e pelo Golfo da Biscaia; e a oeste e noroeste por Portugal e pelo Oceano Atlântico. Com uma área de km, a Espanha é o maior país da Europa Meridional, o segundo maior país da Europa Ocidental e da União Europeia e o quarto maior país de todo o continente europeu. Também é o sexto país mais populoso da Europa e o quarto da UE. A capital e maior cidade é Madri; outras grandes áreas urbanas incluem Barcelona, Valência, Sevilha, Málaga, Bilbau e Granada.",
         "fr": "LEspagne, en forme longue le royaume d'Espagne, est un État souverain transcontinental d'Europe du Sud-Ouest, qui occupe la plus grande partie de la péninsule Ibérique. Sa superficie est de.",
         "it": "La Spagna, il cui nome ufficiale è Regno di Spagna, è uno Stato dell'Europa occidentale ed è membro dell'Unione europea. Monarchia parlamentare, la Spagna è situata all'estremità occidentale dell'Europa e occupa buona parte della superficie della penisola iberica.",
@@ -9573,7 +9573,7 @@
         "en": "Finland, officially the Republic of Finland, is a Nordic country in Northern Europe. It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of Bothnia to the west and the Gulf of Finland to the south, opposite Estonia. Its capital and largest city is Helsinki. Finland has a population of 5.7 million. The official languages are Finnish and Swedish, the mother tongues of 83.5 percent and 5.0 percent of the population, respectively. Finland's climate varies from humid continental in the south to boreal in the north. Its land is predominantly covered by boreal forest, with over 180,000 recorded lakes.",
         "pt": "Finlândia, oficialmente República da Finlândia, é um país nórdico situado na região da Fino-Escandinávia, no norte da Europa. Faz fronteira com a Suécia a oeste, com a Rússia a leste e com a Noruega ao norte, enquanto a Estônia está ao sul através do Golfo da Finlândia. e a segunda maior cidade é Tampere, localizada a cerca de 180 km a norte da capital. Cerca de 5,3 milhões de pessoas vivem na Finlândia, estando a maior parte concentrada no sul do país.",
         "fr": "La Finlande, en forme longue la république de Finlande, est un État souverain d'Europe du Nord dont le territoire s'étend sur le flanc est et sur de la mer Baltique. La partie continentale possède près de et partage ses frontières terrestres avec la Russie à l'est, et avec la Suède et la Norvège au nord, tandis que les archipels de Turku et d'Åland constituent l'essentiel de la partie insulaire du pays.",
-        "it": "La Finlandia, ufficialmente Repubblica di Finlandia, è uno Stato dell'Europa facente parte della regione nota come Fennoscandia e,parzialmente anche della della penisola scandinava. Confina con la Svezia a ovest, la Norvegia a nord e la Russia a est. Si affaccia a sud sul golfo di Finlandia, sulla cui sponda meridionale si trova l'Estonia. È uno Stato membro dell'Unione europea, dell'ONU e della NATO.",
+        "it": "La Finlandia, ufficialmente Repubblica di Finlandia, è uno Stato dell'Europa facente parte della regione nota come Fennoscandia e, parzialmente anche della della penisola scandinava. Confina con la Svezia a ovest, la Norvegia a nord e la Russia a est. Si affaccia a sud sul golfo di Finlandia, sulla cui sponda meridionale si trova l'Estonia. È uno Stato membro dell'Unione europea, dell'ONU e della NATO.",
         "es": "Finlandia, oficialmente la República de Finlandia, es uno de los veintisiete Estados soberanos que forman la Unión Europea. Está situado en el noreste de Europa. Tiene fronteras al oeste con Suecia, al este con Rusia y al norte con Noruega. Por el oeste y el sur está rodeada por el mar Báltico, que la separa de Suecia y Estonia, cruzando los golfos de Botnia y Finlandia, respectivamente. La capital y ciudad más importante del país es Helsinki, y la segunda ciudad más grande y área urbana más grande es Tampere, 180 kilómetros al norte de Helsinki."
       },
       "capital": [
@@ -10782,6 +10782,86 @@
       ],
       "officialLanguage": [
         {
+          "articleId": "Susu language",
+          "name": {
+            "en": "Susu",
+            "pt": "Língua sosso",
+            "fr": "Soso (langue)",
+            "it": "Lingua susu",
+            "es": "Idioma susu"
+          }
+        },
+        {
+          "articleId": "Pulaar language",
+          "name": {
+            "en": "Fulani",
+            "pt": "Língua pular",
+            "fr": "Pulaar",
+            "it": "Lingua pulaar",
+            "es": "Fulani"
+          }
+        },
+        {
+          "articleId": "Malinke language",
+          "name": {
+            "en": "Malinke",
+            "pt": "Línguas manincas",
+            "fr": "Malinké (langue)",
+            "it": "Lingua maninka",
+            "es": "Malinke"
+          }
+        },
+        {
+          "articleId": "Kissi language",
+          "name": {
+            "en": "Kissi",
+            "pt": "Língua kissi",
+            "fr": "Kissi (langue)",
+            "it": "Kissi",
+            "es": "Kissi"
+          }
+        },
+        {
+          "articleId": "Kpelle language",
+          "name": {
+            "en": "Kpelle",
+            "pt": "Língua kpelle",
+            "fr": "Kpèllé (langue)",
+            "it": "Kpelle",
+            "es": "Kpelle"
+          }
+        },
+        {
+          "articleId": "Toma language",
+          "name": {
+            "en": "Toma",
+            "pt": "Língua loma",
+            "fr": "Loma (langue)",
+            "it": "Toma",
+            "es": "Toma"
+          }
+        },
+        {
+          "articleId": "Landuma language",
+          "name": {
+            "en": "Landuma",
+            "pt": "Landuma",
+            "fr": "Landoma (langue)",
+            "it": "Landuma",
+            "es": "Landuma"
+          }
+        },
+        {
+          "articleId": "Badiaranke language",
+          "name": {
+            "en": "Uanian",
+            "pt": "Uanian",
+            "fr": "Badiaranké (langue)",
+            "it": "Uanian",
+            "es": "Uanian"
+          }
+        },
+        {
           "articleId": "French language",
           "name": {
             "en": "French",
@@ -11255,7 +11335,7 @@
         "pt": "O país abrigou várias culturas indígenas importantes, mais notavelmente os Maias. Cristóvão Colombo foi o primeiro europeu a visitar as Islas de la Bahía, na costa do país, desembarcando perto da atual cidade de Trujillo. Grande parte do país foi conquistado e colonizado pela Espanha no século XVI, que introduziu seu idioma, agora predominante, e muitos de seus costumes. Foi organizada como uma província do Reino de Guatemala e teve três capitais: Trujillo, Comayagua e, a partir de 1880, Tegucigalpa, que permanece até hoje. Tornou-se independente em 15 de setembro de 1821 e foi uma república desde o fim do domínio espanhol.",
         "fr": "Le Honduras, en forme longue la république du Honduras, est un pays situé en Amérique centrale, dont il occupe le deuxième rang autant par sa superficie juste après le Nicaragua que par sa population après le Guatemala.",
         "it": "Prima della conquista spagnola, l'area dell'attuale Honduras fu abitata da popolazioni precolombiane, tra i quali i Maya. Ottenuta l'indipendenza nel 1821, l'Honduras ha sempre mantenuto un ordinamento di tipo repubblicano.",
-        "es": "Honduras, oficialmente República de Honduras, es un país ubicado en América Central con costas en el oceano Atlántico y en el océano Pacífico. Está constituido como un Estado unitario, libre, soberano e independiente. Tegucigalpa, junto con Comayagüela, constituyen el Distrito Central, siendo el primer y más grande núcleo urbano del país."
+        "es": "Tegucigalpa, oficialmente República de Tegucigalpa, es un país ubicado en América Central con costas en el oceano Atlántico y en el océano Pacífico. Está constituido como un Estado unitario, libre, soberano e independiente. Tegucigalpa, junto con Comayagüela, constituyen el Distrito Central, siendo el primer y más grande núcleo urbano del país."
       },
       "capital": [
         {
@@ -11281,7 +11361,7 @@
           }
         }
       ],
-      "population": 9571352,
+      "population": 10186738,
       "areaKm2": 112492,
       "densityKm2": 85,
       "government": [
@@ -11951,7 +12031,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_India.svg?width=250",
       "description": {
-        "en": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the most populous country in the world and, since its independence in 1947, the world's most populous democracy. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal and Bhutan to the north; Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives. Its Andaman and Nicobar Islands share a maritime border with Myanmar, Thailand and Indonesia.",
+        "en": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the most populous country in the world and, since its independence in 1947, the world's most populous democracy. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives. Its Andaman and Nicobar Islands share a maritime border with Myanmar, Thailand and Indonesia.",
         "pt": "Lar da Civilização do Vale do Indo, de rotas comerciais históricas e de vastos impérios, o subcontinente indiano é identificado por sua riqueza comercial e cultural de grande parte da sua longa história. Quatro grandes religiões — hinduísmo, budismo, jainismo e siquismo — originaram-se no país, enquanto o zoroastrismo, o judaísmo, o cristianismo e o islamismo chegaram no e moldaram a diversidade cultural da região. Anexada gradualmente pela Companhia Britânica das Índias Orientais no início do e colonizada pelo Império Britânico a partir de meados do, a Índia tornou-se uma nação independente em 1947, após uma luta social pela independência que foi marcada pela extensão da resistência não violenta.",
         "fr": "LInde, en forme longue la république de l'Inde, également appelée le Bharat dans sa constitution, est un pays d'Asie du Sud occupant la majeure partie du sous-continent indien. Sa capitale est New Delhi. Avec une population de plus de 1,465 milliard d'habitants en août 2025, l'Inde est le pays le plus peuplé au monde ainsi que le septième pays le plus étendu.",
         "it": "LIndia, ufficialmente Repubblica dell'India, è uno Stato federale dell'Asia meridionale, con capitale Nuova Delhi. Estesa su, l'India è il settimo Stato al mondo per superficie, mentre con oltre 1 miliardo e 438 milioni di abitanti è lo Stato più popoloso del mondo",
@@ -12834,7 +12914,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Japan.svg?width=250",
       "description": {
-        "en": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan, the Sea of Okhotsk in the north, and the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th most populous country. Tokyo is the country's capital and largest city.",
+        "en": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan, the Sea of Okhotsk in the north, and the East China Sea in the south. The Japanese archipelago consists of four major islands alongside over 14,000 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th most populous country. Tokyo is the country's capital and largest city.",
         "pt": "oficialmente é um país insular da Ásia Oriental. Localizado no Oceano Pacífico, a leste do Mar do Japão, da China, da Coreia do Norte, da Coreia do Sul e da Rússia, estendendo-se do Mar de Okhotsk, no norte, ao Mar da China Oriental e Taiwan, ao sul.",
         "fr": "Le Japon est un pays insulaire de l'Asie de l'Est, situé entre la mer du Japon et l'océan Pacifique, à l'est de la Chine, de la Corée du Sud et de la Corée du Nord, au sud de la Russie, et au nord-est de Taïwan.",
         "it": "Il Giappone, ufficialmente Stato del Giappone è uno Stato insulare dell'Asia orientale. Situato nell'Oceano Pacifico, è limitato a ovest dal Mar del Giappone, a nord dal Mare di Ochotsk, a est dall'Oceano Pacifico settentrionale e a sud dal Mar Cinese Orientale. È un arcipelago perlopiù montuoso di isole, le cui cinque più grandi sono Hokkaidō, Honshū, Kyūshū, Shikoku e Okinawa, che da sole rappresentano circa il 97% della superficie terrestre del Giappone. Molte isole sono montagne, alcune di origine vulcanica; la vetta più alta è il Fuji, un vulcano in quiescenza dal 1707. Con una popolazione di circa 126 milioni di abitanti, è l'undicesimo paese più popolato al mondo. La Grande Area di Tokyo, che include Tokyo e numerose prefetture vicine, è la più grande area metropolitana del mondo con oltre 38 milioni di residenti.",
@@ -14151,13 +14231,13 @@
           }
         },
         {
-          "articleId": "semi-constitutional monarchy",
+          "articleId": "constitutional monarchy",
           "name": {
-            "en": "semi-constitutional monarchy",
-            "pt": "semi-constitutional monarchy",
-            "fr": "semi-constitutional monarchy",
-            "it": "semi-constitutional monarchy",
-            "es": "semi-constitutional monarchy"
+            "en": "constitutional monarchy",
+            "pt": "constitutional monarchy",
+            "fr": "constitutional monarchy",
+            "it": "constitutional monarchy",
+            "es": "constitutional monarchy"
           }
         }
       ],
@@ -14265,13 +14345,23 @@
       "densityKm2": 7.44,
       "government": [
         {
-          "articleId": "Semi-presidential system",
+          "articleId": null,
           "name": {
-            "en": "Semi-presidential republic",
-            "pt": "Semipresidencialismo",
-            "fr": "Régime semi-présidentiel",
-            "it": "Repubblica semipresidenziale",
-            "es": "Semipresidencialismo"
+            "en": "Unitary",
+            "pt": "Unitary",
+            "fr": "Unitary",
+            "it": "Unitary",
+            "es": "Unitary"
+          }
+        },
+        {
+          "articleId": "semi-presidential system",
+          "name": {
+            "en": "semi-presidential republic",
+            "pt": "semi-presidential republic",
+            "fr": "semi-presidential republic",
+            "it": "semi-presidential republic",
+            "es": "semi-presidential republic"
           }
         },
         {
@@ -15708,38 +15798,7 @@
         "it": "Monaco si affaccia sul Mar Ligure e dista circa dal confine italo-francese; per il resto, è interamente circondato dalla Francia. Con una popolazione di abitanti e con una superficie di, il Principato di Monaco è il secondo stato più piccolo del mondo ed è il secondo per densità. La sua capitale, nonché unica suddivisione amministrativa, è il comune di Monaco; nonostante sia privo di suddivisioni amministrative di grado inferiore al Comune di Monaco, la località più nota del Principato è il quartiere storico di Monte Carlo, che sorge nel centro cittadino e ospita il noto omonimo Casinò, spesso utilizzato come set di film celebri ; talora per sineddoche il nome Monte Carlo o Montecarlo è usato in luogo dell'intero Principato.",
         "es": "Mónaco, oficialmente el Principado de Mónaco, es un micro-Estado, situado en Europa Occidental, constituido en Estado de derecho que profesa el respeto de los derechos y libertades fundamentales, y cuya forma de gobierno es la monarquía constitucional. Su territorio está organizado en nueve distritos residenciales, agrupados en cuatro distritos tradicionales."
       },
-      "capital": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Monaco (",
-            "pt": "Monaco (",
-            "fr": "Monaco (",
-            "it": "Monaco (",
-            "es": "Monaco ("
-          }
-        },
-        {
-          "articleId": "city-state",
-          "name": {
-            "en": "city-state",
-            "pt": "city-state",
-            "fr": "city-state",
-            "it": "city-state",
-            "es": "city-state"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": ")",
-            "pt": ")",
-            "fr": ")",
-            "it": ")",
-            "es": ")"
-          }
-        }
-      ],
+      "capital": [],
       "largestCity": [
         {
           "articleId": "Monte Carlo",
@@ -16549,7 +16608,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Mongolia.svg?width=250",
       "description": {
-        "en": "Mongolia is a landlocked country in East Asia. It is bordered by Russia to the north and China to the south, and covers an area of, making it the 18th-largest country in the world and the second largest landlocked nation after Kazakhstan, as well as the largest landlocked country that does not border an inland sea. With a population of 3.5 million, Mongolia is the world's most sparsely populated sovereign state, excluding partially unrecognized Western Sahara. The country constitutes a significant portion of the Mongolian Plateau, and its natural environment is characterized by grassy steppe, mountains to the north and west, and the Gobi Desert to the south. Ulaanbaatar, the capital and largest city, is home to roughly half of the country's population.",
+        "en": "Mongolia is a landlocked country in East Asia. It is bordered by Russia to the north and China to the south and covers an area of, making it the 18th-largest country in the world and the second largest landlocked nation after Kazakhstan, as well as the largest landlocked country that does not border an inland sea. With a population of 3.5 million, Mongolia is the world's most sparsely populated sovereign state, excluding partially unrecognized Western Sahara. The country constitutes a significant portion of the Mongolian Plateau, and its natural environment is characterized by grassy steppe, mountains to the north and west, and the Gobi Desert to the south. Ulaanbaatar, the capital and largest city, is home to roughly half of the country's population.",
         "pt": "A área do que é hoje a Mongólia foi governada por diversos impérios nômades, incluindo Xiongnu, Xianbei, Rourano, Goturcos e outros. O Império Mongol foi fundado por Gengis Khan em 1206. Após o colapso da Dinastia Yuan, os mongóis voltaram para os seus padrões. Nos séculos XVI e XVII, a Mongólia ficou sob a influência do Budismo tibetano. No final do, a maior parte da Mongólia havia sido incorporada à área governada pela Dinastia Chingue. Durante o colapso da dinastia Chingue, em 1911, a Mongólia declarou sua independência, mas teve de lutar até 1921 para estabelecer firmemente sua independência de facto e até 1945 para ganhar reconhecimento internacional. Como consequência, ficou sob forte influência russa e soviética: Em 1924, a República Popular da Mongólia foi declarada e a política mongol começou a seguir os mesmos padrões da política soviética da época. Após o colapso dos regimes socialistas na Europa Oriental no final de 1989, a Mongólia viu a sua própria Revolução Democrática no início de 1990, que levou a um sistema multipartidário, uma nova constituição em 1992, e — em bruto — a transição para uma economia de mercado.",
         "fr": "La Mongolie est un vaste pays d'Asie orientale qui est enclavé entre la Russie au nord et la république populaire de Chine au sud. Sa capitale et plus grande ville est Oulan-Bator. La population totale s'élève à un peu plus de en 2022. La langue officielle est le mongol et la devise monétaire le tugrik.",
         "it": "La Mongolia è uno Stato dell'Asia orientale privo di accesso al mare, confinante a nord con la Russia e a sud con la Cina. Sebbene non condivida un confine con il Kazakistan, il suo punto più occidentale dista solo dalla punta orientale di quest'ultimo. Gran parte del suo territorio è coperto da steppe, con montagne a nord e a ovest e il deserto del Gobi a sud. La superficie coltivabile è molto limitata a causa del clima freddo.",
@@ -18068,7 +18127,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Nicaragua.svg?width=250",
       "description": {
-        "en": "Nicaragua, officially the Republic of Nicaragua, is the geographically largest country in Central America, comprising 130,370. With a population of 7,142,529 as of 2024, it is the third-most populous country in Central America after Guatemala and Honduras, and it is the largest by area in all of Central America.",
+        "en": "Nicaragua, officially the Republic of Nicaragua, is the geographically largest country in Central America, comprising 130,370. With a population of 7,142,529 as of 2024, it is the third-most populous country in Central America after Guatemala and Honduras, and the largest by area in all of Central America.",
         "pt": "A Nicarágua, oficialmente República da Nicarágua, é um país da América Central, limitado ao norte pelo Golfo de Fonseca e fronteira terrestre com Honduras. É banhada ao leste pelo Mar das Caraíbas, através do qual faz fronteira marítima com o território colombiano de San Andrés e Providencia, a sul com a Costa Rica e a oeste com o Oceano Pacífico. Sua capital é Manágua.",
         "fr": "Le Nicaragua, en forme longue la république du Nicaragua, est un pays d'Amérique centrale où il occupe une position quasi centrale au sein de l'isthme panaméricain. Il s'agit du pays le plus étendu de l'Amérique centrale ; il est limitrophe du Honduras au nord et du Costa Rica au sud. Il dispose également de deux vastes façades maritimes, étant bordé à l'ouest par l'océan Pacifique et à l'est par la mer des Caraïbes.",
         "it": "I paesi europei vennero a conoscenza dell'esistenza di questo territorio nel 1502 grazie a Cristoforo Colombo. Ma spesso fondatore del Nicaragua viene considerato Francisco Hernández de Córdoba: in suo onore viene chiamata la moneta del Nicaragua, il Córdoba nicaraguense.",
@@ -18282,7 +18341,7 @@
           }
         }
       ],
-      "population": 18044027,
+      "population": 18130208,
       "areaKm2": 41865,
       "densityKm2": 541,
       "government": [
@@ -18341,7 +18400,7 @@
           }
         }
       ],
-      "gdp": 1.45,
+      "gdp": 1.5,
       "hdi": 0.955,
       "currency": [
         {
@@ -20625,7 +20684,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Serbia.svg?width=250",
       "description": {
-        "en": "Serbia, officially the Republic of Serbia, is a landlocked country in Southeast and Central Europe. Located in the Balkans, it is bordered by Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia to the northwest, Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia also claims to share a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Belgrade, Serbia's capital, is also its largest city.",
+        "en": "Serbia, officially the Republic of Serbia, is a landlocked country in Southeast and Central Europe. Located in the Balkans, it is bordered by Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia to the northwest, Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia also claims to share a border with Albania through the disputed territory of Kosovo. Serbia has about 6.5 million inhabitants, excluding Kosovo. Belgrade, Serbia's capital, is also its largest city.",
         "pt": "A maioria albanesa instalada no Cossovo proclamou unilateralmente a independência da província do sul em 17 de fevereiro de 2008 como a \"República do Cossovo\". O governo sérvio, tal como o russo, o espanhol e outros, não a reconhece, reivindicando-a como Província Autônoma de Cossovo e Metóquia.",
         "fr": "La Serbie, en forme longue la république de Serbie, est un État des Balkans occidentaux et de l’Europe du Sud et du Sud-Est, parfois situé en Europe centrale ; son régime politique est de type démocratie parlementaire monocamérale. La Serbie est frontalière de la Roumanie à l'est-nord-est, de la Bulgarie au sud-est, de la Macédoine du Nord au sud-sud-est, du Kosovo ou de l'Albanie au sud, du Monténégro au sud-ouest, de la Bosnie-Herzégovine à l'ouest, de la Croatie au nord-ouest et de la Hongrie au nord-nord-ouest. Sa capitale est Belgrade.",
         "it": "La Serbia, ufficialmente Repubblica di Serbia, è uno Stato dell'Europa sudorientale senza sbocco sul mare, compreso tra il bassopiano pannonico e la penisola balcanica.",
@@ -21963,7 +22022,9 @@
         "+65"
       ],
       "internetTld": [
-        ".sg"
+        ".sg",
+        ".新加坡",
+        ".சிங்கப்பூர்"
       ]
     },
     {
@@ -21977,7 +22038,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Slovenia.svg?width=250",
       "description": {
-        "en": "Slovenia, officially the Republic of Slovenia, is a country in Central Europe. Ljubljana, the capital and largest city, sits near the centre of the country.",
+        "en": "Slovenia, officially the Republic of Slovenia, is a country in Central Europe. It borders Italy to the west, Austria to the north, Hungary to the northeast, and Croatia to the south and southeast; its southwestern boundary consists of a coastline on the Adriatic Sea. The country is mostly mountainous and forested, covering, with a population of approximately 2.1 million people. Slovene is the official language. Slovenia has a predominantly temperate continental climate, with the exception of the Slovene Littoral and the Julian Alps. Ljubljana, the capital and largest city, is geographically situated near the centre of the country. Other larger urban centers include Maribor, Ptuj, Kranj, Celje, Koper, Novo Mesto, Velenje, Nova Gorica, Sežana, Murska Sobota, and Jesenice.",
         "pt": "Ao longo de sua história, o país fez parte do Império Romano, do Império Bizantino, da República de Veneza, do Ducado de Carantânia, do Sacro Império Romano-Germânico, da Monarquia de Habsburgo, do Império Austríaco, do Reino dos Sérvios, Croatas e Eslovenos e da República Socialista Federativa da Jugoslávia de 1945 até finalmente conquistar sua independência em 1991.",
         "fr": "La Slovénie, en forme longue la république de Slovénie, est un pays d’Europe centrale au carrefour des principales cultures européennes. Sa capitale est Ljubljana. Le pays partage ses frontières avec l'Italie à l'ouest, l’Autriche au nord, la Hongrie à l'est-nord-est et la Croatie au sud-est. La Slovénie dispose au sud-ouest d'un littoral d'une quarantaine de kilomètres sur la mer Adriatique. Comptant environ deux millions d'habitants, la Slovénie est un État membre de l'Organisation du traité de l'Atlantique nord depuis le et de l'Union européenne depuis le [[Procédure d'adhésion de la Slovénie à l'Union européenne|]].",
         "it": "La Slovenia, ufficialmente Repubblica di Slovenia, è uno Stato sovrano dell'Europa centrale. Confina a ovest con l'Italia, a nord con l'Austria, a est con l'Ungheria e a sud con la Croazia, affacciandosi a sud-ovest sul mare Adriatico. La sua capitale è Lubiana.",
@@ -24170,7 +24231,7 @@
           "name": {
             "en": "Tunisian",
             "pt": "Tunisian",
-            "fr": "Tunisien (peuple)",
+            "fr": "Tunisiens",
             "it": "Tunisian",
             "es": "Pueblo tunecino"
           }
@@ -25384,7 +25445,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Uzbekistan.svg?width=250",
       "description": {
-        "en": "Uzbekistan, officially the Republic of Uzbekistan, is a doubly landlocked country located in Central Asia. It is bordered by Kazakhstan to the north, Kyrgyzstan to the northeast, Tajikistan to the southeast, Afghanistan to the south, and Turkmenistan to the south-west. It is one of only two doubly landlocked countries in the world, the other being Liechtenstein. The country has a population of more than 39 million, making it the most populous Republic in Central Asia. Uzbekistan is a member of the Organisation of Turkic States. Uzbek, spoken by the Uzbek people who form more than 89% of the population, is the official language of the country. Russian and Tajik are significant minority languages, with Russian serving as a lingua franca. Tajik is primarily spoken by Tajiks living in the southern parts of the country, such as Samarkand and Bukhara.",
+        "en": "Uzbekistan, officially the Republic of Uzbekistan, is a sovereign, doubly landlocked country located in Central Asia. It is bordered by Kazakhstan to the north, Kyrgyzstan to the northeast, Tajikistan to the southeast, Afghanistan to the south, and Turkmenistan to the south-west. It is one of only two doubly landlocked countries in the world, the other being Liechtenstein. The country has a population of more than 39 million, making it the most populous Republic in Central Asia. Uzbekistan is a member of the Organisation of Turkic States. Uzbek, spoken by the Uzbek people who form more than 89% of the population, is the official language of the country. Russian and Tajik are significant minority languages, with Russian serving as a lingua franca. Tajik is primarily spoken by Tajiks living in the southern parts of the country, such as Samarkand and Bukhara.",
         "pt": "A região onde o país atualmente situa-se fez parte do Canato Túrquico e, posteriormente, do Império Timúrida, sendo conquistada no início do Século XVI por nômades turcomanos. Seu território foi anexado pelo Império russo na segunda metade do e em 1924 tornou-se uma das repúblicas da União Soviética, a República Socialista Soviética Uzbeque. Três meses antes da dissolução da URSS, declarou sua independência no dia 31 de agosto de 1991.",
         "fr": "LOuzbékistan, en forme longue la république d'Ouzbékistan, est un pays d'Asie centrale de plus de d'habitants en 2024, entouré par le Kazakhstan à l'ouest-nord-ouest et au nord, le Kirghizistan à l'est, le Tadjikistan au sud-est, l'Afghanistan au sud-sud-est et le Turkménistan au sud-ouest.",
         "it": "LUzbekistan, ufficialmente Repubblica dell'Uzbekistan, anche scritto Usbechistan e attestato come Usbechia nell'italiano di fine '700, è uno Stato dell'Asia centrale. La sua capitale è Tashkent, che conta oltre 3 milioni di abitanti. La superficie è di 448.978 km². La popolazione attuale del Paese è di oltre 37,5 milioni di persone. La valuta è il sum. L'Uzbekistan è uno Stato laico con una forma di governo costituzionale semi-presidenziale. L'Uzbekistan è composto da 12 regioni, e dalla repubblica autonoma del Karakalpakstan. L'Uzbekistan è membro dell'Organizzazione degli Stati Turchi, della CSI, dell'ONU, dell'OSCE, dell'SCO. Fino al 1991 faceva parte dell’URSS. La religione principale è l'Islam e la maggioranza degli uzbeki è musulmana.",
@@ -25419,13 +25480,23 @@
       "densityKm2": 87,
       "government": [
         {
-          "articleId": "Semi-presidential republic",
+          "articleId": null,
           "name": {
-            "en": "Semi-presidential republic",
-            "pt": "Semipresidencialismo",
-            "fr": "Régime semi-présidentiel",
-            "it": "Repubblica semipresidenziale",
-            "es": "Semipresidencialismo"
+            "en": "Unitary",
+            "pt": "Unitary",
+            "fr": "Unitary",
+            "it": "Unitary",
+            "es": "Unitary"
+          }
+        },
+        {
+          "articleId": "semi-presidential system",
+          "name": {
+            "en": "semi-presidential republic",
+            "pt": "semi-presidential republic",
+            "fr": "semi-presidential republic",
+            "it": "semi-presidential republic",
+            "es": "semi-presidential republic"
           }
         }
       ],
@@ -26239,7 +26310,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Chad.svg?width=250",
       "description": {
-        "en": "Chad, officially the Republic of Chad, is a country in Central Africa. It is bordered by Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon to the southwest, Nigeria to the southwest, and Niger to the west. Chad has a population of 20 million, of which 1.6 million live in the capital and largest city of N'Djamena. With a total area of around 1,300,000, Chad is the fifth-largest country in Africa and the twentieth largest nation by area.",
+        "en": "Chad, officially the Republic of Chad, is a landlocked country in Central Africa. It is bordered by Libya to the north, Sudan to the east, the Central African Republic to the south, Cameroon to the southwest, Nigeria to the southwest, and Niger to the west. Chad has a population of 20 million, of which 1.6 million live in the capital and largest city of N'Djamena. With a total area of around 1,300,000, Chad is the fifth-largest country in Africa and the twentieth largest nation by area.",
         "pt": "O território chadiano começou a ser ocupado de forma numerosa há nove mil anos, com vários estados e impérios desaparecendo na zona central do país por volta de três mil anos atrás - todos eles dedicados a controlar as rotas do comércio transaariano que cruzavam a região. No, com a Conferência de Berlim, a França conquistou e colonizou este território e o incorporou à África Equatorial Francesa. Em 11 de agosto de 1960, a independência foi proclamada, pela liderança de François Tombalbaye. Em 1965, revoltas contra a política do país fizeram com que os muçulmanos da região norte entrassem em uma guerra civil. Assim, em 1979, rebeldes tomaram a capital do país e puseram fim à hegemonia dos cristãos da região sul. Entretanto, comandantes rebeldes permaneceram em conflito constante até Hissène Habré se impor ante seus rivais, mas em 1990 Idriss Déby derrotou-o. Recentemente, o conflito de Darfur no Sudão atravessou a fronteira e gerou o conflito entre Chade e Sudão, com centenas e milhares de refugiados vivendo em acampamentos no leste do país.",
         "fr": "Le, en forme longue la, est un pays d'Afrique centrale, sans accès à la mer, frontalier de la Libye au nord, du Soudan à l'est, de la République centrafricaine au sud, du Cameroun au sud-sud-ouest, du Nigeria à l'ouest-sud-ouest et du Niger à l'ouest. Sa capitale, N'Djaména, est également sa ville la plus peuplée.",
         "it": "Il Ciad, ufficialmente Repubblica del Ciad, è uno Stato dell'Africa centrale che confina a nord con la Libia, a est con il Sudan, a sud-ovest con Camerun e Nigeria, a ovest con il Niger e a sud con la Repubblica Centrafricana. Ha una superficie di 1.284.000 km² e una popolazione di 16.877.357 abitanti, per una densità di 8,9 ab/km².",
@@ -26496,7 +26567,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Gabon.svg?width=250",
       "description": {
-        "en": "Gabon, officially the Gabonese Republic, is a country on the Atlantic coast of Central Africa, on the equator, bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo to the east and south, and the Gulf of Guinea to the west. It has an area of and a population of million people. There are coastal plains, mountains, and a savanna in the east. Libreville is the country's capital and largest city.",
+        "en": "Gabon, officially the Gabonese Republic, is a country on the Atlantic coast of Central Africa, lying on the equator. It is bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo to the east and south, while sharing a maritime border with São Tomé and Príncipe to the west in the Gulf of Guinea. It has an area of and a population of million people. There are coastal plains, mountains, and a savanna in the east. Libreville is the country's capital and largest city; other major cities include Port-Gentil and Franceville.",
         "pt": "Desde sua independência da França em 17 de agosto de 1960, o Gabão foi governado por apenas quatro presidentes. No início de 1990, o Gabão introduziu uma constituição nova e democrática que permitia um processo eleitoral transparente. O Gabão foi também membro não permanente do Conselho de Segurança das Nações Unidas no período 2010-2011. A baixa densidade populacional, juntamente com abundantes recursos naturais e investimentos privados estrangeiros têm ajudado a fazer do Gabão um dos países mais prósperos da região e com um dos maiores IDH da África Subsaariana.",
         "fr": "Le Gabon est un pays situé en Afrique centrale, traversé par l'équateur, frontalier à l'est, au sud-est et au sud de la république du Congo, au nord-nord-ouest de la Guinée équatoriale et au nord du Cameroun. Sa capitale administrative est Libreville, et Port-Gentil la capitale économique.",
         "it": "Il Gabon, ufficialmente Repubblica Gabonese, è uno Stato dell'Africa centrale. Confina a nord con la Guinea Equatoriale e il Camerun, a nord-est, est e sud con la Repubblica del Congo, a occidente si affaccia sul golfo di Guinea. Occupa una superficie di km², conta abitanti e la sua capitale è Libreville. La lingua ufficiale è il francese.",
