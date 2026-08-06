@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-08-01T02:42:06.932Z",
+    "generatedAt": "2026-08-06T02:30:15.905Z",
     "version": "0.1.17",
     "license": "ISC",
     "source": "Wikipedia"
@@ -810,13 +810,13 @@
           }
         },
         {
-          "articleId": "presidential republic",
+          "articleId": "Parliamentary republics with an executive presidency",
           "name": {
-            "en": "presidential republic",
-            "pt": "presidential republic",
-            "fr": "presidential republic",
-            "it": "presidential republic",
-            "es": "presidential republic"
+            "en": "parliamentary republic with an executive presidency",
+            "pt": "parliamentary republic with an executive presidency",
+            "fr": "parliamentary republic with an executive presidency",
+            "it": "parliamentary republic with an executive presidency",
+            "es": "parliamentary republic with an executive presidency"
           }
         }
       ],
@@ -1412,9 +1412,9 @@
       "description": {
         "en": "Nauru, officially the Republic of Naoero, formerly known as Pleasant Island, is an island country and microstate in the South Pacific Ocean. It lies within the Micronesia subregion of Oceania, with its nearest neighbour being Banaba about to the east.",
         "pt": "Povoado por pessoas da Micronésia e da Polinésia a cerca de 1000 a.C., foi anexada e reivindicada como colônia pelo Império Alemão no final do século XIX. Após a Primeira Guerra Mundial, Nauru se tornou um Mandato da Liga das Nações administrado pela Austrália, Nova Zelândia e Reino Unido. Durante a Segunda Guerra Mundial, foi ocupada pelas tropas japonesas e foi contornada pelo avanço dos Aliados no Pacífico. Após o fim da guerra, o país passou a ser tutelado pelas Nações Unidas. Nauru ganhou sua independência em 1968 e tornou-se membro da Comunidade do Pacífico em 1969.",
-        "fr": "Nauru, en forme longue la république de Nauru, est un État insulaire d'Océanie situé en Micronésie, dont la population est estimée à en 2022. C'est l'un des plus petits États du monde et, à partir de 1968, la plus petite république du monde.",
-        "it": "Nauru è considerata la repubblica indipendente più piccola del mondo, sia per abitanti, sia per superficie, in quanto gli Stati più piccoli non hanno istituzioni repubblicane. È il più piccolo paese non europeo in termini di superficie. Nauru è uno degli Stati al mondo privi di una città capitale, anche se in genere si tende a identificarla con Yaren, che è il distretto maggiormente popolato, nonché sede del governo.",
-        "es": "Limita al norte con los Estados Federados de Micronesia, al este con Kiribati, al sur con las Islas Salomón y al oeste con Papúa Nueva Guinea. A 4.000 kilómetros al suroeste se encuentra Australia. Es una isla de forma ovalada, elevada, escarpada en su orilla marina y con arenosas playas intercaladas con montículos coralinos en su orilla interior, y con una superficie de 21,3 km². Naurú es el estado soberano más pequeño de Oceanía y el tercero más pequeño del mundo, después de la Ciudad del Vaticano y el Principado de Mónaco, así como la república más pequeña del planeta."
+        "fr": "Nauru, officiellement Naoero depuis 2026, en forme longue la république de Naoero, est un État insulaire d'Océanie situé en Micronésie, dont la population est estimée à en 2022. C'est l'un des plus petits États du monde et, à partir de 1968, la plus petite république du monde.",
+        "it": "Nauru è considerata la repubblica indipendente più piccola del mondo, sia per abitanti, sia per superficie, in quanto gli Stati più piccoli non hanno istituzioni repubblicane. È il più piccolo paese non europeo in termini di superficie. Nauru è uno degli Stati al mondo privi di una città capitale ufficiale, anche se in genere si tende a identificarla con Yaren, che è il distretto maggiormente popolato, nonché sede del governo.",
+        "es": "Limita al norte con los Estados Federados de Micronesia, al este con Kiribati, al sur con las Islas Salomón y al oeste con Papúa Nueva Guinea. A 4.000 kilómetros al suroeste se encuentra Australia. Es una isla de forma ovalada, elevada, escarpada en su orilla marina y con arenosas playas intercaladas con montículos coralinos en su orilla interior, y con una superficie de 21,3 km². Nauru es el estado soberano más pequeño de Oceanía y el tercero más pequeño del mundo, después de la Ciudad del Vaticano y el Principado de Mónaco, así como la república más pequeña del planeta."
       },
       "capital": [
         {
@@ -1594,7 +1594,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Tuvalu.svg?width=250",
       "description": {
-        "en": "Tuvalu is an archipelagic country in the Polynesian sub-region of Oceania in the Pacific Ocean, about midway between Hawaii and Australia. It lies east-northeast of the Santa Cruz Islands, northeast of Vanuatu, southeast of the Republic of Naoero, south of Kiribati, west of Tokelau, northwest of Samoa and Wallis and Futuna, and north of Fiji.",
+        "en": "Tuvalu is an archipelagic country in the Polynesian sub-region of Oceania in the Pacific Ocean, about midway between Hawaii and Australia. It lies east-northeast of the Santa Cruz Islands, northeast of Vanuatu, southeast of Nauru, south of Kiribati, west of Tokelau, northwest of Samoa and Wallis and Futuna, and north of Fiji.",
         "pt": "O atol de Funafuti, principal centro do arquipélago, é formado por mais de 30 ilhas. 92% da população é tuvaluana, já 8% é formada por outros grupos polinésios, principalmente os que vêm de Quiribáti.",
         "fr": "Les Tuvalu, en forme longue lÉtat des Tuvalu, en tuvaluan Tuvalu, en anglais Tuvalu et State of Tuvalu, sont un État et un archipel polynésien, situés dans l'ouest de l'océan Pacifique Sud, au sud de l'équateur, à au sud-sud-est de l'atoll d'Arorae, la plus méridionale des îles Gilbert, et à au nord de Vanua Levu, aux îles Fidji. Il est indépendant depuis 1978.",
         "it": "Tuvalu, fino al 1978 Isole Ellice, è uno Stato insulare polinesiano composto da più isole e situato nell'Oceano Pacifico a metà strada tra le isole Hawaii e l'Australia. Gli arcipelaghi più vicini sono, da nord a ovest, le Kiribati, Tokelau, le Samoa, Wallis e Futuna, le Figi e le Isole Salomone. Comprende quattro isole coralline e cinque atolli con una superficie di appena 26 km² ed è il secondo Paese meno popolato al mondo, dopo la Città del Vaticano. Inoltre è il secondo membro più piccolo delle Nazioni Unite. In termini di grandezza fisica del territorio, Tuvalu è il quarto Stato più piccolo al mondo, più grande solo della Città del Vaticano, Monaco e Nauru.",
@@ -2298,7 +2298,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Burkina_Faso.svg?width=250",
       "description": {
-        "en": "Burkina Faso is a landlocked country in West Africa. After independence in 1958 it was called the Republic of Upper Volta from 1958. In 1984, it was renamed Burkina Faso by then-president Thomas Sankara. Its citizens are known as Burkinabes, and its capital and largest city is Ouagadougou.",
+        "en": "Burkina Faso is a landlocked country in West Africa. Its citizens are known as Burkinabes, and its capital and largest city is Ouagadougou.",
         "pt": "A região noroeste do país foi povoada entre e por caçadores-coletores. Assentamentos agrícolas apareceram entre e O cerne do que é atualmente o Burquina Fasso foi composto principalmente pelos Reinos Mossis. Estes reinos Mossi se tornariam um protetorado francês em 1896. No final do, como consequência da Corrida a África no continente, a região do atual Burquina foi ocupada e anexada pela França, condição que se manteve até 1960 quando recuperou sua independência da potência colonial europeia.",
         "fr": "Le Burkina Faso, « patrie des intègres » ou « patrie de l'intégrité » (Burkina se traduisant par « intégrité, honneur » en mooré et Faso se traduisant par « terre ou patrie » en dioula, anciennement république de Haute-Volta, est un pays d'Afrique de l'Ouest. Sans accès à la mer, il est entouré de six pays : le Niger à l'est-nord-est, le Bénin à l'est-sud-est, le Togo au sud-est, le Ghana au sud, la Côte d'Ivoire au sud-ouest et le Mali au nord-ouest. Sa capitale politique, Ouagadougou, est située au centre du pays. Sa capitale économique, Bobo-Dioulasso, est située dans les Hauts Bassins, dans le sud-ouest du pays.",
         "it": "Il Burkina Faso, fino al 1984 Alto Volta, è uno Stato indipendente dell'Africa occidentale privo di sbocchi sul mare. Ha una superficie di e confina con il Mali a nord, il Niger a est, il Benin a sud-est, il Togo e il Ghana a sud e la Costa d'Avorio a sud-ovest. La sua capitale è Ouagadougou e la sua forma di governo è una repubblica semipresidenziale il cui capo dello Stato, eletto ogni cinque anni, è anche responsabile dell'esecutivo. I suoi abitanti si chiamano burkinabé, in italiano termine invariato in genere e numero. La popolazione totale stimata è di poco più di 21,5 milioni di persone.",
@@ -2434,7 +2434,7 @@
         "en": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeastern Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania across the Danube river to the north. It covers a territory of, making it the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Plovdiv, Varna, and Burgas.",
         "pt": "Uma das primeiras sociedades nas terras da atual Bulgária foi a cultura neolítica de Karanovo, que remonta a Na Antiguidade, a região tornou-se um campo de batalha para os trácios, persas, celtas e gregos macedônios até que foi conquistada pelo Império Romano em O Império Romano do Oriente, ou Império Bizantino, perdeu alguns desses territórios para uma horda búlgara invasora no final do. Os búlgaros fundaram o primeiro estado búlgaro unificado em 681, que dominou a maioria da Península Balcânica e influenciou significativamente as culturas eslavas, desenvolvendo a escrita cirílica. O primeiro Império Búlgaro durou até o início do, quando o imperador bizantino Basílio II conquistou e desmantelou-o. Uma revolta búlgara de sucesso em 1185 estabeleceu um Segundo Império Búlgaro que atingiu seu ápice sob João Asen II. Depois de inúmeras guerras exaustivas e lutas feudais, o Segundo Império Búlgaro se desintegrou em 1396 e seus territórios ficaram sob domínio otomano por quase cinco séculos.",
         "fr": "La Bulgarie, en forme longue la république de Bulgarie, est un pays d'Europe du Sud-Est situé dans les Balkans, et qui fait partie de l’Union Européenne depuis 2007. Elle est bordée par la mer Noire à l'est, par la Grèce et la Turquie au sud, au nord par le Danube et la Roumanie, à l'ouest par la Serbie et la Macédoine du Nord. Sa capitale est Sofia.",
-        "it": "Confina con il mar Nero a est, con la Grecia e la Turchia a sud, con la Serbia e la Macedonia del Nord a ovest e con la Romania a nord, da cui è divisa dal fiume Danubio. Con una superficie di la Bulgaria è il 14º Stato europeo per estensione. La sua posizione l'ha resa nel corso della storia un importante incrocio per varie civiltà ed è infatti il luogo di ritrovamento di alcuni dei più antichi artefatti metallurgici, religiosi e culturali al mondo. La lunghezza complessiva dei confini bulgari è di 2 245 km, di cui 1 181 terrestri, 686 fluviali e 378 costieri. La rete stradale della Bulgaria è lunga 36 720 km, la rete ferroviaria ne ha invece 4 300.",
+        "it": "Confina con il mar Nero a est, con la Grecia e la Turchia a sud, con la Serbia e la Macedonia del Nord a ovest e con la Romania a nord, da cui è divisa dal fiume Danubio. Con una superficie di la Bulgaria è il 14º Stato europeo per estensione. La sua posizione l'ha resa nel corso della storia un importante incrocio per varie civiltà ed è infatti il luogo di ritrovamento di alcuni dei più antichi manufatti metallurgici, religiosi e culturali al mondo. La lunghezza complessiva dei confini bulgari è di 2 245 km, di cui 1 181 terrestri, 686 fluviali e 378 costieri. La rete stradale della Bulgaria è lunga 36 720 km, la rete ferroviaria ne ha invece 4 300.",
         "es": "Bulgaria, oficialmente República de Bulgaria, es uno de los veintisiete Estados soberanos que forman la Unión Europea. Está situado en Europa Oriental, Europa meridional, y Europa del Sudeste. Limita con Rumania al norte, Serbia y Macedonia del Norte al oeste, con Grecia y Turquía al sur, y con el mar Negro al este."
       },
       "capital": [
@@ -2897,7 +2897,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Brunei.svg?width=250",
       "description": {
-        "en": "Brunei, officially Brunei Darussalam, is a country in Southeast Asia, situated on the northern coast of the island of Borneo. Apart from its coastline on the South China Sea, it is completely surrounded by the Malaysian state of Sarawak, with its territory bifurcated by the Sarawak district of Limbang. Brunei is the only sovereign state entirely on Borneo; the remainder of the island is divided between its multi-landmass neighbours of Malaysia and Indonesia., the country had a population of 466,330, of whom approximately 64,409 resided in the capital and largest city of Bandar Seri Begawan. Its official language is Malay, and Sunni Islam is the state religion of the country, although other religions are nominally tolerated. The government of Brunei is an absolute monarchy ruled by the Sultan, and it implements a fusion of English common law and jurisprudence inspired by Islam, including sharia.",
+        "en": "Brunei, officially Brunei Darussalam, is a country in Southeast Asia, situated on the northern coast of the island of Borneo. Apart from its coastline on the South China Sea, it is completely surrounded by the Malaysian state of Sarawak, with its territory bifurcated by the Sarawak district of Limbang. Brunei is the only sovereign state entirely on Borneo; the remainder of the island is divided between its multi-landmass neighbours of Malaysia and Indonesia., the country had a population of 466,330, being the least populated country in Asia of whom approximately 64,409 resided in the capital and largest city of Bandar Seri Begawan. Its official language is Malay, and Sunni Islam is the state religion of the country, although other religions are nominally tolerated. The government of Brunei is an absolute monarchy ruled by the Sultan, and it implements a fusion of English common law and jurisprudence inspired by Islam, including sharia.",
         "pt": "As reivindicações oficiais da história nacional do Brunei podem traçar suas origens ao, quando era um estado sujeito chamado P'o-li, na Sumatra, centro do Império Serivijaia. Ele mais tarde se tornou um Estado vassalo de Java, centro do império Majapait. Brunei se tornou um sultanato, no, sob o recém-convertido sultão islâmico Xá Maomé.",
         "fr": "Brunei ou Brunéi, en forme longue Brunei Darussalam ou Brunéi Darussalam, est un micro-État situé dans le nord de l’île de Bornéo, en Asie du Sud-Est. Il partage l'île avec la Malaisie et l’Indonésie. Son territoire, coupé en deux parties, est bordé par la mer de Chine méridionale et totalement enclavé dans l'État malaisien de Sarawak. Depuis 1968, il est dirigé par le sultan Hassanal Bolkiah.",
         "it": "Il Brunei, ufficialmente denominato Stato del Brunei, Dimora della Pace, è una monarchia assoluta di stampo islamico situata sull'isola del Borneo, nel Sud-est asiatico. Con l'eccezione della costa affacciata sul Mar Cinese Meridionale, confina completamente con la Malesia, ed è uno dei paesi membri dell'ASEAN. La capitale è Bandar Seri Begawan.",
@@ -3319,7 +3319,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Bahamas.svg?width=250",
       "description": {
-        "en": "The Bahamas, officially the Commonwealth of The Bahamas, is an archipelagic country in the Caribbean located within the Lucayan Archipelago in the Atlantic Ocean. The country comprises 700 islands, and more than 2,500 cays in the Atlantic Ocean, located north of Cuba and north-west of the island of Hispaniola and the Turks and Caicos Islands, southeast of the US state of Florida and east of the Florida Keys. The capital and largest city is Nassau on the island of New Providence. The Royal Bahamas Defence Force describes the Bahamas' territory as encompassing of ocean space.",
+        "en": "The Bahamas, officially declared as the Commonwealth of The Bahamas, is an archipelagic country in the Caribbean located within the Lucayan Archipelago in the Atlantic Ocean. The country comprises 700 islands, and more than 2,500 cays in the Atlantic Ocean, located north of Cuba and north-west of the island of Hispaniola and the Turks and Caicos Islands, southeast of the US state of Florida and east of the Florida Keys. The capital and largest city is Nassau on the island of New Providence. The Royal Bahamas Defence Force describes the Bahamas' territory as encompassing of ocean space.",
         "pt": "As Bahamas ou Baamas, oficialmente Comunidade das Bahamas",
         "fr": "Les Bahamas, en forme longue le Commonwealth des Bahamas, sont un pays anglophone et un royaume du Commonwealth situé au sud-est de la Floride.",
         "it": "Le Bahamas o Bahama, ufficialmente Commonwealth delle Bahamas, sono uno Stato insulare dell'America centrale costituito da un arcipelago corallino di 700 isole e isolette alcune delle quali disabitate, situate nell'Oceano Atlantico, a est della Florida, a nord di Cuba e del resto dei Caraibi, e a ovest della dipendenza britannica delle Isole Turks e Caicos. Le Bahamas sono un'ex colonia della Gran Bretagna e fanno parte del Commonwealth delle nazioni; la lingua ufficiale è l'inglese.",
@@ -5194,7 +5194,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_People's_Republic_of_China.svg?width=250",
       "description": {
-        "en": "China, officially the People's Republic of China, is a country in East Asia. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area.",
+        "en": "China, officially the People's Republic of China, is a country in East Asia. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas. It is the world's second-most populous country after India, with a population exceeding 1.4 billion, across an area of, making it the third-largest country by area.",
         "pt": "República Popular da China, também conhecida simplesmente como China, é o maior país da Ásia Oriental e o segundo país mais populoso do mundo, com mais de 1,4 bilhão de habitantes, quase um quinto da população da Terra, superado apenas pela Índia. É uma república popular socialista unipartidária. Na constituição, descreve-se como um sistema multipartidário de cooperação e consulta política sob a liderança do Partido Comunista da China e como uma \"ditadura democrática popular liderada pela classe trabalhadora e baseada na aliança de trabalhadores e camponeses\". Tem jurisdição sobre vinte e duas províncias, cinco regiões autônomas, quatro municípios e duas Regiões Administrativas Especiais com relativa autonomia. A capital da RPC é Pequim.",
         "fr": "La Chine, en forme longue la république populaire de Chine, également appelée de manière informelle Chine populaire et Chine communiste, est un pays d'Asie de l'Est. Avec plus de d'habitants, soit environ un sixième de la population mondiale, elle est, en 2023, le deuxième pays le plus peuplé du monde, après l'Inde. La principale partie de la population se trouve à l'est du pays. Elle compte six agglomérations de plus de dix millions d'habitants : la capitale Pékin, Shanghai, Chongqing, Tianjin, Canton et Shenzhen, ainsi que plus de trente villes d'au moins deux millions d'habitants. Avec une superficie de selon l'ONU ou de selon The World Factbook, la Chine est également le plus grand pays d'Asie orientale et le troisième ou quatrième plus grand pays du monde par la superficie. La Chine s'étend des côtes de l'océan Pacifique au Pamir et aux Tian Shan, et du désert de Gobi à l'Himalaya et au nord de la péninsule indochinoise.",
         "it": "La Cina è una repubblica popolare in cui il potere è esercitato dal Partito Comunista Cinese. Il governo ha sede nella capitale Pechino ed esercita la propria sovranità su ventidue province, cinque regioni autonome, quattro municipalità direttamente controllate e due regioni amministrative speciali parzialmente autonome.",
@@ -5455,7 +5455,7 @@
         "pt": "A Costa Rica era pouco habitada por povos indígenas antes de passar a fazer parte do Império Espanhol no século XVI. Permaneceu como uma colônia periférica do império até a independência, como parte do curto Primeiro Império Mexicano, seguido pela entrada nas Províncias Unidas da América Central, da qual declarou formalmente a independência em 1847. Desde então, a Costa Rica permaneceu entre as nações mais estáveis, prósperas e progressistas da América Latina. Após a breve Guerra Civil Costarriquenha, o país aboliu permanentemente seu exército em 1949, tornando-se um dos poucos países soberanos sem forças armadas permanentes.",
         "fr": "Le Costa Rica, en forme longue la république du Costa Rica, en espagnol República de Costa Rica, est une république unitaire d'Amérique centrale ayant un régime présidentiel.",
         "it": "La Costa Rica o Costarica, ufficialmente Repubblica di Costa Rica, è uno Stato dell'America centrale. Includendo l'area insulare si estende per chilometri quadrati e ha una popolazione di abitanti. La capitale San José conta abitanti.",
-        "es": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en América Central, posee un territorio con un área total de 51,179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador. Cuenta con 5,451 355 habitantes. Su capital, centro político y económico es San José, y su idioma oficial es el español. Su punto más austral es la Isla del Coco."
+        "es": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en América Central, posee un territorio con un área total de 51,179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador. Cuenta con 5 451 355 habitantes. Su capital, centro político y económico es San José, y su idioma oficial es el español. Su punto más austral es la Isla del Coco."
       },
       "capital": [
         {
@@ -6216,7 +6216,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Dominica.svg?width=250",
       "description": {
-        "en": "Dominica, officially the Commonwealth of Dominica, is an island country in the Caribbean. It is part of the Windward Islands chain in the Lesser Antilles archipelago in the Caribbean Sea. The capital, Roseau, is located on the western side of the island. Dominica's closest neighbours are two constituent territories of the European Union, both overseas departments of France: Guadeloupe to the northwest and Martinique to the south-southeast. Dominica comprises a land area of 750, and the highest point is Morne Diablotins, at in elevation. The population was 71,293 at the 2011 census.",
+        "en": "Dominica, officially the Commonwealth of Dominica, is an island country in the Caribbean. It is part of the Windward Islands chain in the Lesser Antilles archipelago in the Caribbean Sea. The Capital, Roseau, is located on the western side of the island. Dominica's closest neighbours are two Constituent Territories of the European Union, both overseas departments of France: Guadeloupe to the northwest and Martinique to the south-southeast. Dominica comprises a land area of 750, and the highest point is Morne Diablotins, at in elevation. The population was 71,293 at the 2011 census.",
         "pt": "A Dominica é alcunhada de \"Ilha Natureza das Caraíbas\" devido à sua beleza natural não alterada. É a ilha mais recente das Pequenas Antilhas, ainda apresentando atividade geotermal vulcânica, como evidenciado pela fonte termal Boiling Lake. A ilha apresenta ainda áreas luxuriantes de floresta tropical montanhosa, habitat de variadas espécies raras de fauna e flora. Existem algumas zonas xéricas nas zonas costeiras ocidentais, mas o interior é chuvoso. O papagaio-imperial, a ave nacional, está representado na bandeira. A economia dominiquense dependente fortemente do turismo, da agricultura e de impostos elevados.",
         "fr": "La Dominique en forme longue le Commonwealth de la Dominique ou Commonwealth de Dominique, est un pays insulaire de la mer des Caraïbes situé dans l'archipel des Petites Antilles, entre les îles françaises des Saintes et de Marie-Galante au nord, et la Martinique au sud. Son nom kalinago est Wai'tu kubuli qui signifie « Son corps est grand ».",
         "it": "La Dominica, ufficialmente Commonwealth della Dominica, è uno Stato insulare del Mar dei Caraibi, Repubblica parlamentare all'interno del Commonwealth, la cui capitale è la città di Roseau. Appartenente all'arcipelago delle Piccole Antille, l'isola è situata a metà strada tra le isole della Guadalupa e quelle della Martinica. Contrariamente ad altre ex colonie della regione, la Dominica non è mai stata un reame del Commonwealth, con il monarca britannico come capo di Stato: divenne infatti una repubblica al momento dell'indipendenza.",
@@ -6735,7 +6735,7 @@
       "description": {
         "en": "Estonia, officially the Republic of Estonia, is a country in the Baltic region of Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea. Its capital city of Tallinn, along with the city of Tartu, are the country's two largest urban areas. The Estonian language, of the Finnic family, is the official language and the first language of the majority of nearly 1.4 million people. Estonia is one of the least populous member states of the European Union.",
         "pt": "A língua estoniana faz parte do grupo fino-úgrico, é próxima do finlandês e distantemente ligada ao húngaro, outras duas línguas pertencentes ao grupo fino-úgrico. Juntamente com o finlandês, o húngaro e o maltês, o estoniano forma o grupo de línguas oficiais da União Europeia que não é de origem indo-europeia.",
-        "fr": "L'Estonie, en forme longue la république d'Estonie, est un État souverain d'Europe du Nord.",
+        "fr": "L'Estonie, en forme longue la république d'Estonie, est un État souverain d'Europe du Nord. Elle est bordée au nord par le golfe de Finlande, en face de la Finlande, à l'ouest par la mer Baltique, en face de la Suède, au sud par la Lettonie et à l'est par la Russie. Son territoire comprend également les îles de Saaremaa et de Hiiumaa, ainsi que plus de 2 300 autres îles et îlots situés sur la côte orientale de la mer Baltique. Sa capitale, Tallinn, ainsi que la ville de Tartu, constituent les deux plus grandes agglomérations du pays. L'estonien, une langue fennique apparentée au finnois, est la langue officielle et la langue maternelle de la majorité des quelque 1,4 million d'habitants.",
         "it": "LEstonia, nome ufficiale Repubblica d'Estonia, con capitale Tallinn, è una repubblica parlamentare situata nell'Europa nord-orientale, confinante a est con la Russia e a sud con la Lettonia e bagnata a nord e a ovest dal Mar Baltico. Le coste sono frastagliate e fronteggiate da un arcipelago di circa ottocento isole, la più grande delle quali è l'isola di Saaremaa.",
         "es": "Estonia, oficialmente República de Estonia, es uno de los veintisiete Estados soberanos que forman la Unión Europea, y el más pequeño de los tres países bálticos. Limita al sur con Letonia, al este con Rusia, al norte con el golfo de Finlandia y al oeste con el mar Báltico.Su ubicación estratégica en el noreste de Europa la ha convertido a lo largo de la historia en un importante punto de conexión entre Europa Occidental y Europa Oriental."
       },
@@ -7178,7 +7178,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Ethiopia.svg?width=250",
       "description": {
-        "en": "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country located in the Horn of Africa region of East Africa. It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the southeast, Kenya to the south, South Sudan to the west, and Sudan to the northwest. Ethiopia covers a land area of 1,104,300., it has around 138 million inhabitants, making it the 10th-most populous country in the world. The national capital and largest city, Addis Ababa, lies several kilometres west of the East African Rift that splits the country into the African and Somali tectonic plates.",
+        "en": "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country located in the Horn of Africa region of East Africa. It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the southeast, Kenya to the south, South Sudan to the west, and Sudan to the northwest. Ethiopia covers a land area of 1,104,300., it has around 138 million inhabitants, making it the 10th-most populous country in the world and 2nd most populous country in Africa. The national capital and largest city, Addis Ababa, lies several kilometres west of the East African Rift that splits the country into the African and Somali tectonic plates.",
         "pt": "Considerando que a maioria dos Estados africanos têm muito menos de um século de idade, a Etiópia foi um país independente continuadamente desde tempos passados. Um Estado monárquico que ocupou a maioria de sua história, a Dinastia Etíope, tem suas raízes no Quando o continente africano foi dividido entre as potências europeias na Conferência de Berlim, a Etiópia foi um dos dois únicos países que mantiveram sua independência. A nação foi uma dos três membros africanos da Liga das Nações, e após um breve período de ocupação italiana, o país tornou-se membro das Nações Unidas. Quando as outras nações africanas receberam sua independência após a Segunda Guerra Mundial, muitas delas adotaram cores da bandeira da Etiópia, e Adis Abeba tornou-se a sede de várias organizações internacionais focadas na África. Em 1974, a dinastia, liderada por Haile Selassie, foi deposta. Desde então, a Etiópia foi um Estado secular com variação nos sistemas governamentais. Hoje, a capital do país ainda é sede da União Africana e da Comissão Econômica das Nações Unidas para a África.",
         "fr": "LÉthiopie, en forme longue la République fédérale démocratique d'Éthiopie est un pays d'Afrique de l'Est. Située sur la Corne de l'Afrique, l'Éthiopie a des frontières communes avec l'Érythrée au nord, la Somalie à l'est-sud-est, le Soudan au nord-ouest, le Soudan du Sud à l'ouest-sud-ouest, le Kenya au sud et la république de Djibouti au nord-est. Depuis l'indépendance de l'Érythrée en 1993, l'Éthiopie n'a plus d'accès à la mer.",
         "it": "LEtiopia, ufficialmente denominata Repubblica Federale Democratica d'Etiopia, è uno Stato dell'Africa orientale situato nel Corno d'Africa, con una popolazione di circa 121,4 milioni di abitanti e con capitale Addis Abeba.",
@@ -7374,7 +7374,7 @@
       "description": {
         "en": "Belgium, officially the Kingdom of Belgium, is a country in Northwestern Europe. Situated in a coastal lowland region known as the Low Countries, it is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the south, and the North Sea to the west. Belgium covers an area of 30689 other major cities are Antwerp, Ghent, Charleroi, Liège, Bruges, Namur, and Leuven.",
         "pt": "Ocupando a fronteira cultural entre a Europa germânica e a Europa latina, a Bélgica é basicamente constituída por dois grupos linguísticos: os flamengos, falantes do holandês, e os valões, que falam francês, além de um pequeno grupo de pessoas que falam a língua alemã. As duas maiores regiões da Bélgica são a região de língua holandesa de Flandres, no norte, com 59% da população e a região francófona da Valónia, no sul, habitada por 31% dos belgas. A Região de Bruxelas, oficialmente bilíngue, é um enclave de maioria francófona na região flamenga e tem 10% da população. Uma pequena comunidade de língua alemã existe no leste da Valónia. A diversidade linguística da Bélgica e conflitos políticos e culturais são refletidos na história política e no complexo sistema de governo do país.",
-        "fr": "La Belgique, en forme longue le royaume de Belgique, est un pays d'Europe de l'Ouest, bordé par la France, les Pays-Bas, l'Allemagne, le Luxembourg et la mer du Nord. La Belgique couvre une superficie de avec une population de au, soit une densité de. Politiquement, il s'agit d'une monarchie constitutionnelle fédérale à régime parlementaire. Sa capitale est Bruxelles ; les autres grandes villes sont Anvers, Gand, Charleroi, Liège, Bruges, Namur et Louvain.",
+        "fr": "La Belgique ( ; ; en wallon : Beldjike /bɛlˈdʒik/, en forme longue le royaume de Belgique, est un pays d'Europe de l'Ouest, bordé par la France, les Pays-Bas, l'Allemagne, le Luxembourg et la mer du Nord. La Belgique couvre une superficie de avec une population de au, soit une densité de. Politiquement, il s'agit d'une monarchie constitutionnelle fédérale à régime parlementaire. Sa capitale est Bruxelles ; les autres grandes villes sont Anvers, Gand, Charleroi, Liège, Bruges, Namur et Louvain.",
         "it": "Situato al confine tra l'Europa germanofona e l'area linguistica e culturale romanza, il Belgio è diviso in tre regioni. A settentrione le Fiandre, di lingua olandese, comprendono circa il 58% della popolazione totale. Nel mezzo è situata la regione della città di Bruxelles, la capitale, che è ufficialmente bilingue nonostante sia prevalentemente francofona, e nella quale risiede il 10% della popolazione.",
         "es": "Bélgica es un Estado multilingüístico con tres lenguas oficiales: el 57 % de su población, en la Región de Flandes principalmente, habla neerlandés, mientras que cerca del 42 % habla francés. Menos de un 1 % de los belgas vive en la Comunidad germanófona, donde hablan alemán, junto a la frontera al este del país. A menudo, esta diversidad lingüística lleva a severos conflictos políticos y culturales, muy parecidos a los de otros países bilingües, reflejándose en la organización territorial de Bélgica y en su historia política."
       },
@@ -7856,6 +7856,163 @@
     {
       "isoCode": "EU",
       "name": {
+        "en": "Germany",
+        "pt": "Alemanha",
+        "fr": "Allemagne",
+        "it": "Germania",
+        "es": "Alemania"
+      },
+      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Germany.svg?width=250",
+      "description": {
+        "en": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north with the Alps to the south. Its 16 constituent states have a total population of over 83 million, making it the most populous member state of the European Union. Germany borders Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.",
+        "pt": "Alemanha, oficialmente República Federal da Alemanha, é um país localizado na Europa Central. É limitado, a norte, pelo mar do Norte, Dinamarca e mar Báltico; a leste, pela Polônia e Chéquia; a sul, pela Áustria e Suíça e, a oeste, pela França, Luxemburgo, Bélgica e Países Baixos. O território da Alemanha abrange 357 021 quilômetros quadrados e é influenciado por um clima temperado sazonal. Com 83,5 milhões de habitantes, no final de 2025,",
+        "fr": "LAllemagne, en forme longue la République fédérale d'Allemagne, est un État d'Europe centrale, et selon certaines définitions d'Europe de l'Ouest, entouré par la mer du Nord, le Danemark et la mer Baltique au nord, par la Pologne à l'est-nord-est, la Tchéquie à l'est-sud-est, l'Autriche au sud-sud-est, la Suisse au sud-sud-ouest, la France au sud-ouest, la Belgique et le Luxembourg à l'ouest, enfin par les Pays-Bas à l'ouest-nord-ouest. Décentralisée et fédérale, l'Allemagne compte quatre villes de plus d'un million d'habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr, Francfort-sur-le-Main, Berlin et Stuttgart. Le siège du Gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn, ancienne capitale de la République fédérale d'Allemagne. Francfort-sur-le-Main est considérée comme la capitale financière de l'Allemagne et abrite le siège de la Banque centrale européenne. La langue officielle du pays est principalement l'allemand, à côté d'autres langues régionales ou minoritaires.",
+        "it": "La Germania, ufficialmente Repubblica Federale di Germania, è uno Stato membro dell'Unione europea situato nell'Europa occidentale. È una repubblica parlamentare federale suddivisa in sedici Stati con capitale, nonché maggiore città per numero di abitanti, Berlino. Con quasi 84 milioni di abitanti, è lo Stato più popoloso dell'Unione europea, il 3° più popoloso d'Europa dopo la Russia e la Turchia, e il 19º del mondo. Bagnata a nord-ovest dal mare del Nord e a nord-est dal mar Baltico, confina a nord con la Danimarca, a est con la Polonia e la Repubblica Ceca, a sud con Austria e Svizzera, e a ovest con Francia, Lussemburgo, Belgio e Paesi Bassi. Il territorio della Germania copre una superficie di km² ed è caratterizzato da un clima atlantico nella parte nord-occidentale e continentale nella parte sud-orientale. È anche il secondo Paese del mondo per numero di immigrati dopo gli Stati Uniti d'America.",
+        "es": "Alemania, oficialmente la República Federal de Alemania, es un país de Europa central y el Estado de la Unión Europea con mayor población y PIB. Constituido en Estado social y democrático de derecho, su forma de gobierno es la república parlamentaria y federal. Su capital es Berlín. Está formado por dieciséis estados federados y limita al norte con el mar del Norte, Dinamarca, Suecia y el mar Báltico; al este con Polonia y la República Checa; al sur con Austria y Suiza; y al oeste con Francia, Luxemburgo, Bélgica y los Países Bajos. El municipio Büsingen am Hochrhein, enclavado en Suiza, también forma parte de Alemania. El territorio de Alemania abarca de extensión"
+      },
+      "capital": [
+        {
+          "articleId": "Berlin",
+          "name": {
+            "en": "Berlin",
+            "pt": "Berlim",
+            "fr": "Berlin",
+            "it": "Berlino",
+            "es": "Berlín"
+          }
+        }
+      ],
+      "largestCity": [
+        {
+          "articleId": "Berlin",
+          "name": {
+            "en": "Berlin",
+            "pt": "Berlim",
+            "fr": "Berlin",
+            "it": "Berlino",
+            "es": "Berlín"
+          }
+        }
+      ],
+      "population": 83497147,
+      "areaKm2": 357022,
+      "densityKm2": 233.48,
+      "government": [
+        {
+          "articleId": null,
+          "name": {
+            "en": "Federal",
+            "pt": "Federal",
+            "fr": "Federal",
+            "it": "Federal",
+            "es": "Federal"
+          }
+        },
+        {
+          "articleId": "parliamentary republic",
+          "name": {
+            "en": "parliamentary republic",
+            "pt": "parliamentary republic",
+            "fr": "parliamentary republic",
+            "it": "parliamentary republic",
+            "es": "parliamentary republic"
+          }
+        }
+      ],
+      "officialLanguage": [
+        {
+          "articleId": "German language",
+          "name": {
+            "en": "German",
+            "pt": "Língua alemã",
+            "fr": "Allemand",
+            "it": "Lingua tedesca",
+            "es": "Idioma alemán"
+          }
+        }
+      ],
+      "demonym": [
+        {
+          "articleId": "Germans",
+          "name": {
+            "en": "German",
+            "pt": "Alemães",
+            "fr": "Allemands",
+            "it": "Tedeschi",
+            "es": "Pueblo alemán"
+          }
+        }
+      ],
+      "gdp": 5.453,
+      "hdi": 0.959,
+      "currency": [
+        {
+          "articleId": "Euro",
+          "name": {
+            "en": "Euro",
+            "pt": "Euro",
+            "fr": "Euro",
+            "it": "Euro",
+            "es": "Euro"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "(",
+            "pt": "(",
+            "fr": "(",
+            "it": "(",
+            "es": "("
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": "Euro sign",
+          "name": {
+            "en": "€",
+            "pt": "€",
+            "fr": "Symbole euro",
+            "it": "Simbolo dell'euro",
+            "es": "Símbolo del euro"
+          },
+          "isoCode": null
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": ")",
+            "pt": ")",
+            "fr": ")",
+            "it": ")",
+            "es": ")"
+          },
+          "isoCode": null
+        }
+      ],
+      "timeZone": [
+        {
+          "articleId": null,
+          "name": {
+            "en": "+1",
+            "pt": "+1",
+            "fr": "+1",
+            "it": "+1",
+            "es": "+1"
+          }
+        }
+      ],
+      "callingCode": [
+        "+49"
+      ],
+      "internetTld": [
+        ".de"
+      ]
+    },
+    {
+      "isoCode": "EU",
+      "name": {
         "en": "Greece",
         "pt": "Grécia",
         "fr": "Grèce",
@@ -8009,163 +8166,6 @@
       "internetTld": [
         ".gr",
         ".ελ"
-      ]
-    },
-    {
-      "isoCode": "EU",
-      "name": {
-        "en": "Germany",
-        "pt": "Alemanha",
-        "fr": "Allemagne",
-        "it": "Germania",
-        "es": "Alemania"
-      },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Germany.svg?width=250",
-      "description": {
-        "en": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north with the Alps to the south. Its 16 constituent states have a total population of over 83 million, making it the most populous member state of the European Union. Germany borders Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.",
-        "pt": "Alemanha, oficialmente República Federal da Alemanha, é um país localizado na Europa Central. É limitado, a norte, pelo mar do Norte, Dinamarca e mar Báltico; a leste, pela Polônia e Chéquia; a sul, pela Áustria e Suíça e, a oeste, pela França, Luxemburgo, Bélgica e Países Baixos. O território da Alemanha abrange 357 021 quilômetros quadrados e é influenciado por um clima temperado sazonal. Com 83,5 milhões de habitantes, no final de 2025,",
-        "fr": "LAllemagne, en forme longue la République fédérale d'Allemagne, est un État d'Europe centrale, et selon certaines définitions d'Europe de l'Ouest, entouré par la mer du Nord, le Danemark et la mer Baltique au nord, par la Pologne à l'est-nord-est, la Tchéquie à l'est-sud-est, l'Autriche au sud-sud-est, la Suisse au sud-sud-ouest, la France au sud-ouest, la Belgique et le Luxembourg à l'ouest, enfin par les Pays-Bas à l'ouest-nord-ouest. Décentralisée et fédérale, l'Allemagne compte quatre villes de plus d'un million d'habitants, par ordre décroissant la capitale Berlin, Hambourg, Munich et Cologne, mais les quatre plus grandes agglomérations sont Rhin-Ruhr, Francfort-sur-le-Main, Berlin et Stuttgart. Le siège du Gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn, ancienne capitale de la République fédérale d'Allemagne. Francfort-sur-le-Main est considérée comme la capitale financière de l'Allemagne et abrite le siège de la Banque centrale européenne. La langue officielle du pays est principalement l'allemand, à côté d'autres langues régionales ou minoritaires.",
-        "it": "La Germania, ufficialmente Repubblica Federale di Germania, è uno Stato membro dell'Unione europea situato nell'Europa occidentale. È una repubblica parlamentare federale suddivisa in sedici Stati con capitale, nonché maggiore città per numero di abitanti, Berlino. Con quasi 84 milioni di abitanti, è lo Stato più popoloso dell'Unione europea, il 3° più popoloso d'Europa dopo la Russia e la Turchia, e il 19º del mondo. Bagnata a nord-ovest dal mare del Nord e a nord-est dal mar Baltico, confina a nord con la Danimarca, a est con la Polonia e la Repubblica Ceca, a sud con Austria e Svizzera, e a ovest con Francia, Lussemburgo, Belgio e Paesi Bassi. Il territorio della Germania copre una superficie di km² ed è caratterizzato da un clima atlantico nella parte nord-occidentale e continentale nella parte sud-orientale. È anche il secondo Paese del mondo per numero di immigrati dopo gli Stati Uniti d'America.",
-        "es": "Alemania, oficialmente la República Federal de Alemania, es un país de Europa central y el Estado de la Unión Europea con mayor población y PIB. Constituido en Estado social y democrático de derecho, su forma de gobierno es la república parlamentaria y federal. Su capital es Berlín. Está formado por dieciséis estados federados y limita al norte con el mar del Norte, Dinamarca, Suecia y el mar Báltico; al este con Polonia y la República Checa; al sur con Austria y Suiza; y al oeste con Francia, Luxemburgo, Bélgica y los Países Bajos. El municipio Büsingen am Hochrhein, enclavado en Suiza, también forma parte de Alemania. El territorio de Alemania abarca de extensión"
-      },
-      "capital": [
-        {
-          "articleId": "Berlin",
-          "name": {
-            "en": "Berlin",
-            "pt": "Berlim",
-            "fr": "Berlin",
-            "it": "Berlino",
-            "es": "Berlín"
-          }
-        }
-      ],
-      "largestCity": [
-        {
-          "articleId": "Berlin",
-          "name": {
-            "en": "Berlin",
-            "pt": "Berlim",
-            "fr": "Berlin",
-            "it": "Berlino",
-            "es": "Berlín"
-          }
-        }
-      ],
-      "population": 83497147,
-      "areaKm2": 357022,
-      "densityKm2": 233.48,
-      "government": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Federal",
-            "pt": "Federal",
-            "fr": "Federal",
-            "it": "Federal",
-            "es": "Federal"
-          }
-        },
-        {
-          "articleId": "parliamentary republic",
-          "name": {
-            "en": "parliamentary republic",
-            "pt": "parliamentary republic",
-            "fr": "parliamentary republic",
-            "it": "parliamentary republic",
-            "es": "parliamentary republic"
-          }
-        }
-      ],
-      "officialLanguage": [
-        {
-          "articleId": "German language",
-          "name": {
-            "en": "German",
-            "pt": "Língua alemã",
-            "fr": "Allemand",
-            "it": "Lingua tedesca",
-            "es": "Idioma alemán"
-          }
-        }
-      ],
-      "demonym": [
-        {
-          "articleId": "Germans",
-          "name": {
-            "en": "German",
-            "pt": "Alemães",
-            "fr": "Allemands",
-            "it": "Tedeschi",
-            "es": "Pueblo alemán"
-          }
-        }
-      ],
-      "gdp": 5.453,
-      "hdi": 0.959,
-      "currency": [
-        {
-          "articleId": "Euro",
-          "name": {
-            "en": "Euro",
-            "pt": "Euro",
-            "fr": "Euro",
-            "it": "Euro",
-            "es": "Euro"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "(",
-            "pt": "(",
-            "fr": "(",
-            "it": "(",
-            "es": "("
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": "Euro sign",
-          "name": {
-            "en": "€",
-            "pt": "€",
-            "fr": "Symbole euro",
-            "it": "Simbolo dell'euro",
-            "es": "Símbolo del euro"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": ")",
-            "pt": ")",
-            "fr": ")",
-            "it": ")",
-            "es": ")"
-          },
-          "isoCode": null
-        }
-      ],
-      "timeZone": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "+1",
-            "pt": "+1",
-            "fr": "+1",
-            "it": "+1",
-            "es": "+1"
-          }
-        }
-      ],
-      "callingCode": [
-        "+49"
-      ],
-      "internetTld": [
-        ".de"
       ]
     },
     {
@@ -9362,7 +9362,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Kingdom_of_Spain.svg?width=250",
       "description": {
-        "en": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa. Peninsular Spain is bordered to the north by France, Andorra, and the Bay of Biscay; to the east and south by the Mediterranean Sea, Gibraltar and Morocco ; and to the west by Portugal and the Atlantic Ocean. Spain's capital and largest city is Madrid, other major urban areas include Barcelona, Valencia, Zaragoza, Seville, Bilbao, Málaga, Murcia, Palma de Mallorca and Las Palmas.",
+        "en": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa. Peninsular Spain is bordered to the north by France, Andorra, and the Bay of Biscay; to the east and south by the Mediterranean Sea, Gibraltar and Morocco ; and to the west by Portugal and the Atlantic Ocean. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Zaragoza, Seville, Bilbao, Málaga, Murcia, Palma de Mallorca and Las Palmas.",
         "pt": "Espanha, oficialmente Reino de/da Espanha, é um país principalmente localizado na Península Ibérica na Europa. Seu território também inclui dois arquipélagos: as ilhas Canárias, na costa da África, e as ilhas Baleares, no mar Mediterrâneo. Os enclaves africanos de Ceuta e Melilla fazem da Espanha o único país europeu a ter uma fronteira terrestre com um país africano. Várias pequenas ilhas no mar de Alborão também fazem parte do território espanhol. A Espanha continental é limitada a sul e a leste pelo Mediterrâneo, exceto por uma pequena fronteira terrestre com Gibraltar; a norte e a nordeste pela França, por Andorra e pelo Golfo da Biscaia; e a oeste e noroeste por Portugal e pelo Oceano Atlântico. Com uma área de km, a Espanha é o maior país da Europa Meridional, o segundo maior país da Europa Ocidental e da União Europeia e o quarto maior país de todo o continente europeu. Também é o sexto país mais populoso da Europa e o quarto da UE. A capital e maior cidade é Madri; outras grandes áreas urbanas incluem Barcelona, Valência, Sevilha, Málaga, Bilbau e Granada.",
         "fr": "LEspagne, en forme longue le royaume d'Espagne, est un État souverain transcontinental d'Europe du Sud-Ouest, qui occupe la plus grande partie de la péninsule Ibérique. Sa superficie est de.",
         "it": "La Spagna, il cui nome ufficiale è Regno di Spagna, è uno Stato dell'Europa occidentale ed è membro dell'Unione europea. Monarchia parlamentare, la Spagna è situata all'estremità occidentale dell'Europa e occupa buona parte della superficie della penisola iberica.",
@@ -11198,7 +11198,7 @@
       ],
       "population": 1025200,
       "areaKm2": 214969,
-      "densityKm2": 4.25,
+      "densityKm2": 5.21,
       "government": [
         {
           "articleId": null,
@@ -12000,7 +12000,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_India.svg?width=250",
       "description": {
-        "en": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and the largest by population. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.",
+        "en": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and the largest by population. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.",
         "pt": "Lar da Civilização do Vale do Indo, de rotas comerciais históricas e de vastos impérios, o subcontinente indiano é identificado por sua riqueza comercial e cultural de grande parte da sua longa história. Quatro grandes religiões — hinduísmo, budismo, jainismo e siquismo — originaram-se no país, enquanto o zoroastrismo, o judaísmo, o cristianismo e o islamismo chegaram no e moldaram a diversidade cultural da região. Anexada gradualmente pela Companhia Britânica das Índias Orientais no início do e colonizada pelo Império Britânico a partir de meados do, a Índia tornou-se uma nação independente em 1947, após uma luta social pela independência que foi marcada pela extensão da resistência não violenta.",
         "fr": "LInde, en forme longue la république de l'Inde, également appelée le Bharat dans sa constitution, est un pays d'Asie du Sud occupant la majeure partie du sous-continent indien. Sa capitale est New Delhi. Avec une population de plus de 1,465 milliard d'habitants en août 2025, l'Inde est le pays le plus peuplé au monde ainsi que le septième pays le plus étendu.",
         "it": "LIndia, ufficialmente Repubblica dell'India, è uno Stato federale dell'Asia meridionale, con capitale Nuova Delhi. Estesa su, l'India è il settimo Stato al mondo per superficie, mentre con oltre 1 miliardo e 438 milioni di abitanti è lo Stato più popoloso del mondo",
@@ -13263,16 +13263,6 @@
           }
         },
         {
-          "articleId": null,
-          "name": {
-            "en": "•",
-            "pt": "•",
-            "fr": "•",
-            "it": "•",
-            "es": "•"
-          }
-        },
-        {
           "articleId": "Kyrgyzstani",
           "name": {
             "en": "Kyrgyzstani",
@@ -14159,7 +14149,7 @@
         "pt": "Historicamente, a região era conhecida como Caracena, um grande porto parta para o comércio entre a Índia e a Mesopotâmia. A tribo foram os primeiros colonos árabes permanentes na região e estabeleceram as bases modernas do emirado. No, o Kuwait estava sob a influência do Império Otomano e depois da Primeira Guerra Mundial, ele emergiu como um xecado independente sob a proteção do Império Britânico. Grandes campos de petróleo no Kuwait foram descobertos na década de 1930.",
         "fr": "Le Koweït, en forme longue l, est un pays d'Asie occidentale et du Moyen-Orient. Situé au nord-est de la péninsule arabique, aux abords du golfe Persique, il partage ses frontières avec l'Arabie saoudite et l'Irak.",
         "it": "Il Kuwait, ufficialmente Stato del Kuwait, è un paese arabo del Medio Oriente affacciato sul golfo Persico; confina con l'Arabia Saudita a sud e con l'Iraq a nord. Rappresenta uno degli Stati più ricchi al mondo, forte della sua industria petrolifera.",
-        "es": "Kuwait, cuyo nombre oficial es Estado de Kuwait, es un país árabe situado en Asia Occidental, en el extremo noreste de la península arábiga y en la punta norte del golfo Pérsico, donde comparte fronteras con Irak por el norte y con Arabia Saudita por el sur. Su nombre es un diminutivo en árabe de la palabra كوت kūt, que significa «fortaleza». El país tiene de superficie y en 2024 tenía una población de 4,93 millones de habitantes."
+        "es": "Kuwait, cuyo nombre oficial es Estado de Kuwait, es un país árabe situado en Asia Occidental, en el extremo noreste de la península arábiga y en la punta norte del golfo Pérsico, donde comparte fronteras con Irak por el norte y con Arabia Saudita por el sur. Su nombre es un diminutivo en árabe de la palabra كوت, que significa «fortaleza». El país tiene de superficie. Según estimaciones oficiales, en 2024 tenía una población aproximada de 4,93 millones de habitantes."
       },
       "capital": [
         {
@@ -14388,17 +14378,7 @@
       ],
       "demonym": [
         {
-          "articleId": "Kazakhs",
-          "name": {
-            "en": "Kazakh",
-            "pt": "Cazaques",
-            "fr": "Kazakhs",
-            "it": "Kazaki",
-            "es": "Kazajos"
-          }
-        },
-        {
-          "articleId": "Kazakhstani",
+          "articleId": "Demographics of Kazakhstan",
           "name": {
             "en": "Kazakhstani",
             "pt": "Kazakhstani",
@@ -15360,45 +15340,25 @@
             "it": "Lingua lussemburghese",
             "es": "Idioma luxemburgués"
           }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "Administrative languages:Luxembourgish",
-            "pt": "Administrative languages:Luxembourgish",
-            "fr": "Administrative languages:Luxembourgish",
-            "it": "Administrative languages:Luxembourgish",
-            "es": "Administrative languages:Luxembourgish"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "German",
-            "pt": "German",
-            "fr": "German",
-            "it": "German",
-            "es": "German"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "French",
-            "pt": "French",
-            "fr": "French",
-            "it": "French",
-            "es": "French"
-          }
         }
       ],
       "demonym": [
         {
-          "articleId": "Luxembourgers",
+          "articleId": null,
+          "name": {
+            "en": "Luxembourger",
+            "pt": "Luxembourger",
+            "fr": "Luxembourger",
+            "it": "Luxembourger",
+            "es": "Luxembourger"
+          }
+        },
+        {
+          "articleId": null,
           "name": {
             "en": "Luxembourgish",
             "pt": "Luxembourgish",
-            "fr": "Luxembourgeois (peuple)",
+            "fr": "Luxembourgish",
             "it": "Luxembourgish",
             "es": "Luxembourgish"
           }
@@ -15647,7 +15607,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Morocco.svg?width=250",
       "description": {
-        "en": "Morocco, officially the Kingdom of Morocco, is a country in the Maghreb region of North Africa. It has coastlines on the Mediterranean Sea to the north and the Atlantic Ocean to the west, and has land borders with Algeria to the east; the Spanish exclaves of Ceuta, Melilla and Peñón de Vélez de la Gomera along the north, which it claims together with several small Spanish-controlled islands; and the disputed territory of Western Sahara to the south, partly occupied by Morocco since 1975. Morocco also claims to share a border with Mauritania through the disputed territory of Western Sahara. It has a population of approximately 37 million. Its capital is Rabat, while its largest city is Casablanca.",
+        "en": "Morocco, officially the Kingdom of Morocco,",
         "pt": "O Marrocos tem uma população de mais de 33,8 milhões de pessoas e uma área de km. Sua capital é Rabat, e a maior cidade é Casablanca. Sendo um poder regional historicamente proeminente, o Marrocos tem uma história da independência não compartilhada pelos seus vizinhos. Desde a fundação do primeiro Estado marroquino por Idris I em 788, o país foi governado por uma série de dinastias independentes, atingindo o seu zênite sob as dinastias almorávida e almóada, abrangendo partes da Península Ibérica e noroeste da África. As dinastias merínida e sádida continuaram a luta contra a dominação estrangeira e Marrocos continuou a ser o único país do norte da África a evitar a ocupação pelo Império Otomano. A dinastia alauita, reinante atualmente, tomou o poder em 1666. Em 1912, o Marrocos foi dividido em protetorados franceses e espanhóis, com uma zona internacional em Tânger, tendo recuperado a sua independência em 1956.",
         "fr": "Le Maroc, en forme longue le royaume du Maroc, autrefois appelé Empire chérifien, est un pays régionalisé situé en Afrique du Nord. Le Maroc se compose de zones montagneuses ou désertiques, et il est un des seuls pays à comporter des rivages sur la mer Méditerranée d'un côté et l'océan Atlantique de l'autre. Sa capitale administrative et politique est Rabat et sa plus grande ville, ainsi que sa capitale économique, est Casablanca.",
         "it": "Abitato fin dalla preistoria da popolazioni berbere, il Paese conobbe diverse civiltà, tra le quali i Fenici, i Cartaginesi, i Romani, i Vandali e i Bizantini, ma l'impronta più forte venne lasciata dagli Arabi, giunti nel Medioevo e che diffusero l'islam. Varie dinastie islamiche, tra le quali gli Idrisidi, gli Almoravidi, gli Almohadi, i Merinidi, i Wattasidi, i Sa'diani e gli Alawidi, si susseguirono nei secoli. Il Marocco conobbe poi l'ingerenza di potenze occidentali, in particolare dei portoghesi, fino a essere reso protettorato di francesi e spagnoli. Il Paese riottenne l'indipendenza nel 1956.",
@@ -16773,7 +16733,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Mauritania.svg?width=250",
       "description": {
-        "en": "Mauritania, officially the Islamic Republic of Mauritania, is a country in the Maghreb region of West Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest. By land area Mauritania is the 11th-largest country in Africa and the 28th-largest in the world; 90% of its territory is in the Sahara desert. Most of its population of 4.3 million live in the temperate south of the country; roughly a third of the population is concentrated in the capital and largest city, Nouakchott, on the Atlantic coast.",
+        "en": "Mauritania, officially or also known as the Islamic Republic of Mauritania, is a country in the Maghreb region of West Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest. By land area Mauritania is the 11th-largest country in Africa and the 28th-largest in the world; 90% of its territory is in the Sahara desert. Most of its population of 4.3 million live in the temperate south of the country; roughly a third of the population is concentrated in the capital and largest city, Nouakchott, on the Atlantic coast.",
         "pt": "O nome do país deriva de Mauretania, o nome latino para uma região do antigo Magrebe. Estendia-se da atual Argélia central até o Atlântico. Os berberes ocuparam o que hoje é a Mauritânia no início do século III d.C. Grupos de tribos árabes migraram para esta área no final do século VII, trazendo consigo o islamismo, a cultura árabe e a língua árabe. No início do século XX, a Mauritânia foi colonizada pela França como parte da África Ocidental Francesa. Conquistou a independência em 1960, mas desde então passou por golpes recorrentes e períodos de ditadura militar. O golpe de Estado mauritano de 2008 foi liderado pelo General Mohamed Ould Abdel Aziz, que venceu as eleições presidenciais subsequentes em 2009 e 2014. Ele foi sucedido pelo General Mohamed Ould Ghazouani após as eleições de 2019, chefe de um governo autocrático com um histórico de direitos humanos muito ruim, particularmente devido à perpetuação da escravidão; o Índice Global de Escravidão de 2018 estima que existam cerca de 90 mil escravos no país.",
         "fr": "La Mauritanie, en forme longue la république islamique de Mauritanie, est un État arabophone et musulman du Maghreb. Sa superficie est de et elle se trouve en grande partie dans le Sahara. Elle possède une côte d'environ ouverte sur l'océan Atlantique s'étirant de Ndiago au sud jusqu'à Nouadhibou au nord et elle est frontalière de trois pays ainsi que du Sahara occidental au nord. Sa capitale et plus grande ville est Nouakchott. Les autres villes principales sont Nouadhibou, Kiffa, Kaédi, Néma et Rosso.",
         "it": "La Mauritania, ufficialmente Repubblica Islamica della Mauritania è uno Stato dell'Africa occidentale, confinante con il Sahara Occidentale a nord, l'oceano Atlantico ad ovest, il Senegal a sud-ovest, il Mali a sud e ad est, e l'Algeria a nord-est. La capitale è Nouakchott.",
@@ -17456,7 +17416,7 @@
           }
         }
       ],
-      "population": 36385115,
+      "population": 34374300,
       "areaKm2": 330803,
       "densityKm2": 101,
       "government": [
@@ -17849,7 +17809,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Niger.svg?width=250",
       "description": {
-        "en": "Niger, officially the Republic of the Niger, is a landlocked country in West Africa. It is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest. It covers a land area of almost, making it the sixth-largest country in Africa, the largest landlocked country in West Africa and the second-largest landlocked nation in Africa behind Chad. Over 80% of its land area lies in the Sahara. Its predominantly Muslim population of about lives mostly in clusters in the south and west of the country. The capital, Niamey, is located in Niger's southwest corner along the namesake Niger River.",
+        "en": "Niger, officially the Republic of the Niger, is a landlocked country in West Africa. It is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest. It covers a land area of almost, making it the sixth-largest country in Africa and the second-largest landlocked nation in Africa behind Chad. Over 80% of its land area lies in the Sahara. Its predominantly Muslim population of about lives mostly in clusters in the south and west of the country. The capital Niamey is located in the southwest corner along the namesake Niger River.",
         "pt": "O Níger é um país subdesenvolvido, e é consistentemente umas das nações que apresentam um Índice de Desenvolvimento Humano muito baixo, com um total de 0,394 pontos, obtendo a 189ª classificação entre os países pesquisados, de acordo com dados do Programa das Nações Unidas para o Desenvolvimento. Grande parte das porções não desérticas do país estão ameaçadas por secas periódicas e a desertificação. A economia está concentrada em torno de subsistência e o setor agrário concentra-se na região sul, a parte mais fértil de seu território. A exportação de matérias-primas, principalmente minério de urânio, também é um dos principais contribuintes da economia nigerina. O país enfrenta sérios desafios para o desenvolvimento devido à sua posição sem litoral, terreno desértico, má educação, extrema pobreza, falta de infraestrutura e degradação ambiental.",
         "fr": "Le Niger, en forme longue la république du Niger, est un pays d'Afrique de l'Ouest, situé entre la Libye au nord-est, le Tchad à l'est, le Nigeria au sud, le Bénin au sud-ouest, le Burkina Faso à l'ouest-sud-ouest, le Mali à l'ouest et l'Algérie au nord-ouest. La capitale est Niamey. Les habitants sont les Nigériens et les Nigériennes. La surface du pays est largement recouverte par le Sahara et le Sahel.",
         "it": "Il Niger, ufficialmente Repubblica del Niger è uno Stato senza sbocco al mare dell'Africa occidentale. Confina a nord con l'Algeria e la Libia, a est con il Ciad, a sud con la Nigeria e il Benin e a ovest con il Burkina Faso e il Mali.",
@@ -17879,9 +17839,9 @@
           }
         }
       ],
-      "population": 26342784,
+      "population": 28814878,
       "areaKm2": 1267000,
-      "densityKm2": 21,
+      "densityKm2": 23,
       "government": [
         {
           "articleId": null,
@@ -19110,7 +19070,7 @@
           }
         }
       ],
-      "population": 5494691,
+      "population": 5736004,
       "areaKm2": 315331,
       "densityKm2": 15,
       "government": [
@@ -19638,213 +19598,6 @@
       ],
       "internetTld": [
         ".pg"
-      ]
-    },
-    {
-      "isoCode": "PH",
-      "name": {
-        "en": "User:NotInUseForNow/sandbox",
-        "pt": "User:NotInUseForNow/sandbox",
-        "fr": "User:NotInUseForNow/sandbox",
-        "it": "User:NotInUseForNow/sandbox",
-        "es": "User:NotInUseForNow/sandbox"
-      },
-      "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_Philippines.svg?width=250",
-      "description": {
-        "en": "The Philippines, officially the Republic of the Philippines,",
-        "pt": "The Philippines, officially the Republic of the Philippines,",
-        "fr": "The Philippines, officially the Republic of the Philippines,",
-        "it": "The Philippines, officially the Republic of the Philippines,",
-        "es": "The Philippines, officially the Republic of the Philippines,"
-      },
-      "capital": [
-        {
-          "articleId": "Manila",
-          "name": {
-            "en": "Manila",
-            "pt": "Manila",
-            "fr": "Manille",
-            "it": "Manila",
-            "es": "Manila"
-          }
-        }
-      ],
-      "largestCity": [
-        {
-          "articleId": "Quezon City",
-          "name": {
-            "en": "Quezon City",
-            "pt": "Cidade Quezon",
-            "fr": "Quezon City",
-            "it": "Quezon City",
-            "es": "Ciudad Quezon"
-          }
-        }
-      ],
-      "population": 112729484,
-      "areaKm2": 300000,
-      "densityKm2": 363.45,
-      "government": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "Unitary",
-            "pt": "Unitary",
-            "fr": "Unitary",
-            "it": "Unitary",
-            "es": "Unitary"
-          }
-        },
-        {
-          "articleId": "presidential republic",
-          "name": {
-            "en": "presidential republic",
-            "pt": "presidential republic",
-            "fr": "presidential republic",
-            "it": "presidential republic",
-            "es": "presidential republic"
-          }
-        }
-      ],
-      "officialLanguage": [
-        {
-          "articleId": "Filipino language",
-          "name": {
-            "en": "Filipino",
-            "pt": "Língua filipina",
-            "fr": "Philippin",
-            "it": "Lingua filippina",
-            "es": "Idioma filipino"
-          }
-        },
-        {
-          "articleId": "Philippine English",
-          "name": {
-            "en": "English",
-            "pt": "Inglês filipino",
-            "fr": "Anglais philippin",
-            "it": "English",
-            "es": "Inglés filipino"
-          }
-        }
-      ],
-      "demonym": [
-        {
-          "articleId": "Filipinos",
-          "name": {
-            "en": "Filipino",
-            "pt": "Filipinos",
-            "fr": "Philippins",
-            "it": "Filipino",
-            "es": "Pueblo filipino"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "Filipina (feminine)",
-            "pt": "Filipina (feminine)",
-            "fr": "Filipina (feminine)",
-            "it": "Filipina (feminine)",
-            "es": "Filipina (feminine)"
-          }
-        },
-        {
-          "articleId": "Pinoy",
-          "name": {
-            "en": "Pinoy",
-            "pt": "Pinoy",
-            "fr": "Pinoy",
-            "it": "Pinoy",
-            "es": "Pinoy"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "Pinay (colloquial feminine)",
-            "pt": "Pinay (colloquial feminine)",
-            "fr": "Pinay (colloquial feminine)",
-            "it": "Pinay (colloquial feminine)",
-            "es": "Pinay (colloquial feminine)"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "Philippine (adjective for certain common nouns)",
-            "pt": "Philippine (adjective for certain common nouns)",
-            "fr": "Philippine (adjective for certain common nouns)",
-            "it": "Philippine (adjective for certain common nouns)",
-            "es": "Philippine (adjective for certain common nouns)"
-          }
-        }
-      ],
-      "gdp": 512.222,
-      "hdi": 0.72,
-      "currency": [
-        {
-          "articleId": "Philippine peso",
-          "name": {
-            "en": "Philippine peso",
-            "pt": "Peso filipino",
-            "fr": "Peso philippin",
-            "it": "Peso filippino",
-            "es": "Peso filipino"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "(",
-            "pt": "(",
-            "fr": "(",
-            "it": "(",
-            "es": "("
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": "Philippine peso sign",
-          "name": {
-            "en": "₱",
-            "pt": "₱",
-            "fr": "₱",
-            "it": "₱",
-            "es": "₱"
-          },
-          "isoCode": null
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": ")",
-            "pt": ")",
-            "fr": ")",
-            "it": ")",
-            "es": ")"
-          },
-          "isoCode": null
-        }
-      ],
-      "timeZone": [
-        {
-          "articleId": null,
-          "name": {
-            "en": "+8",
-            "pt": "+8",
-            "fr": "+8",
-            "it": "+8",
-            "es": "+8"
-          }
-        }
-      ],
-      "callingCode": [
-        "+63"
-      ],
-      "internetTld": [
-        ".ph"
       ]
     },
     {
@@ -21009,7 +20762,7 @@
         "en": "Russia, or the Russian Federation, is a country in Eastern Europe and North Asia. It is the largest country in the world, spanning eleven time zones and sharing land borders with fourteen countries. With a population of over 140 million, Russia is the most populous country in Europe and the ninth-most populous in the world. It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. Moscow, the most populous metropolitan area in Europe, is the capital and largest city of Russia, while Saint Petersburg is its second-largest city and a major cultural centre.",
         "pt": "Federação da Rússia, ou simplesmente chamada de Rússia, é um país localizado no norte da Eurásia, com área de quilómetros quadrados. É o maior país do planeta, cobrindo mais de um nono da superfície terrestre. É também o nono país mais populoso, com 146 milhões de habitantes e o país mais populoso da Europa. Faz fronteira com os seguintes países, de noroeste para sudeste: Noruega, Finlândia, Estónia, Letónia, Lituânia e Polónia, Bielorrússia, Ucrânia, Geórgia, Azerbaijão, Cazaquistão, China, Mongólia e Coreia do Norte. Também tem fronteiras marítimas com o Japão, pelo Mar de Okhotsk e pelo Mar do Japão, e com os Estados Unidos, pelo Estreito de Bering.",
         "fr": "La Russie, en forme longue la fédération de Russie, est un pays transcontinental, le plus vaste État de la planète, à cheval sur l'Asie du Nord et sur l'Europe de l'Est.",
-        "it": "La Russia, ufficialmente Federazione Russa, è uno Stato transcontinentale, principalmente sito nell’ Asia settentrionale, che si estende per un terzo in Europa. È il più vasto Stato del mondo, con una superficie di km², ed a inizio 2024 conta circa 143,968,824 abitanti. La capitale è Mosca. La lingua ufficiale è il russo, ma le repubbliche autonome possono avere altre lingue ufficiali. L'attuale presidente della federazione è Vladimir Putin.",
+        "it": "La Russia, ufficialmente Federazione Russa, è uno Stato transcontinentale, principalmente sito nell’ Asia settentrionale, che si estende per un terzo in Europa. È il più vasto Stato del mondo, con una superficie di km², ed a inizio 2024 conta circa 144 milioni di abitanti. La capitale è Mosca. La lingua ufficiale è il russo, ma le repubbliche autonome possono avere altre lingue ufficiali. L'attuale presidente della federazione è Vladimir Putin.",
         "es": "Rusia, conocida formalmente como Federación Rusa, es un país euroasiático que se extiende sobre Europa del Este y Asia del Norte. Es el país más extenso del mundo, con una superficie de, equivalente a algo más de la novena parte de la tierra firme del planeta, y posee una gran variedad de relieve y de ecosistemas. Su capital es la ciudad federal de Moscú."
       },
       "capital": [
@@ -21290,13 +21043,13 @@
           }
         },
         {
-          "articleId": "English language",
+          "articleId": "Rwandan English",
           "name": {
             "en": "English",
-            "pt": "Língua inglesa",
-            "fr": "Anglais",
-            "it": "Lingua inglese",
-            "es": "Idioma inglés"
+            "pt": "English",
+            "fr": "English",
+            "it": "English",
+            "es": "English"
           }
         },
         {
@@ -22304,23 +22057,13 @@
       ],
       "demonym": [
         {
-          "articleId": "Slovenes",
-          "name": {
-            "en": "Slovene",
-            "pt": "Eslovenos",
-            "fr": "Slovènes",
-            "it": "Sloveni",
-            "es": "Pueblo esloveno"
-          }
-        },
-        {
-          "articleId": null,
+          "articleId": "Demographics of Slovenia",
           "name": {
             "en": "Slovenian",
             "pt": "Slovenian",
-            "fr": "Slovenian",
+            "fr": "Démographie de la Slovénie",
             "it": "Slovenian",
-            "es": "Slovenian"
+            "es": "Demografía de Eslovenia"
           }
         }
       ],
@@ -23437,7 +23180,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Syria_(2025-).svg%3C!--_Do_not_change_this_to_the_Ba'athist_flag_or_the_Independence_flag_--%3E?width=250",
       "description": {
-        "en": "Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It borders the Mediterranean Sea to the west, Turkey to the north and northwest, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic under a provisional government and comprises 14 governorates. Damascus is the capital and largest city. With a population of 26 million across an area of 185180, it is the 56th-most populous and 87th-largest country.",
+        "en": "Syria, officially the Syrian Arab Republic, is a country in West Asia located in the Eastern Mediterranean and the Levant. It borders the Mediterranean Sea to the west, Turkey to the north and northwest, Iraq to the east and southeast, Jordan to the south, and Israel and Lebanon to the southwest. It is a republic under a provisional government and comprises 14 governorates. Damascus is Syria's capital and largest city. With a population of 26 million across an area of 185180, it is the 56th-most populous and 87th-largest country.",
         "pt": "Antigamente, o nome de \"Síria\" era sinônimo de Levante, enquanto o Estado moderno abrange os locais de vários reinos e impérios antigos, como a civilização eblana, do Sua capital, Damasco, está entre as mais antigas cidades continuamente habitadas do mundo. Na era islâmica, a cidade se tornou a sede do Califado Omíada e uma capital provincial do Sultanato Mameluco do Egito. A Síria moderna foi estabelecida após a Primeira Guerra Mundial durante o Mandato Francês e era o maior Estado árabe a surgir na região do Levante, que antigamente era dominada pelo Império Otomano. O país conquistou a independência como uma república parlamentar em 24 de outubro de 1945, quando a Síria tornou-se membro fundador da Organização das Nações Unidas, um ato que legalmente pôs fim ao antigo domínio francês — embora as tropas francesas não tenham deixado o país até abril de 1946.",
         "fr": "La Syrie, en forme longue la République arabe syrienne, est un pays d'Asie de l'Ouest. Située sur la côte orientale de la mer Méditerranée, elle possède des frontières terrestres avec la Turquie, l'Irak, la Jordanie, Israël, le Liban et une frontière maritime avec Chypre. Sa capitale et sa plus grande ville est Damas, qui fut historiquement la capitale du Califat omeyyade de 661 à 744.",
         "it": "Storicamente per \"Siria\" ci si riferiva all'omonima regione storica, che coincide con il Levante. La Siria vide sorgere sul suo territorio numerosi regni e civiltà, tra i quali la civiltà eblaita; il territorio fu poi soggetto al dominio di numerose civiltà, tra le quali assiri, babilonesi, romani, bizantini, arabi, crociati e ottomani; Damasco fu sede del califfato omayyade e capitale provinciale del sultanato mamelucco. In seguito alla prima guerra mondiale il territorio siriano venne inglobato nel Mandato francese della Siria e del Libano. Lo Stato siriano moderno venne fondato nel 1945, quando la Repubblica di Siria divenne membro fondatore delle Nazioni Unite. Tra il 1958 e il 1961 la Siria fece parte insieme all'Egitto della Repubblica Araba Unita. A partire dal 1963 il partito Ba'th mantenne il potere e dal 1970 la presidenza venne mantenuta dalla famiglia al-Asad. A partire dal 2011 il paese entrò in uno stato di guerra civile che nel 2024 ha portato alla presa del potere da parte delle forze di opposizione.",
@@ -23536,7 +23279,7 @@
           }
         }
       ],
-      "gdp": 65,
+      "gdp": 23.74,
       "hdi": 0.564,
       "currency": [
         {
@@ -23981,33 +23724,13 @@
       ],
       "demonym": [
         {
-          "articleId": "Tajikistani",
+          "articleId": "Demographics of Tajikistan",
           "name": {
             "en": "Tajikistani",
             "pt": "Demografia do Tajiquistão",
             "fr": "Démographie du Tadjikistan",
             "it": "Tajikistani",
             "es": "Demografía de Tayikistán"
-          }
-        },
-        {
-          "articleId": null,
-          "name": {
-            "en": "•",
-            "pt": "•",
-            "fr": "•",
-            "it": "•",
-            "es": "•"
-          }
-        },
-        {
-          "articleId": "Tajiks",
-          "name": {
-            "en": "Tajik",
-            "pt": "Tajiques",
-            "fr": "Tadjiks",
-            "it": "Tagiki",
-            "es": "Tayikos"
           }
         }
       ],
@@ -24490,7 +24213,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Tonga.svg?width=250",
       "description": {
-        "en": "Tonga, officially the Kingdom of Tonga, is an island country in Polynesia, part of Oceania. The country has 171 islands, of which 45 are inhabited. 70% of whom live on the main island, Tongatapu. The country stretches approximately north-south. It is surrounded by Fiji and Wallis and Futuna to the northwest, Samoa to the northeast, New Caledonia and Vanuatu to the west, Niue to the east and Kermadec to the southwest. Tonga is about from New Zealand's North Island.",
+        "en": "Tonga, officially known as the Kingdom of Tonga, is an island country in Polynesia, part of Oceania. The country has 171 islands, of which 45 are inhabited. 70% of whom live on the main island, Tongatapu. The country stretches approximately north-south. It is surrounded by Fiji and Wallis and Futuna to the northwest, Samoa to the northeast, New Caledonia and Vanuatu to the west, Niue to the east and Kermadec to the southwest. Tonga is about from New Zealand's North Island.",
         "pt": "Tonga é um país da Oceania, integrante da Polinésia e formado pela união de 177 ilhas de mesmo nome, também conhecidas como Ilhas Amigáveis, das quais 36 são habitadas. Através de seu território marítimo, faz fronteira ao norte com o território ultramarino francês de Wallis e Futuna e com Samoa; a nordeste com a Samoa Americana; a leste com os territórios de Niue e das Ilhas Cook, pertencentes à Nova Zelândia; e a oeste com Fiji. Ao sul, as ilhas mais próximas são as Kermadec, também sob domínio da Nova Zelândia. A sua capital é Nucualofa, que também é o principal centro urbano.",
         "fr": "Les Tonga, en forme longue le royaume des Tonga, sont un État de Polynésie, situé dans l'Ouest de l'océan Pacifique sud, à à l'est-sud-est des îles Fidji et à au sud de Wallis-et-Futuna. Le pays est réparti en trois archipels principaux comportant plus de et îlots.",
         "it": "Tonga, ufficialmente Regno di Tonga o delle Tonga, è uno Stato insulare dell'Oceania, situato nell'Oceano Pacifico meridionale a tre quarti in linea d'aria tra le isole Hawaii e la Nuova Zelanda.",
@@ -26186,7 +25909,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Samoa.svg?width=250",
       "description": {
-        "en": "Samoa, officially the Independent State of Samoa, is an island country in Polynesia, part of Oceania, in the South Pacific Ocean. It consists of two main islands, two smaller, inhabited islands, and several smaller, uninhabited islands, including the Aleipata Islands. Samoa is located west of American Samoa, northeast of Tonga, northeast of Fiji, east of Wallis and Futuna, southeast of Tuvalu, south of Tokelau, southwest of Hawaii, and northwest of Niue. The capital and largest city is Apia.",
+        "en": "Samoa, officially the Independent State of Samoa, is an island country in Polynesia, a part of Oceania, which is in the South Pacific Ocean. It consists of two main islands, two smaller, inhabited islands, and several smaller, uninhabited islands, including the Aleipata Islands. Samoa is located west of American Samoa, northeast of Tonga, northeast of Fiji, east of Wallis and Futuna, southeast of Tuvalu, south of Tokelau, southwest of Hawaii, and northwest of Niue. The capital and largest city is Apia.",
         "pt": "Samoa é membro da Comunidade Britânica. O país conseguiu sua independência da Nova Zelândia em 1962, e foi admitida como Samoa Ocidental nas Nações Unidas em 15 de dezembro de 1976. Todo o arquipélago, que inclui Samoa Americana, foi chamado de \"Ilhas Navegadores\" por exploradores europeus antes do século XX por causa das habilidades marítimas dos samoanos.",
         "fr": "Les Samoa, en forme longue lÉtat indépendant des Samoa, sont un État indépendant de Polynésie occidentale, situé dans l'ouest de l'océan Pacifique sud, appelé les Samoa-Occidentales jusqu’en 1997.",
         "it": "Le Samoa, ufficialmente Stato indipendente di Samoa, sono uno Stato indipendente dell'Oceania della Polinesia e membro del Commonwealth delle Nazioni, composto da un gruppo di isole dell'oceano Pacifico meridionale, all'interno dell'arcipelago delle Samoa, a metà strada tra le Isole Hawaii e la Nuova Zelanda. Le isole occupano, e contano circa 200.000 abitanti. La capitale, che sorge sull'isola di Upolu, è Apia. Lo stato era in passato una colonia neozelandese: L'indipendenza dalla Nuova Zelanda fu dichiarata il 1º gennaio 1962",
@@ -27146,7 +26869,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Saint_Kitts_and_Nevis.svg?width=250",
       "description": {
-        "en": "Saint Kitts and Nevis, officially the Federation of Saint Christopher and Nevis, is an island country located in the Caribbean consisting of the 2 islands of Saint Kitts and Nevis, in the Leeward Islands chain of the Lesser Antilles. With 261 of territory, and roughly 48,000 inhabitants, it is the smallest sovereign state in the Western Hemisphere, in both area and population, as well as the world's smallest sovereign federation. The country is a Commonwealth realm, with Charles III as king and head of state.",
+        "en": "Saint Kitts and Nevis, officially the Federation of Saint Christopher and Nevis, is an island country located in the Caribbean consisting of the two islands of Saint Kitts and Nevis, in the Leeward Islands chain of the Lesser Antilles. With 261 of territory, and roughly 48,000 inhabitants, it is the smallest sovereign state in the Western Hemisphere, in both area and population, as well as the world's smallest sovereign federation. The country is a Commonwealth realm, with Charles III as king and head of state.",
         "pt": "São Cristóvão e Neves, ou São Cristóvão e Névis, oficialmente Federação de São Cristóvão e Neves ou Névis é um país das Caraíbas, localizado entre as ilhas de Barlavento, é uma federação constituída por 14 paróquias, nove localizadas em São Cristóvão e cinco localizadas em Neves. É também o menor Estado soberano da América, tanto em extensão territorial quanto em número de habitantes.",
         "fr": "Saint-Christophe-et-Niévès, Saint-Christophe-et-Nevis ou Saint-Kitts-et-Nevis, en forme longue la fédération de Saint-Christophe-et-Niévès, et, est un État situé dans les Petites Antilles, en mer des Caraïbes, composé des îles Saint-Christophe et Niévès, associées sous forme de fédération. D'une superficie de, Saint-Christophe-et-Niévès est le plus petit pays d'Amérique.",
         "it": "La Federazione di Saint Kitts e Nevis è uno Stato federale insulare dell'America centrale che sorge su un arcipelago delle Piccole Antille formato dalle isole di Saint Kitts e di Nevis. Vasto e con una popolazione di meno di abitanti, è lo Stato sovrano più piccolo dell'emisfero occidentale nonché la più piccola federazione del mondo.",
@@ -27558,7 +27281,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Mali.svg?width=250",
       "description": {
-        "en": "Mali, officially the Republic of Mali, is a landlocked country in West Africa. It is the eighth-largest country in Africa and the 23rd largest country in the world, with an area of 1240192.",
+        "en": "Mali, officially the Republic of Mali, is a landlocked country in West Africa. It is the eighth-largest country in Africa and the 23rd largest country in the world, with an area of 1240192. 47.19% of which are estimated to be under age 15 in 2024. Its capital and largest city is Bamako. French was the official language until 2022, when it was replaced by 13 African languages, with Bambara being the first language of the majority of the population.",
         "pt": "Formado por oito regiões, o Mali tem fronteiras ao norte, no meio ao Deserto do Saara, enquanto a região sul, onde vive a maioria de seus habitantes, está próximo aos rios Níger e Senegal. Alguns dos recursos naturais no Mali são o ouro, o urânio e o sal.",
         "fr": "Le Mali, en forme longue la république du Mali, est un État d'Afrique de l'Ouest, frontalier de la Mauritanie au nord-ouest, de l'Algérie au nord-est, du Niger à l'est, du Burkina Faso au sud-est, de la Côte d'Ivoire au sud, de la Guinée au sud-ouest et du Sénégal à l'ouest. Sa capitale est Bamako, dont l'aire urbaine compte d'habitants en 2019 suspendu de cette organisation en raison de la dictature militaire.",
         "it": "Il Mali, ufficialmente Repubblica del Mali, è uno Stato situato nell'Africa occidentale e senza sbocco al mare. È l'ottavo Stato più esteso dell'Africa, con un'area di oltre ; la popolazione ammonta a 21,3 milioni di abitanti, il 67% dei quali veniva stimato essere al di sotto dei 25 anni nel 2017. A nord confina con l'Algeria, a est con il Niger, a sud con il Burkina Faso e la Costa d'Avorio, a sud-ovest con la Guinea e a ovest con il Senegal e la Mauritania; la capitale è Bamako, che è anche la maggiore città del Paese. Lo Stato consiste di otto regioni, e il suo confine settentrionale raggiunge le profondità del deserto del Sahara, mentre la parte meridionale del Paese è compresa nella savana sudanese, attraverso la quale scorrono sia il fiume Niger sia il fiume Senegal, e dove vive la maggior parte degli abitanti. L'economia nazionale è centrata sull'agricoltura e l'estrazione mineraria: una delle principali risorse naturali del Mali è l'oro, di cui è il terzo produttore nel continente africano; esporta anche il sale.",
@@ -28100,7 +27823,7 @@
       },
       "flagUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Yemen.svg?width=250",
       "description": {
-        "en": "Yemen, officially the Republic of Yemen, is a country in West Asia. Located in southern Arabia, the country includes the Socotra Archipelago and borders Saudi Arabia to the north, Oman to the northeast, the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west. It also shares maritime borders with Djibouti, Eritrea, Somaliland, and Somalia across the Horn of Africa. Covering 455503, and the second-largest by population.",
+        "en": "Yemen, officially the Republic of Yemen, is a country in West Asia. Located in southern Arabia, the country includes the Socotra Archipelago and borders Saudi Arabia to the north, Oman to the northeast, the Arabian Sea to the east, the Gulf of Aden to the south, and the Red Sea to the west. It also shares maritime borders with Djibouti, Eritrea, and Somalia across the Horn of Africa. Covering 455503, and the second-largest by population.",
         "pt": "O país abrigou os Sabeus e o Reino de Sabá, um estado de negociação que floresceu por mais de mil anos e, provavelmente, também estendeu-se à Etiópia e a Eritreia. Em 275, a região caiu sob o domínio judeu, originando o Reino Himiarita. O cristianismo chegou no, enquanto o judaísmo e o paganismo já estavam estabelecidos. O islamismo espalhou-se rapidamente no e as tropas iemenitas foram cruciais para a expansão das conquistas islâmicas iniciais.",
         "fr": "Le Yémen, en forme longue la république du Yémen, est un pays d’Asie de l’Ouest, plus précisément du Moyen-Orient, il est situé à la pointe sud-ouest de la péninsule d'Arabie. Il possède une frontière terrestre avec l’Arabie saoudite au nord et avec Oman au nord-est, et une frontière maritime avec Djibouti et l'Érythrée à l'ouest et la Somalie au sud. Il présente une importante façade maritime sur le golfe d'Aden, une moindre sur la mer Rouge, et contrôle, avec Djibouti, le détroit de Bab-el-Mandeb qui mène vers le canal de Suez. Sa capitale, Sanaa, se situe dans l'ouest du pays, et son principal port est Aden.",
         "it": "La repubblica, oltre al territorio continentale, comprende l'arcipelago di Socotra, composto da quattro isole fra cui l'isola di Socotra nell'Oceano Indiano, e gli arcipelaghi di Perim, Kamaran e Zuqur-Hānīsh nel Mar Rosso. Confina a nord con l'Arabia Saudita, a est con l'Oman, a ovest con il Mar Rosso, a sud con il golfo di Aden. La sua capitale è Sana'a.",
@@ -28552,6 +28275,36 @@
             "fr": "parliamentary republic with an executive presidency",
             "it": "parliamentary republic with an executive presidency",
             "es": "parliamentary republic with an executive presidency"
+          }
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "under an",
+            "pt": "under an",
+            "fr": "under an",
+            "it": "under an",
+            "es": "under an"
+          }
+        },
+        {
+          "articleId": "authoritarian",
+          "name": {
+            "en": "authoritarian",
+            "pt": "authoritarian",
+            "fr": "authoritarian",
+            "it": "authoritarian",
+            "es": "authoritarian"
+          }
+        },
+        {
+          "articleId": null,
+          "name": {
+            "en": "dictatorship",
+            "pt": "dictatorship",
+            "fr": "dictatorship",
+            "it": "dictatorship",
+            "es": "dictatorship"
           }
         }
       ],
