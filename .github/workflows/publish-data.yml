@@ -2,12 +2,7 @@
 name: CI and Data Publishing
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'   # daily at midnight UTC
 
 permissions:
   contents: write
