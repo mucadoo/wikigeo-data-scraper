@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { Country } from '../src/types/country.js';
+import { Country, LANGUAGES } from '../src/types/country.js';
 
 const INPUT_FILE = 'data/sovereign-states.json';
 const OUTPUT_FILE = 'data/sovereign-states.csv';
@@ -15,8 +15,8 @@ function flattenData() {
 
   const headers = [
     'isoCode', 'isoCode3', 'isoNumeric', 'continent',
-    'name_en', 'name_pt', 'name_fr', 'name_it', 'name_es',
-    'flagUrl', 'description_en', 'description_pt', 'description_fr', 'description_it', 'description_es',
+    ...LANGUAGES.map(lang => `name_${lang}`),
+    'flagUrl', ...LANGUAGES.map(lang => `description_${lang}`),
     'capital', 'capitalLat', 'capitalLng', 'largestCity', 'population', 'populationYear', 'areaKm2', 'densityKm2',
     'government', 'governmentLeaders', 'officialLanguage', 'demonym',
     'gdp', 'gdpPerCapita', 'gdpPpp', 'gdpPerCapitaPpp', 'gdpYear', 'hdi',
@@ -27,9 +27,9 @@ function flattenData() {
   const rows = countries.map(c => {
     return [
       c.isoCode || '', c.isoCode3 || '', c.isoNumeric || '', c.continent || '',
-      c.name.en || '', c.name.pt || '', c.name.fr || '', c.name.it || '', c.name.es || '',
+      ...LANGUAGES.map(lang => c.name[lang] || ''),
       c.flagUrl || '',
-      c.description.en || '', c.description.pt || '', c.description.fr || '', c.description.it || '', c.description.es || '',
+      ...LANGUAGES.map(lang => c.description[lang] || ''),
       c.capital?.map(i => i.name.en).join('|') || '',
       c.capitalCoordinates?.lat?.toString() || '',
       c.capitalCoordinates?.lng?.toString() || '',

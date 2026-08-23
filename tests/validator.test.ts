@@ -6,8 +6,8 @@ describe('DataValidator', () => {
   it('should accept a valid country with all fields', () => {
     const validCountry = getEmptyCountry();
     validCountry.isoCode = 'US';
-    validCountry.name = { en: 'USA', pt: 'EUA', fr: 'USA', it: 'USA', es: 'EEUU' };
-    validCountry.description = { en: 'Desc', pt: 'Desc', fr: 'Desc', it: 'Desc', es: 'Desc' };
+    validCountry.name = { en: 'USA', pt: 'EUA', fr: 'USA', it: 'USA', es: 'EEUU', de: 'USA', ja: '米国', ru: 'США', zh: '美国' };
+    validCountry.description = { en: 'Desc', pt: 'Desc', fr: 'Desc', it: 'Desc', es: 'Desc', de: 'Desc', ja: 'Desc', ru: 'Desc', zh: 'Desc' };
     validCountry.population = 1000000;
     validCountry.areaKm2 = 50000;
     

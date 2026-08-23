@@ -1,5 +1,5 @@
 import { DataValidator } from './utils/validator.js';
-import { Country, getEmptyCountry, getEmptyLocalizedField } from '../types/country.js';
+import { Country, getEmptyCountry, getEmptyLocalizedField, LANGUAGES } from '../types/country.js';
 import { WikipediaAPI } from './utils/wikipedia-api.js';
 import { mergeCountryData } from './utils/merger.js';
 import { parseCountryFromWikitext } from './parsers/wikitext-country-parser.js';
@@ -28,6 +28,8 @@ const getCountry = db.prepare('SELECT data FROM countries WHERE name = ?');
 
 const writeLocks: Record<string, Promise<void>> = {};
 
+const TRANSLATION_LANGS = LANGUAGES.filter(l => l !== 'en');
+
 async function run() {
   // 1. DISCOVERY
   const limitArg = process.argv.find(arg => arg.startsWith('--limit='));
@@ -55,7 +57,7 @@ async function run() {
   if (limit) titles = titles.slice(0, limit);
 
   // 2. TRANSLATION PREFETCH
-  const allLangLinks = await WikipediaAPI.fetchTranslations(titles, ['pt', 'fr', 'it', 'es']);
+  const allLangLinks = await WikipediaAPI.fetchTranslations(titles, TRANSLATION_LANGS);
 
   // 3. PER-COUNTRY PROCESSING
   const semaphore = new Semaphore(3);
@@ -96,7 +98,7 @@ async function run() {
         ...(enData.timeZone?.map(i => i.articleId) || [])
       ].filter(Boolean) as string[]);
       
-      const translations = await WikipediaAPI.fetchTranslations(Array.from(articleIds), ['pt', 'fr', 'it', 'es']);
+      const translations = await WikipediaAPI.fetchTranslations(Array.from(articleIds), TRANSLATION_LANGS);
       
       const nameLoc = getEmptyLocalizedField();
       nameLoc.en = title;
@@ -112,7 +114,7 @@ async function run() {
         const items = (countryData[key] as { articleId: string | null; name: Record<string, string | null> }[] || []);
         items.forEach(item => {
           const articleId = item.articleId?.replace(/_/g, ' ');
-          ['pt', 'fr', 'it', 'es'].forEach(l => {
+          TRANSLATION_LANGS.forEach(l => {
             const translation = articleId ? translations[articleId]?.[l] : null;
             if (translation) item.name[l] = translation;
             else if (!item.name[l]) item.name[l] = item.name.en;
@@ -122,7 +124,7 @@ async function run() {
 
       // Localized passes
       const langLinks = allLangLinks[title] || {};
-      for (const lang of ['pt', 'fr', 'it', 'es'] as const) {
+      for (const lang of TRANSLATION_LANGS) {
         const locTitle = langLinks[lang];
         if (locTitle) {
           const wikitext = await WikipediaAPI.fetchWikitext(locTitle, lang);

@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-export const LANGUAGES = ['en', 'pt', 'fr', 'it', 'es'] as const;
+export const LANGUAGES = ['en', 'pt', 'fr', 'it', 'es', 'de', 'ja', 'ru', 'zh'] as const;
 export type Language = typeof LANGUAGES[number];
 
 export const LocalizedField = z.object({
@@ -9,6 +9,10 @@ export const LocalizedField = z.object({
   fr: z.string().nullable().describe("French translation"),
   it: z.string().nullable().describe("Italian translation"),
   es: z.string().nullable().describe("Spanish translation"),
+  de: z.string().nullable().describe("German translation"),
+  ja: z.string().nullable().describe("Japanese translation"),
+  ru: z.string().nullable().describe("Russian translation"),
+  zh: z.string().nullable().describe("Chinese translation"),
 });
 
 export const getEmptyLocalizedField = (): z.infer<typeof LocalizedField> => ({
@@ -17,6 +21,10 @@ export const getEmptyLocalizedField = (): z.infer<typeof LocalizedField> => ({
   fr: null,
   it: null,
   es: null,
+  de: null,
+  ja: null,
+  ru: null,
+  zh: null,
 });
 
 export const MultiLangLinkField = z.object({

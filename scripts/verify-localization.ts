@@ -1,10 +1,9 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { Country } from '../src/types/country.js';
+import { Country, LANGUAGES } from '../src/types/country.js';
 
 const DATA_PATH = path.join(process.cwd(), 'data/sovereign-states.json');
-const LANGUAGES = ['en', 'pt', 'fr', 'it', 'es'];
 const LOCALIZED_FIELDS = [
   'name',
   'description',

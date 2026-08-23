@@ -1,11 +1,13 @@
 import path from 'path';
 import { WikipediaAPI } from '../src/scraper/utils/wikipedia-api.js';
 import { mergeCountryData } from '../src/scraper/utils/merger.js';
-import { getEmptyCountry, getEmptyLocalizedField, Country } from '../src/types/country.js';
+import { getEmptyCountry, getEmptyLocalizedField, Country, LANGUAGES } from '../src/types/country.js';
 import { parseCountryFromWikitext } from '../src/scraper/parsers/wikitext-country-parser.js';
 
 const SNAPSHOT_BASE = 'tests/snapshots';
 WikipediaAPI.useSnapshots(path.join(SNAPSHOT_BASE, 'translations.json'));
+
+const TRANSLATION_LANGS = LANGUAGES.filter(l => l !== 'en');
 
 async function debugFlow(countryName: string) {
   let mergedResult: Country = getEmptyCountry();
@@ -26,7 +28,7 @@ async function debugFlow(countryName: string) {
       ...(enData.timeZone?.map(i => i.articleId) || [])
   ].filter(Boolean) as string[]);
   
-  const translations = await WikipediaAPI.fetchTranslations(Array.from(articleIds), ['pt', 'fr', 'it', 'es']);
+  const translations = await WikipediaAPI.fetchTranslations(Array.from(articleIds), TRANSLATION_LANGS);
   
   const nameLoc = getEmptyLocalizedField();
   nameLoc.en = countryName;
@@ -38,7 +40,7 @@ async function debugFlow(countryName: string) {
     const items = (countryDataEn[key] as { articleId: string | null; name: Record<string, string | null> }[] || []);
     items.forEach(item => {
       const articleId = item.articleId?.replace(/_/g, ' ');
-      ['pt', 'fr', 'it', 'es'].forEach(l => {
+      TRANSLATION_LANGS.forEach(l => {
         const translation = articleId ? translations[articleId]?.[l] : null;
         if (translation) {
           item.name[l] = translation;
@@ -52,7 +54,7 @@ async function debugFlow(countryName: string) {
   mergedResult = mergeCountryData(JSON.stringify(mergedResult), countryDataEn);
 
   // 2. Localized Passes
-  for (const lang of ['pt', 'fr', 'it', 'es']) {
+  for (const lang of TRANSLATION_LANGS) {
     const locWikitext = await WikipediaAPI.fetchWikitext(countryName, lang); // Simplified debug: assuming country name translates predictably or using a translation map
     const localizedData: Partial<Country> = parseCountryFromWikitext(locWikitext, lang);
     

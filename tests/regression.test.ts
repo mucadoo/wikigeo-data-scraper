@@ -3,8 +3,10 @@ import fs from 'fs';
 import path from 'path';
 import { WikipediaAPI } from '../src/scraper/utils/wikipedia-api.js';
 import { mergeCountryData } from '../src/scraper/utils/merger.js';
-import { Country, getEmptyCountry } from '../src/types/country.js';
+import { Country, getEmptyCountry, LANGUAGES } from '../src/types/country.js';
 import { parseCountryFromWikitext } from '../src/scraper/parsers/wikitext-country-parser.js';
+
+const TRANSLATION_LANGS = LANGUAGES.filter(l => l !== 'en');
 
 describe('Regression Tests', () => {
   const snapshotsDir = path.join(process.cwd(), 'tests/snapshots');
@@ -20,7 +22,7 @@ describe('Regression Tests', () => {
   }
 
   const grouped: Record<string, Record<string, string>> = {};
-  ['en', 'pt', 'fr', 'it', 'es'].forEach(lang => {
+  LANGUAGES.forEach(lang => {
     const langDir = path.join(wikitextSnapshotsDir, lang);
     if (fs.existsSync(langDir)) {
       fs.readdirSync(langDir).filter(f => f.endsWith('.txt')).forEach(file => {
@@ -50,7 +52,7 @@ describe('Regression Tests', () => {
             ...(parsed.timeZone?.map(i => i.articleId) || [])
         ].filter(Boolean) as string[]);
         
-        const translations = await WikipediaAPI.fetchTranslations(Array.from(articleIds), ['pt', 'fr', 'it', 'es']);
+        const translations = await WikipediaAPI.fetchTranslations(Array.from(articleIds), TRANSLATION_LANGS);
         
         const name = { ...parsed.name!, en: countryName };
         const localizedDataEn: Partial<Country> = { ...parsed, name };
@@ -60,7 +62,7 @@ describe('Regression Tests', () => {
           const items = (localizedDataEn[key] as { articleId?: string | null; name: Record<string, string | null | undefined> }[]) || [];
           items.forEach((item) => {
             const articleId = item.articleId?.replace(/_/g, ' ');
-            ['pt', 'fr', 'it', 'es'].forEach(l => {
+            TRANSLATION_LANGS.forEach(l => {
               const translation = articleId ? translations[articleId]?.[l] : null;
               if (translation) {
                 item.name[l] = translation;
@@ -75,7 +77,7 @@ describe('Regression Tests', () => {
       }
 
       // 2. Localized Passes
-      ['pt', 'fr', 'it', 'es'].forEach(lang => {
+      TRANSLATION_LANGS.forEach(lang => {
         if (langs[lang]) {
           const wikitext = fs.readFileSync(path.join(wikitextSnapshotsDir, langs[lang]), 'utf-8');
           const locData = parseCountryFromWikitext(wikitext, lang);
@@ -89,7 +91,7 @@ describe('Regression Tests', () => {
         expect(countryData.capital?.[0]?.name?.en).toBeDefined();
       }
       
-      ['pt', 'fr', 'it', 'es'].forEach(lang => {
+      TRANSLATION_LANGS.forEach(lang => {
         if (langs[lang]) {
           expect((countryData.name as Record<string, string | null | undefined>)[lang]).toBeDefined();
           expect((countryData.description as Record<string, string | null | undefined>)[lang]).toBeDefined();

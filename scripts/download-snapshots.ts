@@ -2,10 +2,12 @@ import fs from 'fs';
 import path from 'path';
 import { WikipediaAPI } from '../src/scraper/utils/wikipedia-api.js';
 import { parseCountryFromWikitext } from '../src/scraper/parsers/wikitext-country-parser.js';
+import { LANGUAGES } from '../src/types/country.js';
 
 const OUTPUT_BASE = 'tests/snapshots';
 const WIKITEXT_BASE = path.join(OUTPUT_BASE, 'wikitext');
-const LANGS = ['en', 'pt', 'fr', 'it', 'es'];
+const LANGS: readonly string[] = LANGUAGES;
+const TRANSLATION_LANGS = LANGUAGES.filter(l => l !== 'en');
 
 function sanitize(name: string): string {
   try {
@@ -26,7 +28,7 @@ async function run() {
   const titles = (data as { query: { categorymembers: { title: string }[] } }).query.categorymembers.map(m => m.title);
 
   // 2. LANGLINK PREFETCH
-  const allLangLinks = await WikipediaAPI.fetchTranslations(titles, ['pt', 'fr', 'it', 'es']);
+  const allLangLinks = await WikipediaAPI.fetchTranslations(titles, TRANSLATION_LANGS);
   
   // Initialize structure
   if (!fs.existsSync(WIKITEXT_BASE)) fs.mkdirSync(WIKITEXT_BASE, { recursive: true });
@@ -72,7 +74,7 @@ async function run() {
 
   // 4. ARTICLE ID TRANSLATIONS
   console.log(`Fetching translations for ${allArticleIds.size} unique articles...`);
-  const translations = await WikipediaAPI.fetchTranslations(Array.from(allArticleIds), ['pt', 'fr', 'it', 'es']);
+  const translations = await WikipediaAPI.fetchTranslations(Array.from(allArticleIds), TRANSLATION_LANGS);
   fs.writeFileSync(path.join(OUTPUT_BASE, 'translations.json'), JSON.stringify(translations, null, 2));
 
   console.log('Finished snapshots and translations.');
