@@ -201,7 +201,8 @@ export class ExtractionUtils {
     const listTemplates = [
       'hlist', 'flatlist', 'plainlist', 'unbulleted list', 'vlist', 'ublist', 'ubl', 'lang', 'native name', 'native_name',
       'vunblist', 'unbulleted', 'bulleted list', 'ordered list', 'horizontal list', 'item', 'native name list',
-      'nowrap', 'small', 'big', 'larger', 'fontsize', 'center', 'bold', 'italic', 'i', 'b', 'u', 'flagcountry', 'flag'
+      'nowrap', 'small', 'big', 'larger', 'fontsize', 'center', 'bold', 'italic', 'i', 'b', 'u', 'flagcountry', 'flag',
+      'circa'
     ];
 
     for (let i = 0; i < cleaned.length; i++) {

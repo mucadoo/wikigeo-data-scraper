@@ -39,6 +39,19 @@ async function run() {
   // produce two colliding entries; keep only "Netherlands" to match the rest of the dataset's
   // common-name convention.
   titles = titles.filter(t => t !== 'Kingdom of the Netherlands');
+  // The UN member states category excludes the two UN observer states, so add them by hand
+  // to keep this dataset's "sovereign states" scope in line with the ISO 3166-1 standard.
+  // Also include a small set of states with limited recognition that nonetheless carry an
+  // ISO 3166-1 (Taiwan, Sahrawi Arab Democratic Republic) or documented user-assigned
+  // (Kosovo) code.
+  titles = [
+    ...titles,
+    'Vatican City',
+    'State of Palestine',
+    'Taiwan',
+    'Sahrawi Arab Democratic Republic',
+    'Kosovo',
+  ];
   if (limit) titles = titles.slice(0, limit);
 
   // 2. TRANSLATION PREFETCH
@@ -67,7 +80,7 @@ async function run() {
           return;
       }
       const enData = parseCountryFromWikitext(enWikitext, 'en');
-      
+
       if (!enData.isoCode && !enData.population) {
           console.warn(`Parsed data for ${title} is empty, skipping`);
           return;

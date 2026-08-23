@@ -1,4 +1,7 @@
-// Static continent classification by ISO 3166-1 alpha-2 code, covering current UN member states.
+// Static continent classification by ISO 3166-1 alpha-2 code, covering current UN member states,
+// the two UN observer states this dataset also scrapes (Holy See/Vatican City, Palestine), and a
+// handful of states with limited recognition (Taiwan, Kosovo, and the Sahrawi Arab Democratic
+// Republic/Western Sahara, coded EH per ISO 3166-1).
 // A handful of countries straddle two continents by landmass (Russia, Turkey, Kazakhstan, Georgia,
 // Armenia, Azerbaijan, Cyprus); these follow the UN geoscheme convention used by most public datasets.
 export const CONTINENT_BY_ISO2: Record<string, string> = {
@@ -24,8 +27,9 @@ export const CONTINENT_BY_ISO2: Record<string, string> = {
   NL: 'Europe', NZ: 'Oceania', NI: 'North America', NE: 'Africa', NG: 'Africa', KP: 'Asia',
   MK: 'Europe', NO: 'Europe', OM: 'Asia', PK: 'Asia', PW: 'Oceania', PA: 'North America',
   PG: 'Oceania', PY: 'South America', PE: 'South America', PH: 'Asia', PL: 'Europe', PT: 'Europe',
-  QA: 'Asia', RO: 'Europe', RU: 'Europe', RW: 'Africa', KN: 'North America', LC: 'North America',
-  VC: 'North America', WS: 'Oceania', SM: 'Europe', ST: 'Africa', SA: 'Asia', SN: 'Africa',
+  PS: 'Asia', QA: 'Asia', RO: 'Europe', RU: 'Europe', RW: 'Africa', KN: 'North America', LC: 'North America',
+  VA: 'Europe', VC: 'North America', WS: 'Oceania', SM: 'Europe', ST: 'Africa', SA: 'Asia', SN: 'Africa',
+  TW: 'Asia', EH: 'Africa', XK: 'Europe',
   RS: 'Europe', SC: 'Africa', SL: 'Africa', SG: 'Asia', SK: 'Europe', SI: 'Europe', SB: 'Oceania',
   SO: 'Africa', ZA: 'Africa', KR: 'Asia', SS: 'Africa', ES: 'Europe', LK: 'Asia', SD: 'Africa',
   SR: 'South America', SE: 'Europe', CH: 'Europe', SY: 'Asia', TJ: 'Asia', TZ: 'Africa',
