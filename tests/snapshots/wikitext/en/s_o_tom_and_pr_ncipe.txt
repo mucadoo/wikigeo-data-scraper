@@ -1,0 +1,510 @@
+{{Short description|Island country in Central Africa}}
+{{About||the islands of this country|São Tomé (island)|and|Príncipe|other uses|São Tomé (disambiguation)|and|Principe (disambiguation)}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox country
+| conventional_long_name = Democratic Republic of {{nowrap|Sao Tome and Principe}}
+| native_name            = {{lang|pt|República Democrática de {{nowrap|São Tomé e Príncipe}}}}
+| common_name            = São Tomé and Príncipe
+| image_flag             = Flag of São Tomé and Príncipe.svg
+| image_coat             = Coat of arms of São Tomé and Príncipe.svg
+| coa_size               = 100
+| image_map              = Location São Tomé and Príncipe AU Africa.svg
+| map_width              = 250px
+| map_caption            = {{map caption |countryprefix= |location_color=dark blue |region=Africa |region_color=light blue}}
+| national_motto         = {{native phrase|pt|"Unidade, Disciplina, Trabalho"|italics=off|paren=omit}}<br />("Unity, Discipline, Labour")
+| national_anthem        = {{native name|pt|"[[Independência total|Independência Total]]"|italics=off|paren=omit}}<br />("Total Independence"){{parabr}}{{center|[[File:Independência_total_(instrumental).ogg]]}}
+| languages_type         = Official language<br>{{nobold|and national language}}
+| languages              = [[São Tomean Portuguese|Portuguese]]
+| regional_languages     = {{unbulleted list |[[Forro Creole]] |[[Angolar Creole]] |[[Principense Creole]]}}
+| demonym                = {{unbulleted list |São Toméan<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#tp |title=Nationality |work=[[The World Factbook]] |access-date=17 July 2012 |archive-url=https://web.archive.org/web/20150626165447/https://www.cia.gov/library/publications/the-world-factbook/fields/2110.html#tp |archive-date=26 June 2015 |url-status=dead }}</ref>|Santomean}}
+| capital                = [[São Tomé]]
+| coordinates            = {{Coord|0|20|N|6|44|E|type:city(72,000)_region:ST}}
+| largest_city           = capital
+| government_type        = [[Semi-presidential system|Semi-presidential republic]]<ref name="SP-L">{{cite SSRN |first1=Octávio|last1=Amorim Neto|first2=Marina|last2=Costa Lobo |year=2010 |ssrn=1644026 |title=Between Constitutional Diffusion and Local Politics: Semi-Presidentialism in Portuguese-Speaking Countries }}</ref>
+| leader_title1          = [[President of São Tomé and Príncipe|President]]
+| leader_name1           = [[Carlos Vila Nova]]
+| leader_title2          = [[Prime Minister of São Tomé and Príncipe|Prime Minister]]
+| leader_name2           = [[Américo Ramos]]
+| legislature            = [[National Assembly (São Tomé and Príncipe)|National Assembly]]
+| sovereignty_type       = Independence
+| sovereignty_note       = from [[Portugal]]
+| established_event1     = Granted
+| established_date1      = 12 July 1975
+| established_event2     = [[United Nations Security Council Resolution 373|Admitted]] to the [[United Nations]]
+| established_date2      = 16 September 1975
+| established_event3     = [[1990 São Toméan constitutional referendum|Constitutional reform]]
+| established_date3      = 22 August 1990
+| area_km2               = 964<ref name="cia1"/>
+| area_sq_mi             = 372
+| area_rank              = 171st
+| area_magnitude         = 
+| percent_water          = negligible
+| population_estimate    = 220,372<ref>{{Cite CIA World Factbook|country=Sao Tome and Principe|access-date=22 June 2023|year=2023}}</ref>
+| population_estimate_year = 2023
+| population_estimate_rank = 175th
+| population_density_km2 = 199.7
+| population_density_rank = 69th
+| GDP_PPP_year           = 2024
+| GDP_PPP                = {{increase}} $1 billion<ref name="imf2">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2024/April/weo-report?c=716,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2023&ey=2025&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |date=April 2024 |title=World Economic Outlook April 2024 (São Tomé and Príncipe) |publisher=International Monetary Fund |access-date=19 July 2024}}</ref>
+| GDP_PPP_rank           = 
+| GDP_PPP_per_capita     = {{increase}} $4,238<ref name="imf2"/>
+| GDP_PPP_per_capita_rank = 
+| GDP_nominal            = {{increase}} $751 million<ref name="imf2"/>
+| GDP_nominal_year       = 2024
+| GDP_nominal_per_capita = {{increase}} $3,167<ref name="imf2"/>
+| Gini_year              = 2017
+| Gini_change            = increase<!--increase/decrease/steady-->
+| Gini                   = 40.7 <!--number only-->
+| Gini_ref               = <ref name=gini-index>{{cite web|title=GINI index coefficient|url=https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison|publisher=CIA Factbook|access-date=17 July 2021|archive-date=30 June 2021|archive-url=https://web.archive.org/web/20210630032239/https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison/|url-status=dead}}</ref>
+| Gini_rank              = 
+| HDI                    = 0.637 <!--number only-->
+| HDI_year               = 2023<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase <!--increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{Cite web |date=6 May 2025 |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf|url-status=live |archive-url=https://web.archive.org/web/20250506051232/https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |archive-date=6 May 2025 |access-date=6 May 2025 |publisher=[[United Nations Development Programme]]}}</ref>
+| HDI_rank               = 141st
+| currency               = [[São Tomé and Príncipe dobra|Dobra]]
+| currency_code          = STN
+| utc_offset             = +0
+| time_zone              = [[Greenwich Mean Time|GMT]]
+| calling_code           = [[+239]]
+| iso3166code            = ST
+| cctld                  = [[.st]]
+| religion               = {{ublist |item_style=white-space:nowrap;
+  |81.1% [[Christianity]]
+  |13.2% [[Irreligion|no religion]]
+  |3.1% [[folk religion]]s
+  |2.4% others
+  }}
+| religion_year          = 2020
+| religion_ref           = <ref>{{cite web|url=http://www.globalreligiousfutures.org/countries/sao-tome-and-principe#/?affiliations_religion_id=0&affiliations_year=2020&region_name=All%20Countries&restrictions_year=2016|title=Religions in Sao Tome and Principe &#124; PEW-GRF|access-date=14 January 2022|archive-date=4 November 2019|archive-url=https://web.archive.org/web/20191104065707/http://www.globalreligiousfutures.org/countries/sao-tome-and-principe#/?affiliations_religion_id=0&affiliations_year=2020&region_name=All%20Countries&restrictions_year=2016|url-status=live}}</ref>
+}}
+
+'''São Tomé and Príncipe''',{{efn|{{IPAc-en|ˌ|s|aʊ|_|t|ə|ˈ|m|eɪ|...|ˈ|p|r|ɪ|n|s|ᵻ|p|eɪ|audio=São Tomé and Príncipe English pronunciation.mp3}} {{respell|SOW|_|tə|MAY|_..._|PRIN|si|pay}};<ref>{{cite web |title=São Tomé and Príncipe |url=https://dictionary.cambridge.org/pronunciation/english/sao-tome-and-principe |website=Cambridge Dictionary |publisher=Cambridge University Press |access-date=5 July 2024}}</ref> {{langx|pt|São Tomé e Príncipe}}, {{IPA|pt|sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ|pron}}; English: "[[Thomas the Apostle|Saint Thomas]] and [[Prince of Portugal|Prince]]".}} officially the '''Democratic Republic of Sao Tome and Principe''',{{efn|{{langx|pt|República Democrática de São Tomé e Príncipe|links=no}}.}}<ref>{{cite web |title=Updated world country names: short and formal names |url=https://unstats.un.org/unsd/ungegn/sessions/4th_session_2025/documents/GEGN.2_2025_122_CRP122_item5e_rev.pdf |publisher=United Nations Group of Experts on Geographical Names |access-date=5 July 2026}}</ref> is an [[island country]] in the [[Gulf of Guinea]], off the western equatorial coast of [[Central Africa]]. It consists of two [[archipelago]]s around the two main islands of [[São Tomé (island)|São Tomé]] and [[Príncipe]], about {{convert|81|nmi}} apart and about {{convert|135|and|121|nmi}} off the northwestern coast of [[Gabon]]. With a population of 201,800 (2018 official estimate),<ref name="auto">Instituto Nacional de Estadística de São Tomé e Príncipe, as of 13 May 2018.</ref> São Tomé and Príncipe is the second-smallest and second-least populous African [[sovereign state]] after [[Seychelles]].
+
+The islands were uninhabited until [[Portuguese explorers]] [[João de Santarém]] and [[Pedro Escobar]] discovered them on 21 December 1470.<ref name=EB1911>{{cite EB1911 |wstitle=St Thomas (Gulf of Guinea) |volume=24 |page=48}}</ref> Gradually [[Portuguese São Tomé and Príncipe|colonized]] and settled throughout the 16th century, they collectively served as a vital commercial and trade centre for the [[Atlantic slave trade]]. The rich volcanic soil and proximity to the equator made São Tomé and Príncipe ideal for sugar cultivation, followed later by other [[cash crop]]s such as [[Coffee bean|coffee]] and [[Cocoa bean|cocoa]]. The lucrative [[plantation economy]] was heavily dependent upon enslaved Africans. Cycles of social unrest and economic instability throughout the 19th and 20th centuries culminated in peaceful independence in 1975 as a one-party [[communist state]], which would remain in place until 1990. São Tomé and Príncipe has since remained one of Africa's most stable and democratic countries. São Tomé and Príncipe is a developing economy with a medium [[Human Development Index]].
+
+The [[Demographics of São Tomé and Príncipe|people of São Tomé and Príncipe]] are predominantly of African and ''[[Mestiço#Mestiço community in São Tomé and Príncipe|mestiço]]'' (mixed European and African) descent, with most practicing [[Christianity]]. The legacy of Portuguese rule is also visible in the country's culture, customs, and music, which fuse both European and African influences. São Tomé and Príncipe is a founding member state of the [[Community of Portuguese Language Countries]].
+
+==History==
+{{Main|History of São Tomé and Príncipe}}[[File:Johannes Vingboons - 't eylant St. Thome (1665).jpg|thumb|Map of São Tomé by [[Johannes Vingboons]] (1665)]]
+
+The islands making up São Tomé and Príncipe were formed approximately 30 million years ago due to volcanic activity in deep water along the [[Cameroon Line]].<ref name=":12">{{Cite journal |last1=Lee |first1=Der-Chuen |last2=Halliday |first2=Alex N. |last3=Fitton |first3=J. Godfrey |last4=Poli |first4=Giampero |date=May 1994 |title=Isotopic variations with distance and time in the volcanic islands of the Cameroon line: evidence for a mantle plume origin |url=https://ui.adsabs.harvard.edu/abs/1994E&PSL.123..119L/abstract |journal=Earth and Planetary Science Letters |language=en |volume=123 |issue=1–3 |pages=119–138 |doi=10.1016/0012-821X(94)90262-3 |bibcode=1994E&PSL.123..119L |issn=0012-821X}}</ref> Over time, interactions with seawater and periods of eruption have engendered a wide variety of different igneous and volcanic rocks on the islands with complex assemblages of [[mineral]]s.<ref name=":12" />
+
+=== Arrival of Europeans ===
+The islands of São Tomé and Príncipe were uninhabited when the Portuguese arrived 21 December 1470.<ref name=EB1911/> The first Europeans to put ashore were [[João de Santarém]] and [[Pêro Escobar]].<ref name=EB1911/> Portuguese navigators explored the islands and decided that they would be good locations for bases to trade with the mainland.
+
+The dates of European arrival are sometimes given as 21 December ([[Thomas the Apostle|St Thomas's Day]]) 1471, for São Tomé; and 17 January ([[Anthony the Great|St Antony's Day]]) 1472, for Príncipe, though other sources cite different years around that time.{{cn|date=August 2026}} Príncipe was initially named ''Santo Antão'' ("Saint Anthony"), changing its name in 1502 to ''Ilha do Príncipe'' ("Prince's Island"), in reference to the Prince of Portugal to whom duties on the island's sugar crop were paid.
+
+The first successful settlement of São Tomé was established in 1493 by [[Álvaro Caminha]], who received the land as a grant from the crown.<ref name="Bijela pčela">{{cite journal |last=Stojković |first=Dragan |date=November 2020 |title=Najmanje države na svijetu: Sv. Toma i Princip (džepni globus)|trans-title=Smallest Countries in the World: São Tomé and Príncipe (The Pocket Globe) |language=sr |journal=Bijela pčela: List za svu djecu |issue=261 |pages=20–31 |location=[[Rijeka]] |publisher=[[Prosvjeta]] }}</ref> Príncipe was settled in 1500 under a similar arrangement. Attracting settlers proved difficult, however, and most of the earliest inhabitants were "undesirables" sent from Portugal, mostly [[Spanish and Portuguese Jews|Sephardic Jews]].<ref>{{Cite news |last=hersh |date=29 December 2024 |title=The Underground Railroad of Portuguese Jews {{!}} Aish |url=https://aish.com/the-underground-railroad-of-portuguese-jews/ |archive-url=https://web.archive.org/web/20250408212118/https://aish.com/the-underground-railroad-of-portuguese-jews/ |archive-date=8 April 2025 |access-date=16 September 2025 |work=Aish.com |language=en-US}}</ref> 2,000 Jewish children, eight years old and under, were taken from the Iberian peninsula for work on the sugar plantations.<ref>{{Cite book|title=The invention of the white race|last=Allen|first=Theodore|publisher=Verso|year=1997|isbn=9781844677719|edition= Second|location=London|page=5|oclc=738350824}}</ref> In time, these settlers found the volcanic soil of the region suitable for agriculture, especially the growing of sugar.
+
+===Portuguese São Tomé and Príncipe===
+{{Main|Portuguese São Tomé and Príncipe}}
+
+By 1515, São Tomé and Príncipe had become slave depots for the coastal slave trade centered at [[Elmina]].<ref name="Bakewell">{{cite book|author=Ivor Wilks and Akan Wangara|editor=Peter John Bakewell|title=Mines of Silver and Gold in the Americas|url=https://books.google.com/books?id=oBhmQgAACAAJ|date=January 1997|publisher=Variorum|isbn=978-0-86078-513-2|chapter=Portuguese in the Fifteenth and Sixteenth Centuries|location=Aldershot|page=24}}</ref>
+The cultivation of sugar was a labour-intensive process, and the Portuguese began to enslave large numbers of Africans from the continent. In the sugar boom's early stages, property on the islands had little value, with farming for local consumption. While the economy relied mainly on the transit of slaves, many foodstuffs were already imported.<ref name=":0">Caldeira, Arlindo Manuel. "LEARNING THE ROPES IN THE TROPICS: SLAVERY AND THE PLANTATION SYSTEM ON THE ISLAND OF SÃO TOMÉ." ''African Economic History'' 39 (2011): 41. {{JSTOR|23718978}}.</ref> When the local landowner Álvaro Borges died in 1504, his cleared land and domesticated animals were sold for only 13,000 réis, about the price of three slaves.<ref>Arquivo Nacional da Torre do Tombo (hereinafter cited as TT), Corpo Cronológico, II, 15–77, inventory of the assets belonging to Álvaro Borges, 4 November 1507, a published copy of which is found in PMA, vol. V, 221–243.</ref> According to [[Valentim Fernandes]] around 1506, São Tomé had more sugarcane fields than [[Madeira]] "from which they already produce molasses,"<ref>Th. Monod, A. Teixeira da Mota, and R. Mauny, eds., Description de la Côte Occidentale d'Afrique par Valentim Fernandes (Bissau: Centro de Estudos da Guiñé Portuguesa, 1951), 11</ref> but the island lacked facilities for industrial sugar production.<ref name=":0" /> [[File:Forte_de_S%C3%A3o_Sebasti%C3%A3o_-_S%C3%A3o_Tom%C3%A9_(8084256064).jpg|thumb|left|[[São Sebastião Museum]] in São Tomé]]
+
+==== Economic development in the 16th century ====
+São Tomé saw significant economic development following the introduction of a water-powered sugar mill in 1515, which led to the mass cultivation of sugar:<ref name=":1">Caldeira, Arlindo Manuel. "LEARNING THE ROPES IN THE TROPICS: SLAVERY AND THE PLANTATION SYSTEM ON THE ISLAND OF SÃO TOMÉ." ''African Economic History'' 39 (2011): 43. {{JSTOR|23718978}}.</ref> "The fields are expanding and the sugar mills, too. At this time, only two sugar mills are here and another three are being built, counting the mill of the contractors, which is large. Similarly, the necessary conditions exist, such as streams and timber, to be able to build many more. And the [sugar] canes are the biggest I have ever seen in my life."{{Citation needed|reason=who?|date=December 2022}} Sugar [[plantation]]s were organized with slave labor, and by the mid-16th century, the Portuguese settlers had turned the islands into Africa's foremost exporter of sugar.<ref>"As roças vâo em crescimento e os engenhos de açticaragora somente dois e fazem-se très com o dos tratadores [conassi há grande aparelho, assi de ribeiras como de lenha, par canas, as mais façanhosas que em minha vida vi": Letter from Segura to the monarch, 15 March 1517, in Antonio Brásio, édAfricana (hereinafter referred to as</ref>
+
+Slaves in São Tomé were brought from the [[Slave Coast of West Africa]], the Niger Delta, the island of Fernando Po, and later from the Kongo and Angola.<ref>Vogt, John L. "The Early Sao Tome-Principe Slave Trade with Mina, 1500–1540." ''The International Journal of African Historical Studies'' 6, no. 3 (1973): 462. {{doi|10.2307/216611}}.</ref> In the 16th century, the enslaved were imported from and exported to Portugal, [[Elmina]], the [[Kingdom of Kongo]], Angola, and the Spanish Americas. In 1510, reportedly 10,000 to 12,000 slaves were imported by Portugal.<ref name=":2">SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 66. Boydell and Brewer, 2013. {{JSTOR|10.7722/j.ctt31nj49.10}}.</ref> In 1516, São Tomé received 4,072 slaves with the purpose of re-exportation.<ref name=":2" /> From 1519 to 1540, the island was the center of the slave trade between Elmina and the Niger Delta.<ref>Vogt, John L. "The Early Sao Tome-Principe Slave Trade with Mina, 1500–1540." ''The International Journal of African Historical Studies'' 6, no. 3 (1973): 467. {{doi|10.2307/216611}}.</ref> Throughout the early to mid-sixteenth century, São Tomé traded in slaves intermittently with Angola and the Kingdom of Kongo.<ref>SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 67. Boydell and Brewer, 2013. {{JSTOR|10.7722/j.ctt31nj49.10}}.</ref> In 1525 São Tomé began trafficking slaves to the Spanish Americas, mainly to the Caribbean and Brazil.<ref>Vogt, John L. "The Early Sao Tome-Principe Slave Trade with Mina, 1500–1540." ''The International Journal of African Historical Studies'' 6, no. 3 (1973): 466. {{doi|10.2307/216611}}.</ref> From 1532 to 1536, São Tomé sent an annual average of 342 slaves to the [[Antilles]].<ref name=":3">SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 68. Boydell and Brewer, 2013. {{JSTOR|10.7722/j.ctt31nj49.10}}.</ref> Prior to 1580, the island accounted for 75 percent of Brazil's imports, mainly slaves.<ref name=":3" /> The slave trade remained a cornerstone of São Tomé's economy until after 1600.
+
+The power dynamics of São Tomé in the 16th century were surprisingly diverse with the participation of free [[mulatto|mulattos]] and black citizens in governance. Voluntary colonists shunned São Tomé for its disease and food shortages, so the Portuguese crown deported convicts to the island and encouraged interracial relationships to secure the colony. Slavery was also not permanent, as demonstrated through the 1515 royal decree granting the [[manumission]] of African wives of white settlers and their mixed-race children.<ref name=":4">SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 59. Boydell and Brewer, 2013. {{JSTOR|10.7722/j.ctt31nj49.10}}.</ref> In 1517, another decree freed the male slaves who had originally arrived on the island with the first colonists.<ref name=":4" /> After 1520, a royal charter allowed for property-owning, married, free mulattos to hold public offices.<ref name=":4" /> This was followed by a decree in 1546 establishing civil equality between these qualified mulattos and the white settlers,<ref name=":4" /> allowing free mulattos and black citizens opportunities for upward mobility and participation in local politics and business. Social divisions led to frequent disputes within the colony's town councils and with the governor and bishop,<ref>Seibert, Gerhard. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 60. Boydell and Brewer, 2013. {{JSTOR|10.7722/j.ctt31nj49.10}}.</ref> with constant political instability.
+[[File:Gezicht op Sao Tomé, ca. 1641 Insvla S. Thomae (titel op object), RP-P-1951-70.jpg|thumb|Capture of São Tomé by [[Cornelis Jol]] of the [[Dutch West India Company]] in 1641]]
+At first, slavery in São Tomé was less strict. In the mid-16th century, an anonymous Portuguese pilot noted that the slaves were employed as couples, built their own accommodations, and worked autonomously once a week on the cultivation of their own food supply.<ref>For an English translation, see John William Blake, trans., ed., ''Europeans in West Africa, 1450–1560'' (London, 1942), 145ff.</ref> However, this more relaxed slave system did not last long following the introduction of plantations. Throughout, slaves frequently ran away to the inhospitable mountain forests of the island's interior.<ref name=":5">SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 63. Boydell and Brewer, 2013. {{JSTOR|10.7722/j.ctt31nj49.10}}.</ref> Between 1514 and 1527, five percent of slaves that were imported to São Tomé escaped, often to starve,<ref name=":5" /><ref name=":6">SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 64. Boydell and Brewer, 2013. {{JSTOR|stable/10.7722/j.ctt31nj49.10}}.</ref> though 1531–1535 saw major food shortages even in the plantations.<ref name=":6" /> Eventually, the [[Maroon (people)|Maroon people]] developed settlements in the interior known as'' macambos''.<ref name=":6" />
+
+==== Slave rebellions ====
+The first signs of slave rebellion began in the 1530s, when the maroon gangs organized to attack plantations, some of which were abandoned.<ref name=":6" /> A formal complaint was lodged by local Portuguese authorities in 1531 lamenting that too many settlers and black citizens were being killed in the attacks, and that the island would be lost if the problem remained unresolved.<ref name=":6" /> In a 1533 'bush war', a 'bush captain' led militia units to suppress the maroons.<ref name=":6" /> A significant event in the maroon fight for freedom occurred in 1549, when two men claiming to be free-born were taken in from the ''macambos ''by a wealthy mulatto planter named Ana de Chaves.<ref name=":6" /> With the support of de Chaves, the two men petitioned the king to be declared free, and the request was approved. The largest population of maroons coincided with the sugar boom of the mid-16th century, as the plantations teemed with slaves.<ref name=":6" /> Between 1587 and 1590, many of the runaway slaves were defeated in another bush war.<ref name=":7">SEIBERT, GERHARD. "São Tomé & Príncipe: The First Plantation Economy in the Tropics." In ''Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa'', edited by Law Robin, Schwarz Suzanne, and Strickrodt Silke, 65. Boydell and Brewer, 2013. {{JSTOR|stable/10.7722/j.ctt31nj49.10}}.</ref> By 1593, the governor declared the maroon forces almost completely extinguished.<ref>Caldeira,‘Rebelião e Outras Formas de Resistência’, 111.</ref> Nevertheless, maroon populations kept settlers away from the southern and western regions.
+
+The greatest slave revolt occurred in July 1595, when the government was weakened by disputes between the bishop and the governor. A native slave named [[Rei Amador|Amador]] recruited 5,000 slaves to raid and destroy plantations, sugar mills, and settler houses.<ref name=":7" /> Amador's rebellion made three raids on the town and destroyed 60 of the island's 85 sugar mills, but they were defeated by the militia after three weeks.<ref name=":11">{{Cite news |date=9 July 2011 |title=Sao Tome and Principe country profile |url=https://www.bbc.com/news/world-africa-14093493 |access-date=16 September 2025 |work=BBC News |language=en-GB}}</ref> Two hundred slaves were killed in combat, and Amador and the other rebel leaders were executed,<ref name=":11" /> while the rest of the slaves were granted amnesty and returned to their plantation. Smaller slave rebellions followed in the 17th and 18th centuries.<ref name=":11" />
+
+==== 18th, 19th and 20th centuries ====
+Eventually, competition from sugar-producing colonies in the [[Western Hemisphere]] began to hurt the islands' economy. The large enslaved population also proved difficult to control, with Portugal unable to invest many resources in the effort.{{citation needed|date=July 2024}} Sugar cultivation thus declined over the next 100 years, and by the mid-17th century, São Tomé had become primarily a transit point for ships engaged in the [[Atlantic slave trade|slave trade]] between continental Africa and the Americas.{{citation needed|date=July 2024}}
+[[File:Railway hangar in Sundy, São Tomé and Príncipe (Collection Jerónimo Carneiro).jpg|thumb|Railway in São Tomé and Príncipe {{Circa|1919}}]]
+In the early 19th century, two new cash crops, coffee and cocoa, were introduced.<ref>{{cite journal |last=Wikle |first=Thomas A. |title=Chocolate and the Ugly Secret of Cacao Production on São Tomé Island |journal=Focus on Geography |location=New York |date=2021 |volume=64 |page=1–18 |doi=10.21690/foge/2021.64.2f |doi-broken-date=6 April 2026 |url=https://www.proquest.com/docview/2562738496 |id={{ProQuest|2562738496}} |language=en}}</ref>{{rp|2}} By 1905, São Tomé had become the world's largest producer of cocoa, which remains the country's most important crop.<ref>{{cite book |last=Clarence-Smith |first=W. G. |title=Cocoa and Chocolate, 1765–1914 |date=2000 |publisher=Routledge |isbn=978-0-415-21576-3 |url=https://books.google.com/books?id=VeazRJXO8cgC |access-date=15 September 2024 |page=6 |language=en}}</ref><ref>{{cite web |title=Sao Tome and Principe – Agricultural Sectors and Agribuiness |url=https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-agricultural-sectors-and-agribuiness |publisher=[[International Trade Administration]] |language=en |date=11 August 2022 |ref={{harvid|International Trade Administration|2022}}}}</ref>
+
+The ''roças'' system, which gave the plantation managers a high degree of authority, led to abuses against the African farm workers. Although Portugal officially abolished slavery in 1876, the practice of forced paid labour continued. ''[[Scientific American]]'' documented in words and pictures the continued use of slaves in São Tomé in its 13 March 1897 issue.{{citation needed|date=November 2021}}
+
+Observations of the [[solar eclipse of 29 May 1919]] in Príncipe by Sir [[Arthur Eddington]] provided one of the first successful tests of [[Albert Einstein]]'s [[general theory of relativity]].
+
+In the early 20th century, an internationally publicized controversy arose over charges that [[Angola]]n contract workers were being subjected to forced labour and unsatisfactory working conditions. Sporadic labor unrest and dissatisfaction continued well into the 20th century, culminating in an outbreak of riots in 1953 in which several hundred African laborers were killed in a clash with their Portuguese rulers. The anniversary of this "[[Batepá Massacre]]" remains officially observed by the government.
+
+===Independence===
+[[File:Sao Tome Cathedral 7 (16223085806).jpg|thumb|The [[Our Lady of Grace Cathedral, São Tomé|Our Lady of Grace Cathedral]] of [[São Tomé]]]]
+{{unreferenced section|date=November 2022}}
+By the late 1950s, when other emerging nations across the African continent demanded their independence, a small group of São Toméans formed the [[Movement for the Liberation of São Tomé and Príncipe]] (MLSTP), which eventually established its base in nearby [[Gabon]]. Picking up momentum in the 1960s, events moved quickly after the overthrow of the [[Marcelo Caetano|Caetano]] dictatorship in Portugal in April 1974.<ref>“Sao Tome and Principe Country Profile.” BBC News, BBC, 19 July 2023, www.bbc.com/news/world-africa-14093493.</ref>
+
+The new Portuguese regime was committed to the dissolution of its overseas colonies. In November 1974, its representatives met with the MLSTP in Algiers and worked out an agreement for the transfer of sovereignty. After a period of transitional government, São Tomé and Príncipe achieved independence on 12 July 1975, choosing as the first president the MLSTP Secretary General [[Manuel Pinto da Costa]].
+
+In 1990, São Tomé became one of the first African countries to undergo [[Democratization|democratic reform]], and changes to the constitution—including the legalization of opposition political parties—led to elections in 1991 that were non-violent, free, and transparent. [[Miguel Trovoada]], a former prime minister who had been in exile since 1986, returned as an independent candidate and was elected president. Trovoada was re-elected in São Tomé's second multiparty presidential election in 1996.
+
+The [[Democratic Convergence Party – Reflection Group|Party of Democratic Convergence]] won a majority of seats in the [[National Assembly of São Tomé and Príncipe|National Assembly]], with the MLSTP becoming an important and vocal minority party. Municipal elections followed in late 1992, in which the MLSTP won a majority of seats on five of seven regional councils. In early legislative elections in October 1994, the MLSTP won a plurality of seats in the assembly. It regained an outright majority of seats in the November 1998 elections.
+
+===21st century===
+In the 2001 presidential elections the candidate backed by the [[Independent Democratic Action]] party, [[Fradique de Menezes]], was elected in the first round and inaugurated on 3 September.<ref>{{cite news |title=stp004 Fradique de Menezes new president on Sao Tomé |url=http://www.afrol.com/News2001/stp004_menezes_pres.htm |work=www.afrol.com |access-date=8 June 2023 |archive-date=30 September 2007 |archive-url=https://web.archive.org/web/20070930180955/http://www.afrol.com/News2001/stp004_menezes_pres.htm |url-status=live }}</ref> Parliamentary elections were held in March 2002. For the next four years, a series of short-lived opposition-led governments was formed.{{Citation needed|date=November 2012}}
+
+In July 2003, the army seized power for one week, complaining of corruption and that forthcoming oil revenues would not be divided fairly. An accord was negotiated under which President de Menezes was returned to office.<ref>{{cite journal |last1=Seibert |first1=Gerhard |title=The Bloodless Coup of July 2003 in São Tomé e Príncipe |url=https://www.persee.fr/doc/luso_1257-0273_2003_num_10_1_1557 |journal=Lusotopie |pages=245–260 |date=2003 |volume=10 |issue=1 |access-date=8 June 2023 |archive-date=5 December 2022 |archive-url=https://web.archive.org/web/20221205215608/https://www.persee.fr/doc/luso_1257-0273_2003_num_10_1_1557 |url-status=live }}</ref> In March 2006, the [[Cohabitation (government)|cohabitation]] period ended, when a propresidential coalition won enough seats in National Assembly elections to form a new government.<ref>Gerhard Seibert (2006), ''Comrades, Clients and Cousins: Colonialism, Socialism and Democratization in São Tomé and Príncipe'', Leiden: Brill.</ref>
+
+In the 30 July 2006 [[2006 São Toméan presidential election|presidential election]], Fradique de Menezes easily won a second five-year term in office, defeating two other candidates, [[Patrice Trovoada]] (son of former president Miguel Trovoada) and independent [[Nilo Guimarães]].<ref>{{cite news |title=Incumbent wins vote |url=https://www.thenewhumanitarian.org/news/2006/08/02/incumbent-wins-vote |work=The New Humanitarian |date=2 August 2006 |language=en |access-date=8 June 2023 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608195738/https://www.thenewhumanitarian.org/news/2006/08/02/incumbent-wins-vote |url-status=live }}</ref> Local elections, the first since 1992, took place on 27 August 2006 and were dominated by members of the ruling coalition.<ref>{{cite web |title=27 August 2006 Local Elections in São Tomé and Príncipe |url=https://africanelections.tripod.com/st_2006local.html |website=africanelections.tripod.com |access-date=27 September 2023 |archive-date=27 September 2023 |archive-url=https://web.archive.org/web/20230927205311/https://africanelections.tripod.com/st_2006local.html |url-status=live }}</ref> On 12 February 2009, a'' [[coup d'état]] ''was attempted to overthrow President Fradique de Menezes. The plotters were imprisoned, but later received a pardon from President de Menezes.<ref>[https://web.archive.org/web/20110826043116/http://www.orange.co.bw/news/?m=201001&paged=450 Sao Tome president pardons coup plotter]. Orange Botswana Portal. 7 January 2010.</ref>
+
+[[Evaristo Carvalho]] became the [[President of São Tomé and Príncipe]] in the [[2016 São Toméan presidential election|2016 elections]], after winning over the incumbent President [[Manuel Pinto da Costa]].<ref>{{cite news |title=Sao Tome's ex-prime minister elected president in one-man race |url=https://www.reuters.com/article/uk-saotome-election-idUKKCN10J1JX |work=Reuters |date=8 August 2016 |language=en |access-date=8 June 2023 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608195036/https://www.reuters.com/article/uk-saotome-election-idUKKCN10J1JX |url-status=live }}</ref> President Carvalho is also vice president of the Independent Democratic Action party (ADI). [[Patrice Emery Trovoada]] became prime minister in 2014; he is also the leader of the Independent Democratic Action party (ADI).<ref>{{cite news|url=https://www.bbc.com/news/world-africa-14093493|title=Sao Tome and Principe country profile|work=BBC News|date=14 May 2018|access-date=8 March 2021|archive-date=23 December 2016|archive-url=https://web.archive.org/web/20161223152039/http://www.bbc.com/news/world-africa-14093493|url-status=live}}</ref> In December 2018, [[Jorge Bom Jesus]], the leader of the Movimento de Libertação de São Tomé e Príncipe-Partido Social Democráta (MLSTP-PSD), was sworn in as new prime minister.<ref>{{cite web|url=http://country.eiu.com/article.aspx?articleid=197423203&Country=S%C3%A3o%20Tom%C3%A9%20and%20Pr%C_4|title=Jorge Bom Jesus inaugurated as prime minister|access-date=8 March 2021|archive-date=13 April 2021|archive-url=https://web.archive.org/web/20210413222352/http://country.eiu.com/article.aspx?articleid=197423203&Country=S%C3%A3o%20Tom%C3%A9%20and%20Pr%25C_4|url-status=live}}</ref>
+
+In September 2021, the candidate of the centre-right opposition Independent Democratic Action (ADI), [[Carlos Vila Nova]], won the [[2021 São Toméan presidential election|presidential election]].<ref>{{cite news |title=Opposition candidate Carlos Vila Nova wins Sao Tome presidency: partial results |url=https://www.africanews.com/2021/09/06/opposition-candidate-carlos-vila-nova-wins-sao-tome-presidency-partial/ |work=Africanews |date=6 September 2021 |language=en |access-date=16 November 2021 |archive-date=8 September 2021 |archive-url=https://web.archive.org/web/20210908031202/https://www.africanews.com/2021/09/06/opposition-candidate-carlos-vila-nova-wins-sao-tome-presidency-partial/ |url-status=live }}</ref>[[File:Sao Tome WV banner.jpg|thumb|center|550px|A view of ''[[Praia Inhame]]'', [[Caué District]], São Tomé]]In September 2022, the opposition Independent Democratic Action (ADI), led by former prime minister [[Patrice Trovoada]], won [[2022 São Toméan legislative election|the election]] over the ruling Movement for the Liberation of Sao Tome and Principe/Social Democratic Party (MLSTP/PSD) of Prime Minister Jorge Bom Jesus.<ref>{{cite news |title=Sao Tome opposition wins legislative vote |url=https://www.africanews.com/2022/09/27/sao-tome-opposition-wins-legislative-vote/ |work=Africanews |date=n.d. |access-date=29 September 2022 |archive-date=30 September 2023 |archive-url=https://web.archive.org/web/20230930125216/https://www.africanews.com/2022/09/27/sao-tome-opposition-wins-legislative-vote/ |url-status=live }}</ref> In November of the same year, the government and military thwarted [[2022 São Tomé and Príncipe coup d'état attempt|an attempted coup d'état]],<ref>{{Cite news |date=25 November 2022 |title=Sao Tome and Principe government thwarts overnight coup attempt |language=en |work=Reuters |url=https://www.reuters.com/world/africa/sao-tome-principe-government-thwarts-overnight-coup-attempt-2022-11-25/ |access-date=2 December 2022 |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202185636/https://www.reuters.com/world/africa/sao-tome-principe-government-thwarts-overnight-coup-attempt-2022-11-25/ |url-status=live }}</ref> after Patrice Trovoada was appointed prime minister of São Tomé and Príncipe by Carlos Vila Nova.<ref>{{cite news |last1=Boechat |first1=Geraldine |title=Patrice Trovoada takes office as Prime minister of Sao Tome and Principe – Medafrica Times |url=https://medafricatimes.com/28855-patrice-trovoada-takes-office-as-prime-minister-of-sao-tome-and-principe.html |access-date=6 December 2022 |archive-date=11 November 2022 |archive-url=https://web.archive.org/web/20221111190836/https://medafricatimes.com/28855-patrice-trovoada-takes-office-as-prime-minister-of-sao-tome-and-principe.html |url-status=live }}</ref> [[Ilza Amado Vaz]] briefly served as Trovoada's successor from 9 January 2025 until [[Américo Ramos]] appointment on 12 January.<ref>{{cite news |title=Sao Tome and Principe's president appoints central bank governor as new PM |url=https://english.news.cn/africa/20250113/bb2a5df8aecd44b58c904f3a522c43d3/c.html |work=english.news.cn}}</ref>
+
+==Geography==
+{{Main|Geography of São Tomé and Príncipe}}
+
+[[File:2012SaoTome-302 (8042910990).jpg|thumb|The [[Pico Cão Grande]] is a landmark needle-shaped volcanic plug peak in São Tomé and Príncipe.]]
+
+The islands of São Tomé and Príncipe, situated in the equatorial Atlantic and [[Gulf of Guinea]] about {{Convert|160|and|130|nmi}}, respectively, off the northwest coast of [[Gabon]], constitute Africa's second-smallest country.<ref>{{Cite book |last=Bradley |first=Archie |url=https://books.google.com/books?id=lbUQDgAAQBAJ&dq=Africa%27s+second-smallest+country+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PT17 |title=São Tomé and Príncipe Political Governance and Economy |date=30 January 2017 |publisher=Lulu Press, Inc |isbn=978-1-365-72042-0 |language=en |access-date=21 June 2022 |archive-date=19 April 2023 |archive-url=https://web.archive.org/web/20230419175834/https://books.google.com/books?id=lbUQDgAAQBAJ&dq=Africa%27s+second-smallest+country+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PT17 |url-status=dead }}</ref><ref>{{Cite book |last=Warne |first=Sophie |url=https://books.google.com/books?id=wTCyVLanWZwC&dq=Africa%27s+second-smallest+country+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PT2 |title=Gabon, São Tomé and Príncipe |date=2003 |publisher=Bradt Travel Guides |isbn=978-1-84162-073-2 |language=en |access-date=21 June 2022 |archive-date=6 November 2022 |archive-url=https://web.archive.org/web/20221106062630/https://books.google.com/books?id=wTCyVLanWZwC&dq=Africa%27s+second-smallest+country+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PT2 |url-status=live }}</ref> Both are part of the [[Cameroon line|Cameroon volcanic mountain line]], which also includes the islands of [[Annobón]] to the southwest, [[Bioko]] to the northeast (both part of [[Equatorial Guinea]]), and [[Mount Cameroon]] on the coast of Gulf of Guinea. Both islands formed about 30 million years ago during the [[Oligocene]] era, due to volcanic activity beneath deep water along the Cameroon Line. The volcanic soils of [[basalt]]s and [[phonolite]]s, dating to 3 million years, have been used for plantation crops since colonial times.<ref>{{Cite book |last=Becker |first=Kathleen |url=https://books.google.com/books?id=uLzgAwAAQBAJ&dq=volcanic+soils+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PA14 |title=São Tomé and Príncipe |date=26 June 2014 |publisher=Bradt Travel Guides |isbn=978-1-84162-486-0 |language=en |access-date=21 June 2022 |archive-date=6 November 2022 |archive-url=https://web.archive.org/web/20221106055432/https://books.google.com/books?id=uLzgAwAAQBAJ&dq=volcanic+soils+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PA14 |url-status=live }}</ref><ref>{{Cite book |last=Becker |first=Kathleen |url=https://books.google.com/books?id=e59TqbPNAB0C&dq=volcanic+soils+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PA3 |title=São Tomé & Príncipe |date=2008 |publisher=Bradt Travel Guides |isbn=978-1-84162-216-3 |language=en |access-date=21 June 2022 |archive-date=6 November 2022 |archive-url=https://web.archive.org/web/20221106055432/https://books.google.com/books?id=e59TqbPNAB0C&dq=volcanic+soils+S%C3%A3o+Tom%C3%A9+and+Pr%C3%ADncipe&pg=PA3 |url-status=live }}</ref>
+
+São Tomé is {{Convert|50|km|mi|-1|abbr=on}} long and {{Convert|30|km|mi|-1|abbr=on}} wide and the more mountainous of the two islands. Its highest point, [[Pico de São Tomé]], has an elevation of {{Convert|2024|m|ft}}. Príncipe is about {{Convert|30|km|mi|-1|abbr=on}} long and {{Convert|6|km|mi|0|abbr=on}} wide. Its highest point, [[Pico de Príncipe]], reaches {{Convert|948|m|ft}}. The [[equator]] lies just south of São Tomé Island, passing through the islet [[Ilhéu das Rolas]].
+
+The [[Pico Cão Grande]] (Great Dog Peak) is a landmark [[volcanic plug]] peak in southern São Tomé. It rises over {{Convert|300|m|ft}} above the surrounding terrain and the summit is {{Convert|663|m|ft}} above sea level.
+
+===Climate===
+[[File:Waterfall São Tomé Island I.jpg|thumb|Waterfall in São Tomé Island|222x222px]]The climate of São Tomé and Príncipe is essentially conditioned by its geographic location, subject to the seasonal translation of low equatorial pressures, the monsoon winds from the south, the warm [[Guinea Current]] and the [[Relief (geography)|relief]].<ref name="Barros">{{cite web |last1=Barros |first1=PLNL |title=Dissertação |url=https://www.repository.utl.pt/bitstream/10400.5/4155/1/Disserta%C3%A7%C3%A3o.pdf |pages=22–24}}</ref>
+
+At sea level, the climate is tropical—hot and humid with average yearly temperatures of about {{convert|26|C|F|1}} and little daily variation. The temperature rarely rises beyond {{convert|32|C|F|1}}. At the interior's higher elevations, the average yearly temperature is {{convert|20|C|F|}}, and nights are generally cool. Annual rainfall varies from {{convert|7000|mm|in}} in the highland [[cloud forest]]s to {{convert|800|mm|in}} in the northern lowlands. The rainy season is from October to May.<ref name="Barros" />
+[[File:São Tomé - Ilhéu das Rolas - Praia de Santo António (3).jpg|thumb|Ilhéu das Rolas]]
+
+===Biodiversity===
+{{Main|Wildlife of São Tomé and Príncipe}}
+
+The country's territory is part of the [[São Tomé, Príncipe, and Annobón moist lowland forests]] ecoregion.<ref name="DinersteinOlson2017">{{cite journal|last1=Dinerstein|first1=Eric|last2=Olson|first2=David|last3=Joshi|first3=Anup|last4=Vynne|first4=Carly|last5=Burgess|first5=Neil D.|last6=Wikramanayake|first6=Eric|last7=Hahn|first7=Nathan|last8=Palminteri|first8=Suzanne|last9=Hedao|first9=Prashant|last10=Noss|first10=Reed|last11=Hansen|first11=Matt|last12=Locke|first12=Harvey|last13=Ellis|first13=Erle C|last14=Jones|first14=Benjamin|last15=Barber|first15=Charles Victor|last16=Hayes|first16=Randy|last17=Kormos|first17=Cyril|last18=Martin|first18=Vance|last19=Crist|first19=Eileen|last20=Sechrest|first20=Wes|last21=Price|first21=Lori|last22=Baillie|first22=Jonathan E. M.|last23=Weeden|first23=Don|last24=Suckling|first24=Kierán|last25=Davis|first25=Crystal|last26=Sizer|first26=Nigel|last27=Moore|first27=Rebecca|last28=Thau|first28=David|last29=Birch|first29=Tanya|last30=Potapov|first30=Peter|last31=Turubanova|first31=Svetlana|last32=Tyukavina|first32=Alexandra|last33=de Souza|first33=Nadia|last34=Pintea|first34=Lilian|last35=Brito|first35=José C.|last36=Llewellyn|first36=Othman A.|last37=Miller|first37=Anthony G.|last38=Patzelt|first38=Annette|last39=Ghazanfar|first39=Shahina A.|last40=Timberlake|first40=Jonathan|last41=Klöser|first41=Heinz|last42=Shennan-Farpón|first42=Yara|last43=Kindt|first43=Roeland|last44=Lillesø|first44=Jens-Peter Barnekow|last45=van Breugel|first45=Paulo|last46=Graudal|first46=Lars|last47=Voge|first47=Maianna|last48=Al-Shammari|first48=Khalaf F.|last49=Saleem|first49=Muhammad|display-authors=1|title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm|journal=BioScience|volume=67|issue=6|year=2017|pages=534–545|issn=0006-3568|doi=10.1093/biosci/bix014|pmid=28608869|pmc=5451287}}</ref> It had a 2019 [[Forest Landscape Integrity Index]] mean score of 6.64/10, ranking it 68th globally out of 172 countries.<ref name="FLII-Supplementary">{{cite journal|last1=Grantham|first1=H. S.|last2=Duncan|first2=A.|last3=Evans|first3=T. D.|last4=Jones|first4=K. R.|last5=Beyer|first5=H. L.|last6=Schuster|first6=R.|last7=Walston|first7=J.|last8=Ray|first8=J. C.|last9=Robinson|first9=J. G.|last10=Callow|first10=M.|last11=Clements|first11=T.|last12=Costa|first12=H. M.|last13=DeGemmis|first13=A.|last14=Elsen|first14=P. R.|last15=Ervin|first15=J.|last16=Franco|first16=P.|last17=Goldman|first17=E.|last18=Goetz|first18=S.|last19=Hansen|first19=A.|last20=Hofsvang|first20=E.|last21=Jantz|first21=P.|last22=Jupiter|first22=S.|last23=Kang|first23=A.|last24=Langhammer|first24=P.|last25=Laurance|first25=W. F.|last26=Lieberman|first26=S.|last27=Linkie|first27=M.|last28=Malhi|first28=Y.|last29=Maxwell|first29=S.|last30=Mendez|first30=M.|last31=Mittermeier|first31=R.|last32=Murray|first32=N. J.|last33=Possingham|first33=H.|last34=Radachowsky|first34=J.|last35=Saatchi|first35=S.|last36=Samper|first36=C.|last37=Silverman|first37=J.|last38=Shapiro|first38=A.|last39=Strassburg|first39=B.|last40=Stevens|first40=T.|last41=Stokes|first41=E.|last42=Taylor|first42=R.|last43=Tear|first43=T.|last44=Tizard|first44=R.|last45=Venter|first45=O.|last46=Visconti|first46=P.|last47=Wang|first47=S.|last48=Watson|first48=J. E. M.|display-authors=1|title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity – Supplementary Material|journal=Nature Communications|volume=11|issue=1|year=2020|page=5978|issn=2041-1723|doi=10.1038/s41467-020-19493-3|doi-access=free|pmid=33293507|pmc=7723057|bibcode=2020NatCo..11.5978G }}</ref>
+São Tomé and Príncipe does not have a large number of native mammals (although the [[São Tomé shrew]] and several bat species are [[endemism|endemic]]). The islands are home to a larger number of endemic birds and plants, including the world's smallest ibis (the [[São Tomé ibis]]), the world's largest sunbird (the [[giant sunbird]]), the rare [[São Tomé fiscal]], and several giant species of ''[[Begonia]]''. São Tomé and Príncipe is an important nesting site for marine turtles, including the [[hawksbill turtle]]s (''Eretmochelys imbricata'').
+
+In 2012, [[UNESCO]] established the [[Island of Príncipe Biosphere Reserve]] under the [[Man and the Biosphere Programme]]. The reserve encompasses the entire emerged area of the island of Príncipe, and its islets Bom Bom, Boné do Jóquei, Mosteiros, Santana, and Pedra da Galei, and the Tinhosas islands.<ref>{{cite web|title=World Network of Biosphere Reserves|url=http://www.unesco.org/new/en/natural-sciences/environment/ecological-sciences/biosphere-reserves/africa/sao-tome-and-principe/the-island-of-principe/|website=Island of Príncipe|publisher=UNESCO|access-date=1 June 2016|archive-date=9 August 2019|archive-url=https://web.archive.org/web/20190809072358/http://www.unesco.org/new/en/natural-sciences/environment/ecological-sciences/biosphere-reserves/africa/sao-tome-and-principe/the-island-of-principe/|url-status=live}}</ref> The biosphere was extended in 2025 to [[São Tomé (island)|São Tomé]], making São Tomé and Príncipe the first country to be designated as such in its entirety.<ref>{{cite web|date=27 September 2025 |title=The Bright Side: UNESCO designates 26 new biosphere reserves including France's Lake Bourget |url=https://www.france24.com/en/environment/20250927-the-bright-side-unesco-designates-26-new-biosphere-reserves-including-france-s-lake-bourget |access-date=27 September 2025 |website=France 24 |language=en}}</ref>
+
+==Politics==
+{{Main|Politics of São Tomé and Príncipe|Elections in São Tomé and Príncipe}}
+
+[[File:Palais présidentiel à São Tomé (6).jpg|thumb|upright|[[Presidential Palace of São Tomé e Príncipe]]]]
+The president of the republic is elected to a five-year term by direct [[universal suffrage]] and a [[secret ballot]], and must gain an outright majority to be elected. The president may hold up to two consecutive terms. The prime minister is appointed by the president, and the 14 members of the cabinet are chosen by the prime minister.
+
+The [[National Assembly of São Tomé and Príncipe|National Assembly]], the supreme organ of the state and the highest legislative body, is made up of 55 members, who are elected for a four-year term and meet semiannually. Justice is administered at the highest level by the Supreme Court. The judiciary is independent under the current constitution.
+
+São Tomé and Príncipe has functioned under a multiparty system since 1990. Concerning [[human rights in São Tomé and Príncipe|human rights]], there are guarantees on freedom of speech and the freedom to form opposition political parties. The country finished 11th out of the African countries measured by the [[Ibrahim Index of African Governance]] in 2010, a comprehensive analysis of the standards of governance in Africa.<ref>{{citation|url=http://www.moibrahimfoundation.org/en/media/get/20101108_eng-table-iiag2010-revised.pdf |title=2010 Ibrahim Index of African Governance |access-date=4 March 2012 |url-status=dead |archive-url=https://web.archive.org/web/20111019173824/http://www.moibrahimfoundation.org/en/media/get/20101108_eng-table-iiag2010-revised.pdf |archive-date=19 October 2011 }}</ref>
+
+São Tomé and Príncipe is considered a [[Free Country (politics)|free country]], with very high freedom of speech, high political freedom and average [[economic freedom]]. In the 2023 [[V-Dem Democracy Indices]], the country was ranked 56th among electoral democracies worldwide and 5th [[democracy in Africa|in Africa]].<ref name="vdem_dataset">{{cite web |last=V-Dem Institute |date=2023 |title=The V-Dem Dataset |url=https://www.v-dem.net/data/the-v-dem-dataset/ |url-status=live |archive-url=https://web.archive.org/web/20221208183458/https://www.v-dem.net/data/the-v-dem-dataset/ |archive-date=8 December 2022 |access-date=14 October 2023}}</ref> It has an average level of [[corruption]], although in recent years this level has been decreasing.<ref>{{cite web|title=Sao Tome and Principe|url=https://www.transparency.org/en/countries/sao-tome-and-principe|access-date=17 June 2020|website=Transparency.org|language=en|archive-date=24 September 2023|archive-url=https://web.archive.org/web/20230924004647/https://www.transparency.org/en/countries/sao-tome-and-principe|url-status=live}}</ref> In tourism terms, the risk is low, equivalent to the risk of visiting [[France]].<ref>{{cite web|title=Travel Risk Map — International SOS|url=https://www.travelriskmap.com/#/planner/map/security|access-date=17 June 2020|website=www.travelriskmap.com|archive-date=29 July 2022|archive-url=https://web.archive.org/web/20220729020815/https://www.travelriskmap.com/#/planner/map/security|url-status=live}}</ref>
+
+=== Foreign relations ===
+{{Further|Foreign relations of São Tomé and Príncipe}}
+
+São Tomé and Príncipe has embassies in Angola, [[Belgium]], Gabon, Portugal, and the [[United States]]. It [[China–São Tomé and Príncipe relations|recognized]] the [[People's Republic of China]] in 2016. It also has a permanent mission to the UN in [[New York City]] and an International Diplomatic Correspondent Office.
+
+São Tomé and Príncipe is a founding member state of the [[Community of Portuguese Language Countries]], also known as the Lusophone Commonwealth, an international organization and political association of [[Lusophone]] nations across four continents, where [[Portuguese language|Portuguese]] is an official language.
+
+The countries with the closest relations with São Tomé and Príncipe are [[Portugal]] and [[Angola]].
+
+==== Portugal ====
+{{Main|Portugal–São Tomé and Príncipe relations}}
+
+[[Portugal]] has historical ties with São Tomé and Príncipe, from the period of colonization by the Portuguese. Portugal is the largest investor in São Tomé and Príncipe, investing millions of euros in the economy. São Tomé and Príncipe maintains an embassy in [[Lisbon]], a consulate in [[Porto]] and one in [[Coimbra]]. Portugal maintains an embassy in [[São Tomé]].{{Citation needed|date=January 2023}} Portugal and São Tomé and Príncipe signed an agreement, in which Portugal patrols the coastal area of São Tomé and Príncipe, protecting it mainly from pirates. The Portuguese military ship [[Portuguese Navy|NRP Zaire]] and some Portuguese patrol boats are permanently stationed on the coast of São Tomé and Príncipe.<ref name="Portugal">{{cite web|last=Portugal|first=Rádio e Televisão de|title=Portugueses em São Tomé|url=https://www.rtp.pt/noticias/mundo/portugueses-em-sao-tome_v924176|access-date=29 June 2020|website=Portugueses em São Tomé|date=6 June 2016|language=pt|archive-date=21 March 2022|archive-url=https://web.archive.org/web/20220321165014/https://www.rtp.pt/noticias/mundo/portugueses-em-sao-tome_v924176|url-status=live}}</ref> The economy of São Tomé and Príncipe is closely linked to that of Portugal, with Portugal accounting for more than 50% of exports from São Tomé and Príncipe. Portugal has helped to develop education in São Tomé and Príncipe, financially helping to build and maintain the Public University of São Tomé and Príncipe.<ref name="aulp.org">{{cite web|date=7 May 2017|title=São Tomé e Príncipe cria 1ª Universidade Pública – AULP|url=http://aulp.org/Sao_Tome_e_Principe_cria_1_Universidade_Publica|archive-url=https://web.archive.org/web/20170507111217/http://aulp.org/Sao_Tome_e_Principe_cria_1_Universidade_Publica|url-status=dead|archive-date=7 May 2017|access-date=29 June 2020}}</ref><ref name="Portugal"/> The Portuguese President [[Marcelo Rebelo de Sousa]] visited São Tomé and Príncipe in 2018 to demonstrate the strong economic and cultural ties between Portugal and São Tomé and Príncipe.<ref>{{cite web|date=10 February 2018|title=Marcelo faz visita de Estado a S.Tomé e Príncipe entre 20 e 22 de fevereiro|url=https://vivenciaspressnews.com/marcelo-faz-visita-de-estado-a-s-tome-e-principe-entre-20-e-22-de-fevereiro/|access-date=29 June 2020|website=Vivências Press News|language=pt-PT|archive-date=30 June 2020|archive-url=https://web.archive.org/web/20200630192102/https://vivenciaspressnews.com/marcelo-faz-visita-de-estado-a-s-tome-e-principe-entre-20-e-22-de-fevereiro/|url-status=live}}</ref>
+
+In September 2022, Portugal and São Tomé and Príncipe signed a new cooperation agreement for defence, bolstering training and maritime security.<ref>{{cite web |title=Portugal and São Tomé e Príncipe sign a new cooperation agreement for Defence |url=https://www.portugal.gov.pt/en/gc23/communication/news-item?i=portugal-and-sao-tome-e-principe-sign-a-new-cooperation-agreement-for-defence |language=pt |access-date=5 October 2022 |archive-date=5 October 2022 |archive-url=https://web.archive.org/web/20221005220354/https://www.portugal.gov.pt/en/gc23/communication/news-item?i=portugal-and-sao-tome-e-principe-sign-a-new-cooperation-agreement-for-defence |url-status=live }}</ref>
+
+==== Angola ====
+[[Angola]] is a major business partner mainly in the area of natural energy resources; Angola is the major supplier of [[Oil spill|oil]] and [[natural gas]] to São Tomé and Príncipe. In addition, hundreds of Angolan tourists visit São Tomé and Príncipe every year, contributing to the local economy. There is a relatively large community of Angolans in São Tomé and Príncipe. São Tomé and Príncipe maintains an embassy in [[Luanda]] and Angola maintains an embassy in [[São Tomé]].<ref name="Geography Now - Official Site">{{cite web|title=Geography Now – Official Site|url=https://www.geographynow.com/|access-date=29 June 2020|website=Geography Now|language=en|archive-date=17 August 2022|archive-url=https://web.archive.org/web/20220817012832/https://www.geographynow.com/|url-status=live}}</ref> [[File:US Navy 080123-N-4044H-052 Chief Hospital Corpsman Chris Maurer demonstrates to Sao Tomain military personnel the procedure for inserting an intravenous drip into a person's vein.jpg |thumb|right|Santomean personnel undergo medical training with US Naval corpsmen]]
+
+==== United States ====
+{{Main|São Tomé and Príncipe–United States relations}}
+
+The [[United States]] has had relations with São Tomé and Príncipe since 1975 and has offered millions of dollars in financial aid packages to São Tomé and Príncipe. The financial aid packages were designed to develop the country's infrastructure and improve its fiscal, tax and customs administration. In addition, in recent years,{{When|date=November 2024}} some [[US Coast Guard]] ships have visited São Tomé and Príncipe, providing medical and military training to soldiers from São Tomé and Príncipe. In 1992, the US federal government broadcaster, [[Voice of America]], and the government of São Tomé signed a long-term agreement to establish a relay broadcasting station in São Tomé. Voice of America currently broadcasts to much of Africa from this facility. In 2002, the US had plans to establish a small [[List of United States military bases|military base]] on the island of São Tomé. São Tomé and Príncipe accepted the construction of the base, but the plan was canceled due to US political and financial issues.<ref name="cia1">{{cite web|title=Africa :: Sao Tome and Principe — The World Factbook – Central Intelligence Agency|url=https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe/|access-date=29 June 2020|website=www.cia.gov|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409145152/https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe/|url-status=dead}}</ref>
+
+==== Others ====
+Thousands of tourists from [[Cape Verde]] visit São Tomé and Príncipe, helping the local economy. Relations between Cape Verde and São Tomé and Príncipe have improved over the years.{{Citation needed|date=March 2021}}
+
+[[Brazil]] has contributed to improving the health and education system in São Tomé and Príncipe. Brazilian television channels and films are the most watched in São Tomé and Príncipe.<ref name="aulp.org"/>
+
+Neighboring [[Gabon]], [[Cameroon]], and the [[Republic of Congo]] are important partners in São Tomé and Príncipe; many companies in these countries have establishments and businesses in São Tomé and Príncipe. Because these countries speak [[French language|French]], the language has become important in the business sector (together with [[Portuguese language|Portuguese]]), in São Tomé and Príncipe.<ref name="Geography Now - Official Site"/>
+
+Since 2013, [[China]] has invested in some road and seaport projects but investments have been stalling in recent years.{{Citation needed|date=March 2021}}
+
+=== Military ===
+{{Further|Military of São Tomé and Príncipe}}
+[[File:Coat_of_arms_of_São_Tomé_and_Príncipe.svg|thumb|Coat of arms of São Tomé and Príncipe]]
+São Tomé and Príncipe's military is small and consists of four branches: the Army (''Exército''), Coast Guard (''Guarda Costeira'' also called "Navy"), Presidential Guard (''Guarda Presidencial''), and the National Guard.<ref>{{Cite web |title=Sao Tome and Principe Military 2020, CIA World Factbook |url=https://theodora.com/wfbcurrent/sao_tome_and_principe/sao_tome_and_principe_military.html |access-date=29 September 2022 |website=theodora.com |archive-date=29 September 2022 |archive-url=https://web.archive.org/web/20220929234727/https://theodora.com/wfbcurrent/sao_tome_and_principe/sao_tome_and_principe_military.html |url-status=live }}</ref>
+
+In 2017, São Tomé and Príncipe signed the United Nations [[Treaty on the Prohibition of Nuclear Weapons]].<ref>{{cite web |url=https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26&clang=_en |title=Chapter XXVI: Disarmament&nbsp;– No. 9 Treaty on the Prohibition of Nuclear Weapons |publisher=United Nations Treaty Collection |date=7 July 2017 |access-date=16 September 2019 |archive-url=https://web.archive.org/web/20190806220546/https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26&clang=_en |archive-date=6 August 2019 |url-status=live }}</ref>
+
+=== Administrative divisions ===
+{{Main|Districts of São Tomé and Príncipe|Autonomous Region of Príncipe}}
+
+In 1977, two years after independence, the country was divided into two provinces (São Tomé Province and Príncipe Province) and six districts. Since the new constitution was adopted in 1990, the provinces have been abolished, and the districts are the only administrative subdivisions. Since 29 April 1995, the island of Príncipe has been an [[Autonomous Region of Príncipe|autonomous region]], coterminous with the district of Pagué. The larger island of São Tomé is divided into six [[Districts of São Tomé and Príncipe|districts]] and Príncipe island into one:<ref>{{Cite book|chapter-url=https://books.google.com/books?id=XIixDQAAQBAJ&pg=PA35|title=Governing Urban Africa|last=Nunes Silva|first=Carlos|publisher=Springer Nature|year=2016|isbn=9781349951093|chapter=São Tomé and Príncipe|via=Google Books|pages=35–39}}</ref>
+
+'''São Tomé Island'''
+
+*[[Água Grande District|Água Grande]]
+*[[Cantagalo District|Cantagalo]]
+*[[Caué District|Caué]]
+*[[Lembá District|Lembá]]
+*[[Lobata District|Lobata]]
+*[[Mé-Zóchi District|Mé-Zóchi]]
+
+'''Príncipe Island'''
+
+*[[Autonomous Region of Príncipe|Pagué]]
+
+==Economy==
+{{Main|Economy of São Tomé and Príncipe}}
+{{See also|Climate finance in São Tomé and Príncipe}}
+
+=== Agriculture ===
+{{See also|Cocoa production in São Tomé and Príncipe}}
+
+Since the 19th century, the economy of São Tomé and Príncipe has been based on plantation agriculture. At the time of independence, Portuguese-owned plantations occupied 90% of the cultivated area. After independence, control of these plantations passed to various state-owned agricultural enterprises. The main crop on São Tomé is cocoa, representing about 54% of agricultural exports.<ref>{{cite web |title=Sao Tome and Principe – Agricultural Sectors and Agribuiness |url=https://www.trade.gov/country-commercial-guides/sao-tome-and-principe-agricultural-sectors-and-agribuiness |publisher=[[International Trade Administration]] |language=en |date=11 August 2022 |ref={{harvid|International Trade Administration|2022}}}}</ref> In the early 1900s, São Tomé and Príncipe was the world's largest exporter of cocoa and popularly known as the "Chocolate Islands".<ref>{{cite news |last=Drew |first=Keith |title=How the Chocolate Islands are rediscovering their roots |url=https://www.bbc.com/travel/article/20230705-how-the-chocolate-islands-are-rediscovering-their-roots |access-date=28 June 2024 |work=BBC |date=6 July 2023}}</ref> Other export crops include copra, palm kernels, and coffee.<ref>{{cite web |title=Sao Tome and Principe (01/19/12) |url=https://2009-2017.state.gov/outofdate/bgn/saotomeandprincipe/194936.htm |website=U.S. Bilateral Relations Fact Sheets / Background Notes |publisher=U.S. Department of State |date=19 January 2012 |ref={{harvid|U.S. Department of State|2012}}}}</ref>
+
+Domestic food-crop production is inadequate to meet local consumption, so the country imports most of its food.<ref name="AMD">{{cite book|author1=Mary E. Lassanyi|author2=Wayne Olson|title=Agricultural Marketing Directory for U.S. & Africa Trade|url=https://books.google.com/books?id=ep5oOZ8m0PoC&pg=PA206|date=1 July 1997|publisher=DIANE Publishing|isbn=978-0-7881-4479-0|page=206|access-date=14 October 2015|archive-url=https://web.archive.org/web/20160125212240/https://books.google.com/books?id=ep5oOZ8m0PoC&pg=PA206|archive-date=25 January 2016|url-status=live}}</ref> As of 1997, an estimated 90% of the country's food needs were met through imports.<ref name="AMD"/> Efforts have been made by the government in recent years to expand food production, and several projects have been undertaken, largely financed by foreign donors.{{citation needed|date=February 2021}}
+
+Other than agriculture, the main economic activities are fishing and a small industrial sector engaged in processing local agricultural products and producing a few basic consumer goods. The scenic islands have potential for tourism, and the government is attempting to improve its rudimentary tourist industry infrastructure. The government sector accounts for about 11% of employment.
+
+Following independence, the country had a centrally directed economy, with most means of production owned and controlled by the state. The original constitution guaranteed a [[mixed economy]], with privately owned cooperatives combined with publicly owned property and means of production.
+
+=== Government measures ===
+In the 1980s and 1990s, the economy of São Tomé encountered major difficulties. Economic growth stagnated, and cocoa exports dropped in both value and volume, creating large balance-of-payments deficits. Plantation land was seized, resulting in the complete collapse of cocoa production.{{citation needed|date=November 2025}} At the same time, the international price of cocoa slumped.
+[[File:2017 Guadalupe STP DSC 8344 (32064969063).jpg|thumb|Oil and gas infrastructure in Neves, São Tomé and Príncipe]]
+In response to its economic downturn, the government undertook a series of far-reaching economic reforms. In 1987, the government implemented an [[International Monetary Fund]] [[structural adjustment]] program, and invited greater private participation in management of the [[State-owned enterprise|parastatal]]s, as well as in the agricultural, commercial, banking, and tourism sectors. The focus of economic reform since the early 1990s has been widespread privatization, especially of the state-run agricultural and industrial sectors.{{citation needed|date=November 2025}}
+
+The São Toméan government has traditionally obtained foreign assistance from various donors, including the [[United Nations Development Programme|UN Development Programme]], the [[World Bank]], the European Union, Portugal, [[Taiwan]], and the [[African Development Bank]]. In April 2000, in association with the [[Central Bank of São Tomé and Príncipe|Banco Central de São Tomé e Príncipe]], the IMF approved a poverty-reduction and growth facility for São Tomé aimed at reducing inflation to 3% for 2001, raising ideal growth to 4%, and reducing the fiscal deficit.{{citation needed|date=November 2025}}
+
+In late 2000, São Tomé qualified for significant debt reduction under the IMF–World Bank's [[Heavily Indebted Poor Countries]] initiative. The reduction is being reevaluated by the IMF, due to the attempted ''coup d'état'' in July 2003 and subsequent emergency spending. Following the truce, the IMF decided to send a mission to São Tomé to evaluate the macroeconomic state of the country. This evaluation is ongoing, reportedly pending oil legislation to determine how the government will manage incoming oil revenues, which are still poorly defined, but in any case expected to change the economic situation dramatically.{{citation needed|date=November 2025}}
+
+In parallel, some efforts have been made to incentivize private tourism initiatives, but their scope remains limited.<ref>Brígida Rocha Brito and others, ''Turismo em Meio Insular Africano: Potencialidades, constrangimentos e impactos'', Lisbon: Gerpress, 2010 {{in lang|pt}}</ref>
+
+São Tomé hosts a broadcasting station of the American [[International Broadcasting Bureau]] for the [[Voice of America]]<ref name="WRTH1995p162">''World Radio TV Handbook'' (WRTH) Vol. 49 • 1995, p. 162; [http://www.wrth.com/ Billboard Publications] {{Webarchive|url=https://web.archive.org/web/20131024001313/http://www.wrth.com/ |date=24 October 2013 }}, Amsterdam 1995. {{ISBN|0-8230-5926-X}}</ref> at Pinheira.<ref name="WRTH1997p514">WRTH 1997, p. 514, {{ISBN|0-8230-7797-7}}</ref>
+
+Portugal remains one of São Tomé's major trading partners, particularly as a source of imports. Food, manufactured articles, machinery, and transportation equipment are imported primarily from the EU.{{citation needed|date=November 2025}}
+
+=== Economic challenges ===
+In the past few years, the economy of São Tomé and Príncipe has grown, driven by [[agriculture]], tourism and [[foreign investments]], but mainly grew due to government spending driven by foreign loans. Gross domestic product (GDP) grew at an average rate of 5.5% between 2009 and 2017, but has slowed since 2014. The slowdown in economic growth was caused by lower government spending due to decreased foreign loans and decreased revenue from government taxes.<ref name="Overview">{{cite web|title=Overview|url=https://www.worldbank.org/en/country/saotome/overview|access-date=29 June 2020|website=World Bank|language=en|archive-date=22 June 2022|archive-url=https://web.archive.org/web/20220622173809/https://www.worldbank.org/en/country/saotome/overview|url-status=live}}</ref>
+[[File:Palmiers à huile à Ribeira Peixe (São Tomé) (2).jpg|thumb|Palm tree plantations in Ribeira Peixe]]
+The biggest challenges for the economy of São Tomé and Príncipe are a limited workforce, the fact that São Tomé and Príncipe is an archipelago, a small domestic market, climatic fluctuations, global warming, scarce diplomatic resources and poverty.<ref name="Overview"/>
+
+For long-term economic growth, the government is trying to stimulate various sectors of the economy, diversify the economy, cut government spending and encourage private sector and foreign investment.<ref name=":8">{{Cite book|last=Mendes|first=Xavier|title=São Tomé e Príncipe, a colónia esquecida|publisher=Editorial Estampa|year=2019|location=Lisbon|pages=22 23 24 26|language=pt}}</ref>
+
+=== Positive aspects ===
+São Tomé and Príncipe outperforms the sub-Saharan Africa average on the [[Human Development Index]] and has made great progress on most social indicators. All children in São Tomé and Príncipe are enrolled in the [[education system]], [[life expectancy]] has increased to 70 years, the [[Infant Mortality Rate|infant mortality rate]] has decreased dramatically and the vast majority of the population already has access to piped water and access to electricity.<ref name="britannica.com">{{cite web|title=Sao Tome and Principe {{!}} Culture, History, & People|url=https://www.britannica.com/place/Sao-Tome-and-Principe|access-date=29 June 2020|website=Encyclopedia Britannica|language=en|archive-date=22 December 2020|archive-url=https://web.archive.org/web/20201222150337/https://www.britannica.com/place/Sao-Tome-and-Principe|url-status=live}}</ref>
+
+In terms of business, the government of São Tomé and Príncipe has passed several laws that facilitate the creation of private businesses and foreign investments. Between 2015 and 2019 the number of businesses and small businesses increased greatly.{{quantify|date=September 2021}} This has led to a decrease in unemployment, an increase in exports, and the creation of several manufacturers. In the coming years significant economic improvements are expected.<ref name=":8" />
+
+==== Tourism ====
+The tourism sector has great potential to be a way of diversifying the country's economy. This sector has been expanding with the increase of foreign investment. Large resorts have been built on the beaches of São Tomé and Príncipe.<ref name="britannica.com"/>
+[[File:S. Tomé 2 077 (2269887268).jpg|thumb|Resort Pestana Equador, São Tomé and Príncipe]]
+
+==== Transport ====
+The main [[port]]s in the country are in the city of São Tomé and Neves, both on the island of São Tomé, which were very degraded before being modernized in 2014. Close to the city of São Tomé, the [[São Tomé International Airport|international airport]] was expanded and modernized. The telephone system and the road network are good by African standards. Cellphones are widely used and improving. The [[Internet|Internet service]] is available and has been widely installed in urban areas.<ref name="britannica.com"/><ref name=":8" />
+
+===Petroleum exploration===
+In 2001, São Tomé and Nigeria reached an agreement on joint exploration for petroleum in waters claimed by the two countries of the [[Niger Delta province|Niger Delta geologic province]]. After a lengthy series of negotiations, in April 2003, the joint development zone (JDZ) was opened for bids by international oil firms. The JDZ was divided into nine blocks; the winning bids for block one, [[ChevronTexaco]], [[ExxonMobil]], and [[Dangote Group]], were announced in April 2004,<ref>{{cite web | url=https://www.rigzone.com/news/oil_gas/a/19931/ExxonMobil_Signs_PSC_for_Exploration_in_NigeriaSao_Tome_JDZ | title=ExxonMobil Signs PSC for Exploration in Nigeria/Sao Tome JDZ }}</ref> with São Tomé to take in 40% of the $123&nbsp;million bid, and Nigeria the other 60%. Bids on other blocks were still under consideration in October 2004. São Tomé has received more than $2 million from the bank to develop its petroleum sector.<ref>{{cite news | author=Phuong Tran | title=São Tomé & Príncipe Still Waiting for Oil Boom | date=1 February 2007 | publisher=Voice of America | url=https://www.voanews.com/a/a-13-2007-02-01-voa30-66537932/554071.html | work=VOA News | access-date=25 December 2008 | archive-url=https://web.archive.org/web/20161221162314/http://www.voanews.com/a/a-13-2007-02-01-voa30-66537932/554071.html | archive-date=21 December 2016 | url-status=live }}</ref>
+
+===Banking===
+[[File:Banco Central de São Tomé.jpg|thumb|[[Central Bank of São Tomé and Príncipe]]]]
+The [[Central Bank of São Tomé and Príncipe]] ({{lang|pt|Banco Central de São Tomé e Príncipe}}) is responsible for monetary policy and bank supervision. There are six banks in the country; the largest and oldest is [[Banco Internacional de São Tomé e Príncipe]], which is a subsidiary of Portugal's government-owned [[Caixa Geral de Depósitos]]. It had a monopoly on commercial banking until a change in the banking law in 2003 led to the entry of several other banks.
+
+=== Business partners ===
+
+In 2018, exports from São Tomé and Príncipe totaled 24 million euros, compared to 11 million euros in 2013. Half of São Tomé and Príncipe's exports are [[cocoa bean]]s. One fifth of exports are electrical machines. Other considerable exports are parts of airplanes, cars, iron, plastics and agricultural products (pepper, oils, nuts and beef).<ref name=":9">{{cite web|title=Sao Tome and Principe (STP) Exports, Imports, and Trade Partners|url=https://oec.world/en/profile/country/stp|access-date=29 June 2020|website=oec.world|language=en|archive-date=3 July 2022|archive-url=https://web.archive.org/web/20220703173309/https://oec.world/en/profile/country/STP|url-status=live}}</ref><ref name=":10">{{Cite book|last=Sousa|first=António|title=A Economia das Colónias Portuguesas|publisher=Edições Gailivro|year=2019|volume=2|location=Lisbon|pages=45 46|language=pt}}</ref>
+
+The main destinations for exports from São Tomé and Príncipe are [[European Union|Europe]], where the [[Netherlands]] (19%), [[Portugal]] (14%), [[Poland]] (13%), [[France]] (7%) and [[Germany]] (6%) stand out. Others important buyers are [[Singapore]], [[Japan]], [[Brazil]] and the [[United States]].<ref name=":9" />
+[[File:The most important import partners of Sao Tome and Principe (2018).png|alt=The most important import partners of Sao Tome and Principe (2018)|left|thumb|The most important import partners of São Tomé and Príncipe (2018)]]
+In the last 10 years, the countries in which the value of exports increased the most were [[Portugal]], [[Poland]], [[Brazil]] and the [[Netherlands]]. There was a sharp decrease in exports from São Tomé and Príncipe to [[Angola]], [[Mexico]] and [[India]].<ref name=":9" />
+
+In 2018, imports to São Tomé and Príncipe totalled 161 million dollars. Since 2013, imports have been decreasing, albeit at a slow pace, since in 2013 imports totalled 167 million euros. A fifth of imports to São Tomé and Príncipe corresponded to [[Petroleum product|refined oil]] (mainly from Angola). Other important imports, in order of importance, were cars, rice, cereals, [[wine]], electronic equipment, chemicals, clothing, meat, medical equipment, and wood.<ref name=":9" />
+
+About 51% of the imports of São Tomé and Príncipe come from [[Portugal]]. A fifth of imports come from [[Angola]], about 6% come from [[China]], 4% from the [[United States]], 4% from [[Brazil]], 2% from [[Gabon]] and 2% from [[France]].<ref name=":9" />
+
+In the last 10 years, the value of imports increased most from the countries of [[Portugal]], [[Angola]] and [[China]]. There was a sharp decrease in imports from [[Thailand]], [[Italy]] and [[Nigeria]].<ref name=":9" />
+
+São Tomé and Príncipe imports mostly machines, mainly electric generators and computers, and food, mainly wine, wheat, rice, milk, and soy oil, from Portugal. In addition, São Tomé and Príncipe also imports considerable quantities of cars, soap, and iron from Portugal. Portugal mainly buys scrap material, copper, cocoa, and clothing.<ref>{{cite web|title=Portugal (PRT) and Sao Tome and Principe (STP) Trade|url=https://oec.world/en/profile/bilateral-country/prt/partner/stp|access-date=29 June 2020|website=oec.world|language=en}}</ref><ref name=":10" />
+
+==Demographics==
+{{Main|Demographics of São Tomé and Príncipe}}
+
+[[File:Dimanche en famille sur la plage des Tamarins (São Tomé) (4).jpg|thumb|Santomeans on the beach, Lobata District]]
+[[File:São Tomé and Príncipe.png|thumb|upright=1.65|São Tomé and Príncipe's population in thousands between 1961 and 2003]]
+[[File:Tchiloli à São Tomé (56).jpg|thumb|A scene of Santomean ''Tchiloli'', Auto de Floripes Festival]]
+
+The total population was estimated at 201,800 in May 2018 by the government agency.<ref name="auto"/> About 193,380 people live on São Tomé and 8,420 on Príncipe. The natural population increase is about 4,000 people per year.
+
+Nearly all citizens are descended from people from different countries taken to the islands by the Portuguese from 1470 onwards. In the 1970s, two significant population movements occurred — the exodus of most of the 4,000 Portuguese residents and the influx of several hundred São Tomé refugees from Angola.
+
+=== Ethnic groups ===
+Distinct ethnic groups on São Tomé and Príncipe include:
+
+* [[Luso-Africans]], or "mixed-blood", are descendants of Portuguese colonists and African slaves brought to the islands during the early years of settlement from [[Benin]], [[Gabon]], the [[Republic of the Congo]], the [[Democratic Republic of the Congo]], and [[Angola]] (these people also are known as ''filhos da terra'' or "children of the land").
+* ''[[Angolares]]'' are reputedly descendants of Angolan slaves who survived a 1540 shipwreck and now earn their livelihood fishing.
+* ''Forros'' are descendants of slaves freed when slavery was abolished.
+* ''Serviçais'' are contract laborers from Angola, [[Mozambique]], and [[Cape Verde]], living temporarily on the islands.
+* ''Tongas'' are children of ''serviçais'' born on the islands.
+* [[Europe]]ans, primarily Portuguese
+* Asians, mostly [[overseas Chinese|Chinese]], including [[Macanese people]] of mixed Portuguese and Chinese descent from [[Macau]]
+
+=== Languages ===
+{{bar box
+|title=Languages in São Tomé and Príncipe
+|titlebar=#ddd
+|left1=Languages
+|right1=percent
+|float=right
+|bars=
+{{bar percent|Portuguese|darkgreen|98.4}}
+{{bar percent|Forro Creole|purple|36.2}}
+{{bar percent|Cabo Verdean Creole|orange|8.5}}
+{{bar percent|Angolar Creole|red|6.6}}
+{{bar percent|French|darkblue|6.8}}
+{{bar percent|English|green|4.9}}
+{{bar percent|Other|maroon|2.4}}
+{{bar percent|Principense Creole|black|1}}
+}}
+{{Further|Languages of São Tomé and Príncipe}}[[Portuguese language|Portuguese]] is the official and the ''de facto'' national language of São Tomé and Príncipe, with about 98.4% speaking it, a significant share as their native language, and it has been spoken in the islands since the end of the 15th century. [[Portuguese creole]]s are also spoken: [[Forro Creole|Forro]], a [[creole language]] (36.2%), [[Cape Verdean Creole]] (8.5%), [[Angolar Creole]] (6.6%), and [[Principense Creole]] (1%). [[French language|French]] (6.8%) and [[English language|English]] (4.9%) are foreign languages taught in schools.
+
+=== Religion ===
+{{Main|Religion in São Tomé and Príncipe}}
+
+{{Pie chart
+| thumb = right
+| caption = Religion in São Tomé and Príncipe:<ref name="Pew Forum - Religion in São Tomé and Principe (2010)">[http://features.pewforum.org/global-christianity/map.php#/Sao%20Tome%20and%20Principe,ALL São Tomé and Principe] {{Webarchive|url=https://web.archive.org/web/20140719204928/http://features.pewforum.org/global-christianity/map.php#/Sao%20Tome%20and%20Principe,ALL |date=19 July 2014 }}. pewforum.org.</ref>
+| label1 = [[Catholic Church]]
+| value1 = 71.9
+| color1 = Orange
+| label2 = Other [[Christians|Christian]]
+| value2 = 10.2
+| color2 = Yellow
+| label3 = Other or Non-Religious
+| value3 = 17.9
+| color3 = LimeGreen
+}}
+
+The majority of residents belong to the local branch of the [[Catholic Church]], which in turn retains close ties with the church in Portugal. Sizeable [[Protestantism|Protestant]] minorities of [[Seventh-day Adventist Church|Seventh-day Adventists]] and other [[Evangelical Protestants]] exist, as well as a small but growing [[Islam|Muslim]] population.
+[[File:Pico Papagaio (20504263334).jpg|right|thumb|Nossa Senhora do Rosário Church, in [[Santo António]]]]
+[[File:Casa da Cultura à São Tomé (1).jpg|thumb|''Casa da Cultura'', São Tomé and Príncipe]]
+
+===Health===
+See [[Health in São Tomé and Príncipe]]
+
+===Education===
+Among sub-Saharan African countries, São Tomé and Príncipe has one of the highest literacy rates.<ref name="cia.gov">{{cite web |url=https://www.cia.gov/the-world-factbook/field/literacy/ |title=Literacy – The World Factbook |publisher=Cia.gov |date= |access-date=2 May 2022 |archive-date=1 April 2023 |archive-url=https://web.archive.org/web/20230401014237/https://www.cia.gov/the-world-factbook/field/literacy/ |url-status=dead }}</ref> According to ''[[The CIA World Factbook]]'' as of 2018, 92.8% of the population age 15 and over in São Tomé and Príncipe were respectively literate.<ref name="cia.gov"/> The Human Rights Measurement Initiative (HRMI)<ref>{{cite web |title=Human Rights Measurement Initiative – The first global initiative to track the human rights performance of countries |url=https://humanrightsmeasurement.org/ |access-date=27 March 2022 |website=humanrightsmeasurement.org |archive-date=8 March 2022 |archive-url=https://web.archive.org/web/20220308173546/https://humanrightsmeasurement.org/ |url-status=live }}</ref> finds that Sao Tome and Principe is fulfilling only 83.8% of its expected commitments to the right to education based on the country's level of income.<ref name="rightstracker.org">{{cite web |title=Sao Tome and Principe – HRMI Rights Tracker |url=https://rightstracker.org/ |access-date=27 March 2022 |website=rightstracker.org |language=en |archive-date=15 March 2022 |archive-url=https://web.archive.org/web/20220315171721/https://rightstracker.org/ |url-status=live }}</ref> HRMI breaks down the right to education by looking at the rights to both primary education and secondary education. While taking into consideration Sao Tome and Principe's income level, the nation is achieving 90.4% of what should be possible based on its resources (income) for primary education but only 77.2% for secondary education.<ref name="rightstracker.org"/>
+
+Education in São Tomé and Príncipe is compulsory for six years.<ref name="ilab">{{cite web|url=https://education-profiles.org/sub-saharan-africa/sao-tome-and-principe/~inclusion|title=São Tomé and Príncipe – Inclusion|publisher=United Nations Education, Scientific and Cultural Organization|date=11 August 2021|access-date=28 April 2022|archive-date=13 September 2022|archive-url=https://web.archive.org/web/20220913073914/https://education-profiles.org/sub-saharan-africa/sao-tome-and-principe/~inclusion|url-status=live}}</ref> Primary school enrollment and attendance rates were unavailable for São Tomé and Príncipe as of 2001.<ref name=ilab/>
+
+The educational system has a shortage of classrooms, insufficiently trained and underpaid teachers, inadequate textbooks and materials, high rates of repetition, poor educational planning and management, and a lack of community involvement in school management.<ref name=ilab/> Domestic financing of the school system is lacking, leaving the system highly dependent on foreign financing.<ref name=ilab/>
+
+Tertiary institutions are the [[National Lyceum]] and the [[University of São Tomé and Príncipe]].
+
+==Culture==
+São Toméan [[culture]] is a mixture of [[African culture|African]] and [[Portuguese culture|Portuguese]] influences.
+
+===Media===
+{{main|Media of São Tomé and Príncipe}}
+
+=== Music ===
+{{Further|Music of São Tomé and Príncipe}}
+
+São Toméans are known for ''ússua'' and ''socopé'' [[rhythm]]s, while Príncipe is home to the ''dêxa'' beat. Portuguese [[ballroom]] may have played an integral part in the development of these rhythms and their associated dances.{{citation needed|date=August 2023}}
+
+''[[Tchiloli]]'' is a musical dance performance that tells a dramatic story. The danço-Congo is similarly a combination of music, dance, and theatre.
+
+=== Literature ===
+{{Main|Literature of São Tomé and Príncipe}}
+
+{{Further|List of African writers by country#São Tomé and Príncipe|l1=List of writers from São Tomé and Príncipe}}São Tomé and Príncipe's Portuguese-language literature and poetry is considered some of the richest in [[Portuguese-speaking African countries|Lusophone Africa]]. Other literature from the country has been written in [[Forro Creole]], English and Caué Creole. [[Francisco José Tenreiro]] is considered one of the country's most influential writers.<ref>{{cite journal |last1=Burgert |first1=Anne |title="Negro de todo o mundo...": Francisco José Tenreiro's work as a precursor of "lusophone" concepts |journal=Nomadit.co.uk |date=19 July 2019 |url=https://nomadit.co.uk/conference/cham2019/paper/50260 |language=en}}</ref> Other notable literary figures include [[Manuela Margarido]], [[Alda Espírito Santo]], [[Olinda Beja]] and [[Conceição Lima]].
+
+=== Cuisine ===
+{{Further|Cuisine of São Tomé and Príncipe}}
+
+[[Staple foods]] include [[Fish (food)|fish]], [[seafood]], [[bean]]s, [[maize]], bread fruit, and cooked [[banana]].<ref name="Evans">{{cite book|title=The Recipes of Africa|url=https://books.google.com/books?id=FJxlWwrVcKcC&pg=PA174|publisher=Dyfed Lloyd Evans|pages=174–176|access-date=14 October 2015|archive-url=https://web.archive.org/web/20160125212240/https://books.google.com/books?id=FJxlWwrVcKcC&pg=PA174|archive-date=25 January 2016|url-status=live}}</ref><ref name="Becker">{{cite book|author=Kathleen Becker|title=Sao Tome and Principe|url=https://books.google.com/books?id=e59TqbPNAB0C&pg=PA74|date=23 July 2008|publisher=Bradt Travel Guides|isbn=978-1-84162-216-3|pages=74–79|access-date=14 October 2015|archive-url=https://web.archive.org/web/20160504023619/https://books.google.com/books?id=e59TqbPNAB0C&pg=PA74|archive-date=4 May 2016|url-status=live}}</ref> [[Tropical fruit]]s, such as [[pineapple]], [[avocado]], and bananas, are significant components of the cuisine. The use of hot spices is prominent in São Tomése cuisine.<ref name="Evans"/> Coffee is used in various dishes as a [[spice]] or [[seasoning]].<ref name="Evans"/> Breakfast dishes are often reheated leftovers from the previous evening's meal, and [[omelettes]] are popular.<ref name="Becker"/>
+
+=== Sports ===
+Football (soccer) is the most popular sport in São Tomé and Principe, the [[São Tomé and Príncipe national football team]] is the national [[association football]] team of São Tomé and Príncipe and is controlled by the [[São Toméan Football Federation]]. It is a member of the [[Confederation of African Football]] (CAF) and [[FIFA]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/17293721 |title=BBC Sport&nbsp;– Sao Tome e Principe rocket up Fifa rankings |publisher=Bbc.co.uk |date=7 March 2012 |access-date=3 December 2013 |archive-url=https://web.archive.org/web/20131017091930/http://www.bbc.co.uk/sport/0/football/17293721 |archive-date=17 October 2013 |url-status=live }}</ref>
+
+==See also==
+{{Portal|São Tomé and Príncipe|Countries|Africa|Islands|Geography
+}}
+* [[Outline of São Tomé and Príncipe]]
+* [[List of São Tomé and Príncipe–related topics]]
+{{clear}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+===Citations===
+{{Reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite book | last = Seibert | first = Gerhard | title = Comrades, Clients, and Cousins: Colonialism, Socialism, and Democratization in São Tomé and Príncipe | publisher = Brill | location = Leiden | year = 2006 | isbn = 9789004147362}}
+* {{cite book | last = Seibert | first = Gerhard | title = Commercial Agriculture, the Slave Trade and Slavery in Atlantic Africa | publisher = James Currey | location = Woodbridge, Suffolk | year = 2013 | isbn = 9781847011367 | chapter = São Tomé & Príncipe: The First Plantation Economy in the Tropics | editor1-last=Law | editor1-first=Robin | editor2-last=Strickrodt | editor2-first=Silke | editor3-last=Schwarz | editor3-first=Suzanne}}
+* {{Cite journal
+| volume =6
+| issue =3
+| pages =453–467
+| last =Vogt
+| first =John L.
+| title =The Early Sao Tome-Principe Slave Trade with Mina, 1500–1540
+| journal =The International Journal of African Historical Studies
+| date =1973
+| doi =10.2307/216611
+| jstor =216611}}
+{{refend}}
+
+==Further reading==
+* [[Patrick Chabal|Chabal, Patrick]] (ed.) 2002. ''A history of postcolonial Lusophone Africa.'' London: C. Hurst. {{ISBN|1-85065-589-8}} – Overview of the decolonization of Portugal's African colonies, and a chapter specifically about São Tomé and Príncipe's experience since the 1970s.
+* {{cite book |title=Zeme ba fotxi: fragmentos da tradição oral São-Tomense contos e provérbios |last=Coelho |first=Angelson |date=2010 |location=São Tomé |publisher=Centro Cultural Brasil/São Tomé e Príncipe}}
+* {{cite book |title=Tipologias do conto maravilhoso Africano |first=Carlos |last=Espírito Santo |publisher=Cooperacáo |date=2000 |lang=PT}} (on São Tomé folktales)
+* Eyzaguirre, Pablo B. "The independence of São Tomé e Príncipe and agrarian reform." ''Journal of Modern African Studies'' 27.4 (1989): 671–678.
+* Frynas, Jędrzej George, Geoffrey Wood, and Ricardo MS Soares de Oliveira. "Business and politics in São Tomé e Príncipe: from cocoa monoculture to petro‐state." ''African Affairs'' 102.406 (2003): 51–80. [https://www.persee.fr/doc/luso_1257-0273_2003_num_10_1_1542 online]
+* Hodges, Tony, and Malyn Dudley Dunn Newitt. ''São Tomé and Príncipe: from plantation colony to microstate'' (Westview Press, 1988).
+* Keese, Alexander. "Forced labour in the 'Gorgulho Years': Understanding reform and repression in Rural São Tomé e Príncipe, 1945–1953." ''Itinerario'' 38.1 (2014): 103–124.
+* Tomás, Gil, et al. "The peopling of Sao Tome (Gulf of Guinea): origins of slave settlers and admixture with the Portuguese." ''Human biology'' 74.3 (2002): 397–411.
+* Weszkalnys, Gisa. "Hope & oil: expectations in São Tomé e Príncipe." ''Review of African Political Economy'' 35.117 (2008): 473–482. [http://www.academia.edu/download/38851914/Weszkalnys_Hope_and_Oil_published.pdf online]{{dead link|date=January 2025|bot=medic}}{{cbignore|bot=medic}}
+
+==External links==
+{{sisterlinks|d=Q1039|c=Category:São Tomé e Príncipe|n=Category:São Tomé and Príncipe|q=no|b=no|v=no|voy=
+São Tomé and Príncipe|m=no|mw=no|s=no|wikt=São Tomé and Príncipe|species=no}}
+* [https://www.bbc.co.uk/news/world-africa-14093493 Country Profile] from [[BBC News]] (last updated July 2023)
+* [https://web.archive.org/web/20260116105542/https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe São Tomé and Príncipe] (archived copy from January 2026). ''[[The World Factbook]]''. [[Central Intelligence Agency]].
+* {{Wikiatlas|São Tomé and Príncipe}}
+* [http://www.saotome.st/ São Tomé e Príncipe]—Tourist information
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=ST Key Development Forecasts for São Tomé and Príncipe] from [[International Futures]]
+
+'''Government'''
+* [https://web.archive.org/web/20091224031040/http://www.gov.st/ Página Oficial do Governo de São Tomé e Príncipe] – Official Page of the Government of São Tomé and Príncipe {{in lang|pt}}
+* [https://web.archive.org/web/20051022122318/http://www.presidencia.st/ Presidência da República Democrática de São Tomé e Príncipe] – President of the Democratic Republic of São Tomé and Príncipe (official site) {{in lang|pt}}
+* [http://www.parlamento.st/ Assembleia Nacional de São Tomé e Príncipe] – National Assembly of São Tomé and Príncipe (official site) {{in lang|pt}}
+* [http://www.ine.st/ Instituto Nacional de Estatística] {{Webarchive|url=https://web.archive.org/web/20091113141805/http://www.ine.st/ |date=13 November 2009 }} – National statistics institute {{in lang|pt}}
+* [http://www.bcstp.st/ Central Bank of São Tomé and Príncipe]
+* [https://web.archive.org/web/20070612235116/https://www.cia.gov/library/publications/world-leaders-1/world-leaders-s/sao-tome-and-principe.html Chief of State and Cabinet Members]
+
+{{São Tomé and Príncipe topics}}
+{{Navboxes
+|title = Related articles 
+|list =
+{{Countries of Africa}}
+{{African Union}}
+{{Community of Portuguese Language Countries (CPLP)|state=collapsed}}
+{{La Francophonie|state=collapsed}}
+{{Portuguese overseas empire}}
+}}
+{{Authority control}}
+{{Coord|0|19|N|6|36|E|type:country|display=title}}
+
+{{DEFAULTSORT:Sao Tome And Principe}}
+[[Category:São Tomé and Príncipe| ]]
+[[Category:1975 establishments in São Tomé and Príncipe]]
+[[Category:Countries in Central Africa]]
+[[Category:Countries in Africa]]
+[[Category:Former colonies in Africa]]
+[[Category:Former Portuguese colonies]]
+[[Category:Gulf of Guinea]]
+[[Category:Island countries]]
+[[Category:Former least developed countries]]
+[[Category:Member states of the African Union]]
+[[Category:Member states of the Community of Portuguese Language Countries]]
+[[Category:Member states of the Organisation internationale de la Francophonie]]
+[[Category:Member states of the United Nations]]
+[[Category:Countries and territories where Portuguese is an official language]]
+[[Category:Portuguese colonisation in Africa]]
+[[Category:Republics]]
+[[Category:Small Island Developing States]]
+[[Category:States and territories established in 1975]]

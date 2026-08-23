@@ -1,14 +1,15 @@
 {{Short description|Country in Central Africa}}
-{{pp-sock|small=yes}}
-{{Pp-move}}
+{{pp-protected|small=yes}}
 {{Hatnote group|
 {{Redirect|DRC}}
 {{Distinguish|text=the [[Republic of the Congo]]}}
 }}
+{{Pp-move}}
+{{Unreliable sources|date=August 2026}}
 {{Use dmy dates|date=July 2026}}
 {{Infobox country
 | conventional_long_name = Democratic Republic {{nowrap|of the Congo}}
-| native_name            = {{native name|fr|République démocratique {{nowrap|du Congo}}}}
+| native_name            = {{lang|fr|République démocratique {{nowrap|du Congo}}}}
 | image_flag             = Flag of the Democratic Republic of the Congo.svg
 | flag_type              = [[Flag of the Democratic Republic of the Congo|Flag]]
 | image_coat             = Coat of arms of the Democratic Republic of the Congo (black spear).svg
@@ -45,7 +46,7 @@
 | legislature            = [[Parliament of the Democratic Republic of the Congo|Parliament]]
 | upper_house            = [[Senate (Democratic Republic of the Congo)|Senate]]
 | lower_house            = [[National Assembly (Democratic Republic of the Congo)|National Assembly]]
-| sovereignty_type       = [[History of the Democratic Republic of the Congo|Formation]]
+| sovereignty_type       = [[Independence]] from [[Belgium]]
 | established_event1     = [[International Association of the Congo|Colonised]] by [[Leopold II of Belgium]]
 | established_date1      = 17 November 1879
 | established_event2     = [[Congo Free State]]
@@ -68,9 +69,9 @@
 | area_rank              = 11th
 | area_sq_mi             = 905,355 <!--Do not remove per [[WP:MOSNUM]]-->
 | percent_water          = 3.32
-| population_estimate    = {{IncreaseNeutral}} 124,388,160<ref>{{Cite web|url=https://www.worldometers.info/world-population/democratic-republic-of-the-congo-population/|title=DR Congo Population (2025)|website=Worldometer|access-date=30 April 2024|archive-date=18 May 2024|archive-url=https://web.archive.org/web/20240518175204/https://www.worldometers.info/world-population/democratic-republic-of-congo-population/|url-status=live}}</ref>
-| population_estimate_year = 2025
-| population_estimate_rank = 15th
+| population_estimate    = {{IncreaseNeutral}} 116,452,000<ref>{{cite web|last=|first=|title=DR Congo |website=worldpopulationreview.com|publisher=World Population Review|date=January 1, 2026 |url=https://worldpopulationreview.com/countries/dr-congo |access-date=August 8, 2026 }}</ref>
+| population_estimate_year = 2026
+| population_estimate_rank = 12th
 | population_density_km2 = 48
 | population_density_sq_mi = 104 <!--Do not remove per [[WP:MOSNUM]]-->
 | population_density_rank = 168th
@@ -84,10 +85,10 @@
 | GDP_nominal_rank       = 83rd
 | GDP_nominal_per_capita = {{Increase}} $742<ref name="auto"/>
 | GDP_nominal_per_capita_rank = 182nd
-| Gini                   = 42.1
-| Gini_year              = 2012
-| Gini_change            = decrease <!--increase/decrease/steady-->
-| Gini_ref               = <ref name=gini>{{cite web |title=GINI index coefficient |url=https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison |publisher=CIA Factbook |access-date=16 July 2021 |archive-date=7 July 2021 |archive-url=https://web.archive.org/web/20210707032440/https://www.cia.gov/the-world-factbook/field/gini-index-coefficient-distribution-of-family-income/country-comparison |url-status=dead}}</ref>
+| Gini                   = 44.7
+| Gini_year              = 2020
+| Gini_change            = increase <!--increase/decrease/steady-->
+| Gini_ref               = <ref>{{cite web |title=Gini Index - Congo, Dem. Rep. |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=CD |website=[[World Bank Group]] |access-date=15 July 2026}}</ref>
 | Gini_rank              = 
 | HDI                    = 0.522 <!--number only-->
 | HDI_year               = 2023<!-- Please use the year to which the data refers, not the publication year-->
@@ -106,7 +107,7 @@
 | cctld                  = [[.cd]]
 | today                  = 
 }}
-The '''Democratic Republic of the Congo''' ('''DRC'''),{{efn|{{langx|fr|République démocratique du Congo, RDC}}, {{IPA|fr|ʁepyblik demɔkʁatik dy kɔ̃ɡo|pron}}}} also known as the '''DR Congo''', '''Congo-Kinshasa''', or simply the '''Congo''',{{efn|"Congo" ambiguously also refers to the neighbouring [[Republic of the Congo]].}} and formerly named '''Zaire''',{{efn|[[Zaire|Its official name from 1971 to 1997]].}} is a country in [[Central Africa]]. By land area, it is the [[List of African countries by area|second-largest country in Africa]]<ref>{{Cite web |date=25 March 2026 |title=Largest Countries in Africa 2026 |url=https://worldpopulationreview.com/country-rankings/largest-countries-in-africa |access-date=31 March 2026 |website=World Population Review}}</ref> and the [[List of countries and dependencies by area|eleventh-largest in the world]].<ref>{{Cite web |title=Largest countries in the world |url=https://www.statista.com/statistics/262955/largest-countries-in-the-world/?srsltid=AfmBOoqCXyxpTBCWnN501zzParHlNHvIqhgcRnANFCv2nl-WfZXEGk9M |access-date=31 March 2026 |website=Statista |language=en}}</ref> With a population of about 124 million people, the Democratic Republic of the Congo is the [[List of African countries by population|fourth-most populous country]] in Africa and the most populous [[List of countries and territories where French is an official language|Francophone country]] in the world. [[Belgian French|French]] is the official and most widely spoken language. There are [[Languages of the Democratic Republic of the Congo|over 200 indigenous languages]], of which [[Lingala]] is the most widely spoken. The capital, largest city, and economic center is [[Kinshasa]]. The DRC is bordered by the [[Republic of the Congo]], the [[Cabinda Province|Cabinda exclave of Angola]], and the [[South Atlantic Ocean]] to the west; the [[Central African Republic]] and [[South Sudan]] to the north; [[Uganda]], [[Rwanda]], [[Burundi]], and [[Tanzania]] (across [[Lake Tanganyika]]) to the east; and [[Zambia]] and [[Angola]] to the south. Centered on the [[Congo Basin]], most of the DRC's [[Geography of the Democratic Republic of the Congo|terrain]] is covered by [[Congolian rainforests|dense rainforests]] and is crossed by many rivers. The east and southeast are mountainous.
+The '''Democratic Republic of the Congo''' ('''DRC'''),{{efn|{{langx|fr|République démocratique du Congo, RDC}}, {{IPA|fr|ʁepyblik demɔkʁatik dy kɔ̃ɡo|pron}}}} also known as the '''DR Congo''', '''Congo-Kinshasa''', or simply the '''Congo''',{{efn|"Congo" ambiguously also refers to the neighbouring [[Republic of the Congo]].}} and formerly named '''Zaire''' (see [[Zaire]] for more information),{{efn|[[Zaire|Its official name from 1971 to 1997]].}} is a country in [[Central Africa]]. By land area, it is the [[List of African countries by area|second-largest country in Africa]]<ref>{{Cite web |date=25 March 2026 |title=Largest Countries in Africa 2026 |url=https://worldpopulationreview.com/country-rankings/largest-countries-in-africa |access-date=31 March 2026 |website=World Population Review}}</ref> and the [[List of countries and dependencies by area|eleventh-largest in the world]].<ref>{{Cite web |title=Largest countries in the world |url=https://www.statista.com/statistics/262955/largest-countries-in-the-world/?srsltid=AfmBOoqCXyxpTBCWnN501zzParHlNHvIqhgcRnANFCv2nl-WfZXEGk9M |access-date=31 March 2026 |website=Statista |language=en}}</ref> With a population of about 124 million people, the Democratic Republic of the Congo is the [[List of African countries by population|fourth-most populous country]] in Africa and the most populous [[List of countries and territories where French is an official language|Francophone country]] in the world. [[Belgian French|French]] is the official and most widely spoken language. There are [[Languages of the Democratic Republic of the Congo|over 200 indigenous languages]], of which [[Lingala]] is the most widely spoken. The capital, largest city, and economic center is [[Kinshasa]]. The DRC is bordered by the [[Republic of the Congo]], the [[Cabinda Province|Cabinda exclave of Angola]], and the [[South Atlantic Ocean]] to the west; the [[Central African Republic]] and [[South Sudan]] to the north; [[Uganda]], [[Rwanda]], [[Burundi]], and [[Tanzania]] (across [[Lake Tanganyika]]) to the east; and [[Zambia]] and [[Angola]] to the south. Centered on the [[Congo Basin]], most of the DRC's [[Geography of the Democratic Republic of the Congo|terrain]] is covered by [[Congolian rainforests|dense rainforests]] and is crossed by many rivers. The east and southeast are mountainous.
 
 The territory of the Congo was first inhabited by [[African Pygmies|Central African foragers]] around 90,000 years ago and was settled in the [[Bantu expansion]] about 2,000 to 3,000 years ago.<ref>{{Cite book |last=Van Reybrouck |first=David |title=Congo: the epic history of a people |publisher=HarperCollins |year=2015 |isbn=978-0-06-220012-9 |location=New York, NY |pages=Chapter 1 and 2}}</ref> In the west, the [[Kingdom of Kongo]] ruled around the mouth of the [[Congo River]] from the 14th to the 19th century. In the center and east, the empires of [[Mwene Muji]], [[Kingdom of Luba|Luba]], and [[Kingdom of Lunda|Lunda]] ruled between the 15th and 19th centuries. These kingdoms were broken up by Europeans during the [[colonization of the Congo Basin]]. King [[Leopold II of Belgium]] acquired rights to the Congo territory in 1885 and called it the [[Congo Free State]]. In 1908, Leopold [[Leopold II of Belgium#Relinquishment of the Congo|ceded]] the territory after international pressure in response to [[Atrocities in the Congo Free State|widespread atrocities]], and it became a [[Belgian Congo|Belgian colony]]. Congo achieved [[Republic of the Congo (Léopoldville)|independence]] from [[Belgium]] in 1960 and was immediately confronted by [[Congo Crisis|secessionist movements]], the assassination of Prime Minister [[Patrice Lumumba]], and the [[1965 Democratic Republic of the Congo coup d'état|seizure of power]] by [[Mobutu Sese Seko]] in 1965. Mobutu renamed the country [[Zaire]] in 1971 and imposed a [[personalist dictatorship]].{{sfn|CIA World Factbook I|loc="Introduction"}}
 
@@ -136,7 +137,7 @@ In 1992, the Sovereign National Conference voted to change the name of the count
 ===Early history===
 {{Main|Early Congolese history}}
 [[File:West_Central_Africa_1350CE.png|thumb|States of the western Congo Basin, c. 1350]]
-The area of the present-day Democratic Republic of the Congo was inhabited as early as 90,000 years ago, and later underwent major demographic and technological change with the expansion of [[Bantu peoples]] during the first millennium BC.<ref>{{cite book |last1=Thornton |first1=John K. |chapter=The Development of States in West Central Africa to 1540 |pages=16–55 |title=A History of West Central Africa to 1850 |date=2020 |doi=10.1017/9781316411568 |isbn=978-1-316-41156-8 }}</ref>{{Rp|page=|pages=17–18}} From this process emerged organised states and empires, including early federated states around Pool Malebo and later the [[Kingdom of Kongo]],<ref>{{cite journal |last1=Thornton |first1=John |title=Mwene Muji: A Medieval Empire in Central Africa? |journal=The Journal of African History |date=March 2024 |volume=65 |issue=1 |pages=30–46 |doi=10.1017/S0021853724000161 |doi-access=free |hdl=2144/49396 |hdl-access=free }}</ref> as well many others such as the [[Luba Empire|Luba]] and [[Lunda Empire]]s.{{citation needed|date=July 2026}}
+The area of the present-day Democratic Republic of the Congo was inhabited as early as 90,000 years ago, and later underwent major demographic and technological change with the expansion of [[Bantu peoples]] during the first millennium BC.<ref>{{cite book |last1=Thornton |first1=John K. |chapter=The Development of States in West Central Africa to 1540 |pages=16–55 |title=A History of West Central Africa to 1850 |date=2020 |doi=10.1017/9781316411568 |isbn=978-1-316-41156-8 }}</ref>{{rp|17–18}} From this process emerged organised states and empires, including early federated states around Pool Malebo and later the [[Kingdom of Kongo]],<ref>{{cite journal |last1=Thornton |first1=John |title=Mwene Muji: A Medieval Empire in Central Africa? |journal=The Journal of African History |date=March 2024 |volume=65 |issue=1 |pages=30–46 |doi=10.1017/S0021853724000161 |doi-access=free |hdl=2144/49396 |hdl-access=free }}</ref> as well many others such as the [[Luba Empire|Luba]] and [[Lunda Empire]]s.{{citation needed|date=July 2026}}
 
 ===Congo Free State (1877–1908)===
 {{Main|Congo Free State}}
@@ -164,7 +165,7 @@ On 14 September, Colonel [[Mobutu Sese Seko|Joseph Mobutu]], with the backing of
 
 Amidst widespread confusion and chaos, a temporary government was created led by educated technocrats, the [[College of Commissioners-General]]. Katangan secession ended in January 1963 with the [[United Nations Operation in the Congo|assistance of UN forces]]. Several short-lived governments took over in quick succession, led by [[Joseph Iléo|Joseph Ileo]], [[Cyrille Adoula]], and then Tshombe.{{citation needed|date=July 2026}}
 
-Meanwhile, in the east of the country, Soviet and Cuban-backed rebels called the [[Simba rebellion|Simbas]] rose up, taking a significant amount of territory and proclaiming a communist "People's Republic of the Congo" in Stanleyville. The Simbas were pushed out of Stanleyville in November 1964 during [[Operation Dragon Rouge]], a military operation conducted by Belgian and American forces to rescue hundreds of hostages. Congolese government forces fully defeated the Simba rebels by November 1965.<ref>{{cite book |last=Abbott |first=Peter |year=2014 |title=Modern African Wars (4): The Congo 1960–2002 |location=Oxford; New York City |publisher=Osprey Publishing |url=https://books.google.com/books?id=j6ajCwAAQBAJ |pages=14–18 |isbn=978-1-78200-076-1 |access-date=26 June 2022 |archive-date=11 January 2023 |archive-url=https://web.archive.org/web/20230111170046/https://books.google.com/books?id=j6ajCwAAQBAJ |url-status=live}}</ref>
+Meanwhile, in the east of the country, Soviet and Cuban-backed rebels called the [[Simba rebellion|Simbas]] rose up, taking a significant amount of territory and proclaiming a communist "People's Republic of the Congo" in Stanleyville. The Simbas were pushed out of Stanleyville in November 1964 during [[Operation Dragon Rouge]], a military operation conducted by Belgian and U.S. forces to rescue hundreds of hostages. Congolese government forces fully defeated the Simba rebels by November 1965.<ref>{{cite book |last=Abbott |first=Peter |year=2014 |title=Modern African Wars (4): The Congo 1960–2002 |location=Oxford; New York City |publisher=Osprey Publishing |url=https://books.google.com/books?id=j6ajCwAAQBAJ |pages=14–18 |isbn=978-1-78200-076-1 |access-date=26 June 2022 |archive-date=11 January 2023 |archive-url=https://web.archive.org/web/20230111170046/https://books.google.com/books?id=j6ajCwAAQBAJ |url-status=live}}</ref>
 
 Lumumba had previously appointed Mobutu chief of staff of the new [[Armed Forces of the Democratic Republic of the Congo|Congolese National Army]].<ref>{{cite book |last=Kanza |first=Thomas R. |title=The Rise and Fall of Patrice Lumumba: Conflict in the Congo |date=1994 |publisher=Schenkman Books, Inc. |isbn=978-0-87073-901-9 |edition=expanded |location=Rochester, Vermont |author-link=Thomas Kanza}}</ref> Taking advantage of the leadership crisis between Kasavubu and Tshombe, Mobutu garnered enough support within the army to launch a coup. A [[1964 Republic of the Congo (Léopoldville) constitutional referendum|constitutional referendum]] the year before [[Second Mobutu coup d'état|Mobutu's coup of 1965]] resulted in the country's official name being changed to the "Democratic Republic of the Congo".<ref name="cia.gov"/> In 1971 Mobutu would change the name of the country again, this time to "Republic of Zaire".<ref name="kisanganibobb"/><ref name="britannica">{{cite web |last=Payanzo |first=Ntsomo |title=Democratic Republic of the Congo (DRC) |url=https://www.britannica.com/place/Democratic-Republic-of-the-Congo |website=britannica.com |publisher=Encyclopædia Britannica |access-date=2 October 2015 |archive-url=https://web.archive.org/web/20151009021241/https://www.britannica.com/place/Democratic-Republic-of-the-Congo |archive-date=9 October 2015 |url-status=live}}</ref>
 
@@ -237,10 +238,7 @@ The M23 Movement had a [[M23 campaign (2022–present)|resurgence in 2022]] and 
 Despite the treaty, the [[United Nations Human Rights Office|United Nations Humans Rights Office (UNHRO)]] found that hostilities in the provinces where Goma and Bukavu are located, increased during the period from January to July 2025. UNHRO found that M23, along with the occupying [[Rwandan Defence Force|Rwandan Defense Force (RDF)]] soldiers allegedly massacred hundreds of civilians in four villages within [[Rutshuru]], a region within [[North Kivu]] province.<ref>{{Cite web |last1=Dean |first1=Sarah |last2=Madowo |first2=Larry |date=22 September 2025 |title=Two countries signed a peace deal in Washington. On the ground, little has changed |url=https://www.cnn.com/2025/09/22/africa/dr-congo-rwanda-peace-deal-trump-fighting-intl-cmd |access-date=22 September 2025 |publisher=CNN |language=en}}</ref> In July 2025, a Declaration of Principles was signed in [[Doha]] as a first agreement on shared objectives for a ceasefire, and to limit future violence in the conflict.<ref>{{Cite web |date=20 July 2025 |title=Doha agreement brings DR Congo government and M23 rebels a step closer to peace {{!}} UN News |url=https://news.un.org/en/story/2025/07/1165441 |access-date=22 September 2025 |website=news.un.org |language=en}}</ref> In October 2025, former president Joseph Kabila was sentenced to death in absentia for alleged collaboration with the rebel group M23.<ref>{{cite news |last1=Lawal |first1=Shola |title=Kabila sentenced to death: What it means for DRC and what's next |url=https://www.aljazeera.com/news/2025/10/2/kabila-sentenced-to-death-what-it-means-for-drc-and-whats-next |work=Al Jazeera |language=en}}</ref>
 
 ==Geography==
-{{Main|Geography of the Democratic Republic of the Congo|Geology of the Democratic Republic of the Congo}}
-
-{{More citations needed section|date=June 2017}}
-[[File:Cg-map.png|thumb|A map of the Democratic Republic of the Congo]]
+{{Main|Geography of the Democratic Republic of the Congo|Geology of the Democratic Republic of the Congo}}[[File:Cg-map.png|thumb|A map of the Democratic Republic of the Congo]]
 [[File:Koppen-Geiger Map COD present.svg|thumb|A [[Köppen climate classification]] map of the DRC]]
 [[File:Bukavu, PE Lumumba.jpeg|thumb|[[Bukavu]], the capital of South Kivu province]]
 
@@ -281,6 +279,7 @@ Conservationists have particularly worried about [[primate]]s. The Congo is inha
 
 Major environmental issues in DRC include [[deforestation]], [[poaching]], which threatens wildlife populations, water pollution and mining. From 2015 to 2019, the rate of [[deforestation in the Democratic Republic of the Congo]] doubled.<ref>{{Cite news |last=Kinver |first=Mark |date=12 September 2019 |url=https://www.bbc.com/news/science-environment-49679883 |title=World 'losing battle against deforestation' |publisher=BBC News |access-date=30 July 2023 |archive-date=18 June 2021 |archive-url=https://web.archive.org/web/20210618175810/https://www.bbc.com/news/science-environment-49679883 |url-status=live}}</ref> In 2021, deforestation of the [[Congolian rainforests]] increased by 5%.<ref>{{cite news |title=Analysis: The next Amazon? Congo Basin faces rising deforestation threat |url=https://www.reuters.com/business/cop/next-amazon-congo-basin-faces-rising-deforestation-threat-2022-11-11/ |publisher=Reuters |date=11 November 2022 |access-date=30 July 2023 |archive-date=22 April 2023 |archive-url=https://web.archive.org/web/20230422203453/https://www.reuters.com/business/cop/next-amazon-congo-basin-faces-rising-deforestation-threat-2022-11-11/ |url-status=live}}</ref> In 2023, the rate of deforestation in the DRC was the highest in Africa. The causes include [[slash-and-burn agriculture]] and illegal [[logging]].<ref name="BTI" />
 
+In January 2025, the DRC government established the [[Kivu-Kinshasa Green Corridor]] an initiative whose stated aim was to protect a large portion of the [[Congo Basin]] forest while supporting sustainable economic development.<ref name=":6">{{Cite web |last=Kimonyo |first=Anicet |date=2025-10-29 |title=The DRC's Kivu-Kinshasa Green Corridor, a New Green Economy for Peace and Sustainable Development |url=https://peacenews.com/the-drcs-kivu-kinshasa-green-corridor-a-new-green-economy-for-peace-and-sustainable-development/ |access-date=2026-04-13 |website=Peace News Network |language=en-US}}</ref><ref>{{Cite web |date=2025-11-10 |title=The DRC's Kivu-Kinshasa Green Corridor aims to create a new green economy for peace and sustainable development |url=https://globalvoices.org/2025/11/10/the-drcs-kivu-kinshasa-green-corridor-aims-to-create-a-new-green-economy-for-peace-and-sustainable-development/ |access-date=2026-04-13 |website=Global Voices |language=en}}</ref>
 ==Government and politics==
 {{Main|Politics of the Democratic Republic of the Congo|Elections in the Democratic Republic of the Congo}}
 
@@ -656,7 +655,31 @@ In 2020, the United Nations emergency food relief agency warned that amid the es
 The culture of the Democratic Republic of the Congo reflects the diversity of its numerous ethnic groups and their differing ways of life throughout the country—from the mouth of the River Congo on the coast, upriver through the rainforest and savanna in its centre, to the more densely populated mountains in the far east.<ref>De Boeck, Filip & Plissart, Marie-Françoise. (2004) ''Kinshasa: Tales of the Invisible City'' Ludion.  {{ISBN|90-5544-528-2}}. Photography and analysis of everyday life in Kinshasa, together with extensive quotations from contemporary Congolese. The last chapter is available as a PDF [https://web.archive.org/web/20060923084953/http://www.vai.be/download/Venetie224-einde.pdf here]</ref> Since the late 19th century, traditional ways of life have undergone changes brought about by colonialism, the struggle for independence, the stagnation of the Mobutu era, and most recently, the First and Second Congo Wars. Despite these pressures, the customs and cultures of the Congo have retained much of their individuality. The country's 81&nbsp;million inhabitants (2016) are mainly rural. The 30% who live in urban areas have been the most open to [[Western culture|Western]] influences.
 
 === Literature ===
-[[List of Democratic Republic of the Congo writers|Congolese authors]] use literature as a way to develop a sense of [[National identity|national consciousness]] amongst the people of the DRC.
+
+{{See also|List of Democratic Republic of the Congo writers}}
+
+French-language Congolese literature developed particularly from the end of [[World War II]], during the period of the [[Belgian Congo]]. Early figures included [[Antoine-Roger Bolamba]] and [[Paul Lomami-Tshibamba]].<ref>{{cite book
+ |last=Kadima-Nzuji
+ |first=Mukala
+ |title=La littérature zaïroise de langue française, 1945-1965
+ |publisher=Karthala
+ |year=1984
+ |pages=342
+ |isbn=978-2-86537-100-6
+ |language=fr
+}}</ref>
+
+After independence, Congolese literature diversified, with [[V. Y. Mudimbe]] becoming a prominent writer and scholar of the postcolonial period. Contemporary Congolese literature includes writers such as [[In Koli Jean Bofane]], [[Fiston Mwanza Mujila]], [[Sinzo Aanza]] and [[Blaise Ndala]].<ref>{{cite journal
+ |last=Desorbay
+ |first=Bernadette
+ |title=Vérité et justice dans les romans francophones RD congolais de l’extrême contemporain
+ |journal=Ponti/Ponts
+ |issue=23
+ |year=2023
+ |pages=67–82
+ |doi=10.7413/18279767060
+ |language=fr
+}}</ref>
 
 ===Music===
 {{Main|Music of the Democratic Republic of the Congo}}
@@ -686,7 +709,13 @@ Many sports are played in the DRC, including [[Football in the Democratic Republ
 
 As Zaire, they participated in the [[1974 FIFA World Cup]], where they would be drawn into a group containing Scotland, Yugoslavia, and Brazil. The team would concede fourteen goals and fail to score, finishing bottom of the group.<ref>{{Cite web |title=The dark story of Zaire's 9–0 defeat in the 1974 World Cup |url=https://www.history.co.uk/article/the-dark-story-of-zaires-9-nil-defeat-in-the-1974-world-cup |access-date=22 April 2025 |website=Sky HISTORY TV channel |language=en |archive-date=30 April 2025 |archive-url=https://web.archive.org/web/20250430004828/https://www.history.co.uk/article/the-dark-story-of-zaires-9-nil-defeat-in-the-1974-world-cup |url-status=live }}</ref>
 
-In the [[2026 FIFA World Cup]] the DRC drew with [[Portugal national football team|Portugal]] on the way to finishing third in their group and progressing to the knockout stage, where they put up a magnificent performance against [[England national football team|England]] in the round of 32 but lost 2-1.{{fact|date=July 2026}}
+In the [[2026 FIFA World Cup]] the DRC drew with [[Portugal national football team|Portugal]] on the way to finishing third in their group and progressing to the knockout stage, where they put up a magnificent performance against [[England national football team|England]] in the round of 32 but lost 2-1. <ref>{{cite web
+ |title=England, Harry Kane deliver dramatic World Cup win vs. Congo DR
+ |url=https://www.espn.com.au/football/story/_/id/49239386/england-harry-kane-delivers-dramatic-world-cup-win-vs-congo-dr
+ |website=ESPN
+ |date=1 July 2026
+ |access-date=15 July 2026
+}}</ref>
 
 Internationally, the country is especially famous for its professional basketball [[National Basketball Association|NBA]] and football players. [[Dikembe Mutombo]] is one of the best African basketball players to ever play the game. Mutombo is well known for humanitarian projects in his home country. [[Bismack Biyombo]], [[Christian Eyenga]], [[Jonathan Kuminga]], and [[Emmanuel Mudiay]] are others who gained significant international attention in basketball. Several Congolese players and players of Congolese descent—including [[Romelu Lukaku]], [[Yannick Bolasie]], [[Yoane Wissa]], and [[Dieumerci Mbokani]]—have gained prominence in world football. DR Congo has twice won the [[Africa Cup of Nations|African Cup of Nations]] football tournament.{{citation needed|date=July 2026}}
 
@@ -703,11 +732,6 @@ DR Congo's women's national volleyball team lastly qualified for the [[2021 Wome
 {{Notelist}}
 
 ==References==
-{{Duplicated citations|reason=DuplicateReferences script detected:
-* http://www.nybooks.com/articles/2009/08/13/rape-of-the-congo/ (refs: 62, 178)
-* https://dhsprogram.com/pubs/pdf/FR300/FR300.pdf (refs: 278, 280)
-|date=June 2026}}
-
 {{Reflist
 |refs=
 <ref name=DR-Congo>* {{cite web |url=https://www.hrw.org/news/2023/03/30/dr-congo-rampant-intercommunal-violence-west |website=[[Human Rights Watch]] |date=2023 |title=DR Congo: Rampant Intercommunal Violence in West |access-date=28 April 2023 |archive-date=29 April 2023 |archive-url=https://web.archive.org/web/20230429041547/https://www.hrw.org/news/2023/03/30/dr-congo-rampant-intercommunal-violence-west |url-status=live}}

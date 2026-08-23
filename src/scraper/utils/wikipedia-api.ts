@@ -165,7 +165,7 @@ export class WikipediaAPI {
         try {
           const data = await this.request(url);
           const query = (data as WikipediaQueryResponse).query;
-          if (!query || !query.pages) break;
+          if (!query || !query.pages) continue;
           const pages = query.pages;
           
           // Map redirects back to original requested title

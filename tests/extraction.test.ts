@@ -20,6 +20,20 @@ describe('ExtractionUtils', () => {
     it('should handle non-breaking spaces and unicode markers', () => {
       expect(ExtractionUtils.extractArea('1\u00A0234\u200E km\u00B2')).toBe('1234');
     });
+
+    it('should extract area from a {{convert}} template', () => {
+      expect(ExtractionUtils.extractArea('{{convert|163610|km2|sqmi|abbr=on}}')).toBe('163610');
+    });
+  });
+
+  describe('stripAllTemplates', () => {
+    it('should strip nested templates while preserving surrounding wikilinks', () => {
+      const raw = '[[.ad]]{{efn|Also [[.cat]]}}, shared with [[Pa\u00EFsos Catalans|Catalan-speaking territories]].';
+      const stripped = ExtractionUtils.stripAllTemplates(raw);
+      expect(stripped).not.toContain('{{');
+      expect(stripped).not.toContain('}}');
+      expect(stripped).toContain('[[.ad]]');
+    });
   });
 
   describe('extractPopulation', () => {
@@ -72,6 +86,18 @@ describe('Wikitext Parsing', () => {
     it('should extract piped link', () => {
       const result = parseWikilinks('[[Brazilian real|Real]]');
       expect(result).toEqual([{ articleId: 'Brazilian real', text: 'Real' }]);
+    });
+
+    it('should extract a calling code from its piped article link', () => {
+      const result = parseWikilinks('[[Telephone numbers in Andorra|+376]]');
+      expect(result[0].text).toBe('+376');
+    });
+
+    it('should strip an inline {{efn}} template when parsing a TLD field', () => {
+      const raw = '[[.ad]]{{efn|Also [[.cat]]}}, shared with [[Països Catalans|Catalan-speaking territories]].';
+      const texts = parseWikilinks(raw).map(r => r.text);
+      expect(texts.some(t => t.includes('{{'))).toBe(false);
+      expect(texts).toContain('.ad');
     });
   });
 

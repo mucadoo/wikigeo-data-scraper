@@ -53,7 +53,12 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
       const key = newItem.articleId ? `id:${newItem.articleId}` : `text:${newItem.name.en}`;
       const existingItem = mergedMap.get(key);
       if (existingItem) {
-        existingItem.name = { ...existingItem.name, ...newItem.name };
+        // Only overwrite locales the new pass actually supplied - a null/undefined locale here
+        // (e.g. a pass that only ever fills in one language) must not erase one already merged in.
+        const filteredNewName = Object.fromEntries(
+          Object.entries(newItem.name).filter(([, v]) => v !== null && v !== undefined)
+        );
+        existingItem.name = { ...existingItem.name, ...filteredNewName };
         if (newItem.isoCode !== undefined) existingItem.isoCode = newItem.isoCode;
       } else {
         mergedMap.set(key, {

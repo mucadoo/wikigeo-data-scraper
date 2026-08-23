@@ -50,7 +50,6 @@ jobs:
       - name: Generate Data CSV
         run: npm run generate-csv
 
-      # NEW: Run the multilingual snapshot tests!
       - name: Run Tests
         run: npm test
 
@@ -196,7 +195,7 @@ jobs:
           body: |
             ### 🌍 Multilingual Data Snapshot
             
-            Automated geographical data snapshot extracted from Wikipedia (EN, PT, FR, IT, ES).
+            Automated geographical data snapshot extracted from Wikipedia (EN, PT, FR, IT, ES, DE, JA, RU, ZH).
             
             #### 🔍 Data Changes
             ${{ steps.check_changes.outputs.last_tag != '' && format('[View comparison with previous version ({0})](https://github.com/{1}/compare/{0}...data-{2})', steps.check_changes.outputs.last_tag, github.repository, steps.date.outputs.tag_date) || '🆕 _Initial data release_' }}

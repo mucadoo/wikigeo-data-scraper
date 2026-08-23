@@ -1,0 +1,623 @@
+{{Short description|Microstate in Southern Europe}}
+{{distinguish|Saint Marinus}}
+{{Other uses}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=January 2025}}
+{{Infobox country
+| conventional_long_name = Republic of San Marino
+| common_name            = San Marino
+| native_name            = {{native name|it|Repubblica di San Marino}}
+''Ripóbblica d' San Marein'' ([[Romagnol]])
+| image_flag             = Flag of San Marino.svg
+| alt_flag               = Flag of San Marino
+| image_coat             = Coat of arms of San Marino.svg
+| symbol_width           = 80px
+| alt_coat               = Coat of arms of San Marino
+| symbol_type            = Coat of arms
+| national_motto         = ''Libertas'' ([[Latin]])<br />"Freedom"
+| national_anthem        = ''[[Terra di Libertà]]''<br />"Land of Liberty"<div style="padding-top:0.5em;">{{center|[[File:Inno Nazionale della Repubblica.ogg]]}}</div>
+| image_map              = San Marino Europe Location.svg
+| alt_map                = Location of San Marino in Europe
+| map_caption            = {{Map caption|location_color=green|region=Europe|region_color=dark grey}}
+| capital                = [[City of San Marino]]
+| coordinates            = {{Coord|43|56|N|12|26|E|display=inline,title|type:city_region:SM}}
+| largest_settlement     = [[Dogana]]<br />{{Coord|43|58|53|N|12|29|22|E|type:city_region:SM|display=inline}}
+| largest_settlement_type = settlement
+| official_languages     = [[Italian language|Italian]]<ref>{{cite web|title=San Marino è|url=https://www.gov.sm/articoli/San-Marino-%C3%A8/San-Marino-%C3%A8.html|website=GOV.SM|publisher=Repubblica di San Marino|access-date=28 August 2020|archive-date=7 May 2021|archive-url=https://web.archive.org/web/20210507231603/https://www.gov.sm/articoli/San-Marino-%C3%A8/San-Marino-%C3%A8.html|url-status=dead}}</ref>
+| languages2             = [[Romagnol]] ([[Sammarinese dialect|Sammarinese]])
+| languages2_type        = Other languages
+| demonym                = [[Sammarinese]]
+| government_type        = Parliamentary diarchic [[Directorial system|directorial republic]]
+| leader_title1          = [[Captains Regent]]
+| leader_name1           = {{ubl|[[Alice Mina]]|[[Vladimiro Selva]]}}
+| legislature            = [[Grand and General Council]]
+| sovereignty_type       = [[Independence]]
+| established_event1     = From the [[Roman Empire]]
+| established_date1      = 3 September 301 (traditional)
+| established_event2     = From the [[Papal States]]
+| established_date2      = 1291
+| established_event3     = [[Constitution of San Marino|Constitution]]
+| established_date3      = {{ublist|8 October 1600<br />(Statutes)|8 July 1974<br />(Declaration of Citizen Rights)}}
+| area_km2               = 61.19
+| area_footnote          = <ref name="cia"/>
+| area_rank              = 191st <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 
+| percent_water          = 0.0059%<ref>{{cite web |title=Lago di Faetano - Pesca sportiva a San Marino |date=15 March 2016 |url=https://www.romagnazone.it/territorio/san-marino/lago-di-faetano-pesca-sportiva.html}}</ref>
+| population_estimate    = 34,172<ref name=statistica.sm>{{cite web |url=https://www.statistica.sm/pub1/StatisticaSM/en/Dati-statistici/Popolazione/Struttura-Demografica.html |title=Demographic structure |access-date=7 February 2026 |website=Office of Informatics, Technology, Data and Statistics }}</ref>
+| population_census      = 
+| population_estimate_year = 2026
+| population_estimate_rank = 191st
+| population_census_year = 
+| population_density_km2 = 579
+| population_density_sq_mi = 
+| population_density_rank = 24th
+| GDP_PPP                = {{increase}} $2.978 billion<ref name="IMFWEO.SM">{{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2024/April/weo-report?c=111,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2027&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=Report for Selected Countries and Subjects: April 2024|publisher=[[International Monetary Fund]]|website=imf.org}}</ref>
+| GDP_PPP_year           = 2024
+| GDP_PPP_rank           = 176th
+| GDP_PPP_per_capita     = {{increase}} $86,989<ref name="IMFWEO.SM" />
+| GDP_PPP_per_capita_rank = 12th
+| GDP_nominal            = {{increase}} $2.034 billion<ref name="IMFWEO.SM" />
+| GDP_nominal_year       = 2024
+| GDP_nominal_rank       = 171st
+| GDP_nominal_per_capita = {{increase}} $59,405<ref name="IMFWEO.SM" />
+| GDP_nominal_per_capita_rank = 12th
+| Gini                   = <!--number only-->
+| Gini_year              = 
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini_ref               = 
+| Gini_rank              = 
+| HDI                    = 0.915 <!--number only-->
+| HDI_year               = 2023
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI_ref                = <ref name="UNHDR">{{cite web|url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24reporten.pdf|title=Human Development Report 2023/24|language=en|publisher=[[United Nations Development Programme]]|date=13 March 2024|access-date=13 March 2024}}</ref>
+| HDI_rank               = 29th
+| currency               = [[Euro]] ([[Euro sign|€]])
+| currency_code          = EUR
+| time_zone              = [[Central European Time|CET]]
+| utc_offset             = +01
+| utc_offset_DST         = +02
+| DST_note               = 
+| time_zone_DST          = [[Central European Summer Time|CEST]]
+| date_format            = 
+| calling_code           = [[+378]] (+39 0549 calling via Italy)
+| patron_saint           = [[Saint Marinus]]<br />[[Saint Agatha]]
+| cctld                  = [[.sm]]
+| footnotes              = Sources: {{lower|0.4em|{{big|<ref name="cia"/><ref name="unece">{{cite web|url=http://www.unece.org/stats/profiles2009/san_marino.pdf|title=San Marino|publisher=[[UNECE]] Statistics Programme|year=2009 |access-date=13 March 2010}}</ref><!--end big:-->}}}}
+}}'''San Marino''',{{efn|{{IPAc-en|audio=en-us-San Marino.ogg|ˌ|s|æ|n|_|m|ə|ˈ|r|iː|n|oʊ}} {{respell|SAN|_|mə|REE|noh}}, {{IPA|it|sam maˈriːno|lang}}; {{langx|rgn|San Maréin}} or {{lang|rgn|San Maroin}}; {{langx|la|Sanctus Marinus}}}} officially the '''Republic of San Marino (RSM)''',<ref>{{Cite web |title=UNTERM |url=https://unterm.un.org/unterm2/en/country |access-date=1 July 2026 |website=unterm.un.org}}</ref><ref>{{Cite web |title=Repubblica di San Marino - gov.sm |url=https://www.gov.sm/pub1/GovSM/Istituzioni-e-Forze/Conoscere-San-Marino.html}}</ref>'''{{efn|{{langx|it|Repubblica di San Marino|links=no}}}}''' is a [[landlocked country]] in [[Southern Europe]], completely surrounded by [[Italy]]. Located on the northeastern slopes of the [[Apennine Mountains]], it is the larger of two [[European microstates|microstates]] within the [[Italian Peninsula]], the other being [[Vatican City]].<ref>{{cite web |date=14 August 2017 |title=The Republic of San Marino: Italy's Mountaintop Microstate |url=https://rtwin30days.com/san-marino-italy/ |access-date=10 August 2020 |website=Round the World in 30 Days}}</ref> San Marino is the [[List of countries and dependencies by area|fifth-smallest country in the world]],<ref name=":0" /> with a land area of just over {{Convert|61|km2|sqmi}} and a population of 34,042 as of 2025<ref name=statistica.sm/> which in 2026 dropped to 33,559.<ref>{{Cite web |date=9 August 2026 |title=San Marino Population (LIVE) |url=https://www.worldometers.info/world-population/san-marino-population/}}</ref> Its capital, the [[City of San Marino]], sits atop [[Monte Titano]], while its largest settlement is [[Dogana]], in the municipality of [[Serravalle, San Marino|Serravalle]]. San Marino claims to have been founded in AD 301 and to be the oldest extant [[sovereign state]], and the oldest [[constitutional republic]].<ref>{{cite news |date=24 July 2014 |title=Europe's Micro-States: (04) San Marino |url=http://www.dw.de/europes-micro-states-04-san-marino/av-17804426 |access-date=28 July 2014 |publisher=[[Deutsche Welle]]}}</ref><ref name=":4">{{Cite journal |last=Miller |first=William |date=July 1901 |title=The Republic of San Marino |url=https://archive.org/details/jstor-1834173/page/n1/mode/2up |journal=The American Historical Review |volume=6 |issue=4 |pages=633–649 |doi=10.2307/1834173 |issn=0002-8762 |jstor=1834173 |url-access=}}</ref> It is named after [[Saint Marinus]], a [[Stonemasonry|stonemason]] from the [[Roman Empire|Roman]] island of [[Rab (island)|Rab]] (in present-day [[Croatia]]), who fled persecution under Emperor [[Diocletianic Persecution|Diocletian]]<ref name=":17">{{Cite web |title=Saint of the day – St. Marinus |url=https://catholicexchange.com/saint-of-the-day/st-marinus |website=[[Catholic Exchange]] |access-date=21 August 2026}}</ref> to have established a monastic community on Monte Titano,<ref name=":4" /> where he built a small chapel.<ref name=":17" /> The country has a [[Constitution of San Marino|rare constitutional structure]]: the [[Grand and General Council]], a democratically elected legislature, selects two heads of state, the [[Captains Regent]], every six months. They are chosen from opposing political parties, and serve concurrently with equal powers and preside over several institutions of state, including the Grand and General Council. Only the [[Federal Council (Switzerland)|Federal Council]] of Switzerland follows this same structure, except with some modifications due to its immensely larger size.   
+
+San Marino is a member of the [[Council of Europe]] and uses the [[euro]] as its official currency, but is not part of the [[European Union]]. The official language is [[Italian language|Italian]], although the traditional [[regiolect]] is [[Sammarinese dialect|Sammarinese]], a dialect of [[Romagnol]]. Its economy is based on finance, industry, services, retail, and tourism, and it ranks among the wealthiest countries in the world by [[List of countries by GDP (PPP) per capita|GDP (PPP) per capita]].<ref name="cia">[https://web.archive.org/web/20260115003122/https://www.cia.gov/the-world-factbook/countries/san-marino/ San Marino]. ''[[The World Factbook]]'' [[Central Intelligence Agency]]</ref> It hosts the [[Parliamentary Assembly of the Mediterranean]]. San Marino was also the first currently-existing state to abolish the [[death penalty]] (in 1865)<ref>[[Michele Chiaruzzi|Chiaruzzi, Michele]] (2023). San Marino. Thomas W. Wilson (ed.), ''Europe. An Encyclopedia of Culture and Society'', vol. 2, London-New York, Bloomsbury Academic, p. 796.</ref>, although it had not actually been used since the 1400s.  In 2025 San Marino was ranked [[List of countries by Human Development Index|29th]] on the [[Human Development Index]].<ref>{{cite web |title=Human Development Report 2025 |url=https://hdr.undp.org/system/files/documents/global-report-document/hdr2025reporten.pdf |publisher=[[United Nations Development Programme]] |access-date=21 October 2025}}</ref>
+
+== History ==
+{{Main|History of San Marino}}
+
+[[File:Marino als steinhauer.png|thumb|left|Illustration of Saint Marinus, the founder of the Republic of San Marino and prominent cultural figure]]
+According to accounts that were first recorded centuries after he is suggested to have lived,<ref>Edwards, Adrian, and Chris Michaelides. San Marino. Vol. 188. Abc-Clio Incorporated, 1996, 19.</ref><ref name=":4" /> [[Saint Marinus]] left the [[island of Rab]] in present-day [[Croatia]] with his lifelong friend Leo, and went to the city of [[Rimini]] as a stonemason. After the [[Diocletianic Persecution]] following his Christian sermons, he escaped to the nearby mountain [[Monte Titano]], where he built a small church and thereby founded what is now the city and state of San Marino. According to William Miller, these accounts of the origin of San Marino "are a mixture of fables and miracles, but perhaps contain some grains of fact". The earliest historical evidence for a monastic community in San Marino dates to the 5th or 6th century AD, when a monk named Eugippus recorded that another monk had lived in a monastery in the area.<ref name=":4" />
+
+In 1291, San Marino appealed to the [[Diocese of Arezzo-Cortona-Sansepolcro|Bishop of Arezzo]], Ildebrandino Guidi di Romena, against the contribution demands by the Vicario del [[Montefeltro]]. Jurist Palamede di Rimini decided in favour of San Marino and recognised its tax exemption from tributes demands of Montefeltro. In 1296, when Guglielmo Durante was the governor of Romagna, Sammarinesi appealed to [[Pope Boniface VIII]] against the further requests by the Montefeltro [[Podestà|podestas]] regarding tributes. Abbot Ranieri di Sant'Anastasio was assigned to judge the dispute. A long process was held using various witnesses and sources to determine San Marino tax exemption status. The verdict was probably in favour of the autonomy of San Marino, as later the State did not pay taxes to the Montefeltro.<ref>{{Cite journal|last=Rossini|first=Giuseppe|date=1958|title=Un documento inedito della Repubblica di S. Marino nella Biblioteca Comunale di Faenza|url=http://www.giornalistoricicesena.it/ilsavio/StudiRomagnoli1949_1999/1958/Studi_Romagnoli_1958_04.pdf|journal=Studi romagnoli|language=it|volume=9|pages=19–34|archive-date=16 February 2024|access-date=31 August 2023|archive-url=https://web.archive.org/web/20240216122743/https://www.giornalistoricicesena.it/ilsavio/StudiRomagnoli1949_1999/1958/Studi_Romagnoli_1958_04.pdf|url-status=dead}}</ref>
+
+[[File:San Marino constitution 1600.jpg|thumb|upright=0.8|The Statutes of 1600 are a core part of the Sammarinese constitution]]
+In 1320, the community of [[Chiesanuova]] chose to join the country.<ref>{{cite web|url=https://www.sanmarinosite.com/en/castles/chiesanuova|title=SanMarinoSite. Chiesanuova.|date=10 October 2014}}</ref> In 1463, San Marino was enlarged by the inclusion of the communities of [[Faetano]], [[Fiorentino]], [[Montegiardino]], and [[Serravalle, San Marino|Serravalle]]; since then, the country's borders have remained unchanged.<ref>[https://www.everyculture.com/No-Sa/San-Marino.html/ San Marino]. Countries and their Cultures.</ref> In 1503, [[Cesare Borgia]], the son of [[Pope Alexander VI]], occupied the Republic for six months until his father's successor, [[Pope Julius II]], intervened and restored the country's independence.<ref>Paul Joseph ''The Sage Encyclopedia of War: Social Science Perspectives: Volume IV'', 2017, p. 1511.</ref> On 4 June 1543, Fabiano di Monte San Savino, nephew of the later [[Pope Julius III]], attempted to conquer the republic, but his infantry and cavalry failed as they got lost in a dense fog, which the Sammarinesi attributed to [[Quirinus of Sescia|Saint Quirinus]], whose feast day it was.<ref>Nevio and Annio Maria Matteimi ''The Republic of San Marino: Historical and Artistic Guide to the City and the Castles'', 2011, p. 20.</ref>
+
+After the [[Duchy of Urbino]] was annexed by the [[Papal States]] in 1625, San Marino became surrounded by the papal states. This led to it seeking the formal protection of the Papal States in 1631, but this never amounted to a ''[[de facto]]'' Papal control of the republic.<ref>Nevio and Annio Maria Matteimi ''The Republic of San Marino: Historical and Artistic Guide to the City and the Castles'', 2011, p. 21.</ref> The country was occupied on 17 October 1739 by the legate (Papal governor) of [[Ravenna]], Cardinal [[Giulio Alberoni]], but independence was restored by [[Pope Clement XII]] on 5 February 1740, the feast day of [[Agatha of Sicily|Saint Agatha]], after which she became a patron saint of the republic.<ref name="Annio Maria Matteimi 2011, p. 23">Nevio and Annio Maria Matteimi ''The Republic of San Marino: Historical and Artistic Guide to the City and the Castles'', 2011, p. 23.</ref>
+
+[[File:Giuseppe e Anita Garibaldi trovano rifugio a San Marino.JPG|thumb|left|Anita and Giuseppe Garibaldi in San Marino, 1849]]
+The advance of [[Napoleon]]'s army in 1797 presented a brief threat to the independence of San Marino, but the country was saved from losing its liberty by one of its regents, [[Antonio Onofri]], who managed to gain the respect and friendship of Napoleon. Due to Onofri's intervention, Napoleon promised in a letter to [[Gaspard Monge]], a scientist and the commissary of the French Government for Science and Art, to guarantee and protect the independence of the Republic, even offering to extend its territory according to its needs. The offer was declined by the regents, fearing future retaliation from other states' [[revanchism]].<ref>{{cite web|url=http://www.sanmarinosite.com/eng/napoleone.html|title=From 1500 to beginning 1800, Napoleon in San Marino|publisher=Sanmarinosite.com|access-date=24 October 2009|url-status=dead|archive-url=https://web.archive.org/web/20090518123316/http://www.sanmarinosite.com/eng/napoleone.html|archive-date=18 May 2009}}</ref><ref>''Histoire abrégée des traités de paix entre les puissances de l'Europe depuis la Paix de Westphalie'', Christophe-Guillaume Koch, ed., Paris, 1817, vol. V, p. 19.</ref>
+
+During the later phase of the [[Italian unification]] process in the 19th century, San Marino served as a refuge for many people persecuted because of their support for unification, including [[Giuseppe Garibaldi]] and his wife [[Anita Garibaldi|Anita]]. Garibaldi allowed San Marino to remain independent. San Marino and the [[Kingdom of Italy]] signed a Convention of Friendship in 1862.<ref>{{cite web|url=https://opil.ouplaw.com/view/10.1093/law:oht/law-oht-125-CTS-417.regGroup.1/law-oht-125-CTS-417?rskey=s2TBhg&result=8&prd=OPIL|title=Convention of Good Neighbourship between Italy and San Marino, signed at Turin, 22 March 1862|publisher=Oxford Public International Law|access-date=12 September 2022}}</ref> The government of San Marino made [[President of the United States|United States President]] [[Abraham Lincoln]] an honorary citizen. He wrote in reply, saying that the republic proved that "government founded on republican principles is capable of being so administered as to be secure and enduring".<ref name="SanMarinoAbrahamLincoln1">{{cite web|url=https://history.state.gov/countries/san-marino|title=San Marino|access-date=29 May 2011|work=United States Diplomatic History|publisher=U.S. Department of State}}</ref><ref>[[Irving Wallace]], ''The Book of Lists 3''</ref>
+
+In March 1877, a new postal agreement allowed San Marino to issue the first stamps in representation of its own sovereignty, becoming a significant revenue source, showcasing national symbols like the Three Towers.
+
+===20th century onwards===
+During [[World War I]], when Italy declared war on [[Austria-Hungary]] on 24 May 1915, San Marino remained neutral and Italy adopted a hostile view of Sammarinese neutrality, suspecting that San Marino could harbour Austrian spies who could be given access to its new radiotelegraph station. Italy tried to forcibly establish a detachment of [[Carabinieri]] in the republic and then cut the republic's telephone lines when it did not acquiesce. Two groups of ten volunteers joined the Italian forces in the fighting on the [[Italian front (World War I)|Italian front]], the first as combatants and the second as a medical corps operating a Red Cross field hospital. The existence of this hospital later caused Austria-Hungary to suspend diplomatic relations with San Marino.<ref>{{cite web|url=http://www.educazione.sm/scuola/servizi/CD_virtuali/lavori_scuole/sanmarino/prima_guerra_mondiale.htm|title=San Marino e la Prima Guerra Mondiale|publisher=Educazione.sm|access-date=24 October 2009}}</ref>
+
+After the war, San Marino suffered from high rates of unemployment and inflation, leading to increased tension between the lower and middle classes. The latter, fearing that the moderate government of San Marino would make concessions to the lower class majority, began to show support for the [[Sammarinese Fascist Party]] ({{Lang|it|Partito Fascista Sammarinese}}, PFS), founded in 1922, and styled largely on their [[National Fascist Party|Italian counterpart]]. PFS rule lasted from 1923 to 1943, and during this time they often sought support from [[Benito Mussolini]]'s fascist government in Italy.<ref>{{cite web|last1=Valentina|title=World Wars and Fascism in San Marino|url=https://www.sanmarinosite.com/en/history/world-wars-fascism/|website=Sanmarinosite.com|date=13 October 2014|publisher=San Marino Site Turismo|access-date=28 February 2019}}</ref> During [[World War II]], San Marino remained neutral, although it was wrongly reported in an article in ''[[The New York Times]]'' that it had declared war on the [[United Kingdom]] on 17 September 1940.<ref>{{cite web|url=http://209.157.64.200/focus/chat/2591636/posts|title=Gales Scatter Nazi Channel Fleets; Italians Thrust Deeper into Egypt (9/18/40)|publisher=209.157.64.200|date=18 September 2010|access-date=16 September 2013|archive-date=24 February 2013|archive-url=https://web.archive.org/web/20130224030945/http://209.157.64.200/focus/chat/2591636/posts|url-status=dead}}</ref> The Sammarinese government later transmitted a message to the British government stating that they had not actually declared war.<ref name="FRUS1944">{{cite web|title=Foreign Relations of the United States: Diplomatic Papers, 1944, Europe, Volume IV|url=https://history.state.gov/historicaldocuments/frus1944v04|website=Office of the Historian|publisher=(U.S.) Department of State|access-date=29 May 2022|date=4 July 1944}}</ref>{{rp|291–292}}
+
+[[File:Guerra1.JPG|thumb|left|upright|British troops at Monte Titano during the Battle of San Marino, September 1944]]
+
+On 28 July 1943, three days after the [[fall of the Fascist regime in Italy]], PFS rule collapsed and the new government declared neutrality in the conflict. The PFS regained power on 1 April 1944, but kept neutrality intact. On 26 June 1944, the [[bombing of San Marino]] happened. The country was bombed by four waves of [[Allies of World War II|Allied]] bombers under the incorrect belief that San Marino had been occupied by German forces and was being used to amass stores and ammunition. The Sammarinese government declared on the same day that no military installations or equipment were located on its territory, and that no belligerent forces had been allowed to enter.<ref name="FRUS1944"/>{{rp|290–291}} Nevertheless, smaller bombing raids continued until the 29th of August of that year, causing extensive damage to the city centre as well as the railway line connecting the country to nearby Rimini. San Marino accepted thousands of civilian refugees when Allied forces overran the [[Gothic Line]]. During [[World War II]], San Marino temporarily became one of the most densely populated areas in Europe, as it provided refuge to approximately 100,000 people, primarily Italians fleeing nearby conflict, despite having a resident population of only around 15,000 at the time.<ref>{{cite web|url=http://www.sanmarinosite.com/storia/guerremo.html|title=Guerre Mondiali e Fascismo nella storia di San Marino|publisher=Sanmarinosite.com|access-date=24 October 2009|url-status=dead|archive-url=https://web.archive.org/web/20140410122359/http://www.sanmarinosite.com/storia/guerremo.html|archive-date=10 April 2014}}</ref> In September 1944, it was briefly occupied by German forces, who were defeated by the Allies in the [[Battle of San Marino]]. Allied troops occupied San Marino for two months before departing.<ref>{{Cite web|date=7 July 1961|title=San Marino (War Damage Claim)|url=https://hansard.parliament.uk/commons/1961-07-07/debates/d28b1681-a826-4458-9366-c223421b81b0/SanMarino(WarDamageClaim)|website=UK Parliament|quote="In February, 1952, the Government of San Marino agreed to limit their claim only to compensation for damage caused by the bombing on 26th June, 1944, as they considered—and still consider—that the damage which occurred after the bombardment on 26th June, 1944, was the responsibility of the German Armed Forces."}}</ref>
+
+San Marino had one of the world's earliest democratically elected communist-influenced governments, which was a coalition between the [[Sammarinese Communist Party]] and the [[Sammarinese Socialist Party]] that was in power between 1945 and 1957.{{efn|The first fully communist government with executive power to be democratically elected is generally recognised as the 1957 Communist Party government in Kerala, India.<ref name="Desai2006">{{cite book|last1=Desai|first1=Manali|title=State Formation and Radical Democracy in India|url=https://books.google.com/books?id=60m9znJQmmkC&pg=PA142|access-date=31 August 2013|date=2006|publisher=Taylor & Francis|isbn=978-0-203-96774-4|page=142}}</ref>}}<ref name="Mayne1999">{{cite book|last1=Mayne|first1=Alan James|title=From Politics Past to Politics Future: An Integrated Analysis of Current and Emergent Paradigms|url=https://books.google.com/books?id=6MkTz6Rq7wUC&pg=PA59|access-date=31 August 2013|year=1999|publisher=Greenwood Publishing Group|isbn=978-0-275-96151-0|page=59}}</ref> The coalition lost power following the [[Rovereta affair]]. San Marino became a member of the [[Council of Europe]] in 1988 and of the [[United Nations]] in 1992. It is not a member of the [[European Union]], although it uses the [[euro]] as its currency (despite not legally being part of the [[Eurozone]]). Before the introduction of the euro, the country's currency was the [[Sammarinese lira]].
+
+== Geography ==
+{{Main|Geography of San Marino}}
+
+[[File:View of Mount Titano - San Marino.jpg|thumb|upright=1.15|The fortress of [[Guaita]] on Monte Titano, a UNESCO recognized World Heritage Site.<ref name="UNESCO1245">{{Cite web |last=Centre |first=UNESCO World Heritage |title=San Marino Historic Centre and Mount Titano |url=https://whc.unesco.org/en/list/1245/ |access-date=11 November 2024 |website=UNESCO World Heritage Centre |language=en}}</ref>]]
+[[File:Sveti Marin 10. prosinca 2025.jpg|thumb|View from City of San Marino]]
+San Marino is an [[Enclave and exclave|enclave]] surrounded by [[Italy]] in [[Southern Europe]], almost entirely bordered by the [[province of Rimini]] in the [[Emilia Romagna]] [[Regions of Italy|region]]. Only a stretch of about three kilometres in the south is bordered by the [[province of Pesaro and Urbino]] in the [[Marche]] region. Located approximately {{convert|10|km|mi|0|spell=on|abbr=off}} from the [[Adriatic coast]] near Rimini, San Marino features hilly terrain with little naturally flat ground, as part of the [[Apennine Mountains|Apennine]] mountain range. The highest point in the country, the summit of [[Monte Titano]], reaches {{convert|749|m|ft|abbr=on}} [[Above mean sea level|above sea level]], while the lowest point, the [[Ausa (river)|Ausa]] River (which flows into the [[Marecchia]]),<ref>{{cite web |title=Parco Ausa |url=https://www.ecomuseorimini.it/parco-ausa/ |access-date=14 March 2022 |publisher=Ecomuseo Rimini |quote=Nel corso della metà del secolo scorso "l'Ausa, che si stava trasformando sempre di più in una fogna", è stato deviato e fatto confluire nelle acque del Marecchia per mezzo di sponde cementificate che, dai pressi del casello autostradale di Rimini Sud, costeggiano la collina di Covignano. A partire dagli anni sessanta il vecchio corso che sfociava in mare all'altezza di Piazzale Kennedy, venne tombificato. |trans-quote=During the middle of the last century, "the Ausa, which was increasingly turning into a sewer", was diverted and made to flow into the waters of the Marecchia by means of cemented banks which, near the Rimini Sud motorway exit, skirt the Covignano hill. Starting from the sixties, the old course that flowed into the sea at Piazzale Kennedy was buried.}}</ref> is at {{convert|55|m|ft|abbr=on}}. San Marino has no significant still or contained [[Body of water|bodies of water]]. It is one of only three countries in the world to be completely surrounded by one other country. It is the third-smallest country in Europe (after Vatican City and [[Monaco]]), and the fifth-smallest country in the world.<ref name=":0">{{cite web|title=San Marino|url=https://www.lonelyplanet.com/italy/emilia-romagna-and-san-marino/san-marino|website=Lonely Planet|access-date=18 November 2016}}</ref> The terrestrial ecoregion of [[Italian sclerophyllous and semi-deciduous forests]] lies within San Marino's territory.<ref name="DinersteinOlson2017">{{cite journal|last1=Dinerstein|first1=Eric|last2=Olson|first2=David|last3=Joshi|first3=Anup|last4=Vynne|first4=Carly|last5=Burgess|first5=Neil D.|last6=Wikramanayake|first6=Eric|last7=Hahn|first7=Nathan|last8=Palminteri|first8=Suzanne|last9=Hedao|first9=Prashant|last10=Noss|first10=Reed|last11=Hansen|first11=Matt|last12=Locke|first12=Harvey|last13=Ellis|first13=Erle C.|last14=Jones|first14=Benjamin|last15=Barber|first15=Charles Victor|last16=Hayes|first16=Randy|last17=Kormos|first17=Cyril|last18=Martin|first18=Vance|last19=Crist|first19=Eileen|last20=Sechrest|first20=Wes|last21=Price|first21=Lori|last22=Baillie|first22=Jonathan E. M.|last23=Weeden|first23=Don|last24=Suckling|first24=Kierán|last25=Davis|first25=Crystal|last26=Sizer|first26=Nigel|last27=Moore|first27=Rebecca|last28=Thau|first28=David|last29=Birch|first29=Tanya|last30=Potapov|first30=Peter|last31=Turubanova|first31=Svetlana|last32=Tyukavina|first32=Alexandra|last33=de Souza|first33=Nadia|last34=Pintea|first34=Lilian|last35=Brito|first35=José C.|last36=Llewellyn|first36=Othman A.|last37=Miller|first37=Anthony G.|last38=Patzelt|first38=Annette|last39=Ghazanfar|first39=Shahina A.|last40=Timberlake|first40=Jonathan|last41=Klöser|first41=Heinz|last42=Shennan-Farpón|first42=Yara|last43=Kindt|first43=Roeland|last44=Lillesø|first44=Jens-Peter Barnekow|last45=van Breugel|first45=Paulo|last46=Graudal|first46=Lars|last47=Voge|first47=Maianna|last48=Al-Shammari|first48=Khalaf F.|last49=Saleem|first49=Muhammad|display-authors=1|title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm|journal=BioScience|volume=67|issue=6|year=2017|pages=534–545|issn=0006-3568|doi=10.1093/biosci/bix014|pmid=28608869|pmc=5451287|doi-access=free}}</ref> The country had a 2019 [[Forest Landscape Integrity Index]] mean score of 0.01/10, ranking it last globally out of 172 countries.<ref name="FLII-Supplementary">{{cite journal|last1=Grantham|first1=H. S.|last2=Duncan|first2=A.|last3=Evans|first3=T. D.|last4=Jones|first4=K. R.|last5=Beyer|first5=H. L.|last6=Schuster|first6=R.|last7=Walston|first7=J.|last8=Ray|first8=J. C.|last9=Robinson|first9=J. G.|last10=Callow|first10=M.|last11=Clements|first11=T.|last12=Costa|first12=H. M.|last13=DeGemmis|first13=A.|last14=Elsen|first14=P. R.|last15=Ervin|first15=J.|last16=Franco|first16=P.|last17=Goldman|first17=E.|last18=Goetz|first18=S.|last19=Hansen|first19=A.|last20=Hofsvang|first20=E.|last21=Jantz|first21=P.|last22=Jupiter|first22=S.|last23=Kang|first23=A.|last24=Langhammer|first24=P.|last25=Laurance|first25=W. F.|last26=Lieberman|first26=S.|last27=Linkie|first27=M.|last28=Malhi|first28=Y.|last29=Maxwell|first29=S.|last30=Mendez|first30=M.|last31=Mittermeier|first31=R.|last32=Murray|first32=N. J.|last33=Possingham|first33=H.|last34=Radachowsky|first34=J.|last35=Saatchi|first35=S.|last36=Samper|first36=C.|last37=Silverman|first37=J.|last38=Shapiro|first38=A.|last39=Strassburg|first39=B.|last40=Stevens|first40=T.|last41=Stokes|first41=E.|last42=Taylor|first42=R.|last43=Tear|first43=T.|last44=Tizard|first44=R.|last45=Venter|first45=O.|last46=Visconti|first46=P.|last47=Wang|first47=S.|last48=Watson|first48=J. E. M.|display-authors=1|title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity – Supplementary Material|journal=Nature Communications|volume=11|issue=1|year=2020|page=5978|issn=2041-1723|doi=10.1038/s41467-020-19493-3|pmid=33293507|pmc=7723057|bibcode=2020NatCo..11.5978G|doi-access=free}}</ref>[[File:SanMarino2021OSM.png|thumb|Enlargeable, detailed map of San Marino]]
+
+=== Climate ===
+San Marino has a [[humid subtropical climate]] ([[Köppen climate classification]]: ''Cfa''), with some continental influences. It has warm to hot summers and cool winters, typical of inland areas of the central [[Italian Peninsula]]. Precipitation is scattered throughout the year with no real dry month. Snowfalls are common and heavy almost every winter, especially above {{convert|400|-|500|m|ft|abbr=in}} of elevation.
+
+{{Weather box
+|location = San Marino (2006–2023)
+|metric first = Yes
+|single line = Yes
+|collapsed = y
+|Jan high C = 6.4
+|Feb high C = 7.0
+|Mar high C = 10.2
+|Apr high C = 15.0
+|May high C = 19.6
+|Jun high C = 25.0
+|Jul high C = 27.4
+|Aug high C = 26.1
+|Sep high C = 20.6
+|Oct high C = 15.6
+|Nov high C = 10.8
+|Dec high C = 7.4
+|year high C =
+|Jan mean C = 4.2
+|Feb mean C = 4.7
+|Mar mean C = 7.3
+|Apr mean C = 11.6
+|May mean C = 15.7
+|Jun mean C = 20.8
+|Jul mean C = 23.5
+|Aug mean C = 22.5
+|Sep mean C = 17.5
+|Oct mean C = 13.0
+|Nov mean C = 8.6
+|Dec mean C = 5.2
+|year mean C =
+|Jan low C = 2.1
+|Feb low C = 2.5
+|Mar low C = 4.8
+|Apr low C = 8.5
+|May low C = 12.4
+|Jun low C = 17.3
+|Jul low C = 19.7
+|Aug low C = 19.2
+|Sep low C = 14.9
+|Oct low C = 10.9
+|Nov low C = 6.7
+|Dec low C = 3.2
+|year low C =
+|Jan record high C = 18.9
+|Feb record high C = 17.6
+|Mar record high C = 21.0
+|Apr record high C = 24.5
+|May record high C = 31.9
+|Jun record high C = 35.5
+|Jul record high C = 35.1
+|Aug record high C = 36.1
+|Sep record high C = 30.5
+|Oct record high C = 24.9
+|Nov record high C = 20.4
+|Dec record high C = 19.2
+|year record high C =
+|Jan record low C = -6.5
+|Feb record low C = -10.2
+|Mar record low C = -5.9
+|Apr record low C = -2.3
+|May record low C = 1.3
+|Jun record low C = 8.8
+|Jul record low C = 10.0
+|Aug record low C = 10.8
+|Sep record low C = 5.8
+|Oct record low C = 0.9
+|Nov record low C = -2.8
+|Dec record low C = -7.5
+|year record low C =
+|precipitation colour = green
+|Jan precipitation mm = 50.2
+|Feb precipitation mm = 63.9
+|Mar precipitation mm = 64.5
+|Apr precipitation mm = 59.4
+|May precipitation mm = 70.3
+|Jun precipitation mm = 54.3
+|Jul precipitation mm = 40.4
+|Aug precipitation mm = 40.7
+|Sep precipitation mm = 75.3
+|Oct precipitation mm = 70.2
+|Nov precipitation mm = 99.0
+|Dec precipitation mm = 61.4
+|year precipitation mm = 749.5
+|unit precipitation days = 1.0 mm
+|Jan precipitation days = 7.2
+|Feb precipitation days = 8.4
+|Mar precipitation days = 8.3
+|Apr precipitation days = 7.9
+|May precipitation days = 8.6
+|Jun precipitation days = 4.8
+|Jul precipitation days = 4.3
+|Aug precipitation days = 4.5
+|Sep precipitation days = 6.8
+|Oct precipitation days = 7.1
+|Nov precipitation days = 10.2
+|Dec precipitation days = 8.3
+|year precipitation days = 86.3
+|source 1 = Arpae Emilia-Romagna<ref>
+{{cite web
+| url = https://simc.arpae.it/dext3r/
+| title = Dext3r
+| publisher = Agenzia prevenzione ambiente energia Emilia-Romagna
+| accessdate = 20 January 2023
+}}
+</ref>
+}}
+
+== Government and politics ==
+{{Main|Politics of San Marino}}
+
+{{See also|Constitution of San Marino|Elections in San Marino|Foreign relations of San Marino|San Marino passport|Law enforcement in San Marino|Capital punishment in San Marino}}
+[[File:Palazzo Pubblico - esterno.jpg|thumb|The [[Palazzo Pubblico (San Marino)|Palazzo Pubblico]], seat of the government of San Marino]]
+[[File:Captains Regent Tomassoni, Rossi, Mancini and Selva.jpg|thumb|Four former captains regent: from left to right, [[Mirko Tomassoni]], [[Alessandro Rossi (Captains Regent)|Alessandro Rossi]], [[Alessandro Mancini]], and [[Alberto Selva]]]]
+San Marino has the political framework of a parliamentary [[representative democratic]] republic: the [[captains regent]] are [[heads of state]],<ref>{{citation|url=https://www.rightofassembly.info/assets/downloads/1974_Constitution_of_San_Marino.pdf|title=Law No. 59 of 8 July 1974 – Declaration of Citizens' Rights and of the fundamental principles of the San Marinese legal order|publisher=Albo del Pubblico Palazzo|date=17 July 1974|via=rightofassembly.com|access-date=11 May 2023}}</ref> and there is a [[Diversity (politics)|pluriform multi-party system]]. [[Executive power]] is exercised by the government. Although there is no formal head of government, the secretary for foreign and political affairs is in many ways equal to the prime minister in other countries.<ref>{{cite web| url=https://freedomhouse.org/country/san-marino/freedom-world/2021| title=San Marino: Freedom in the World 2021 Country Report}}</ref> [[Legislative power]] is vested in both the government and the [[Grand and General Council]]. The [[judiciary of San Marino|judiciary]] is independent of the executive and the legislature. San Marino is considered to have the earliest written governing documents still in effect, as the Statutes of 1600 are still at the core of its constitutional framework.<ref>{{cite web|url=http://www.politifact.com/truth-o-meter/statements/2011/aug/08/jon-huntsman/oldest-surviving-one-document-text/|title=The United States has "the longest surviving constitution."|publisher=PolitiFact.com|access-date=26 September 2012}}</ref>
+
+San Marino was originally led by the [[Arengo]], initially formed from the heads of each family. In the 13th century, power was given to the Grand and General Council. In 1243, the first two captains regent were nominated by the council. Still today, Captains Regent are elected every six months by the council. The legislature of the republic is the Grand and General Council ({{Lang|it|Consiglio grande e generale}}). The council is a unicameral legislature with 60 members. There are elections every five years by proportional representation in all nine administrative districts. These districts (townships) correspond to the old [[parish]]es of the republic. All [[citizen]]s 18 years or older are eligible to vote.
+
+Besides general legislation, the Grand and General Council approves the budget and elects the captains regent, the [[Congress of State]] (composed of ten secretaries of state with executive power), the [[Council of Twelve]], the Advising Commissions, and the Government Unions. The council also has the power to ratify treaties with other countries. The council is divided into five different Advising Commissions consisting of fifteen councilors who examine, propose, and discuss the implementation of new laws that are on their way to being presented on the floor of the council.
+
+Every six months, the council elects two captains regent to be the heads of state. The captains are chosen from opposing parties so that there is a balance of power. They serve a six-month term. The investiture of the captains regent takes place on 1 April and 1 October in every year. Once this term is over, citizens have three days in which to file complaints about the captains' activities. If they warrant it, judicial proceedings against the ex-head(s) of state can be initiated.
+
+The practice of having two heads of state chosen in frequent elections is derived directly from the customs of the [[Roman Republic]]. The council is equivalent to the [[Roman Senate]]; the captains regent, to the [[Roman consul|consuls]] of ancient [[Rome]]. It is thought the inhabitants of the area came together as Roman rule collapsed to form a rudimentary government for their own protection from foreign rule.
+
+San Marino is a multi-party democratic republic. A new election law in 2008 raised the threshold for small parties entering Parliament, causing political parties to organise themselves into two alliances: the right-wing [[Pact for San Marino]], led by the [[Sammarinese Christian Democratic Party]]; and the left-wing [[Reforms and Freedom]], led by the [[Party of Socialists and Democrats]], a merger of the [[Socialist Party of San Marino]] and the former communist [[Party of Democrats]]. The [[2008 San Marino general election|2008 general election]] was won by the Pact for San Marino with 35 seats in the Grand and General Council against the Reforms and Freedom party's 25.
+
+On 1 October 2007, [[Mirko Tomassoni]] was elected as captain regent, making him the first person with disability elected to that office.<ref>{{cite web|url=http://www.repubblica.it/2007/10/sezioni/esteri/disabile-san-marino/disabile-san-marino/disabile-san-marino.html|title=San Marino, primo capo di Stato disabile "Via tutte le barriere architettoniche" – esteri|publisher=Repubblica.it|date=1 October 2007|access-date=24 October 2009}}</ref> San Marino has had more [[List of elected or appointed female heads of state|female heads of state]] than any other country: 15 as of October 2014, including three who served twice. On 1 April 2022, 58-year-old [[Paolo Rondelli]] was elected as one of the two captains regent. He had previously been the Ambassador to the United States and is the world's first openly gay head of state.<ref name="lyman">{{cite web|url=https://www.theguardian.com/world/2022/apr/04/san-marino-appoints-worlds-first-openly-gay-head-of-state|title=San Marino appoints world's first openly gay head of state|work=The Guardian|last=Lyman|first=Eric J.|date=4 April 2022|access-date=20 April 2022}}</ref>
+
+=== Administrative divisions ===
+{{Main|Castelli of San Marino|List of curazie in San Marino}}
+
+[[File:San Marino.png|thumb|''{{lang|it|[[Castelli of San Marino|Castelli]]}}'' of San Marino]]
+San Marino is geographically divided into nine ''{{lang|it|[[Castelli of San Marino|castelli]]}}'' ({{Literal translation|castles}}, equivalent to a [[municipality]]),<ref name="Elezioni2">{{cite web|last1=Rattini|first1=Maurizio|last2=Venturini|first2=Gian Carlo|last3=Volpinari|first3=Antonio L.|date=21 March 1997|title=Regolamento per la disciplina della campagna elttorale|url=http://www.elezioni.sm/index.php?id=299|archiveurl=https://web.archive.org/web/20090805215911/http://www.elezioni.sm/index.php?id=299|archivedate=5 August 2009|accessdate=14 February 2020|website=Elezioni|language=it}}</ref> each of which contains a capital ({{Lang|it|capoluogo}}), with other population centres sorted into {{Lang|it|[[Curazia|curazie]]}} (equivalent to Italian {{Lang|it|[[Frazione|frazioni]]}}). Each ''{{lang|it|castello}}'' is led by a Castle Captain ({{Langx|it|Capitano di Castello}}) and a Castle Council ({{Lang|it|Giunta di Castello}}), elected every five years.<ref name=":04">{{Cite web|title=I 9 Castelli di San Marino: peculiarità e storia|trans-title=The nine castles of San Marino: peculiarities and history|url=https://www.sanmarinoweb.it/castelli-di-san-marino/|access-date=9 February 2024|website=San Marino Web|language=it-SM}}</ref> The nine ''{{lang|it|castelli}}'' are the [[City of San Marino]], which is San Marino's capital city, [[Acquaviva (San Marino)|Acquaviva]], [[Borgo Maggiore]], [[Chiesanuova]], [[Domagnano]], [[Faetano]], [[Fiorentino]], [[Montegiardino]], and [[Serravalle (San Marino)|Serravalle]].<ref name="Elezioni2" />
+
+San Marino's 44 {{Lang|it|curazie}} are [[Cà Berlone]], [[Cà Chiavello]], [[Cà Giannino]], [[Cà Melone]], [[Cà Ragni]], [[Cà Rigo]], [[Cailungo]] (di Sopra and di Sotto), [[Caladino]], [[Calligaria]], [[Canepa, San Marino|Canepa]], [[Capanne, San Marino|Capanne]], [[Casole]], [[Castellaro, San Marino|Castellaro]], [[Cerbaiola]], [[Cinque Vie]], [[Confine]], [[Corianino]], [[Crociale]], [[Dogana]], [[Falciano]], [[Fiorina (San Marino)|Fiorina]], [[Galavotto]], [[Gualdicciolo]], [[La Serra]], [[Lesignano]], [[Molarini]], [[Montalbo, San Marino|Montalbo]], [[Monte Pulito]], [[Murata (San Marino)|Murata]], [[Pianacci]], [[Piandivello]], [[Poggio Casalino]], [[Poggio Chiesanuova]], [[Ponte Mellini]], [[Rovereta]], [[San Giovanni sotto le Penne]], [[Santa Mustiola]], [[Spaccio Giannoni]], [[Teglio, San Marino|Teglio]], [[Torraccia]], [[Valdragone]] (di Sopra and di Sotto), [[Valgiurata]], and [[Ventoso]].<ref name="Elezioni2" />
+
+=== Military ===
+{{Main|Sammarinese Armed Forces}}
+
+San Marino's military forces are among the smallest in the world. National defence is, by arrangement, the responsibility of [[Military of Italy|Italy's armed forces]]. Different branches have varied functions, including performing ceremonial duties, patrolling borders, mounting guard at government buildings, and assisting police in major criminal cases. The [[Civil Police (San Marino)|police]] are not included in the military of San Marino.
+
+==== Crossbow Corps ====
+Once at the heart of San Marino's army, the Crossbow Corps is now a ceremonial force of approximately 80 volunteers. Since 1295, the Crossbow Corps has provided demonstrations of [[crossbow]] shooting at festivals. Its uniform design is medieval. While still a statutory military unit, the Crossbow Corps has no military function today.
+
+==== Guard of the Rock ====
+[[File:Guardia di Rocca al Palazzo Pubblico San Marino.jpg|thumb|Guards of the Rock]]
+The [[Sammarinese Armed Forces|Guard of the Rock]] is a front-line military unit in the San Marino armed forces, a state border patrol, with responsibility for patrolling borders and defending them.<ref name=guidelines/> In their role as Fortress Guards they are responsible for guarding the Palazzo Pubblico in [[San Marino, San Marino|San Marino City]], the seat of national government. In this role they are the forces most visible to tourists and are known for their colourful ceremony of [[Changing the Guard]].<ref name="guidelines" /> Under the 1987 statute the Guard of the Rock are all enrolled as "Criminal Police Officers" (in addition to their military role) and assist the police in investigating major crime. The uniform of the Guard of the Rock is a distinctive red and green.<ref name="guidelines" />
+
+==== Guard of the Grand and General Council ====
+The Guard of the Grand and General Council commonly known as The Guard of the council or locally as the "Guard of Nobles", formed in 1741,<ref name=guidelines/> is a volunteer unit with ceremonial duties. Due to its striking blue, white, and gold uniform, it is perhaps the best-known part of the Sammarinese military, and appears on countless postcard views of the republic. The functions of the Guard of the council are to protect the [[captains regent]], and to defend the Grand and General Council during its formal sessions. They also act as ceremonial bodyguards to government officials at both state and church festivals.
+
+==== Company of Uniformed Militia ====
+In former times, all families with two or more adult male members were required to enroll half of them in the Company of Uniformed Militia. This unit remains the basic fighting force of the armed forces of San Marino, but is largely ceremonial. It is a matter of civic pride for many Sammarinese to belong to the force, and all citizens with at least six years' residence in the republic are entitled to enroll.{{citation needed|date=June 2024}} The uniform is dark blue, with a [[kepi]] bearing a blue and white plume. The ceremonial form of the uniform includes a white cross-strap, and white and blue sash, white epaulets, and white decorated cuffs.
+
+==== Military Ensemble ====
+Formally this is part of the Army Militia,<ref name=guidelines/> and is the ceremonial military band of San Marino. It consists of approximately 60 musicians.<ref>{{cite web|url=http://www.bandamilitaresanmarino.org/chi-siamo/|title=Chi Siamo|publisher=Banda Militare della Repubblica di San Marino|access-date=19 July 2020|language=it}}</ref> The uniform is similar to that of the Army Militia. Military Ensemble music accompanies most state occasions in the republic.
+
+==== Gendarmerie ====
+Established in 1842, the [[Corps of Gendarmerie of San Marino|Gendarmerie of San Marino]] is a militarised law enforcement agency.<ref name=guidelines>{{cite web|url=http://www.sanmarinosite.com/eng/corpimilitari.html|title=San Marino Military Organizations|access-date=3 September 2011|author=San Marino Department of Tourism|year=2011|language=en, it|archive-url=https://web.archive.org/web/20080917042756/http://www.sanmarinosite.com/eng/corpimilitari.html|archive-date=17 September 2008|url-status=dead}}</ref> Its members are full-time and have responsibility for the protection of citizens and property, and the preservation of law and order. The entire military corps of San Marino depends upon the co-operation of full-time forces and their retained (volunteer) colleagues, known as the {{Lang|it|Corpi Militari Volontari}}, or Voluntary Military Force. The local law enforcement personnel are supoorted by Interpol.<ref name=":19">{{Cite web |title=How INTERPOL supports San Marino to tackle international crime. |url=https://www.interpol.int/en/Who-we-are/Member-countries/Europe/SAN-MARINO |publisher=Interpol}}</ref> The Interpol support focuses on organized crime and terrorism.<ref name=":19" /> The Interpol offices are located in the Headqaurters of the Gendarmie.<ref name=":19" />
+
+== Economy ==
+{{More citations needed section|date=July 2026}}
+{{Main|Economy of San Marino}}
+{{See also|Sammarinese euro coins|Postage stamps and postal history of San Marino|List of banks in San Marino}}
+[[File:Via Basilicus din San Marino2.jpg|right|thumb|Tourism and banking are the country's main sources of revenue.]]
+
+San Marino is a [[developed country]],<ref>{{cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weoselco.aspx?g=110&sg=All+countries+%2f+Advanced+economies|title=World Economic Outlook Database, April 2019|publisher=[[International Monetary Fund]] |access-date=29 September 2019}}</ref> and although it is not a [[European Union]] member it is allowed to use the [[euro]] as its currency by arrangement with the [[Council of the European Union]]; it is also granted the right to use its own designs on the national side of the [[euro coins]].It is one  of six sovereign nations that use the Euro but are not part of the EU.<ref name=":21">{{Cite web |title=The euro: facts and figures |url=https://www.consilium.europa.eu/en/policies/the-euro-facts-and-figures/}}</ref> The other nations are Kosovo, Monaco, Andorra, Vatican City,and Montenegro.<ref name=":21" />  Before the euro, the [[Sammarinese lira]] was pegged to, and exchangeable with, the [[Italian lira]]. The small number of [[Sammarinese euro coins]], as was the case with the lira before it, are primarily of interest to [[coin collecting|coin collectors]]. San Marino's GDP per capita and [[standard of living]] are comparable to that of Italy. Key industries include [[bank]]ing, [[electronics]], and [[ceramic]]s.{{citation needed|date=December 2023}} The main [[agriculture|agricultural]] products are wine and cheese. San Marino imports staple goods, mainly from Italy.{{citation needed|date=December 2023}}
+
+San Marino's [[postage stamp]]s, which are valid for mail posted in the country, are mostly sold to [[philately|philatelists]] and are a significant source of income.<ref>{{cite web|url=https://www.venditafrancobolli.com/san-marino/|title=Vendita Francobolii - San Marino|language=it|access-date=22 January 2022}}</ref> San Marino is no longer a member of the [[Small European Postal Administration Cooperation]].<ref>{{cite web|url=https://www.sepacstamps.eu/|title=SEPAC Stamps {{!}} Small European Postal Administration Cooperations|access-date=7 March 2020}}</ref> It has the world's highest rate of car ownership, being one [[List of countries by vehicles per capita|of only a handful of countries with more vehicles than people]].<ref>{{Cite web|last=Putzer|first=Mark|date=7 June 2023|title=This Tiny Country Is the Only 1 With More Cars Than People|url=https://www.motorbiscuit.com/tiny-country-only-1-more-cars-than-people/|access-date=12 October 2023|website=MotorBiscuit}}</ref>{{update_inline|date=November 2025}}<ref name=":20">{{Cite web |last=Young |first=Olivia |date=4 November 2021 |title=What Is the Only Nation in the World That Averages More Than One Car per Person? |url=https://www.treehugger.com/what-is-the-only-nation-in-the-world-that-averages-more-than-one-car-per-person-5121063}}</ref> The average is 1.6 cars per person, which includes children. <ref name=":20" />
+
+=== Conventions with Italy ===
+San Marino and Italy have engaged in conventions since 1862,<ref>{{cite web|url=http://www.esteri.sm/on-line/home/trattati-internazionali/convenzioni-bilaterali/convenzioni-bilaterali---accordi-bilaterali-con-litalia.html|title=Convenzioni Bilaterali – Accordi bilaterali con l'Italia|publisher=Segreteria di stato per gli affari esteri e politici|language=it|access-date=28 December 2012|url-status=dead|archive-url=https://web.archive.org/web/20130104183908/http://www.esteri.sm/on-line/home/trattati-internazionali/convenzioni-bilaterali/convenzioni-bilaterali---accordi-bilaterali-con-litalia.html|archive-date=4 January 2013}}</ref> dictating some economic activities in San Marino's territory. Cultivation of tobacco and production of goods which are subject to Italy's [[government monopoly]] are forbidden in San Marino. Direct import is forbidden; all goods coming from a third country have to travel through Italy before reaching the country. Although it is allowed to print its own postal stamps, San Marino is not allowed to coin its own currency and is obliged to use [[Istituto Poligrafico e Zecca dello Stato|Italy's mint]]; the agreement does not affect the right of the Republic of San Marino to continue to issue gold coins denominated in [[Italian scudo|Scudi]]<ref>{{Cite web|url=https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=oj:JOC_2001_209_R_0001_01|title=EUR-Lex - 22001A0727(01) - IT|website=Gazzetta ufficiale n. C 209 del 27/07/2001 pag. 0001 - 0004|accessdate=19 November 2025}}</ref> (the legal value of 1 gold Scudo is 37.50 euros). Gambling is legal and regulated; however, casinos were outlawed prior to 2007. There is one legally operating casino.{{Citation needed|date=May 2024}}
+
+In exchange for these limitations, Italy provides San Marino with an annual stipend, provided at cost, of sea salt (not more than 250 tonnes per year), tobacco (40 tonnes), cigarettes (20 tonnes) and matches (unlimited number).<ref name="esteri1980">{{cite web |url=http://www.esteri.it/MAE/normative/Normativa_Consolare/ServiziConsolari/Servizio_Militare/san_marino_1980.pdf |title=Convenzione di amicizia e buon vicinato 1939 (1980 transcript) |year=1980 |language=it |access-date=28 December 2012}}</ref> At the border there are no formalities with Italy. However, at the tourist office visitors can purchase officially cancelled souvenir stamps for their [[passport]]s.<ref>{{Cite news |title=Border formalities  in San Marino |url=https://visitsanmarino.com/pub1/VisitSM/en/contenuto/About-San-Marino/FORMALITA--DI-FRONTIERA.html |archive-url=https://web.archive.org/web/20240529151004/https://visitsanmarino.com/pub1/VisitSM/en/contenuto/About-San-Marino/FORMALITA--DI-FRONTIERA.html |archive-date=29 May 2024 |access-date=4 August 2026 |work=Visita San Marino, portale ufficiale |language=en |url-status=live }}</ref>
+
+=== Taxation ===
+San Marino offers a competitive tax environment designed to attract investment and support economic development. The standard corporate income tax (Imposta Generale sui Redditi, IGR) rate is 17%. However, new businesses benefit from a reduced rate of 8.5% for the first five years of operation, provided they meet specific employment criteria, such as hiring at least one employee within six months and a second within 24 months of starting operations.<ref name=worldbank>{{cite report|url=https://openknowledge.worldbank.org/server/api/core/bitstreams/6c9669ee-03b8-524f-bfe7-e991a96ac092/content|title=Economy Profile San Marino|publisher=World Bank Group|access-date=9 October 2023|format=pdf|page=37|series=Doing Business|date=2019}}</ref><ref name=":6">{{Cite web |last=Coletto |first=Valentino |date=9 December 2024 |title=The 2024 Guide to San Marino Tax |url=https://www.imidaily.com/europe/the-2024-guide-to-san-marino-tax/ |access-date=30 April 2025 |website=IMI Daily |language=en-US}}</ref><ref>{{Cite web |title=No tax and incentives to corporate profits |url=https://www.startup.sm/en/incentives/corporate-profits/ |access-date=30 April 2025 |website=Startup.sm |language=en-US}}</ref><ref>{{Cite web |title=Corporation tax and deductions for companies of San Marino |url=https://www.startup.sm/en/taxation/corporation-tax/ |access-date=30 April 2025 |website=Startup.sm |language=en-US}}</ref> Innovative startups participating in San Marino's innovation programmes are eligible for further tax incentives:<ref name=":14">{{Cite web |title=Taxation in San Marino – San Marino Setup |url=https://smsetup.sm/en/blog/taxation-in-san-marino/ |access-date=30 April 2025 |language=en}}</ref>
+
+* 0% corporate tax for the first three years.<ref name=":14" />
+* 4% for the subsequent four years.<ref name=":6" />
+* 8% for the following five years.<ref name=":6" />
+
+San Marino employs a progressive personal income tax system, with rates ranging from 9% to 35%:
+
+* 9% for income up to €10,000.
+* 13% for income between €10,001 and €25,000.
+* 35% for income above €25,000.<ref name=":15">{{Cite web |title=San Marino - Tobias Nielsen |url=https://tobias-nielsen.com/2024/09/18/san-marino/ }}{{Dead link|date=May 2026 |bot=InternetArchiveBot }}</ref>
+
+The personal income tax was introduced in 1984 and underwent significant reforms in 2013 to enhance fiscal revenue. San Marino imposes withholding taxes on various forms of income:
+
+* 5% on dividends paid to individuals.<ref name=":15" />
+* 13% on interest payments.
+* 20% on royalties paid to non-residents.<ref>{{Cite web |title=Favourable taxation |url=https://www.camcom.sm/en/doing-business-in-san-marino-2/favourable-taxation/ |access-date=30 April 2025 |publisher=Chamber of Commerce |language=en-US}}</ref><ref name=":15" />
+
+San Marino does not implement a traditional value-added tax (VAT) system. Instead, it applies a single-stage import tax known as "imposta monofase," levied at a standard rate of 17% on the importation cost of goods. This tax is applied only once at the point of importation and does not extend to services. Under the customs union agreement with the European Union, this import tax is considered equivalent to the EU's VAT system.<ref>{{Cite web |title=EU-San Marino Customs Union {{!}} Access2Markets |url=https://trade.ec.europa.eu/access-to-markets/en/content/eu-san-marino-customs-union |access-date=30 April 2025 |website=trade.ec.europa.eu}}</ref>
+
+To encourage investment, San Marino offers several tax incentives:
+
+* Dividends received by non-resident companies are 95% exempt from taxation, provided the participation has been held continuously for at least twelve months.
+* Investments in capital goods or real estate can lead to a reduction in taxable income by up to 90%.<ref name=":14" />
+
+Because San Marino's tax rate is lower than surrounding [[Taxation in Italy|Italy]]'s, many businesses choose to be based in San Marino to avoid the higher rates. San Marino boasts a corporate rate 14.5% lower than Italy (23%) and 12.5% lower than the EU average (21.3%). This has made San Marino the [[tax haven]] of choice for many wealthy Italians and businesses.<ref>{{cite news|title=San Marino plans to ask for IMF bailout to bolster banks|url=https://www.theguardian.com/business/2018/oct/03/san-marino-plans-ask-imf-bailout-banks|website=The Guardian|date=3 October 2018|access-date=15 May 2024|last1=Giuffrida|first1=Angela }}</ref><ref>{{Cite web|url=https://d3fy651gv2fhd3.cloudfront.net/charts/italy-corporate-tax-rate@2x.png?s=itacorptax&v=201804031046a1&d1=20000428&d2=20190428&mean=1&url2=/european-union/corporate-tax-rate|title=Italy corporate tax rate|accessdate=19 November 2025}}</ref>
+
+=== Tourism ===
+{{Main|Tourism in San Marino}}
+
+The [[tourism]] sector contributes over 22% of San Marino's [[Gross domestic product|GDP]],<ref name="rtv">{{cite web|url=http://www.sanmarinortv.sm/economia/default.asp?id=33&id_n=39203|title=Turismo: San Marino fa i conti con la recessione economica, l'Italia guarda con fiducia al 2010|date=11 January 2010|publisher=San Marino RTV|language=it|access-date=13 March 2010|archive-date=11 May 2011|archive-url=https://web.archive.org/web/20110511135215/http://www.sanmarinortv.sm/economia/default.asp?id=33&id_n=39203|url-status=dead}}</ref> with approximately 2 million tourists having visited in 2014.<ref>{{cite web|title=Tourists flows|url=http://www.statistica.sm/contents/instance15/files/document/14079659Tav_Afflusso_tur.pdf |publisher=Statistical Office of San Marino|access-date=16 December 2015|url-status=dead|archive-url=https://web.archive.org/web/20151222082104/http://www.statistica.sm/contents/instance15/files/document/14079659Tav_Afflusso_tur.pdf|archive-date=22 December 2015}}</ref> On average tourists spend about 2 nights in the republic<ref>{{cite web| url=https://hub.wtm.com/exhibitor-news/exhibitor-news-2023/san-marino-sees-33-increase-in-visitors-in-autumn-winter-shoulder-seasons/| title=San Marino Sees 33% Increase in Visitors in Autumn/Winter Shoulder Seasons &#124; WTM Global Hub| date=20 October 2023| access-date=12 February 2024| archive-date=12 February 2024| archive-url=https://web.archive.org/web/20240212235331/https://hub.wtm.com/exhibitor-news/exhibitor-news-2023/san-marino-sees-33-increase-in-visitors-in-autumn-winter-shoulder-seasons/| url-status=dead}}</ref> making on average a tourist present per 3 residents at any given time.{{Citation needed|date=May 2024}}
+
+== Transport ==
+{{Main|Transport in San Marino}}
+
+The [[Azienda Autonoma di Stato per i Servizi Pubblici]], the Sammarinese state company for [[public transport]], operates the country's bus network and [[Aerial tramway|aerial cablecar system]].<ref name=":42">{{Cite web|last=Fabbri|first=Monica|date=26 May 2021|title="La funivia sammarinese è sicura", garantisce AASS. Ecco le differenze con l'impianto di Mottarone|trans-title="The San Marino cablecar is safe", guarantees AASS: here are the differences with the Mottarone plant|url=https://www.sanmarinortv.sm/news/attualita-c4/la-funivia-sammarinese-e-sicura-garantisce-aass-ecco-le-differenze-con-l-impianto-di-mottarone-a206296|access-date=31 December 2023|website=[[San Marino RTV]]|language=it-SM}}</ref><ref name=":03">{{Cite web|title=Orari autobus di linea|trans-title=Bus timetables|url=https://www.aass.sm/site/home/trasporti/orari-autobus-di-linea.html|access-date=31 December 2023|website=[[Azienda Autonoma di Stato per i Servizi Pubblici]]|language=it-SM}}</ref>
+
+=== Road ===
+{{Main|San Marino Highway}}
+
+The main road is the [[San Marino Highway]], a [[dual carriageway]] which runs between [[Borgo Maggiore]] and [[Dogana]] through [[Domagnano]] and [[Serravalle, San Marino|Serravalle]]. After crossing the international border at Dogana, the highway continues through Italy as the [[Strada statale 72 di San Marino|SS72 state road]], touching the international border at [[Rovereta]]. It serves Cerasolo, a {{Lang|it|frazione}} of [[Coriano]], and the Rimini Sud exit of the [[Autostrada A14 (Italy)|A14 tolled highway]], before terminating at the crossroads with the {{Interlanguage link|SS16|it|Strada statale 16 Adriatica}} state road.<ref>{{Cite web|last=Santini|first=Simone|date=1 September 2017|title=Rimini-San Marino, ma che Consolare è?|trans-title=But what kind of consular road is the Rimini-San Marino?|url=https://www.ilponte.com/rimini-san-marino-ma-che-consolare-e/|access-date=1 January 2024|website=Il Ponte|language=it-IT}}</ref> Several taxi companies operate in San Marino.<ref>{{Cite web|title=Taxi|url=http://www.sanmarinopertutti.com/default.asp?id=513|access-date=31 December 2023|website=sanmarinopertutti.com|language=it-SM}}</ref>
+
+=== Buses and coaches ===
+As of December 2023, eight bus routes operate entirely within San Marino. All but one line starts in the [[City of San Marino]], with several lines serving [[Borgo Maggiore]], [[Domagnano]], [[Serravalle, San Marino|Serravalle]], [[Dogana]], and San Marino Hospital.<ref name=":03"/> Start Romagna SpA operates several routes that run entirely in Italian territory but near the Sammarinese border, providing connections to Rimini, [[Verucchio]], and [[Novafeltria]].<ref>{{Cite web|title=Linea 7|url=https://www.startromagna.it/linee/7/|access-date=31 December 2023|website=Start Romagna SpA|language=it-IT}}</ref><ref>{{Cite web|title=Linea 16|url=https://www.startromagna.it/linee/16/|access-date=31 December 2023|website=Start Romagna SpA|language=it-IT}}</ref><ref>{{Cite web|title=Linea 160|url=https://www.startromagna.it/linee/160/|access-date=31 December 2023|website=Start Romagna SpA|language=it}}</ref> Rimini and San Marino are connected by the coach companies Bonelli and Benedettini, which provide several services per day throughout the year.<ref name=":1">{{Cite web|date=17 July 2023|title=Bus to San Marino Republic|url=https://riminiturismo.it/en/visitatori/come-arrivare/collegamenti/pullman/bus-san-marino-republic|access-date=31 December 2023|website=riminiturismo.it}}</ref> In the City of San Marino, the coaches depart from the central bus stop in Piazzale Marino Calcigni,<ref name=":1" /><ref>{{Cite web|title=Pianta della Città di San Marino|trans-title=Map of the City of San Marino|url=https://www.sanmarinosite.com/sms_pdf/centro_storico.pdf|access-date=31 December 2023|website=San Marino Site|language=it-SM}}</ref> then stop in [[Borgo Maggiore]], [[Domagnano]], [[Serravalle, San Marino|Serravalle]], [[Dogana]], and Cerasolo, a {{Lang|it|frazione}} of [[Coriano]], before reaching Rimini's [[Arch of Augustus (Rimini)|Arch of Augustus]] and [[Rimini railway station|railway station]].<ref name=":1" /> The coaches complete the route in approximately fifty minutes.<ref name=":1" />
+
+=== Aerial cablecar system ===
+{{Main|Funivia di San Marino}}
+
+[[File:Funivia di San Marino.jpg|thumb|right|A cablecar overlooks [[Borgo Maggiore]] in April 2022.]]
+The [[Funivia di San Marino]] is an [[Aerial tramway|aerial cablecar system]] connecting a lower terminus in [[Borgo Maggiore]] to an upper terminus in the [[City of San Marino]].<ref name=":02">{{Cite web|title=Ropeway – San Marino Cable Car|url=https://www.sanmarinosite.com/en/how-to-reach/ropeway/|access-date=31 December 2023|website=San Marino Site|date=13 October 2014 }}</ref> Running every fifteen minutes, the two-minute ride is renowned for its panoramic views over San Marino, the [[Province of Rimini]], and the [[Adriatic Sea]].<ref name=":02" /><ref name=":12">{{Cite web|last=|first=|title=Funivia di San Marino|trans-title=San Marino Cablecar System|url=https://www.doppelmayr.com/it/progetti-di-riferimento/progetto-di-riferimento-45-atw-funivia-di-san-marino/|access-date=31 December 2023|website=[[Doppelmayr USA|Doppelmayr Group]]|language=it-SM}}</ref> The cablecar system is a major [[tourist attraction]], and considered a defining symbol of San Marino.<ref name=":02" /><ref name=":12" /><ref name=":2">{{Cite web|last=Pelliccioni|first=Silvia|date=30 March 2015|title="Simbolo della Repubblica": vecchia cabina funivia nella rotatoria della Sottomontana|trans-title="Symbol of the Republic": Old cablecar in the Sottomontana roundabout|url=https://www.sanmarinortv.sm/news/attualita-c4/simbolo-repubblica-vecchia-cabina-funivia-nella-rotatoria-sottomontana-a60473|access-date=31 December 2023|website=[[San Marino RTV]]|language=it-SM}}</ref><ref>{{Cite web|date=24 June 2019|title=San Marino, esercitazione di recupero passeggeri dalla funivia|trans-title=San Marino: Passenger recovery exercise from the cablecar|url=https://www.ilrestodelcarlino.it/rimini/cronaca/san-arino-funivia-1.4662568|access-date=31 December 2023|website=[[Il Resto del Carlino]]|language=it-IT}}</ref><ref>{{Cite web|date=9 August 2022|title=Anche San Marino ha la sua versione del Monopoly|trans-title=Even San Marino has its version of Monopoly|url=https://www.ilrestodelcarlino.it/rimini/cronaca/anche-san-marino-ha-la-sua-versione-del-monopoly-1.7965588|access-date=31 December 2023|website=[[Il Resto del Carlino]]|language=it-IT}}</ref><ref name=":3">{{Cite web|last=|first=|date=15 April 2017|title=San Marino. Inaugurata la funivia di Borgo Maggiore|trans-title=San Marino: the Borgo Maggiore cablecar system is inaugurated|url=https://www.libertas.sm/san-marino-inaugurata-la-funivia-di-borgo-maggiore/|access-date=31 December 2023|website=libertas.sm|language=it-IT}}</ref> The cablecar system transports 500,000 passengers yearly across approximately 21,000 trips.<ref name=":42" /><ref name=":152">{{Cite web|last=Simoncini|first=Myriam|date=1 August 2009|title=50 anni e non li dimostra|trans-title=50 years and it doesn't show it|url=https://www.sanmarinortv.sm/news/cultura-c6/50-anni-non-li-dimostra-a109456|access-date=31 December 2023|website=[[San Marino RTV]]|language=it-SM}}</ref> It was inaugurated on 1 August 1959.<ref name=":152" /><ref name=":62">{{Cite web|date=13 September 2018|title=La Funivia|trans-title=The Cablecar System|url=https://www.aass.sm/site/home/lazienda/storia/articolo50005262.html|access-date=31 December 2023|website=[[Azienda Autonoma di Stato per i Servizi Pubblici]]}}</ref><ref name=":7">{{Cite web|title=Funivia di San Marino|trans-title=San Marino Cablecar System|url=https://www.romagna.net/repubblica-di-san-marino/luoghi-di-interesse/funivia-di-san-marino/|access-date=31 December 2023|website=romagna.net|language=it-IT}}</ref><ref name=":8" /> In 1995 and 1996, it was modernised with double load-bearing cables built by [[Doppelmayr USA|Doppelmayr Italia]],<ref name=":5">{{Cite web|title=Funivia di San Marino|trans-title=San Marino Cablecar System|url=https://www.aass.sm/site/home/trasporti/funivia.html|access-date=31 December 2023|website=[[Azienda Autonoma di Stato per i Servizi Pubblici]]|language=it-SM}}</ref><ref name=":62" /> and further renovated in spring 2017.<ref name=":3" /><ref name=":62" />
+
+=== Aviation ===
+{{See also|Federico Fellini International Airport}}
+[[File:Rimini airport terminal 2018.JPG|left|thumb|The terminal of [[Federico Fellini International Airport|Fellini Airport]] in March 2018, since its repainting]]
+The closest airports to San Marino are Federico Fellini Airport in Rimini's {{Lang|it|frazione}} of [[Miramare di Rimini|Miramare]], [[Forlì Airport|Luigi Ridolfi Airport]] in [[Forlì]], [[Ancona Airport|Raffaello Sanzio Airport]] in [[Ancona]], and [[Bologna Guglielmo Marconi Airport|Guglielmo Marconi Airport]] in [[Bologna]]. Since the 1980s, the governments of San Marino and Italy have signed several bilateral agreements concerning San Marino's access to Fellini Airport.<ref name=":05">{{Cite web|last=Pari|first=Mario|date=5 September 2018|title=Aeroporto: la Repubblica di San Marino non mette le ali|trans-title=Airport: The Republic of San Marino does not spread its wings|url=https://www.riminiduepuntozero.it/aeroporto-la-repubblica-di-san-marino-non-mette-le-ali/|access-date=1 January 2024|website=Riminiduepuntozero|language=it-IT}}</ref><ref name="sanmarinortv.sm">{{Cite web|last=|first=|date=16 September 2013|title=Firmato l'accordo di assegnazione aree del Fellini|trans-title=Fellini area assignment agreement signed|url=https://www.sanmarinortv.sm/news/economia-c5/firmato-accordo-assegnazione-aree-fellini-a27340|access-date=1 January 2024|website=[[San Marino RTV]]|language=it-SM}}</ref><ref name=":16">{{Cite web|date=3 January 2012|title=San Marino atterra al Fellini. Ora via ai voli del Titano|trans-title=San Marino lands at Fellini: Now the Titan flights have a green light|url=https://www.riminitoday.it/cronaca/san-marino-aeroporto-fellini-ora-via-ai-voli-del-titano.html|access-date=22 December 2023|website=RiminiToday|language=it}}</ref> After the Sammarinese government acquired a 3% stake in Fellini Airport's management company, Aeradria, in 2002,<ref name=":722">{{Cite web|last=Rtv|first=San Marino|date=12 February 2004|title=Aeroporto di Rimini: dalla guerra all'ingresso di San Marino|trans-title=Rimini Airport: From the war to San Marino's entry|url=https://www.sanmarinortv.sm/news/attualita-c4/aeroporto-rimini-dalla-guerra-ingresso-san-marino-a92887|access-date=2 November 2023|website=[[San Marino RTV]]|language=it}}</ref> the airport was officially named Rimini-San Marino Airport.<ref>{{Cite web|last=Russo|first=Carlo|date=24 November 2000|title=Rimini, scalo di stato: San Marino ha un suo aeroporto|trans-title=Rimini, state airport: San Marino has its own airport|url=https://www.italiaoggi.it/archivio/rimini-scalo-di-stato-115042|access-date=1 January 2024|website=Italia Oggi}}</ref>
+
+In June 2018, Ariminum, Aeradria's successor as Fellini Airport's management company, repainted the airport terminal to read {{Lang|it|Aeroporto Internazionale di Rimini e San Marino}} (Rimini and San Marino International Airport), replacing the previous {{Lang|it|Aeroporto Internazionale Federico Fellini}} (Federico Fellini International Airport).<ref>{{Cite web|last=|date=3 March 2018|title=Il nuovo look dell'aeroporto: "San Marino" ha preso il posto di "Federico Fellini"|trans-title=The new look of the airport: "San Marino" has taken the place of "Federico Fellini"|url=https://www.riminiduepuntozero.it/il-nuovo-look-dellaeroporto-san-marino-ha-preso-il-posto-di-federico-fellini/|access-date=1 January 2014|website=Riminiduepuntozero|language=it-IT}}</ref> The most significant bilateral agreement, ratified on 16 September 2013, provided San Marino a forty-year concession over some areas of Fellini Airport.<ref name="sanmarinortv.sm"/><ref name=":07">{{Cite web|last=|first=|date=12 August 2023|title=Aeroporto Fellini, sullo scalo internazionale incontro a Roma a settembre|trans-title=Fellini Airport: On the international airport meeting in Rome in September|url=https://www.sanmarinortv.sm/news/attualita-c4/aeroporto-fellini-sullo-scalo-internazionale-incontro-a-roma-a-settembre-a245543|access-date=1 January 2024|website=[[San Marino RTV]]|language=it-SM}}</ref><ref name=":18">{{Cite web|last1=Mincuzzi|first1=Angelo|last2=Oddo|first2=Giuseppe|date=24 April 2014|title=Una misteriosa cordata estera per l'aeroporto di Rimini-San Marino|trans-title=A mysterious foreign consortium for the Rimini-San Marino airport|url=http://www.ilsole24ore.com/art/notizie/2014-07-23/una-misteriosa-cordata-estera-l-aeroporto-rimini-san-marino-194420.shtml?uuid=ABT3cidB|access-date=1 January 2024|website=[[Il Sole 24 Ore]]|language=it}}</ref> The areas were expected to host a private terminal, with a customs border allowing goods destined for San Marino not to pass through Italian customs.<ref name=":18" /> As of August 2023, Sammarinese authorities still have no presence at the airport.<ref name=":07" />
+
+[[Torraccia Airfield]] is San Marino's only aviation facility. It is a small [[general aviation]] [[aerodrome]] in [[Torraccia]], a village east of the {{Lang|it|castello}} of Domagnano, less than {{convert|200|m|ft|abbr=off}} from the Italian border.<ref name=":222">{{Cite web|date=20 August 2017|title=Torraccia|url=https://forgottenairfields.com/airfield-torraccia-148.html|access-date=1 January 2024|website=forgottenairfields.com}}</ref> Torraccia's only [[Poaceae|grass]] [[runway]] was first used in 1981, but the airfield's structure was opened in 1985.<ref name=":033">{{Cite web|last=Bollini|first=Marco|date=5 July 2015|title=San Marino avrà un aeroporto?|trans-title=Will San Marino have an airport?|url=https://www.giornalesm.com/san-marino-avra-aeroporto/|access-date=1 January 2024|website=giornalesm.com|language=it-SM|archive-date=1 January 2024|archive-url=https://web.archive.org/web/20240101151355/https://www.giornalesm.com/san-marino-avra-aeroporto/|url-status=dead}}</ref><ref name=":322">{{Cite web|title=Chi Siamo|trans-title=Who we are|url=https://www.aeroclubsanmarino.com/chi-siamo/|access-date=1 January 2024|website=Aeroclub San Marino|language=it-SM}}</ref> In July 2012, the runway was extended to {{convert|650|m|ft|abbr=off}}.<ref name=":222"/> The airfield is owned and operated by Aeroclub San Marino,<ref name=":222"/><ref name=":033"/><ref name=":13">{{Cite web|date=13 October 2023|title=Eliporto Torraccia - Aeroclub San Marino {{!}} Rimini turismo|trans-title=Torraccia heliport - Aeroclub San Marino|url=https://riminiturismo.it/visitatori/come-arrivare/collegamenti/aereo/eliporto-torraccia-aeroclub-san-marino|access-date=1 January 2024|website=riminiturismo.it|language=it|archive-date=1 January 2024|archive-url=https://web.archive.org/web/20240101151354/https://riminiturismo.it/visitatori/come-arrivare/collegamenti/aereo/eliporto-torraccia-aeroclub-san-marino|url-status=dead}}</ref> a [[flying club]] with approximately 100 members.<ref name=":322"/> In the summer, between ten and fifteen planes typically land at the airfield per day.<ref name=":033" /><ref name=":9">{{Cite web|last=|first=|date=3 July 2015|title=Torraccia: da aerodromo ad aeroporto|trans-title=Torraccia: From aerodrome to airport|url=https://www.sanmarinortv.sm/news/attualita-c4/torraccia-aerodromo-aeroporto-a60048|access-date=1 January 2024|website=[[San Marino RTV]]|language=it-SM}}</ref> The airfield hosts a [[Flight training|flight school]], recreational flights and sports, and some tourist flights in small aircraft.<ref name=":222" /><ref name=":322" /><ref name=":13" />
+
+At the site of the present-day parking lot for the Funivia's Borgo Maggiore terminus was a [[heliport]],<ref>{{Cite web|last=|first=|date=30 August 2015|title=Borgo Maggiore: concerto della banda "Queen Victoria" per rinnovare il gemellaggio con Zurrieq|trans-title=Borgo Maggiore: Concert by the "Queen Victoria" band to renew the twinning with Zurrieq|url=https://www.sanmarinortv.sm/news/cultura-c6/borgo-maggiore-concerto-banda-queen-victoria-rinnovare-gemellaggio-zurrieq-a101024|access-date=1 January 2024|website=[[San Marino RTV]]|language=it-SM}}</ref><ref>{{Cite web|date=5 September 2023|title=Ordinanza n.189/2023|url=https://www.interni.sm/pub1/InterniSM/dam/jcr:c0686586-027f-46da-97f1-8734f8161aa8/Ordinanza%20n.189-2023.pdf|access-date=1 January 2024|website=State Secretariat for Internal Affairs}}</ref> which inaugurated its first flights in September 1950.<ref name=":8">{{Cite web|date=5 April 2020|title=La storia del servizio elicottero a San Marino, legato alla crescita del turismo di massa|trans-title=The history of the helicopter service in San Marino, linked to the growth of mass tourism|url=https://www.titanpostsm.com/1514/La%20storia%20del%20servizio%20elicottero%20a%20San%20Marino,%20legato%20alla%20crescita%20del%20turismo%20di%20massa/|access-date=31 December 2023|website=www.titanpostsm.com|language=it-SM|archive-date=31 December 2023|archive-url=https://web.archive.org/web/20231231160920/https://www.titanpostsm.com/1514/La%20storia%20del%20servizio%20elicottero%20a%20San%20Marino,%20legato%20alla%20crescita%20del%20turismo%20di%20massa/|url-status=dead }}</ref> On 30 June 1959, a helicopter line running between Borgo Maggiore and a heliport by Rimini's port was inaugurated.<ref name=":8" /><ref name=":11">{{Cite web|last=|first=|date=29 June 2023|title=30 giugno 1961 - Inaugurata la linea di elicotteri Rimini - San Marino - San Leo|trans-title=30 June 1961 – The Rimini – San Marino – San Leo helicopter line is inaugurated|url=https://www.chiamamicitta.it/30-giugno-1961-inaugurata-linea-elicotteri-rimini-san-marino-san-leo/|access-date=1 January 2024|website=Chiamami Città|language=it-IT}}</ref><ref name=":143">{{Cite web|last=Gambetti|first=Nicola|date=5 August 2023|title=Rimini - San Marino - San Leo in elicottero|trans-title=Rimini – San Marino – San Leo by helicopter|url=https://riminisparita.it/rimini-san-marino-san-leo-in-elicottero/|access-date=1 January 2024|website=Rimini Sparita|language=it-IT}}</ref> Operated by Compagnia Italiana Elicotteri, the service ran several times per day,<ref name=":11"/><ref name=":143"/> using a fleet of four-seater [[Bell 47J Ranger]]s and a three-seater [[Bell 47|Agusta-Bell AB-47G]],<ref name=":8" /><ref name=":11" /><ref name=":143" /> which were serviced at Rimini's airport.<ref name=":143" /> In 1964, the line was extended to [[San Leo]].<ref name=":11" /><ref name=":143" /> Tickets would cost up to 12,500 lire,<ref name=":11" /> including the cablecar to the City of San Marino and a shuttle to the [[Forte di San Leo|Leonine fortress]]. The service would take fifteen minutes to reach Rimini and ten minutes to reach San Leo. The service closed in 1969.<ref name=":11" /><ref name=":143" />
+
+=== Railway ===
+{{Main|Ferrovia Rimini–San Marino}}
+
+[[File:San-Marino,_motorvagono_de_la_eksa_fervojo,_2.jpeg|thumb|The restored AB-03 [[locomotive]] and a reactivated section of the [[Rimini–San Marino railway]], opened in the [[City of San Marino]]]]
+San Marino has no railway except an {{convert|800|m|mi|abbr=off|adj=on|frac=2}} [[heritage railway]], which opened in 2012.<ref name=":182">{{Cite web|last=Scolari|first=Giancarlo|date=21 June 2012|title=Torna il treno a San Marino|trans-title=The train returns to San Marino|url=https://www.ferrovie.it/portale/articoli/3190|access-date=3 November 2023|website=Ferrovie.it|language=it-IT}}</ref> Between 1932 and 1944, a {{convert|31.5|km|mi|abbr=off|adj=on}} [[Railway electrification system|electrified]] [[narrow gauge]] railway operated between Rimini and the [[City of San Marino]], serving [[Dogana]], [[Serravalle, San Marino|Serravalle]], [[Domagnano]], and [[Borgo Maggiore]] along its route.<ref name=":123">{{Cite web|last=Macina|first=Chiara|date=14 September 2015|title=Il Trenino Biancazzurro: la breve vita e la fine|trans-title=The Blue and White Train: Its short life and end|url=https://www.zoomma.news/il-trenino-biancazzurro-la-breve-vita-e-la-fine/|access-date=3 November 2023|website=Zoomma|language=it-IT}}</ref> During the [[World War II|Second World War]], the line was bombed and closed,<ref name=":123" /><ref name=":142">{{Cite web|last=Giardi|first=Davide|date=28 February 2013|title=Breve storia della Ferrovia|trans-title=Brief history of the railway|url=https://www.libertas.sm/breve-storia-della-ferrovia/|access-date=3 November 2023|website=libertas|language=it-SM}}</ref> after which its tunnels sheltered refugees during the Battles of [[Battle of Rimini (1944)|Rimini]] and [[Battle of San Marino|San Marino]].<ref name=":132">{{Cite web|last=Pagammo|first=Lussi|date=20 April 2019|title=Il glorioso trenino bianco-azzurro riparte dall'elettromotrice 'AB-03' per unire Rimini a San Marino|trans-title=The glorious white-blue train restarts from the 'AB-03' electromotive to connect Rimini to San Marino|url=https://www.riminiduepuntozero.it/il-glorioso-trenino-bianco-azzurro-riparte-dallelettromotrice-ab-03-per-unire-rimini-a-san-marino/|access-date=3 November 2023|website=Riminiduepuntozero|language=it-IT}}</ref><ref name=":92">{{Cite web|last=|first=|date=12 June 2023|title=12 giugno 1932 - Viene inaugurata la ferrovia Rimini - San Marino|trans-title=12 June 1932: The Rimini–San Marino railway was opened|url=https://www.chiamamicitta.it/12-giugno-1932-viene-inaugurata-la-ferrovia-rimini-san-marino/|access-date=2 November 2023|website=Chiamami Città|language=it-IT}}</ref> After the war, the railway was abandoned in favour of the [[San Marino Highway]].<ref name=":92" /><ref name=":302">{{Cite journal|last=Giuliani-Balestrino|first=Maria Clotilde|date=2005|title=La superstrada Rimini-San Marino|trans-title=The Rimini-San Marino railway|url=https://studiericerche.org/wp-content/uploads/2020/07/Giuliani-Balestrino-1-4.pdf|journal=Studi e Ricerche di Geografia|language=it-IT|volume=29|issue=1|pages=1–4}}</ref> In 2012, an {{convert|800|m|mi|abbr=off|adj=on|frac=2}} section was reopened as a heritage railway in the City of San Marino, running between Piazzale della Stazione and near Via Napoleone.<ref name=":182" /> The restored section comprises the original railway's final horseshoe turn through the {{convert|502|m|ft|abbr=off|adj=on}} Montale tunnel.<ref name=":292">{{Cite web|last=Vilmos|first=Oszter|date=12 August 2012|title=Kis ország, kis( )vasút|trans-title=Small country, small railway|url=https://iho.hu/hirek/kis-orszag-kis-vasut-120812|access-date=5 November 2023|website=Indóház Online|language=hu}}</ref><ref name=":282">{{Cite web|title=Galleria 'Montale': ex-ferrovia Rimini-San Marino|trans-title='Montale' Tunnel: Rimini-San Marino ex-railway|url=https://www.sdaprogetti.it/it-IT/progetto/galleria|access-date=5 November 2023|website=sdaprogetti.it|language=it-IT}}</ref>
+
+Despite its short operational history, the Rimini–San Marino railway retains an important place in Sammarinese culture and history,<ref name=":302" /> and has featured on Sammarinese postal stamps.<ref>{{Cite web|date=14 February 2018|title=Decreto Delegato 14 febbraio 2018 n.16|trans-title=Delegated decree 14 February 2018 number 16|url=https://www.consigliograndeegenerale.sm/on-line/home/organismi-istituzionali-e-commissioni-consiliari/commissioni-consiliari-permanenti/scheda17157052.html|access-date=5 November 2023|website=[[Grand and General Council]]|language=it-SM}}</ref><ref name=":35">{{Cite web |last=Macina |first=Chiara |date=14 September 2015 |title=Il Trenino Biancazzurro: le caratteristiche |trans-title=The White-Blue Train: Characteristics |url=https://www.zoomma.news/il-trenino-biancazzurro-le-caratteristiche/ |access-date=10 December 2023 |website=Zoomma |language=it-IT}}</ref><ref name=":36">{{Cite journal |last=Piccioni |first=Elisabetta |date=April 2011 |title=Il Viaggio Interrotto: La Ferrovia Elettrica Rimini–San Marino |trans-title=The Interrupted Journey: The Rimini–San Marino Electric Railway |journal=I Martedì |language=it-IT |location=Bologna |publisher=Centro San Domenico |issue=292 |pages=18–22}}</ref><ref name=":31">{{Cite web |last=Bosi |first=Giovanni |date=24 May 2012 |title=Rimini - San Marino, la (ex) ferrovia rimasta nel cuore |trans-title=Rimini-San Marino: The (ex-)railway that has remained in the heart |url=http://www.turismoitalianews.it/collezionismo/34-collezionismo/202-rimini-san-marino-la-ferrovia-rimasta-nel-cuore |access-date=23 November 2023 |website=www.turismoitalianews.it |language=it-it}}</ref> Both the Sammarinese and Italian governments have expressed interest in reopening the line.<ref name=":182" /><ref name=":10">{{Cite web |date=17 October 2023 |title=...e corre, corre, corre la locomotiva |trans-title=...And the locomotive runs, runs, runs. |url=https://sanmarinofixing.com/2022/07/08/e-corre-corre-corre-la-locomotiva/ |access-date=3 November 2023 |website=San Marino Fixing |language=it-SM}}</ref><ref name=":26">{{Cite web|last=|first=|date=28 December 2022|title='La Ferrovia Elettrica San Marino-Rimini', il libro che celebra i 90 anni del Treno Bianco Azzurro, presentato alla Reggenza|trans-title="The San Marino-Rimini Electric Railway", the book celebrating the 90 years of the White and Blue Train, is presented to the Regency|url=https://www.sanmarinortv.sm/news/attualita-c4/la-ferrovia-elettrica-san-marino-rimini-il-libro-che-celebra-i-90-anni-del-treno-bianco-azzurro-presentato-alla-reggenza-a234332|access-date=2 November 2023|website=[[San Marino RTV]]|language=it}}</ref><ref name=":27">{{Cite web |last=Barducci |first=Giacomo |date=2 September 2022 |title=San Marino: torna il Treno Bianco Azzurro |trans-title=San Marino: The White and Blue Train returns |url=https://www.sanmarinortv.sm/news/attualita-c4/san-marino-torna-il-treno-bianco-azzurro-a228706 |access-date=2 November 2023 |website=[[San Marino RTV]] |language=it-SM}}</ref><ref name=":37">{{Cite web |last= |first= |date=28 June 2012 |title=L'idea: ripristinare la ferrovia tra Rimini e San Marino |trans-title=The idea: Restore the railway between Rimini and San Marino |url=https://www.ilrestodelcarlino.it/rimini/cronaca/2012/06/28/736096-ferrovia-rimini-san-marino.shtml |access-date=10 December 2023 |website=[[Il Resto del Carlino]] |language=it-IT}}</ref> Between 1921 and 1960, San Marino was also served by a station on the [[Rimini–Novafeltria railway]] in Torello, on the other side of the international border from [[Gualdicciolo]] in San Marino's west.<ref name=":332">{{Cite web|last=|first=|date=17 June 2023|title=18 giugno 1922 - Completata la ferrovia Rimini - Novafeltria|trans-title=18 June 1922: The Rimini-Novafeltria railway is completed|url=https://www.chiamamicitta.it/18-giugno-1922-inaugura-la-ferrovia-rimini-novafeltria/|access-date=23 November 2023|website=Chiamami Città|language=it-IT}}</ref> This provided San Marino its first railway station, albeit located in Italian territory.<ref name=":302"/><ref>{{Cite web|title=Ferrovia Rimini Centrale-Novafeltria|trans-title=Rimini Centrale-Novafeltria railway|url=https://www.ferrovieabbandonate.it/linea_dismessa.php?id=140|access-date=10 December 2023|website=www.ferrovieabbandonate.it}}</ref>
+
+== Demographics ==
+{{Main|Demographics of San Marino}}
+
+As of September 2023, San Marino is estimated to number 33,896 residents. Of these, 28,226 have Sammarinese citizenship, while 4,881 have Italian citizenship, with 789 citizens of other countries.<ref>{{Cite web|year=2023|title=Bollettino di Statistica III Trimestre 2023|trans-title=Statistics Bulletin Third Trimester 2023|url=https://www.statistica.sm/pub1/StatisticaSM/dam/jcr:75d58411-8bca-4fa3-9c2c-2a3cce8e14bd/Bollettino_202309.pdf|access-date=9 February 2023}}</ref><ref name="refugees">{{cite web |title=San Marino during World War II |url=https://www.britannica.com/place/San-Marino/History |website=Encyclopaedia Britannica |access-date=8 April 2026}}</ref> Another 13,000 Sammarinese live abroad (6,600 in Italy, 3,000 in the US, 2,000 in France and Argentina).<ref>{{Cite web|title=Statistica San Marino|url=https://www.statistica.sm/contents/instance15/files/document/14130079SammarinesiResid.pdf|url-status=dead|archive-url=https://web.archive.org/web/20220214141709/https://www.statistica.sm/contents/instance15/files/document/14130079SammarinesiResid.pdf|archive-date=14 February 2022|access-date=8 June 2024}}</ref> The first census since 1976 was conducted in 2010. Results were expected by the end of 2011; however, 13% of families did not return their forms.{{Citation needed|date=February 2024}} The official language of San Marino is [[Italian language|Italian]].<ref>{{Cite web |date=3 February 2025 |title=San Marino {{!}} Geography, History, Capital, & Language {{!}} Britannica |url=https://www.britannica.com/place/San-Marino-republic-Europe |access-date=18 February 2025 |website=www.britannica.com |language=en}}</ref> The Sammarinese dialect of [[Romagnol language|Romagnol]] is also spoken, mainly by the elderly. It is considered an [[endangered language]].<ref>{{Cite journal |last=Montanari |first=Simona |date=27 November 2018 |title=Sammarinese, the Endangered Language of the Republic of San Marino: A Preliminary Study of Documentation and Description |url=https://www.degruyter.com/document/doi/10.1515/dialect-2018-0004/html |journal=Dialectologia et Geolinguistica |language=en |volume=26 |issue=1 |pages=57–95 |doi=10.1515/dialect-2018-0004 |issn=1867-0903|url-access=subscription }}</ref>
+
+=== Notable people ===
+{{Unreferenced section|date=August 2022}}
+* [[Giovanni Battista Belluzzi]] (1506 in San Marino – 1554), architect
+* [[Francesco Maria Marini]] ({{fl.|1637}}), composer of early [[Baroque music]]
+* [[Francesco de' Marini]] (1630 in Genova – 1700), [[Catholic Church|Catholic]] archbishop
+* [[Antonio Onofri]] (1759–1825), statesman, "Father of his Country".
+* [[Little Tony (singer)|Little Tony]] (1941 in Tivoli – 2013), pop and rock musician
+* [[Luciano Maiani]] (born 1941 in Rome), physicist and Director-General of CERN.
+* [[Pasquale Valentini]] (born 1953 in San Marino), politician who has held multiple ministerial posts
+* [[Massimo Bonini]] (born 1959 in San Marino), football player who played for [[Juventus FC|Juventus]]
+* [[Marco Macina]] (born 1964 in San Marino), footballer who played for [[Bologna F.C. 1909|Bologna FC]], [[Parma Calcio 1913|Parma]], [[A.C. Reggiana 1919|Reggiana]], and [[A.C. Milan|AC Milan]].
+* [[Valentina Monetta]] (born 1975 in San Marino), singer who represented San Marino four times in the [[Eurovision Song Contest]]
+* [[Manuel Poggiali]] (born 1983 in San Marino), Grand Prix motorcycle road racing World Champion
+* [[Alex de Angelis]] (born 1984 in [[Rimini]]), Grand Prix motorcycle road racer
+* [[Alessandra Perilli]] (born 1988 in Rimini), shooting Olympic silver and bronze medalist and first San Marino citizen to win a medal ([[2020 Summer Olympics|Tokyo 2020]])
+* [[Gian Marco Berti]] (born 1982 in San Marino), shooting Olympic silver medalist and second San Marino citizen to win a medal (Tokyo 2020)
+* [[Myles Amine|Myles Nazem Amine]] (born 1996 in [[Dearborn, Michigan|Dearborn]], Michigan), 2020 86&nbsp;kg wrestling Olympic bronze medalist and third San Marino citizen to win a medal (Tokyo 2020)
+* [[Chiara Beccari]] (born 2004 in San Marino), football player for [[Juventus FC|Juventus]]
+
+=== Religion ===
+{{Main|Religion in San Marino}}
+
+[[File:Cathedral San Marino - Exterior.jpg|thumb|right|[[Basilica di San Marino|Basilica of San Marino]]]]
+
+San Marino is a predominantly [[Catholic Church|Catholic]] state,<ref name="cia"/> though Catholicism is not an [[established religion]]. 97.2% of the population professed the Catholic faith in 2011, and approximately half of those regularly attend church. There is no [[episcopal see]] in San Marino, although its name is part of the present diocesan title. Historically, the various parishes in San Marino were divided between two Italian [[diocese]]s, mostly in the [[Diocese of Montefeltro]], and partly in the [[Diocese of Rimini]]. In 1977, the border between [[Montefeltro]] and [[Rimini]] was readjusted so that all of San Marino fell within the diocese of Montefeltro. The [[Roman Catholic Diocese of San Marino-Montefeltro|bishop of Montefeltro-San Marino]] resides in [[Pennabilli]], in Italy's province of [[Province of Pesaro and Urbino|Pesaro e Urbino]]. The country's high Catholic majority can mainly be traced back to the country's founding, when [[Saint Marinus]] set up the first fortress to protect Christians from Roman persecution.<ref>{{cite web|title=San Marino historical origins|url=https://www.sanmarinosite.com/en/history/origins-of-san-marino/|website=Sanmarinosite.com|date=30 October 2014|access-date=10 August 2021}}</ref>
+
+The small state's culture has primarily remained Catholic. There is a provision under the income tax rules that taxpayers have the right to request the allocation of 0.3% of their income tax to the Catholic Church or to charities. The [[Roman Catholic Diocese of San Marino-Montefeltro|Diocese of San Marino-Montefeltro]] was until 1977 the historic diocese of Montefeltro. It is a [[suffragan diocese|suffragan]] of the [[metropolis (religious jurisdiction)|metropolitan]] [[Archdiocese of Ravenna-Cervia]].<ref>{{Catholic-hierarchy|diocese|dsmmi|Diocese of San Marino-Montefeltro|21 January 2015}}</ref> The diocese includes all the [[parish]]es of San Marino. The earliest mention of [[Montefeltro]], as ''Mona Feretri'', is in the diplomas by which [[Charlemagne]] confirmed the [[donation of Pepin]]. The first known bishop of Montefeltro was Agatho (826), whose residence was at [[San Leo]]. Under Bishop Flaminios Dondi (1724) the see was again transferred to San Leo, but later it returned to Pennabilli. The historic diocese was a suffragan of the [[archdiocese of Urbino]].<ref name="newadvent.org">{{cite web|last1=Knight|first1=Kevin|url=https://www.newadvent.org/cathen/10528a.htm|title=Diocese of Montefeltro|year=2009|publisher=newadvent.org|access-date=25 November 2012}}</ref> Since 1988, there is formally an [[apostolic nunciature]] to the republic, but it is vested in the nuncio to Italy.
+
+Other faiths include the [[Waldensians|Waldensian Church]] and [[Jehovah's Witnesses]].
+There has been a [[Jew]]ish presence in San Marino for at least 600 years.<ref name="JewishEncyclopedia.com">{{cite encyclopedia|url=http://www.jewishencyclopedia.com/articles/13163-san-marino|title=San Marino|encyclopedia=1906 Jewish Encyclopedia|access-date=25 November 2012}}</ref> The first mention of Jews in San Marino dates to the late 14th century, in official documents recording the business transactions of Jews. There are many documents throughout the 15th to 17th centuries describing Jewish dealings and verifying the presence of a Jewish community in San Marino.<ref>{{cite web|url=http://www.publibook.com/librairie/livre-universitaire.php?isbn=9782748372236|title=La communauté juive de la République de Saint-Marin, XVIe-XVIIe siècles (UNIVERSITAIRE)|work=Publibook|url-status=dead|archive-url=https://web.archive.org/web/20141009115356/http://www.publibook.com/librairie/livre-universitaire.php?isbn=9782748372236|archive-date=9 October 2014}}</ref> Jews were permitted official protection by the government. During [[World War II]], San Marino provided a haven for more than 100,000 Jews and other Italians (approximately 10 times the Sammarinese population at the time) from [[Nazism|Nazi]] persecution. {{As of|2012}}, few Jews remain.<ref name="jewishvirtuallibrary.org">{{cite web|last1=Sheib|first1=Ariel|title=Virtual Jewish history tour: San Marino|url=https://www.jewishvirtuallibrary.org/jsource/vjw/san_marino.html|publisher=jewishvirtuallibrary.org|access-date=25 November 2012}}</ref> In 2019, the sculpture ''Dialogue'' by [[Michele Chiaruzzi]] was inaugurated at Saint Anne Chapel, the first monument of its kind devoted to interfaith dialogue.<ref name="AJB Video">{{cite web|url=https://m.youtube.com/watch?feature=youtu.be&v=9JMaBpUpOtM|title=Kapela tri religije [Chapel of the Three Religions]|date=14 October 2019|publisher=[[Al Jazeera Media Network|Al Jazeera]]|language=Bosnian|access-date=16 October 2019}}</ref> San Marino also holds the first [[Shinto shrine]] built in Europe approved by the [[Association of Shinto Shrines]], that being the [[San Marino Shrine|San Marino Jinja]].<ref>{{Cite web |title=SAN MARINO JINJA |url=https://www.sanmarinojinja.com/en/ |archive-url=https://web.archive.org/web/20160527102224/http://www.sanmarinojinja.com/en/ |url-status=usurped |archive-date=27 May 2016 |website=San Marino Jinja |language=en-GB}}</ref>
+
+{| class="wikitable"
+|+Religions in San Marino (2011)<ref name="cia"/>
+
+|-
+!| Religion !! %
+|-
+|| [[Catholic Church|Catholic]]|| 97.2%
+|-
+|| [[Protestant]]|| 1.1%
+|-
+|| Other Christian|| 0.7%
+|-
+|| [[Jewish]]|| 0.1%
+|-
+|| Other|| 0.1%
+|-
+|| Not religious|| 0.7%
+|-
+|| No answer|| 0.1%
+|}
+
+=== Education ===
+The {{Lang|it|Università degli Studi della Repubblica di San Marino}} ([[University of the Republic of San Marino]])<ref>{{cite web|url=http://www.unirsm.sm/|title=Università degli Studi di San Marino|publisher=Unirsm.sm|access-date=24 October 2009|archive-date=11 May 2011|archive-url=https://web.archive.org/web/20110511115329/http://www.unirsm.sm/|url-status=dead}}</ref> is the main university, which includes the ''[[Scuola Superiore di Studi Storici di San Marino]]'' (Graduate School of Historical Studies), a distinguished research and advanced international study centre governed by an international Scientific Committee coordinated by the emeritus historian [[Luciano Canfora]]. An important music institution is the {{Lang|it|Istituto Musicale Sammarinese}} (Sammarinese Musical Institute).<ref>{{cite web|url=http://www.ims.sm/|title=Istituto Musicale Sammarinese|publisher=Ims.sm|access-date=24 October 2009}}</ref>
+
+The [[Akademio Internacia de la Sciencoj San Marino]] or {{Lang|it|Accademia Internazionale delle Scienze San Marino}} (International Academy of Sciences San Marino) was known for adopting [[Esperanto language|Esperanto]] as the language for teaching and for scientific publications.<ref>{{cite web|url=http://www.ais-sanmarino.org/|title=Accademia Internazionale delle Scienze|publisher=Ais-sanmarino.org|access-date=24 October 2009}}</ref> The Akademio was dissolved in 2020.<ref>{{Cite web|url=https://www.liberafolio.org/2020/12/31/la-sanmarina-ais-estas-malfondita/|title = La Sanmarina AIS estas malfondita|date = 31 December 2020}}</ref>
+
+== Culture ==
+[[File:Pompeo batoni san marino risolleva la repubblica by stefano bolognini.JPG|thumb|upright=0.9|A painting in the Museo di Stato di San Marino by [[Pompeo Batoni]]]]
+The [[Three Towers of San Marino]] are located on the three peaks of [[Monte Titano]] in the capital. They are depicted on the [[Coat of Arms of San Marino|coat of arms]], which is itself contained on the [[flag of San Marino]]. The three towers are: ''[[Guaita]]'', the oldest of the three (it was constructed in the 11th century); the 13th-century ''[[Cesta, San Marino|Cesta]]'', located on the highest of Monte Titano's summits; and the 14th-century ''[[Montale (San Marino)|Montale]]'', on the smallest of Monte Titano's summits, still privately owned.
+
+=== UNESCO ===
+The site San Marino: Historic Centre and Mount Titano became part of the [[UNESCO]] World Heritage List in 2008.<ref name="UNESCO1245"/> The decision was taken during the 32nd Session of the UNESCO [[World Heritage Committee]] composed of 21 countries convened in Québec, Canada.
+
+=== Museums and galleries ===
+There are a number of state-run national museums and galleries based in San Marino.<ref>{{cite web |title=National Museums |url=https://www.museidistato.sm/ |website=Istituti Culturali di San Marino |access-date=18 September 2024}}</ref><ref>{{cite web |title=Museums |url=https://www.sanmarinosite.com/en/things-to-see/discover-museums/ |website=San Marino Site |date=7 October 2014 |access-date=18 September 2024}}</ref>
+
+==== Museo delle Armi Antiche ====
+The Museum of Ancient Arms is dedicated to ancient weapons, uniforms, armour and experimental weapons.
+
+==== Museo di Stato ====
+The State Museum has a permanent art collection dedicated to the history and legends of the Republic. Many of these pieces originally came from public and religious buildings in the City of San Marino.<ref>{{cite web |title=State Museum |url=https://www.museidistato.sm/museoStato.html |website=Instituti Culturali di San Marino |access-date=18 November 2024}}</ref> Also on display are paintings and objects from the Monastery of Saint Chiara. As well as the permanent collection, the museum also hosts temporary exhibitions such as Mario Ferretti: An Artistic Restlessness of the 20th Century.<ref>{{cite web |title=Mario Ferretti Exhibition |url=https://www.consolatosanmarino.uk/it/news/mario-ferretti-exhibition/ |website=Consolato della Repubblica di San Marino in Regno Unito |date=17 September 2024 |access-date=18 November 2024}}</ref> The main room of the museum displays paintings by [[Guercino]] and his pupils, [[Cesare Gennari]] and [[Benedetto Gennari]], [[Matteo Loves]] and [[Elisabetta Sirani]]. The works in an adjacent room are dedicated to the two patron saints of the Republic, Saint Marino and Saint Agata. There are also objects, such as urns and plates, that are used by San Marino institutions. Other items on display are panel paintings and sculptures from the 15th and 16th centuries.
+
+==== Pinacoteca di San Francesco ====
+The St Francis art gallery displays archaeological, artistic and numismatic collections.
+
+==== Galleria Nazionale ====
+The National Gallery is for the protection, conservation and enhancement of the UNESCO heritage.
+
+==== Museo del Francobollo e della Moneta ====
+The museum is dedicated to the stamps and coins of San Marino.
+
+==== Galleria d’Arte Moderna e Contemporanea ====
+The Modern and Contemporary Art Gallery hosts more than 1,000 works dating from the period between the first decade of the 20th century to the present.
+
+==== Museo dell’Emigrante ====
+The Museum of the Emigrant is a permanent study centre dedicated to emigration. It opened in 1997 and is housed in the Monastery of Santa Chiara.
+
+==== Museo di Storia Naturale ====
+The Museum of Natural History is based in the San Marino Natural History Centre in the Borgo Maggiore municipality.
+
+=== Theatre ===
+The [[Teatro Nuovo (Serravalle)]] is a [[Theater (structure)|theatre]] of the Republic of San Marino located in [[Dogana]], a town in the [[Serravalle (San Marino)|Serravalle]] municipality ("castello"), not far from the border with [[Italy]]. It has a capacity of 872 seats of which 604 are in the stalls and is the largest theatre in the republic.<ref>{{cite web|url=http://www.centrocongressisanmarino.sm/on-line/Home/Altresedi/TeatroNuovo.html|title=Informazioni sul Teatro Nuovo|archive-url=https://web.archive.org/web/20120703064835/http://www.centrocongressisanmarino.sm/on-line/Home/Altresedi/TeatroNuovo.html|archive-date=3 July 2012|language=it}}</ref><ref>{{cite web|url=http://www.agenda.sm/uascteatro/|title=Stagione teatrale sammarinese|archive-url=https://web.archive.org/web/20050312224854/http://www.agenda.sm/uascteatro/|archive-date=12 March 2005|language=it}}</ref>
+
+=== Music ===
+{{Main|Music of San Marino}}
+
+{{See also|San Marino in the Eurovision Song Contest}}
+
+The country has a long and rich musical tradition, closely linked to that of Italy, but which is also highly independent in itself. A well-known 17th-century composer is [[Francesco Maria Marini]],<ref>{{cite encyclopedia |last=Roche |first=Jerome |author-link=Jerome Roche |others=Revised by Elizabeth Roche |year=2001 |encyclopedia=[[Grove Music Online]] |title=Marini, Francesco Maria |publisher=[[Oxford University Press]] |location=Oxford |doi=10.1093/gmo/9781561592630.article.17805 |isbn=978-1-56159-263-0 |url-access=subscription |url=https://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000017805 }} {{Grove Music subscription}}</ref><ref>{{cite encyclopedia |last=Peretti |first=Paolo |year=2008 |encyclopedia=[[Dizionario Biografico degli Italiani]] |title=Marini, Francesco Maria |publisher=[[Treccani]] |language=Italian |volume=70 |url=https://www.treccani.it/enciclopedia/francesco-maria-marini_(Dizionario-Biografico)/ }}</ref> while the noted luthier [[Marino Capicchioni]] was born and raised in the country.<ref>{{cite encyclopedia |editor-last=Wilson |editor-first=Thomas M. |year=2023 |encyclopedia=Europe: An Encyclopedia of Culture and Society |title=Music and Dance |page=806 |publisher=[[Bloomsbury Publishing]] |location=London |isbn=978-1-4408-5545-0 |url={{google books|plainurl=y|id=pQjcEAAAQBAJ}} }}</ref> The pop singer [[Little Tony (singer)|Little Tony]] achieved considerable success in the United Kingdom and Italy in the 1950s and 1960s.<ref>{{cite web|title=Little Tony|url=https://www.treccani.it/enciclopedia/little-tony/|website=Treccani|access-date=26 April 2024|language=Italian}}</ref> [[San Marino in the Eurovision Song Contest|San Marino]] has taken part in the [[Eurovision Song Contest]] twelve times, achieving four final qualifications to date (with then-three, eventually four-time contestant and San Marino native [[Valentina Monetta]] with "[[Maybe (Valentina Monetta song)|Maybe]]" in [[Eurovision Song Contest 2014|2014]], Turkish singer [[Serhat (singer)|Serhat]] with "[[Say Na Na Na]]" who achieved 19th place in the final in [[Eurovision Song Contest 2019|2019]], Italian singer [[Senhit (singer)|Senhit]] along with American rapper [[Flo Rida]] who qualified for the [[Eurovision Song Contest 2021|2021]] final with the song "[[Adrenalina (Senhit song)|Adrenalina]]" and Italian DJ and producer [[Gabry Ponte]] who qualified for the [[Eurovision Song Contest 2025|2025]] final with the song "[[Tutta l'Italia]]").
+
+=== Cuisine ===
+{{Main|Sammarinese cuisine}}
+
+[[File:Piadina.jpg|thumb|upright=0.9|A ''[[piadina]]'', a dish characteristic of the Italian region of Romagna and of San Marino]]
+The cuisine of San Marino is extremely similar to central [[Italian cuisine]], especially that of the adjoining [[Emilia-Romagna]] and [[Marche]] regions, but it has a number of its own unique dishes and products.<ref name="Marshall Cavendish 2010">{{cite book|title=World and Its Peoples|publisher=Marshall Cavendish Reference|series=World and Its Peoples: Europe|year=2010|isbn=978-0-7614-7893-5|url=https://books.google.com/books?id=xcYVmUyHG2AC&pg=PA855|access-date=26 October 2017|page=855}}</ref> Its best known is probably the ''[[Torta Tre Monti]]'' ("Cake of the Three Mountains" or "Cake of the Three Towers"), a wafer layered cake covered in chocolate depicting the [[Three Towers of San Marino]]. The country also has a small [[Sammarinese wine|wine]] industry.
+
+=== Sport ===
+{{Main|Sport in San Marino}}
+
+{{See also|Football in San Marino|San Marino at the Olympics}}
+
+In San Marino, [[association football|football]] is the most popular sport. [[Basketball]] and [[volleyball]] are also popular. The three sports have their own federations, the [[San Marino Football Federation]], the [[San Marino Basketball Federation]] and the [[Federazione Sammarinese Pallavolo|San Marino Volleyball Federation]]. San Marino has a club in the [[Italian football league system]] called [[A.S.D.V. San Marino]] and a domestic amateur league, the [[Campionato Sammarinese]], whose teams also participate in European club competitions. Together with Italy, San Marino held the [[2019 UEFA European Under-21 Championship]], with teams playing at the [[Stadio Olimpico (San Marino)|Stadio Olimpico]] in [[Serravalle (San Marino)|Serravalle]]. With Italy being the sole automatic qualifiers, the Sammarinese team did not participate in the final tournament. The [[San Marino national football team]] has had little success, being made up of part-timers. The team has never qualified for a major tournament, and has recorded only three wins in the more than 25 years of its history. The first two,1–0 victories over [[Liechtenstein national football team|Liechtenstein]]; the first came in a 2004 friendly, and the second, their first competitive victory, came during the group stage of the [[2024–25 UEFA Nations League]].<ref>{{cite news|title=San Marino celebrate first win for 20 years with 1-0 victory over Liechtenstein|work=The New York Times |url=https://www.nytimes.com/athletic/5357123/2024/09/05/san-marino-win-liechtenstein/|access-date=5 September 2024|ref=44 |last1=Onyeagwara |first1=Nnamdi }}</ref>
+
+San Marino national football team's third win, a 3–1 victory against Liechtenstein was their first ever away victory. This carried additional prestige as it secured San Marino's promotion to league C for the 2026–27 UEFA Nations league, the greatest achievement in the team's history. They have drawn four more times, with their most notable result being a 1993 0–0 draw with [[Turkey national football team|Turkey]] during the [[1994 FIFA World Cup qualification (UEFA)|European qualifiers for the 1994 FIFA World Cup]].<ref>{{cite web|title=San Marino v Turkey|url=https://scoreshelf.com/gjbb/en/San_Marino/1994fwcSMR_v_TUR|website=Scoreshelf|access-date=15 March 2017|ref=45|url-status=dead|archive-url=https://web.archive.org/web/20170316114734/https://scoreshelf.com/gjbb/en/San_Marino/1994fwcSMR_v_TUR|archive-date=16 March 2017}}</ref> In the same qualifying competition, [[Davide Gualtieri]] scored a goal 8.3 seconds into a match against [[England national football team|England]]; this goal held the record for the fastest in international football until 2016.<ref>{{cite web|title=Christian Benteke nets fastest international goal in 8.1 seconds|url=http://www.espnfc.com/belgium/story/2969713/christian-benteke-nets-fastest-international-goal-in-81-seconds|website=Espnfc.com|date=10 October 2016|access-date=16 March 2017|ref=46}}</ref><ref>{{Cite news|last1=Bevan|first1=Chris|url=https://www.bbc.com/sport/football/19900296|title=Davide Gualtieri: The man from San Marino who shocked England|date=11 October 2012|publisher=BBC Sport|access-date=2 March 2020|language=en-GB}}</ref>
+
+[[File:GP Imola2005 SchumiAlonso.jpg|thumb|[[2005 San Marino Grand Prix]] held in [[Imola]], Italy]]
+A [[Formula One]] race, the [[San Marino Grand Prix]], was named after the state, although it did not take place there. Instead, it was held at the [[Autodromo Enzo e Dino Ferrari]] in the Italian town of [[Imola]], about {{convert|100|km|-1|abbr=on}} northwest of San Marino. [[Roland Ratzenberger]] and [[Ayrton Senna]] suffered fatal accidents a day apart during the [[1994 San Marino Grand Prix|1994 Grand Prix]]. This international event was removed from the calendar in [[2007 Formula One season|2007]], although the circuit returned to the calendar from 2020 to 2025 as the [[Emilia Romagna Grand Prix]]. The [[San Marino and Rimini's Coast motorcycle Grand Prix]] was reinstated in the schedule in 2007 and takes place at the [[Misano World Circuit Marco Simoncelli]], as does San Marino's round of the [[World Superbike Championship]].
+
+San Marino has [[San Marino (baseball team)|a professional baseball team]] which plays in [[Italian Baseball League|Italy's top division]]. It has participated in the [[European Cup (baseball)|European Cup]] tournament for the continent's top club sides several times, hosting the event in 1996, 2000, 2004, and [[2007 European Cup (baseball)|2007]]. It won the championship in [[2006 Final Four (baseball)|2006]], [[2011 Final Four (baseball)|2011]], and [[2014 Final Four (baseball)|2014]]. Shooting is also very popular in San Marino, with many shooters having taken part in international competitions and the [[Olympic Games]]. At the [[2020 Summer Olympics]], San Marino became the smallest country to earn an Olympic medal when [[Alessandra Perilli]] won a bronze medal in the [[Shooting at the 2020 Summer Olympics – Women's trap|women's trap]].<ref>{{cite web|title=Olympics-Shooting-Tears of joy as San Marino becomes smallest Olympic medal-winning nation|url=https://sports.yahoo.com/olympics-shooting-tears-joy-san-152102783.html|access-date=31 July 2021|website=sports.yahoo.com|date=29 July 2021}}</ref> They later won another medal, this one silver, with Perilli's and [[Gian Marco Berti]]'s performance in the [[Shooting at the 2020 Summer Olympics – Mixed trap team|mixed trap shooting event]].<ref>{{Cite news|last=Mather|first=Victor|date=31 July 2021|title=San Marino becomes the smallest country to win an Olympic medal.|work=The New York Times|url=https://www.nytimes.com/2021/07/31/sports/olympics/san-marino-smallest-country-olympic-medal.html|access-date=15 September 2022}}</ref>
+
+=== Public holidays and festivals ===
+{{Main|Public holidays in San Marino}}
+
+{| class="wikitable"
+|-
+! Date
+! Name
+! Explanation
+|-
+|1 January
+| [[New Year's Day]]
+|Festival marking the beginning of the new year
+|-
+|6 January
+| [[Epiphany (holiday)|Epiphany]]
+|Commemorates the visit of the [[three wise men]] or magi to the infant Jesus
+|-
+|5 February
+| [[Feast of Saint Agatha]]
+|[[Feast of Saint Agatha|Commemoration of Saint Agatha]], co-patroness of the Republic after the country was liberated from foreign rule on her feast day in 1740<ref name="Annio Maria Matteimi 2011, p. 23"/>
+|-
+| Variable, the first Sunday after the [[Paschal full moon|first full moon]] after the [[equinox|vernal equinox]]
+| [[Easter]]
+|[[Resurrection of Jesus]]
+|-
+| Variable, the Monday after Easter Sunday
+| [[Easter Monday]]
+|Monday after Easter day
+|-
+|25 March
+| Anniversary of the [[Arengo]]
+|Anniversary of the [[1906 Sammarinese citizenry meeting|1906 Arengo]] and the Festa delle Milizie (Feast of the Militants)
+|-
+|1 May
+| [[Labour Day]]
+|Celebration of workers and employees
+|-
+|''Variable'', the first Thursday after [[Trinity Sunday]]
+| [[Corpus Christi (feast)|Corpus Christi]]
+|Commemoration of the body and blood of Jesus Christ
+|-
+|28 July
+| Liberation from Fascism
+|Commemoration of the fall of the [[Sammarinese Fascist Party]]
+|-
+|15 August
+| [[Ferragosto]] (Assumption)
+|Commemoration of the [[Assumption of Mary|Virgin Mary's assumption]] into heaven
+|-
+|3 September
+| The Feast of [[Saint Marinus]] and the Republic
+|National feast of Saint Marinus (San Marino), celebrating the origin of the Republic in 301
+|-
+|1 November
+| [[All Saints' Day]]
+|Feast dedicated to all saints
+|-
+|2 November
+| Commemoration of all those who died at war
+|Remembrance of all those who gave their lives for San Marino in war
+|-
+|8 December
+| [[Immaculate Conception]]
+|Remembrance of the Virgin Mary's conception without original sin
+|-
+|24 December
+| [[Christmas Eve]]
+|Day before the commemoration of the birth of [[Jesus]]
+|-
+|25 December
+| [[Christmas]]
+|Birth of [[Jesus]]
+|-
+|26 December
+| [[Saint Stephen's Day]]
+|Commemoration of the death of [[Saint Stephen]], the first Christian martyr
+|-
+|31 December
+| [[New Year's Eve]]
+|Celebration which closes and marks the end of the year
+|}
+
+== See also ==
+{{Portal|Countries|Italy|Europe|Geography
+}}
+* [[Outline of San Marino]]
+* [[Order of San Marino]]
+* [[Order of Saint Agatha]]
+* ''[[Associazione Guide Esploratori Cattolici Sammarinesi]]''
+{{Clear}}
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Sister project links|q=no|s=Portal:San Marino|voy=San Marino}}
+<!-- Please do not turn these bullets into headers! They expand the TOC too much. -->
+* [https://www.gov.sm/ Benvenuti in GOV.SM] Official government website
+* [https://agency.sm/ Economic Development Agency Chamber of Commerce] {{Webarchive|url=https://web.archive.org/web/20220818082325/https://agency.sm/ |date=18 August 2022 }} Economic Development Agency website portal
+* {{osmrelation|54624}}
+
+{{San Marino topics}}
+{{Countries of Europe}}
+{{Portal bar|Countries|Italy|Europe|Geography}}
+{{Authority control}}
+
+[[Category:San Marino| ]]<!--please leave the empty space as standard-->
+[[Category:301 establishments]]
+[[Category:Countries and territories where Italian is an official language]]
+[[Category:Countries in Europe]]
+[[Category:Diarchies]]
+[[Category:Enclaved countries]]
+[[Category:Landlocked countries]]
+[[Category:Member states of the Council of Europe]]
+[[Category:Member states of the United Nations]]
+[[Category:Republics]]
+[[Category:States and territories established in the 300s]]
+[[Category:Microstates in Europe]]

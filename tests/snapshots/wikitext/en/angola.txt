@@ -6,8 +6,8 @@
 {{Infobox country
 | conventional_long_name = Republic of Angola
 | common_name            = Angola
-| native_name            = {{native name|pt|República de Angola}}
-| image_flag             = Flag of Angola.svg<!-- DO NOT ADD the proposed flag; you WILL be reverted and warned! -->
+| native_name            = {{lang|pt|República de Angola}}
+| image_flag             = Flag of Angola.svg<!-- DO NOT add the proposed flag; you WILL be reverted and warned! -->
 | image_coat             = Emblem of Angola.svg
 | symbol_type            = Emblem
 | national_anthem        = {{lang|pt|[[Angola Avante]]}}<br />({{Langx|en|Forward Angola}})[[File:Angolan-National-Anthem-_US-Navy-Band.ogg]]
@@ -31,15 +31,12 @@
 | languages2_type        = National languages
 | languages2             = [[Chokwe language|Chokwe]], [[Kimbundu]], [[Kongo language|Kikongo]], [[Ovambo language|Oshiwambo]], [[Luchazi]], [[Umbundu]]
 | ethnic_groups          = {{unbulleted list
-| 37% [[Ovimbundu]]
-| 25% [[Ambundu]]
-| 13% [[Kongo people|Bakongo]]
-| 21% other African
-| 2% [[Mestiço#Mestiço community in Angola|Mestiço]] (mixed European and African)
-| 2% [[Asian people|Asian]]
-| 1% [[White Angolans|European]]}}
-| ethnic_groups_ref      = <ref>{{cite web|title=Main ethnic groups in Angola 2021|url=https://www.statista.com/statistics/1202261/share-of-ethnic-groups-in-angola/|website=Statista|access-date=10 March 2023|archive-date=10 March 2023|archive-url=https://web.archive.org/web/20230310222030/https://www.statista.com/statistics/1202261/share-of-ethnic-groups-in-angola/|url-status=live}}</ref>
-| ethnic_groups_year     = 2021
+| 29% [[Ovimbundu]]
+| 27% [[Ambundu]]
+| 14% [[Kongo people|Bakongo]]
+| 30% others}}
+| ethnic_groups_ref      = <ref>{{cite web | title=General Report of the 2024 Census of Angola | url=https://censo2024.ine.gov.ao/Relatorio_Geral_Angola_Censo2024.pdf | access-date=2026-07-24 | language=pt}}</ref>
+| ethnic_groups_year     = 2024
 | demonym                = [[Demographics of Angola|Angolan]]
 | government_type        = Unitary [[presidential republic]]
 | leader_title1          = [[President of Angola|President]]
@@ -111,7 +108,7 @@ Since the end of the civil war in 2002, Angola has emerged as a relatively stabl
 Angola is a member of the [[United Nations]], [[African Union]], the [[Community of Portuguese Language Countries]], and the [[Southern African Development Community]]. {{As of|2024}}, the Angolan population is estimated at 36.6 million.<ref name="censoAO" /> [[Culture of Angola|Angolan culture]] reflects centuries of Portuguese influence, namely the predominance of the [[Portuguese language]] and of the [[Catholic Church]], intermingled with a variety of indigenous customs and traditions.
 
 ==Etymology==
-The name ''Angola'' is based on the [[Portuguese language|Portuguese]] colonial name {{lang|pt|[[Portuguese Angola|Reino de Angola]]}} ('Kingdom of Angola'), which appeared as early as [[Paulo Dias de Novais]]'s 1571 charter.<ref>{{Cite book |last1=Heywood |first1=Linda M. |url=https://books.google.com/books?id=S42CypbRTlQC&pg=PA82 |title=Central Africans, Atlantic Creoles, and the Foundation of the Americas, 1585–1660 |last2=Thornton |first2=John K. |date=2007 |publisher=Cambridge University Press |isbn=978-0521770651 |page=82 |archive-url=https://web.archive.org/web/20150320074507/http://books.google.com/books?id=S42CypbRTlQC&pg=PA82 |archive-date=20 March 2015}}</ref> The [[Toponymy|toponym]] was derived by the Portuguese from the title ''[[Ngola (title)|ngola]]'', held by the kings of [[Kingdom of Ndongo|Ndongo and Matamba]]. Ndongo in the [[highland]]s, between the [[Cuanza River|Kwanza]] and [[Lucala River|Lucala]] rivers, was nominally a possession of the [[Kingdom of Kongo]]. But in the 16th century it was seeking greater independence.<ref>{{Cite web |url=https://www.sahistory.org.za/article/kingdom-kongo-1390-1914 |title=Kingdom of Kongo 1390–1914 |last=Leander |date=18 May 2016 |website=South African History Online |access-date=25 February 2019 |archive-url=https://web.archive.org/web/20190223184815/https://www.sahistory.org.za/article/kingdom-kongo-1390-1914 |archive-date=23 February 2019 |url-status=live }}</ref>
+The name ''Angola'' is based on the [[Portuguese language|Portuguese]] colonial name {{lang|pt|[[Portuguese Angola|Reino de Angola]]}} ('Kingdom of Angola'), which appeared as early as [[Paulo Dias de Novais]]'s 1571 charter.<ref>{{Cite book |last1=Heywood |first1=Linda M. |url=https://books.google.com/books?id=S42CypbRTlQC&pg=PA82 |title=Central Africans, Atlantic Creoles, and the Foundation of the Americas, 1585–1660 |last2=Thornton |first2=John K. |date=2007 |publisher=Cambridge University Press |isbn=978-0521770651 |page=82 |archive-url=https://web.archive.org/web/20150320074507/http://books.google.com/books?id=S42CypbRTlQC&pg=PA82 |archive-date=20 March 2015}}</ref> The [[Toponymy|toponym]] was derived by the Portuguese from the title ''[[Ngola (title)|ngola]]'', held by the kings of [[Kingdom of Ndongo|Ndongo and Matamba]]. Ndongo in the [[highland]]s, between the [[Cuanza River|Kwanza]] and [[Lucala River|Lucala]] rivers, was nominally a possession of the [[Kingdom of Kongo]].<ref>{{Cite web |url=https://www.sahistory.org.za/article/kingdom-kongo-1390-1914 |title=Kingdom of Kongo 1390–1914 |last=Leander |date=18 May 2016 |website=South African History Online |access-date=25 February 2019 |archive-url=https://web.archive.org/web/20190223184815/https://www.sahistory.org.za/article/kingdom-kongo-1390-1914 |archive-date=23 February 2019 |url-status=live }}</ref>
 
 ==History==
 {{Main|History of Angola}}
@@ -566,7 +563,7 @@ The management of the [[top-level domain]] '[[.ao]]' passed from [[Portugal]] to
 
 [[File:Angola Ethnic map 1970.svg|thumb|Historical ethnic divisions of Angola]]
 [[File:Mapa Angola 2024 - Etnias.png|thumb|Current ethnic divisions of Angola]]
-Angola has a population of 36,604,681 inhabitants according to the results of its 2024 census.<ref name="censoAO" /> It is composed of [[Ovimbundu]] (language [[Umbundu]]) 29.1%, [[Northern Mbundu people|Ambundu]] (language [[Kimbundu]]) 27%, [[Bakongo]] 14%, and 29.5% other ethnic groups (including the [[Chokwe people|Chokwe]], the Nyaneka-Lumkumbi, the [[Ovambo people|Ovambo]], the [[Ganguela people|Ganguela]] and the [[Xindonga]]).<ref name="censoAO" /> The Ambundu and Ovimbundu ethnic groups combined form a majority of the population, at 56%.
+Angola has a population of 36,604,681 inhabitants according to the results of its 2024 census.<ref name="censoAO" /> It is composed of [[Ovimbundu]] 29%, [[Northern Mbundu people|Ambundu]] 27%, [[Bakongo]] 14%, and 30% other ethnic groups (including the [[Chokwe people|Chokwe]], the Nyaneka-Lumkumbi, the [[Ovambo people|Ovambo]], the [[Ganguela people|Ganguela]] and the [[Xindonga]]).<ref name="censoAO" /> The Ambundu and Ovimbundu ethnic groups combined form a majority of the population, at 56%.
 
 It is estimated that Angola was host to 12,100 refugees and 2,900 asylum seekers by the end of 2007. 11,400 of those refugees were originally from the Democratic Republic of Congo, who arrived in the 1970s.<ref>U.S. Committee for Refugees and Immigrants. [https://web.archive.org/web/20110126130051/http://www.refugees.org/countryreports.aspx?id=2117 "World Refugee Survey 2008"]. p. 37</ref> {{As of|2008}} there were an estimated 400,000 [[Democratic Republic of the Congo]] migrant workers,<ref>[http://www.unhcr.org/refworld/country,,USCRI,,COD,456d621e2,485f50c0c,0.html World Refugee Survey 2008 – Angola] {{webarchive|url=https://web.archive.org/web/20110510005710/http://www.unhcr.org/refworld/country%2C%2CUSCRI%2C%2CCOD%2C456d621e2%2C485f50c0c%2C0.html|date=10 May 2011}}, United Nations High Commission for Refugees. NB: This figure is highly doubtful, as it makes no clear distinction between migrant workers, refugees and immigrants.</ref> at least 220,000 [[Portuguese Angolans|Portuguese]],<ref name="Observatório da Emigração">{{cite web |title=José Eduardo dos Santos diz que trabalhadores portugueses são bem-vindos em Angola |trans-title=José Eduardo dos Santos says Portuguese workers are welcome in Angola |url=http://www.observatorioemigracao.secomunidades.pt/np4/3607.html|publisher=Observatório da Emigração|access-date=22 July 2013|quote=…presença de cerca de 200 mil trabalhadores portugueses no país…|archive-url=https://web.archive.org/web/20130920100459/http://www.observatorioemigracao.secomunidades.pt/np4/3607.html|archive-date=20 September 2013|url-status=dead}}</ref> and about 259,000 [[Chinese people in Angola|Chinese living in Angola]].<ref>{{cite web|url=https://visao.sapo.pt/angola-cerca-de-259000-chineses-vivem-atualmente-no-pais=f660830 |title=Angola: Cerca de 259.000 chineses vivem atualmente no país |trans-title=Angola: Around 259,000 Chinese currently live in the country |work=Visão|date=25 April 2012|access-date=13 January 2013|archive-url=https://web.archive.org/web/20130509165420/http://visao.sapo.pt/angola-cerca-de-259000-chineses-vivem-atualmente-no-pais=f660830|archive-date=9 May 2013|url-status=live}}</ref> 1 million Angolans are [[mixed race]] (black and white). Also, 40,000 [[Vietnamese people|Vietnamese]] live in the country.<ref name="HRW-2010" /><ref name="World Fact Book-2014" />
 

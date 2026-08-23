@@ -1,0 +1,759 @@
+{{short description|Country in the West Indies}}
+{{Redirect2|SKN|SKAN|other uses|SKN (disambiguation)|and|SKAN (disambiguation)}}
+{{Use dmy dates|date=November 2020}}
+{{Use British English|date=April 2013}}
+{{Infobox country
+| conventional_long_name = Federation of Saint Christopher and Nevis<br><small>or</small><br />Federation of Saint Kitts and Nevis
+| common_name            = Saint Kitts and Nevis
+| ethnic_groups          = {{unbulleted list
+|95.5% [[Afro-Caribbean]]
+|3.0% [[multiracial|Mixed]]
+|2.1% [[White Kittitians and Nevisians|European]]
+|1.6% [[Indians in Saint Kitts and Nevis|Indian]]
+|0.5% [[Demographics of Saint Kitts and Nevis|other]]
+|0.3% unspecified
+}}
+| ethnic_groups_year     = 2020
+| ethnic_groups_ref      = <ref name="cia.gov" />
+| religion               = {{ublist |item_style=white-space:nowrap;
+|{{Tree list}}
+*94.6% [[Christianity]]
+**81.3% [[Protestantism]]
+**13.3% other [[Christian]]
+{{Tree list/end}}
+  |2.6% [[Irreligion|no religion]]
+  |1.5% [[Hinduism in the West Indies|Hinduism]]
+  |1.3% other
+  }}
+| religion_year          = 2020
+| religion_ref           = <ref>{{cite web | url=https://www.thearda.com/world-religion/national-profiles?u=189c | title=National Profiles | access-date=18 October 2022 | archive-date=18 October 2022 | archive-url=https://web.archive.org/web/20221018124849/https://www.thearda.com/world-religion/national-profiles?u=189c | url-status=live }}</ref>
+| image_flag             = Flag of Saint Kitts and Nevis.svg
+| image_coat             = Coat of Arms of Saint Kitts and Nevis.svg
+| national_motto         = "Country Above Self"
+| national_anthem        = "[[O Land of Beauty!]]"<br /><div class="center" style="padding:4px 0">[[File:United States Navy Band - O Land of Beauty.ogg]]</div>
+| royal_anthem           = "[[God Save the King]]"<br /><div class="center" style="padding:4px 0">
+[[File:God Save The King (Royal Exchange 2022).wav]]</div>
+| image_map              = KNA orthographic.svg
+| image_map2             = 
+| map2_width             = 250px
+| capital                = [[Basseterre]]
+| coordinates            = {{Coord|17|18|N|62|44|W|type:city}}
+| largest_city           = [[Basseterre]]
+| official_languages     = [[English language|English]]
+| languages_type         = [[Vernacular language]]
+| languages              = [[Saint Kitts Creole]]
+| demonym                = {{hlist|Kittitian|Nevisian}}
+| government_type        = [[Federal monarchy|Federal]] parliamentary [[constitutional monarchy]]
+| leader_title1          = [[Monarchy of Saint Kitts and Nevis|Monarch]]
+| leader_name1           = [[Charles III]]
+| leader_title2          = {{nowrap|[[Governor-General of Saint Kitts and Nevis|Governor-General]]}}
+| leader_name2           = [[Marcella Liburd|Dame Marcella Liburd]]
+| leader_title3          = [[Prime Minister of Saint Kitts and Nevis|Prime Minister]]
+| leader_name3           = [[Terrance Drew]]
+| legislature            = [[National Assembly (Saint Kitts and Nevis)|National Assembly]]
+| sovereignty_type       = Independence
+| sovereignty_note       = from the [[United Kingdom]]
+| established_event1     = [[Associated Statehood Act 1967|Associated State]]
+| established_date1      = 27 February 1967
+| established_event2     = Independence declared
+| established_date2      = 19 September 1983
+| area_km2               = 261
+| area_rank              = 188th <!-- Should match [[List of countries and dependencies by area]] -->
+| area_sq_mi             = 104
+| percent_water          = Negligible
+| population_estimate    = 
+| population_census      = 54,338
+| population_estimate_year = 
+| population_census_rank = 187th
+| population_census_year = 2023
+| population_density_km2 = 164
+| population_density_sq_mi = 424
+| population_density_rank = 64th
+| GDP_PPP                = {{increase}} $1.8 billion
+| GDP_PPP_year           = 2023
+| GDP_PPP_per_capita     = {{increase}} $29,893<ref name="imf.org">{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=361,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2024&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |publisher=International Monetary Fund |date=October 2023 |access-date=13 December 2023 |title=World Economic Outlook October 2023 (Saint Kitts and Nevis) |archive-date=13 December 2023 |archive-url=https://web.archive.org/web/20231213200621/https://www.imf.org/en/Publications/WEO/weo-database/2023/October/weo-report?c=361,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2022&ey=2024&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |url-status=live }}</ref>
+| GDP_nominal            = {{increase}} $1 billion
+| GDP_nominal_year       = 2023
+| GDP_nominal_per_capita = {{increase}} $18,158<ref name="imf.org"/>
+| Gini                   = <!--number only-->
+| Gini_year              = 
+| Gini_change            = <!--increase/decrease/steady-->
+| Gini_ref               = 
+| Gini_rank              = 
+| HDI_year               = 2023<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change             = increase<!--increase/decrease/steady-->
+| HDI                    = 0.840 <!--number only-->
+| HDI_ref                = <ref>{{Cite web |date= 26 May 2025 |title=Human Development Report 2023/2024 |url= https://hdr.undp.org/data-center/specific-country-data#/countries/KNA|access-date=25 May 2025 |publisher=[[United Nations Development Programme]] |language=en}}</ref>
+| HDI_rank               = 58th
+| currency               = [[East Caribbean dollar]] (EC$)
+| currency_code          = XCD
+| time_zone              = [[Atlantic Standard Time|AST]]
+| utc_offset             = -4
+| utc_offset_DST         = 
+| DST_note               = 
+| time_zone_DST          = 
+| date_format            = {{nowrap|dd-mm-yyyy}}
+| drives_on              = left
+| calling_code           = +1
+| cctld                  = [[.kn]]
+| footnote_a             = Or "Saint Kitts and Nevis".
+| footnote_b             = <!--ORPHANED: For citizens born on one island, but whose parents were born on the other.-->
+| footnote_c             = <!--ORPHANED: [http://hdr.undp.org/hdr2006/statistics/countries/data_sheets/cty_ds_KNA.html hdr.undp.org]-->
+| area_magnitude         = 
+}}
+
+'''Saint Kitts and Nevis'''{{efn|{{IPAc-en|audio=En-us-Saint Kitts and Nevis.ogg|-|ˈ|k|ɪ|t|s|...|ˈ|n|iː|v|ᵻ|s}}}} ('''SKN'''), officially the '''Federation of Saint Christopher and Nevis''' or the '''Federation of Saint Kitts and Nevis''',<ref>{{Cite web |title=About St.Kitts and Nevis – The Government of St. Kitts and Nevis |url=https://www.gov.kn/about-st-kitts-and-nevis/ |access-date=2026-04-29 |website=The Official Website of St. Kitts and Nevis |language=en-US}}</ref><ref>{{cite web | title=Saint Kitts and Nevis | url=https://www.un.org/en/about-us/member-states/saint-kitts-and-nevis |website=[[United Nations]]|access-date=29 April 2026}}</ref><ref>{{cite web|url=http://pdba.georgetown.edu/Constitutions/Kitts/kitts83.html|title=1983 Saint Kitts and Nevis Constitution|website=pdba.georgetown.edu|access-date=30 August 2017|archive-date=20 August 2017|archive-url=https://web.archive.org/web/20170820122204/http://pdba.georgetown.edu/Constitutions/Kitts/kitts83.html|url-status=live|quote=''(1) The island of Saint Christopher (which is otherwise known as Saint Kitts) and the island of Nevis shall be a sovereign democratic federal state which may be styled Saint Christopher and Nevis or Saint Kitts and Nevis or the Federation of Saint Christopher and Nevis or the Federation of Saint Kitts and Nevis.''}}</ref> is an [[island country]] located in the [[Caribbean]] consisting of the two islands of [[Saint Kitts]] and [[Nevis]], in the [[Leeward Islands]] chain of the [[Lesser Antilles]]. With {{convert|261|km2|sqmi}} of territory, and roughly 48,000 inhabitants, it is the smallest [[sovereign state]] in the [[Western Hemisphere]], in both [[List of countries and dependencies by area|area]] and [[List of countries and dependencies by population|population]], as well as the world's smallest sovereign [[Federation]].<ref name="cia.gov">{{cite web |url=https://www.cia.gov/the-world-factbook/countries/saint-kitts-and-nevis/ |title=CIA World Factbook- St Kitts and Nevis |website=www.cia.gov |access-date=10 July 2019 |archive-date=5 December 2020 |archive-url=https://web.archive.org/web/20201205061139/https://www.cia.gov/library/publications/resources/the-world-factbook/geos/sc.html |url-status=dead }}</ref> The country is a [[Commonwealth realm]], with [[Charles III]] as [[Monarchy of Saint Kitts and Nevis|king]] and [[head of state]].<ref name="cia.gov"/><ref name="britannica.com">{{cite web |url=https://www.britannica.com/place/Saint-Kitts-and-Nevis |title=Enclopedia Britannica – St Kitts and Nevis |access-date=10 July 2019 |archive-date=3 August 2023 |archive-url=https://web.archive.org/web/20230803155513/https://www.britannica.com/place/Saint-Kitts-and-Nevis |url-status=live }}</ref>
+
+The capital city is [[Basseterre]], located on the larger island of [[Saint Kitts]].<ref name="cia.gov"/> Basseterre is also the main port for passenger entry (via [[Cruise ship|cruise ships]]) and cargo. The smaller island of [[Nevis]] lies approximately {{cvt|3|km|nmi mi|}} to the southeast of Saint Kitts, across a shallow channel called [[The Narrows (Saint Kitts and Nevis)|the Narrows]].<ref name="cia.gov"/>
+
+The British dependency of [[Anguilla]] was historically also a part of this union, which was known collectively as [[Saint Christopher-Nevis-Anguilla]]. However, Anguilla chose to secede from the union in 1967, and remains a [[British overseas territory]].<ref name="cia.gov"/>
+
+Saint Kitts and Nevis were among the first islands in the Caribbean to be colonised by Europeans. Saint Kitts was home to the first British and French Caribbean colonies, and thus has also been titled "The Mother Colony of the West Indies".<ref>{{Cite book|title=The Caribbean : a walking and hiking guide|last=Adkins, Leonard M.|date=1999|publisher=Hunter Pub|isbn=0585042586|edition= 3rd|location=Edison, NJ|pages=178|oclc = 43474982}}</ref> It is also the most recent British territory in the Caribbean to become independent, gaining independence in 1983. Before independence, the federation became an associated state of the United Kingdom with full internal self-government in 1964.
+
+== Etymology ==<!--redirected from 'Etymology of Saint Kitts and Nevis'-->
+[[File:Nevispeak1.jpg|thumb|Clouds covering Nevis Peak]]
+The [[Kalinago]], the pre-European inhabitants of Saint Kitts, called the island {{lang|crb|Liamuiga}}, roughly translating as 'fertile land'.<ref name=":0">{{Cite book |title=Peoples of the Caribbean: an encyclopedia of archeology and traditional culture |last=Saunders |first=Nicholas J. |date=2005 |publisher=ABC-CLIO |isbn=1576077012 |location=Santa Barbara, California |pages=260–261 |oclc=62090786 }}</ref>
+
+It is thought that [[Christopher Columbus]], the first European to see the islands in 1493, named the larger island {{lang|es|San Cristóbal}}, after [[Saint Christopher]], his [[patron saint]] and that of travellers. New studies suggest that Columbus named the island {{lang|es|Sant Yago}} ([[James the Great|Saint James]]), and that the name {{lang|es|San Cristóbal}} was in fact given by Columbus to the island now known as [[Saba (island)|Saba]], {{cvt|20|mi|km|order=flip}} northwest. Saint Kitts was well documented as {{lang|es|San Cristóbal}} by the 17th century.<ref name="cia.gov"/> The first English colonists kept the English translation of this name, and dubbed it ''St. Christopher's Island''. In the 17th century, a common nickname for Christopher was ''[[Kit (given name)|Kit]]''; in consequence, the island came to be informally referred to as ''Saint Kitt's Island'', later further shortened to ''Saint Kitts''.<ref name="cia.gov"/>
+
+Columbus gave Nevis the name {{lang|es|San Martín}} ([[Martin of Tours|Saint Martin]]).<ref name=":0" /> The current name ''Nevis'' is derived from the Spanish {{lang|es|Nuestra Señora de las Nieves}}, meaning "[[Dedication of the Basilica of Saint Mary Major|Our Lady of the Snows]]", a reference to the 4th-century [[Miracle|Catholic miracle]] of a summertime snowfall on the [[Esquiline Hill]] in [[Rome]].<ref name="cia.gov"/> It is not known who chose this name for the island, but it is thought that white clouds which usually wreathe the top of Nevis Peak reminded someone of the miracle.<ref name="cia.gov" /><ref>{{Cite Catholic Encyclopedia |wstitle=Our Lady of the Snow }}</ref>
+
+Today, the [[Constitution of Saint Kitts and Nevis|Constitution]] refers to the state as both ''Saint Kitts and Nevis'' and ''Saint Christopher and Nevis''; the former is the one most commonly used, but the latter is generally used for laws and diplomatic relations. Passports list the nationality of citizens as ''St. Kitts and Nevis''.<ref name="samplepassportpic1">https://web.archive.org/web/20220215130636/https://best-citizenships.com/wp-content/uploads/2019/12/skn.jpg<br /></ref> The Citizenship Act also uses the official name "Saint Christopher and Nevis".
+
+== History ==
+{{main|History of Saint Kitts and Nevis|British Leeward Islands|Saint Christopher-Nevis-Anguilla|West Indies Federation}}
+
+{{see also|British West Indies|French settlement in Saint Kitts and Nevis}}
+[[File:Spanish capture of St Kitts.jpg|thumb|The Spanish capture of Saint Kitts in 1629 by [[Fadrique de Toledo, 1st Marquis of Villanueva de Valdueza]]]]
+
+===Pre-colonial period===
+
+The earliest known inhabitants of Saint Kitts and Nevis were pre-ceramic, pre-agricultural people who arrived as early as 3000 BCE. These groups, often referred to as "Archaic people," were hunter-gatherers who migrated down the archipelago from [[Florida]].<ref name=":1">{{Cite web |title=SKNVibes {{!}} History |url=https://www.sknvibes.com/islandfacts/sitepage.cfm?p=124 |access-date=2025-05-09 |website=www.sknvibes.com}}</ref><ref name=":2">{{Cite web |title=History of Liamuiga |url=https://saintkittslocally.weebly.com/history-of-liamuiga.html |access-date=2025-05-09 |website=Saint Kitts Locally}}</ref><ref name=":3">{{Cite web |title=St Kitts History |url=https://www.beyondships3.com/st-kitts-history.html |access-date=2025-05-09 |website=Beyondships Cruise Destinations |language=en}}</ref> Due to the absence of pottery and other durable artifacts, their cultural affiliations remain uncertain.<ref>See for example [http://www.arch.soton.ac.uk/Projects/default.asp?ProjectID=12 Nevis Heritage excavation reports, 2000–2002] {{Webarchive|url=https://web.archive.org/web/20060708150627/http://www.arch.soton.ac.uk/Projects/default.asp?ProjectID=12 |date=8 July 2006 }}, Department of Archaeology, University of Southampton. Retrieved 8 August 2006.</ref> Around 100 BCE, the islands saw the arrival of the [[Saladoid]] people, a ceramic-using, agricultural society that migrated northward from the [[Orinoco|Orinoco River]] region in present-day [[Venezuela]]. They introduced agriculture and pottery to the islands and established settled communities.<ref name=":1" /><ref name=":3" />
+
+By approximately 800 CE, the [[Igneri]] people, associated with the [[Arawak]] linguistic group, had settled on the islands.<ref>{{Cite web |title=St. Kitts and Nevis Archives |url=https://www.caribbeanmemoryproject.com/st-kitts-and-nevis-archives.html |archive-url=https://web.archive.org/web/20241008064605/https://www.caribbeanmemoryproject.com/st-kitts-and-nevis-archives.html |archive-date=8 October 2024 |access-date=2025-05-09 |website=CARIBBEAN.MEMORY.PROJECT |language=en |url-status=live }}</ref><ref name=":1" /><ref name=":2" /> The Igneri were known for their peaceful nature and religious practices, and they continued the agricultural traditions of their predecessors.<ref name=":2" />
+
+Around 1300 CE, the Kalinago Agikuyu people, also known as the [[Kalinago|Island Caribs]], migrated to Saint Kitts and Nevis.<ref name=":4">{{Cite web |title=Timeline of Key Events in St. Kitts and Nevis |url=https://stkittsnevisflag.com/educational-resources/timeline-of-key-events-in-st-kitts-and-nevis/ |access-date=2025-05-09 |website=St Kitts Nevis Flag |language=en-US}}</ref><ref name=":5">{{Cite web |last=McGrath |first=Jim |date=2016-01-14 |title=St Kitts - a very quick history in 317 words |url=https://acrew.com/st-kitts-a-very-quick-history-in-317-words-2/ |access-date=2025-05-09 |website=ACREW |language=en-US |archive-date=29 May 2025 |archive-url=https://web.archive.org/web/20250529052840/https://acrew.com/st-kitts-a-very-quick-history-in-317-words-2/ |url-status=dead }}</ref><ref name=":2" /> Renowned for their seafaring skills and warrior culture, the Kalinago displaced the Igneri and established dominance over the islands. They named [[Saint Kitts]] "Liamuiga," meaning "fertile land," and [[Nevis]] "Oualie," meaning "land of beautiful waters."<ref name="Hubbard">{{cite book|last1=Hubbard|first1=Vincent|title=A History of St. Kitts|date=2002|publisher=Macmillan Caribbean|isbn=9780333747605|url-access=registration|url=https://archive.org/details/historyofstkitts00vinc}}</ref><ref name=":5" /><ref name=":2" /><ref name=":4" />
+
+===European arrival and early colonial period (1493–1700)===
+[[Christopher Columbus]] was the first European to sight the islands in 1493.<ref name="thecommonwealth.org">{{cite web |url=http://thecommonwealth.org/our-member-countries/st-kitts-and-nevis/history |title=Commonwealth – History of St Kitts and Nevis |access-date=10 July 2019 |archive-date=21 March 2019 |archive-url=https://web.archive.org/web/20190321210636/http://thecommonwealth.org/our-member-countries/st-kitts-and-nevis/history |url-status=dead }}</ref><ref name="britannica.com"/> The first permanent European settlers were the English in 1623, led by [[Sir Thomas Warner (explorer)|Thomas Warner]], who established a settlement at [[Old Road Town]] on the west coast of St Kitts after achieving an agreement with the Carib chief [[Ouboutou Tegremante]].<ref name=Hubbard/>{{rp|15–18}}<ref name="britannica.com"/> The French later also settled on St Kitts in 1625 under [[Pierre Belain d'Esnambuc]].<ref name="britannica.com"/> As a result, both parties agreed to partition the island into French and English sectors. From 1628 onward the English also began settling on Nevis.<ref name="britannica.com"/>
+
+The French and English, intent on exploitation of the island's resources,<ref>{{cite book|editor-first=Patrick|editor-last=Taylor |display-editors=etal |date=2010|title=The Encyclopedia of Caribbean Religions, Volume 1 A-L.|location=Urbana, IL, Chicago, IL, and Springfield, IL|publisher=[[University of Illinois Press]]|page=886}}</ref> encountered resistance from the Kalinago, who waged war during the first three years of the settlements' existence.<ref>Cobley, 1994, p. 28.</ref><ref name=cobley27>Cobley, 1994, p. 27.</ref> The Europeans resolved to rid themselves of this problem. An ideological campaign was waged by colonial chroniclers, dating back to the Spanish, as they produced literature which denied the Kalinagos' humanity (a literary tradition carried through the late-seventeenth century by such authors as [[Jean-Baptiste du Tertre]] and Pere Labat).<ref name=cobley27 /> In 1626 the Anglo-French settlers joined forces to [[Kalinago Genocide of 1626|massacre the Kalinago]] at a place that became known as [[Bloody Point]], allegedly to preempt a Carib plan to expel or kill all European settlers.<ref>{{cite book |last=Jonnard|first=Claude M.|date=2010|title=Islands in the Wind: The Political Economy of the English East Caribbean.|location=Bloomington, IN|publisher=iUniverse|page= number not available}}</ref><ref>{{cite book|first=Jean-Baptiste|last=Du Tertre|author-link=Jean-Baptiste Du Tertre|title= Histoire générale des Antilles habitées par les François, 2 vols. Paris: Jolly, 1667, I:5–6}}</ref> Thereafter, the English and French established large sugar plantations which were worked by imported African slaves. This made the planter-colonists rich, but drastically altered the islands' demographics as black slaves soon came to outnumber Europeans.<ref name="thecommonwealth.org"/><ref name=Hubbard/>{{rp|26–31}}
+
+A Spanish expedition of 1629 sent to enforce Spanish claims [[Battle of St. Kitts (1629)|destroyed the English and French colonies]] and deported the settlers back to their respective countries. As part of [[Anglo-Spanish War (1625-1630)|the war]] settlement in 1630, the Spanish permitted the re-establishment of the English and French colonies.<ref name=Hubbard/>{{rp|19–23}} Spain later formally recognised Britain's claim to St Kitts with the [[Treaty of Madrid (1670)]], in return for British cooperation in the fight against piracy.<ref name="SP 108/470">{{cite web|title=Treaty between Great Britain and Spain for the settlement of all disputes in America|url=http://discovery.nationalarchives.gov.uk/details/r/C3466433|website=The National Archives|publisher=gov.uk|access-date=10 July 2019|archive-date=10 July 2019|archive-url=https://web.archive.org/web/20190710221049/https://discovery.nationalarchives.gov.uk/details/r/C3466433|url-status=live}}</ref>
+
+As Spanish power declined, Saint Kitts became a key base for English and French expansion in the Caribbean. From St Kitts the British settled the islands of [[Antigua]], [[Montserrat]], [[Anguilla]] and [[Tortola]], and the French settled [[Martinique]], the [[Guadeloupe]] archipelago and [[Saint Barthélemy]]. During the late 17th century, France and England fought for control over St Kitts and Nevis, fighting wars in [[Battle of Nevis|1667]],<ref name=Hubbard/>{{rp|41–50}} [[Nine Years' War#Asia and the Caribbean|1689–90]]<ref name=Hubbard/>{{rp|51–55}} and [[War of the Spanish Succession|1701–13]]. The French renounced their claim to the islands with the [[Treaty of Utrecht]] in 1713.<ref name=Hubbard/>{{rp|55–60}}<ref name="britannica.com"/> The islands' economy, already shattered by war, was further harmed by natural disasters: In 1690 an earthquake destroyed Jamestown, capital of Nevis, forcing the construction of a new capital at [[Charlestown, Nevis|Charlestown]]. Further damage was caused by a hurricane in 1707.<ref name=Vincent>{{cite book|last1=Hubbard|first1=Vincent|title=Swords, Ships & Sugar|date=2002|publisher=Premiere Editions International, Inc.|location=Corvallis|isbn=9781891519055}}</ref>{{rp|105–108}}
+
+===British colonial period (1700–1983)===
+The colony had recovered by the turn of the 18th century, and St Kitts had become the richest British Crown Colony per capita in the Caribbean as result of its slave-based [[sugar industry]] by the close of the 1700s.<ref>{{cite web|url=http://www.beyondships3.com/st-kitts-history.html|title=St Kitts History|website=Beyondships Cruise Destinations|access-date=27 November 2017|archive-date=8 June 2023|archive-url=https://web.archive.org/web/20230608151001/https://www.beyondships3.com/st-kitts-history.html|url-status=live}}</ref> The 18th century also saw Nevis, formerly the richer of the two islands, being eclipsed by St Kitts in economic importance.<ref name=Hubbard/>{{rp|75}}<ref name=Vincent/>{{rp|126,137}} [[Alexander Hamilton]], the future U.S. secretary of the Treasury, was born on Nevis in 1755 or 1757.<ref>{{Cite book|last=Chernow|first=Ron|url=https://archive.org/details/alexanderhamilto00cher/page/17/mode/2up|title=Alexander Hamilton|date=2004|publisher=Penguin Press|isbn=1-59420-009-2|location=New York|pages=17|oclc=53083988}}</ref>
+
+[[File:BrimstoneHill01.jpg|thumb|right|The fortress on Brimstone Hill, focus of the successful French invasion of 1782]]
+As Britain became embroiled in [[American Revolutionary War|war with its American colonies]], the French decided to use the opportunity to [[Siege of Brimstone Hill|re-capture St Kitts]] in 1782; however St Kitts was given back and recognised as British territory in the [[Treaty of Versailles (1783)]].<ref name="britannica.com"/><ref name="thecommonwealth.org"/>
+
+The African slave trade was terminated within the British Empire in 1807, and slavery outlawed completely in 1834. A four-year "apprenticeship" period followed for each slave, in which they worked for their former owners for wages. On Nevis 8,815 slaves were freed, while St Kitts freed 19,780.<ref name=Vincent/>{{rp|174}}<ref name=Hubbard/>{{rp|110,114–117}}
+
+Saint Kitts and Nevis, along with Anguilla, were federated in 1882. In the first few decades of the 20th century economic hardship and lack of opportunities led to the growth of a labour movement; [[the Great Depression]] prompted sugar workers to go on strike in 1935.<ref name="Paravisini104">Paravisini-Gebert, p.104</ref> The 1940s saw the founding of the [[Saint Kitts and Nevis Labour Party|St Kitts-Nevis-Anguilla Labour Party]] (later renamed the Saint Kitts and Nevis Labour Party, or SKNLP)<ref>{{Cite book|chapter-url=https://books.google.com/books?id=TMZMAgAAQBAJ&pg=PA606|title=Africana: The Encyclopedia of the African and African American Experience|last1=Appiah|first1=Kwame Anthony|last2=Gates|first2=Henry Louis Jr.|date=2005|publisher=Oxford University Press|isbn=978-0-19-517055-9|page=606|chapter=Bradshaw, Robert Llewellyn}}</ref> under [[Robert Llewellyn Bradshaw]]. Bradshaw later became Chief Minister and then Premier of the colony from 1966 to 1978; he sought to gradually bring the sugar-based economy under greater state control.<ref name=Hubbard/>{{rp|151–152}} The more conservative-leaning [[People's Action Movement]] party (PAM) was founded in 1965.<ref name=N1>[[Dieter Nohlen|Nohlen, D]] (2005) ''Elections in the Americas: A data handbook, Volume I'', pp576-578 {{ISBN|978-0-19-928357-6}}</ref>
+
+After a brief period as part of the [[West Indies Federation]] (1958–62), the islands became an [[Saint Kitts-Nevis-Anguilla|associated state]] with full internal autonomy in 1967.<ref name="britannica.com"/> Residents of Nevis and Anguilla were unhappy with St Kitts's domination of the federation, and Anguilla unilaterally declared independence in 1967.<ref name="thecommonwealth.org"/><ref name="britannica.com"/> In 1971 Britain resumed full control of Anguilla, but it was formally separated in 1980.<ref>{{cite book |last=Minahan |first=James |date=2013 |title= The Complete Guide to National Symbols and Emblems |url=https://books.google.com/books?id=jfrWCQAAQBAJ| pages=656–657|publisher=Abc-Clio |isbn=9780313344978 }}</ref><ref name=Hubbard/>{{rp|147–149}}<ref name="britannica.com"/> Attention then focused on Nevis, with the [[Nevis Reformation Party]] seeking to safeguard the smaller island's interests in any future independent state. Eventually it was agreed that the island would have a degree of autonomy with its own [[Premier of Nevis|Premier]] and [[Nevis Island Assembly|Assembly]], as well as the constitutionally-protected right to unilaterally secede if a referendum on independence resulted in a two-thirds majority in favour.<ref>See section 3 and 4 about Nevis Island Legislature and Administration in ''The Saint Christopher and Nevis Constitution Order 1983''. Published online by [http://pdba.georgetown.edu/Constitutions/Kitts/kitts83.html Georgetown University] {{Webarchive|url=https://web.archive.org/web/20170820122204/http://pdba.georgetown.edu/Constitutions/Kitts/kitts83.html |date=20 August 2017 }} and also by [http://www.cavehill.uwi.edu/bnccde/sk&n/centre/nevis.html University of the West Indies] {{Webarchive|url=https://web.archive.org/web/20081210085350/http://www.cavehill.uwi.edu/bnccde/sk%26n/centre/nevis.html |date=10 December 2008 }}. Retrieved 8 August 2006.</ref><ref name=DD>[http://www.sudd.ch/event.php?lang=en&id=kn011977 Nevis (St Kitts and Nevis), 18 August 1977: Separation from St Kitts] {{Webarchive|url=https://web.archive.org/web/20190710231140/https://www.sudd.ch/event.php?lang=en&id=kn011977 |date=10 July 2019 }} Direct Democracy {{in lang|de}}</ref>
+
+===Post independence era (1983–present)===
+[[File:TimothyHarris.jpg|thumb|left|150px|Timothy Harris, Prime Minister 2015–2022]]
+St Kitts and Nevis achieved full independence on 19 September 1983.<ref name="britannica.com"/><ref name="thecommonwealth.org"/> [[Kennedy Simmonds]] of the PAM, Premier since 1980, duly became the country's first [[List of Prime Ministers of Saint Kitts and Nevis|Prime Minister]]. St Kitts and Nevis opted to remain within the [[British Commonwealth]], at that time retaining Queen Elizabeth as [[Monarchy of St Kitts and Nevis|Monarch]], represented locally by a [[Governor-General of Saint Kitts and Nevis|Governor-General]].<ref>{{Cite web |title=The Constitution of Saint Christopher and Nevis |url=https://www.gov.kn/the-constitution/ |access-date=2 February 2025 |website=Official Website of St Kitts and Nevis}}</ref>
+Kennedy Simmonds went on to win elections in [[1984 Saint Kitts and Nevis general election|1984]], [[1989 Saint Kitts and Nevis general election|1989]] and [[1993 Saint Kitts and Nevis general election|1993]], before being unseated when the SKNLP returned to power in 1995 under [[Denzil Douglas]].<ref name="thecommonwealth.org"/><ref name="britannica.com"/>
+
+In Nevis, growing discontent with their perceived marginalisation within the federation<ref>''General Election in St Kitts and Nevis 3 July 1995: The Report of the Commonwealth Observer Group''. Commonwealth Observer Group, Commonwealth Secretariat, 1995. {{ISBN|0-85092-466-9}}, p.3.</ref> led to a [[Nevis independence referendum, 1998|referendum to separate]] from St Kitts in 1998, which though resulting a 62% vote to secede, fell short of the required two-thirds majority to be legally enacted.<ref>{{cite news |title= Nevis islanders apparently vote not to break away |date= 11 August 1998 |agency= Associated Press |newspaper= Milwaukee Journal Sentinel |url= https://news.google.com/newspapers?id=D6gaAAAAIBAJ&pg=4918,21223&dq=saint+kitts+nevis+referendum+1998&hl=en }}{{Dead link|date=April 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name="thecommonwealth.org"/><ref name="britannica.com"/>
+
+In late-September 1998, [[Hurricane Georges]] caused approximately $458,000,000 in damage and limited GDP growth for the year and beyond. Meanwhile, the sugar industry, in decline for years and propped up only by government subsidies, was closed completely in 2005.<ref name="britannica.com"/><ref>{{cite web |title=Caribbean, Dominican Republic, Haiti - Hurricane Georges Fact Sheet #6 - Antigua and Barbuda |url=https://reliefweb.int/report/antigua-and-barbuda/caribbean-dominican-republic-haiti-hurricane-georges-fact-sheet-6 |website=ReliefWeb |date=30 September 1998 |language=en |access-date=15 December 2021 |archive-date=6 October 2022 |archive-url=https://web.archive.org/web/20221006180626/https://reliefweb.int/report/antigua-and-barbuda/caribbean-dominican-republic-haiti-hurricane-georges-fact-sheet-6 |url-status=live }}</ref>
+
+The [[2015 Saint Kitts and Nevis general election]] was won by [[Timothy Harris]] and his recently formed [[People's Labour Party (Saint Kitts and Nevis)|People's Labour Party]], with backing from the PAM and the Nevis-based [[Concerned Citizens' Movement]] under the '[[Team Unity (Saint Kitts and Nevis)|Team Unity]]' banner.<ref name=CE>[http://www.caribbeanelections.com/blog/?p=4598#more-4598 Team Unity wins St Kitts and Nevis 2015 general election] {{webarchive|url=https://web.archive.org/web/20150923200627/http://www.caribbeanelections.com/blog/?p=4598 |date=23 September 2015 }} Caribbean Elections, 17 February 2015</ref>
+
+In June 2020, Team Unity coalition of the incumbent government, led by Prime Minister Timothy Harris, won general [[2020 Saint Kitts and Nevis general election|elections]] by defeating Saint Kitts and Nevis Labour Party (SKNLP).<ref>{{cite news |last1=Reporter |first1=WIC News |title=Election 2020 - Landslide victory for Team Unity in St Kitts and Nevis |url=https://wicnews.com/caribbean/live-results-update-st-kitts-and-nevis-general-elections-161128229/ |work=WIC News |date=6 June 2020 |access-date=15 December 2021 |archive-date=31 March 2022 |archive-url=https://web.archive.org/web/20220331113001/https://wicnews.com/caribbean/live-results-update-st-kitts-and-nevis-general-elections-161128229/ |url-status=live }}</ref>
+
+In [[2022 Saint Kitts and Nevis general election|snap general elections held in August 2022]], the SKNLP again won, and [[Terrance Drew]] became the fourth prime minister of Saint Kitts and Nevis.<ref>{{cite news |last1=Salmon |first1=Santana |title=St. Kitts Nevis new PM sworn into office |url=https://www.caribbeannationalweekly.com/uncategorized/st-kitts-nevis-new-pm-sworn-into-office/ |work=CNW Network |date=8 August 2022}}</ref>
+
+{{Clear}}
+
+== Geography ==
+{{main|Geography of Saint Kitts and Nevis}}
+
+{{See also|List of volcanoes in Saint Kitts and Nevis}}
+
+[[File:Saint Kitts and Nevis-CIA WFB Map.png|thumb|A map of Saint Kitts and Nevis]]
+[[File:Stkitts-view-lookingatsea.jpg|thumb|A view of [[Nevis]] island from the [[Southeast Peninsula (Saint Kitts)|southeastern peninsula]] of [[Saint Kitts]]]]
+The country consists of two main islands, [[Saint Kitts]] and [[Nevis]], separated at a distance of 2 miles (3&nbsp;km) by a shallow channel called [[The Narrows (Saint Kitts and Nevis)|The Narrows]].<ref name="cia.gov"/>
+
+The capital city is [[Basseterre]], located on the larger island of [[Saint Kitts]].<ref name="cia.gov"/> Basseterre is also the main port for passenger entry (via cruise ships) and cargo. 
+
+Both main islands are of [[volcanic]] origin, with large central peaks covered in [[tropical rainforest]].<ref name="cia.gov"/> The majority of the population live along the flatter coastal areas.<ref name="cia.gov"/> St Kitts contains several mountain ranges (the North West Range, Central Range and South-West Range) in its centre, where the highest peak of the country, [[Mount Liamuiga]] {{convert|1156|m}} can be found.<ref name="britannica.com"/> Along the east coast can be found the Canada Hills and Conaree Hills. The land narrows considerably in the south-east, forming a much flatter peninsula which contains the largest body of water, the [[Great Salt Pond]]. To the southeast, in The Narrows, lies the small isle of [[Booby Island (Saint Kitts and Nevis)|Booby Island]]. There are numerous rivers descending from the mountains of both islands, which provide fresh water to the local population. Nevis, the smaller of the two main islands and roughly circular in shape, is dominated by [[Nevis Peak]] {{convert|985|m}}.<ref name="cia.gov"/>
+
+Saint Kitts and Nevis contains two terrestrial ecoregions: Leeward Islands moist forests and Leeward Islands dry forests.<ref name="DinersteinOlson2017">{{cite journal|last1=Dinerstein|first1=Eric|last2=Olson|first2=David|last3=Joshi|first3=Anup|last4=Vynne|first4=Carly|last5=Burgess|first5=Neil D.|last6=Wikramanayake|first6=Eric|last7=Hahn|first7=Nathan|last8=Palminteri|first8=Suzanne|last9=Hedao|first9=Prashant|last10=Noss|first10=Reed|last11=Hansen|first11=Matt|last12=Locke|first12=Harvey|last13=Ellis|first13=Erle C|last14=Jones|first14=Benjamin|last15=Barber|first15=Charles Victor|last16=Hayes|first16=Randy|last17=Kormos|first17=Cyril|last18=Martin|first18=Vance|last19=Crist|first19=Eileen|last20=Sechrest|first20=Wes|last21=Price|first21=Lori|last22=Baillie|first22=Jonathan E. M.|last23=Weeden|first23=Don|last24=Suckling|first24=Kierán|last25=Davis|first25=Crystal|last26=Sizer|first26=Nigel|last27=Moore|first27=Rebecca|last28=Thau|first28=David|last29=Birch|first29=Tanya|last30=Potapov|first30=Peter|last31=Turubanova|first31=Svetlana|last32=Tyukavina|first32=Alexandra|last33=de Souza|first33=Nadia|last34=Pintea|first34=Lilian|last35=Brito|first35=José C.|last36=Llewellyn|first36=Othman A.|last37=Miller|first37=Anthony G.|last38=Patzelt|first38=Annette|last39=Ghazanfar|first39=Shahina A.|last40=Timberlake|first40=Jonathan|last41=Klöser|first41=Heinz|last42=Shennan-Farpón|first42=Yara|last43=Kindt|first43=Roeland|last44=Lillesø|first44=Jens-Peter Barnekow|last45=van Breugel|first45=Paulo|last46=Graudal|first46=Lars|last47=Voge|first47=Maianna|last48=Al-Shammari|first48=Khalaf F.|last49=Saleem|first49=Muhammad|display-authors=1|title=An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm|journal=BioScience|volume=67|issue=6|year=2017|pages=534–545|issn=0006-3568|doi=10.1093/biosci/bix014|pmid=28608869|pmc=5451287|doi-access=free}}</ref> The country had a 2019 [[Forest Landscape Integrity Index]] mean score of 4.55/10, ranking it 121st globally out of 172 countries.<ref name="FLII-Supplementary">{{cite journal|last1=Grantham|first1=H. S.|last2=Duncan|first2=A.|last3=Evans|first3=T. D.|last4=Jones|first4=K. R.|last5=Beyer|first5=H. L.|last6=Schuster|first6=R.|last7=Walston|first7=J.|last8=Ray|first8=J. C.|last9=Robinson|first9=J. G.|last10=Callow|first10=M.|last11=Clements|first11=T.|last12=Costa|first12=H. M.|last13=DeGemmis|first13=A.|last14=Elsen|first14=P. R.|last15=Ervin|first15=J.|last16=Franco|first16=P.|last17=Goldman|first17=E.|last18=Goetz|first18=S.|last19=Hansen|first19=A.|last20=Hofsvang|first20=E.|last21=Jantz|first21=P.|last22=Jupiter|first22=S.|last23=Kang|first23=A.|last24=Langhammer|first24=P.|last25=Laurance|first25=W. F.|last26=Lieberman|first26=S.|last27=Linkie|first27=M.|last28=Malhi|first28=Y.|last29=Maxwell|first29=S.|last30=Mendez|first30=M.|last31=Mittermeier|first31=R.|last32=Murray|first32=N. J.|last33=Possingham|first33=H.|last34=Radachowsky|first34=J.|last35=Saatchi|first35=S.|last36=Samper|first36=C.|last37=Silverman|first37=J.|last38=Shapiro|first38=A.|last39=Strassburg|first39=B.|last40=Stevens|first40=T.|last41=Stokes|first41=E.|last42=Taylor|first42=R.|last43=Tear|first43=T.|last44=Tizard|first44=R.|last45=Venter|first45=O.|last46=Visconti|first46=P.|last47=Wang|first47=S.|last48=Watson|first48=J. E. M.|display-authors=1|title=Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity - Supplementary Material|journal=Nature Communications|volume=11|issue=1|year=2020|page=5978|issn=2041-1723|doi=10.1038/s41467-020-19493-3|pmid=33293507|pmc=7723057|bibcode=2020NatCo..11.5978G |doi-access=free}}</ref>
+
+===Neighbouring islands===
+The islands of [[Sint Eustatius]], [[Saba (island)|Saba]], [[Saint Barthélemy]], [[Saint Martin (island)|Saint-Martin/Sint Maarten]] and Anguilla lie to the north-northwest of the country. To the east and northeast are [[Antigua and Barbuda]], and to the southeast is the small uninhabited island of [[Redonda]] (part of Antigua and Barbuda) and the island of [[Montserrat]].
+===Flora and fauna===
+The national flower is ''[[Delonix regia]]''. Common plants include [[Sabal|palmetto]], [[hibiscus]], [[bougainvillea]], and [[tamarind]]. ''[[Pine|Pinus]]'' species are common in the dense forests of islands, and are usually covered by various species of [[fern]]s.<ref>{{Cite web |date=2017-12-23 |title=Saint Kitts and Nevis Flora and Fauna |url=https://activecaribbeantravel.com/the-caribbean-islands/saint-kitts-and-nevis-vacation-ideas/saint-kitts-and-nevis-flora-and-fauna/ |access-date=2022-06-08 |language=en-US |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403213718/https://activecaribbeantravel.com/the-caribbean-islands/saint-kitts-and-nevis-vacation-ideas/saint-kitts-and-nevis-flora-and-fauna/ |url-status=live }}</ref>
+
+The national bird is the [[brown pelican]].<ref name="CIA" /> 176 species of bird have been reported from the country.<ref>{{Cite web |author1=Denis Lepage |date=9 January 2013 |title=Avibase – Bird Checklists of the World Saint Kitts |url=http://avibase.bsc-eoc.org/checklist.jsp?region=knki |url-status=live |archive-url=https://web.archive.org/web/20230906074244/https://avibase.bsc-eoc.org/checklist.jsp?region=knki |archive-date=6 September 2023 |access-date=27 November 2017 |publisher=Avibase}}</ref><!---in direct conflict with Princess insert which states "770" species. This, I suspect is bs, from St. Kitts own commercialized site. This site looks credible--->
+
+=== Climate ===
+By the [[Köppen climate classification]], St Kitts has a [[tropical savanna climate]] ([[Köppen climate classification|Köppen]] ''Aw'') and Nevis has a [[tropical monsoon climate]] ([[Köppen climate classification|Köppen]] ''Am'').<ref name="climate-data">{{cite web|title=Climate of Saint Kitts and Nevis: Temperature, Climograph, Climate table for Saint Kitts and Nevis – Climate-Data.org|url=https://en.climate-data.org/country/71/|website=Climate-data.org|publisher=Alexander Merkel|access-date=15 March 2018|archive-date=26 June 2018|archive-url=https://web.archive.org/web/20180626164029/https://en.climate-data.org/country/71/|url-status=live}}</ref> Mean monthly temperatures in Basseterre varies little from {{convert|23.9|°C|1}} to {{convert|26.6|C}}. Yearly rainfall is approximately {{convert|2400|mm|in|-1}}, although it has varied from {{convert|1356|mm|in|1}} to {{convert|3183|mm|in|1}} in the period 1901–2015.<ref name="climate" />
+
+<div style="width:75%">
+{{Weather box
+| location = Saint Kitts and Nevis (1991–2015)
+| metric first=Yes
+| single line = yes
+| Jan mean C  = 23.9
+| Feb mean C  = 23.8
+| Mar mean C  = 24.0
+| Apr mean C  = 24.7
+| May mean C  = 25.5
+| Jun mean C  = 26.2
+| Jul mean C  = 26.3
+| Aug mean C  = 26.6
+| Sep mean C  = 26.4
+| Oct mean C  = 26.0
+| Nov mean C  = 25.4
+| Dec mean C  = 24.4
+| Jan precipitation mm  = 150
+| Feb precipitation mm  = 102
+| Mar precipitation mm  = 99
+| Apr precipitation mm  = 153
+| May precipitation mm  = 219
+| Jun precipitation mm  = 181
+| Jul precipitation mm  = 214
+| Aug precipitation mm  = 232
+| Sep precipitation mm  = 222
+| Oct precipitation mm  = 289
+| Nov precipitation mm  = 286
+| Dec precipitation mm  = 225
+|source 1 = Climate Change Knowledge Portal<ref name=climate>
+{{cite web
+|url= http://sdwebx.worldbank.org/climateportal/index.cfm?page=country_historical_climate&ThisCCode=KNA
+|work= Climate Change Knowledge Portal
+|publisher= The World Bank Group
+|title= Country Historical Climate – St. Kitts & Nevis
+|access-date= 15 March 2018
+|archive-date= 6 November 2018
+|archive-url= https://web.archive.org/web/20181106182358/http://sdwebx.worldbank.org/climateportal/index.cfm?page=country_historical_climate&ThisCCode=KNA
+|url-status= dead
+}}</ref>
+| date=2015
+}}
+</div>
+
+=== National parks ===
+There are two national parks: [[Brimstone Hill Fortress National Park]] and [[Central Forest Reserve National Park]]. Brimstone Hill Fortress was officially designated a [[National Park]] in 1985, and it was declared a [[UNESCO World Heritage Site]] in 1999. Central Forest Reserve was designated a National Park by the government on 23 October 2006, and officially [[Government gazette|gazetted]] on 29 March 2007.<ref>{{Cite web |title=Management Plan for Central Forest Reserve National Park |url=https://rris.biopama.org/sites/default/files/2021-03/St.%20Kitts%20Central%20Forest%20Reserve%20National%20Park%20Management%20Plan%202007-2011.pdf |access-date=February 2, 2026 |archive-date=6 February 2026 |archive-url=https://web.archive.org/web/20260206040844/https://rris.biopama.org/sites/default/files/2021-03/St.%20Kitts%20Central%20Forest%20Reserve%20National%20Park%20Management%20Plan%202007-2011.pdf |url-status=dead }}</ref>
+
+== Government and politics ==
+{{main|Politics of Saint Kitts and Nevis}}
+{{multiple image
+| align             = right
+| total_width       = 340
+| image1            = King Charles III (July 2023).jpg
+| caption1          = [[Charles III]]<br />[[King of Saint Kitts and Nevis]]
+| image2            = Marcella Liburd 2023.jpg
+| caption2          = [[Marcella Liburd]]<br />[[Governor-General of Saint Kitts and Nevis]]
+| image3            = Terrance Drew 20240624 Taiwan.jpg
+| caption3          = [[Terrance Drew]]<br />[[Prime Minister of Saint Kitts and Nevis]]
+| caption_align     = center
+}}
+[[File:Government House, Basseterre.jpg|thumb|right|[[Government House (Saint Kitts and Nevis)|Government House]], [[Basseterre]], is the official residence of the [[Governor-General of Saint Kitts and Nevis]].]]
+[[File:Saint Kitts and Nevis Government building 2.JPG|thumb|Government headquarters of Saint Kitts and Nevis]]
+[[File:The Museum of Nevis History - Alexander Hamilton birthplace.jpg|thumb|The Nevis Island Assembly]]
+
+Saint Kitts and Nevis is a sovereign, democratic, and federal state.<ref>{{cite web |url=http://pdba.georgetown.edu/constitutions/kitts/kitts83.html |title=Art. 1, Federation of Saint Kitts and Nevis Constitutional Order of 1983 |website=Pdba.georgetown.edu |access-date=8 July 2014 |archive-date=20 August 2017 |archive-url=https://web.archive.org/web/20170820122204/http://pdba.georgetown.edu/Constitutions/Kitts/kitts83.html |url-status=live }}</ref> It is a [[Commonwealth realm]],<ref>{{cite web|url=https://www.royal.uk/commonwealth-and-overseas|title=Commonwealth and Overseas|website=The Royal Family|date=18 February 2016|access-date=11 August 2020|archive-date=8 August 2020|archive-url=https://web.archive.org/web/20200808055836/https://www.royal.uk/commonwealth-and-overseas|url-status=live}}</ref> a constitutional monarchy with the [[king of Saint Christopher and Nevis]], [[Charles III]], as its [[head of state]].<ref name="cia.gov"/> The King is represented in the country by a [[Governor-General of Saint Kitts and Nevis|governor-general]], who acts on the advice of the [[Prime Minister of Saint Kitts and Nevis|prime minister]] and the Cabinet. The Prime Minister is the leader of the majority party of the House, and the cabinet conducts affairs of state.{{Citation needed|date=October 2023}}
+
+St. Kitts and Nevis has a [[unicameral]] legislature, known as the [[National Assembly of Saint Kitts and Nevis|National Assembly]]. It is composed of fourteen members: eleven elected representatives (three from the island of [[Nevis]]) and three senators, who are appointed by the [[Governor-General of Saint Kitts and Nevis|Governor-General]].<ref name="cia.gov"/> Two of the senators are appointed on the advice of the Prime Minister, and one, on the advice of the leader of the opposition. Unlike in other countries, the senators do not constitute a separate [[senate]] or [[upper house]] of parliament, but sit in the National Assembly alongside representatives. All members serve five-year terms. The Prime Minister and the Cabinet answer to the Parliament. Nevis also maintains its own semi-autonomous [[Nevis Island Assembly|assembly]].<ref>{{Cite book |last=Leonard |first=Thomas M. |url=https://books.google.com/books?id=gc2NAQAAQBAJ |title=Encyclopedia of the Developing World |publisher=Taylor & Francis |year=2013 |pages=1490–1491 |isbn=978-1-135-20508-9 |language=en}}</ref>
+
+===Administrative divisions===
+The federation of Saint Kitts and Nevis is divided into fourteen parishes, nine of them on Saint Kitts and five on Nevis.
+{|
+|
+{{Map of Saint Kitts and Nevis}}
+|}
+{{table alignment}}
+{| class="wikitable sortable col3right col4right col5right col6right col7right col8right"
+|+Parishes of Saint Kitts and Nevis
+!rowspan=2|Name
+!rowspan=2|Capital
+!rowspan=2|Area <br />(km<sup>2</sup>)
+!colspan=4|Population<ref>{{cite web|url=https://www.stats.gov.kn/topics/demographic-social-statistics/population/parish-size-population-and-density-1991-2011/|title=Parish Size, Population and Density 1991-2011|date=16 July 2021 |publisher=Department of Statistics, Ministry of Sustainable Development |language= en| access-date=11 March 2025}}</ref><ref>{{cite web | title=Census Report For 2021-2022 | website=NIA - Nevis Island Administration | date=28 June 2024 | url=https://nia.gov.kn/document/census-report-for-2021-2022/ | ref={{sfnref|NIA - Nevis Island Administration|2024}} | access-date=16 April 2025 | archive-date=3 April 2025 | archive-url=https://web.archive.org/web/20250403060641/https://nia.gov.kn/document/census-report-for-2021-2022/ | url-status=dead }}</ref>
+!rowspan=2|Population<br>density<br />per km<sup>2</sup><br>(2022)
+|-
+!2022
+!2011
+!2001
+!1991
+|-
+|[[Christ Church Nichola Town Parish|Christ Church Nichola Town]]
+|[[Nichola Town]]
+|17.97
+|2,064
+|1,922
+|2,061
+|1,664
+|114.9
+|-
+|[[Saint Anne Sandy Point Parish|Saint Anne Sandy Point]]
+|[[Sandy Point Town]]
+|12.74
+|2,969
+|2,626
+|3,167
+|3,077
+|233.0
+|-
+|[[Saint George Basseterre Parish|Saint George Basseterre]]
+|[[Basseterre]]
+|28.60
+|13,652
+|12,635
+|13,251
+|12,605
+|477.3
+|-
+|[[Saint John Capisterre Parish|Saint John Capisterre]]
+|[[Dieppe Bay Town]]
+|24.25
+|2,972
+|2,962
+|3,248
+|2,936
+|122.6
+|-
+|[[Saint Mary Cayon Parish|Saint Mary Cayon]]
+|[[Cayon]]
+|14.72
+|3,341
+|3,435
+|3,423
+|3,249
+|227.0
+|-
+|[[Saint Paul Capisterre Parish|Saint Paul Capisterre]]
+|[[Saint Paul Capisterre]]
+|12.66
+|2,468
+|2,432
+|2,453
+|2,130
+|194.9
+|-
+|[[Saint Peter Basseterre Parish|Saint Peter Basseterre]]
+|[[Monkey Hill]]
+|19.74
+|5,667
+|4,670
+|3,541
+|2,656
+|287.1
+|-
+|[[Saint Thomas Middle Island Parish|Saint Thomas Middle Island]]
+|[[Middle Island, Saint Kitts and Nevis|Middle Island]]
+|23.55
+|2,657
+|2,535
+|2,395
+|2,257
+|112.8
+|-
+|[[Trinity Palmetto Point Parish|Trinity Palmetto Point]]
+|[[Trinity, Saint Kitts and Nevis|Trinity]]
+|14.69
+|2,348
+|1,701
+|1,678
+|1,250
+|159.8
+|-
+![[Saint Kitts]]
+![[Basseterre]]
+!168.92
+!38,138
+!34,918
+!35,217
+!31,824
+!225.8
+|-
+|[[Saint George Gingerland Parish|Saint George Gingerland]]
+|[[Market Shop, Saint Kitts and Nevis|Market Shop]]
+|18.7
+|2,323
+|2,496
+|2,564
+|2,086
+|124.2
+|-
+|[[Saint James Windward Parish|Saint James Windward]]
+|[[Newcastle, Saint Kitts and Nevis|Newcastle]]
+|31.5
+|2,290
+|2,038
+|1,806
+|1,493
+|72.7
+|-
+|[[Saint John Figtree Parish|Saint John Figtree]]
+|[[Figtree, Saint Kitts and Nevis|Figtree]]
+|21.7
+|4,416
+|3,827
+|2,901
+|2,191
+|203.5
+|-
+|[[Saint Paul Charlestown Parish|Saint Paul Charlestown]]
+|[[Charlestown, Saint Kitts and Nevis|Charlestown]]
+|3.6
+|1,888
+|1,847
+|1,790
+|1,411
+|524.4
+|-
+|[[Saint Thomas Lowland Parish|Saint Thomas Lowland]]
+|[[Cotton Ground]]
+|18.2
+|2,265
+|2,069
+|2,047
+|1,613
+|124.5
+|-
+![[Nevis]]
+![[Charlestown, Saint Kitts and Nevis|Charlestown]]
+!93.7
+!13,182
+!12,277
+!11,108
+!8,794
+!140.7
+|-
+!Saint Kitts and Nevis total
+![[Basseterre]]
+!262.62
+!51,320
+!47,195
+!46,325
+!40,618
+!195.4
+|}
+
+=== Foreign relations ===
+{{Further|Foreign relations of Saint Kitts and Nevis}}
+
+Saint Kitts and Nevis has no major international disputes. Saint Kitts and Nevis is a full and participating member of the [[Caribbean Community|Caribbean Community (CARICOM)]], the [[Organisation of Eastern Caribbean States]] (OECS), and the [[Organisation of American States]] (OAS).<ref name="cia.gov"/>
+
+{{anchor|The Organisation of American States (OAS)}}
+
+St Kitts & Nevis entered the OAS system on 16 September 1984.<ref>{{cite web|url=http://www.oas.org/en/member_states/member_state.asp?sCode=STL|title=OAS – Organization of American States: Democracy for peace, security, and development|last=OAS|date=1 August 2009|website=Oas.org|access-date=30 August 2017|archive-date=21 March 2022|archive-url=https://web.archive.org/web/20220321002823/https://www.oas.org/en/member_states/member_state.asp?sCode=STL|url-status=live}}</ref>
+
+==== Agreements which impact on financial relationships ====
+{{anchor|The Double Taxation Relief (CARICOM) Treaty 1994}}
+
+=====Double Taxation Relief (CARICOM) Treaty 1994=====
+At a CARICOM meeting, representative of St. Kitts and Nevis [[Kennedy Simmonds]] signed the Double Taxation Relief (CARICOM) Treaty 1994, on 6 July 1994.<ref name="ird.gov.tt">{{cite web|url=http://www.ird.gov.tt/Media/Default/IRDTreaties/DTT-Caricom--1994.pdf|title=Legal Supplement Part B – Vol. 33, No. 273 – 28th December, 1994 : LEGAL NOTICE NO. 232 : REPUBLIC OF TRINIDAD AND TOBAGO THE INCOME TAX ACT, CHAP. 75:01 : ORDER MADE BY THE PRESIDENT UNDER SECTION 93(1) OF THE INCOME TAX ACT : THE DOUBLE TAXATION RELIEF (CARICOM) ORDER, 1994|website=Ird.gov.tt|access-date=30 August 2017|archive-date=7 May 2016|archive-url=https://web.archive.org/web/20160507154606/http://ird.gov.tt/Media/Default/IRDTreaties/DTT-Caricom--1994.pdf|url-status=live}}</ref>
+
+The representatives of seven CARICOM countries signed similar agreements at Sherbourne Conference Centre, St. Michael, Barbados.<ref name="ird.gov.tt"/> The countries whose representatives signed the treaties in Barbados were: Antigua & Barbuda, Belize, Grenada, Jamaica, St. Lucia, St. Vincent & the Grenadines and Trinidad and Tobago.<ref name="ird.gov.tt"/> This treaty covered income, residence, tax jurisdictions, capital gains, business profits, interest, dividends, royalties and other areas.{{Citation needed|date=October 2023}}
+
+=====FATCA=====
+On 30 June 2014, St. Kitts and Nevis signed a Model 1 agreement with the United States of America in relation to [[Foreign Account Tax Compliance Act]] (FATCA).<ref>{{cite web|url=https://www.treasury.gov/resource-center/tax-policy/treaties/Pages/FATCA.aspx|title=Foreign Account Tax Compliance Act (FATCA)|website=Treasury.gov|access-date=30 August 2017|archive-date=13 January 2017|archive-url=https://web.archive.org/web/20170113122755/https://www.treasury.gov/resource-center/tax-policy/treaties/Pages/FATCA.aspx|url-status=live}}</ref> The agreement entered into force on 31 August 2015.
+
+=== Military ===
+{{Main|Saint Kitts and Nevis Defence Force}}
+Saint Kitts and Nevis has a defence force of 300 personnel. It is mostly involved in policing and drug trade interception.<ref>{{Cite web|title=Saint Kitts and Nevis - The World Factbook|url=https://www.cia.gov/the-world-factbook/about/archives/2021/countries/saint-kitts-and-nevis/#military-and-security|archive-url=https://web.archive.org/web/20221008074743/https://www.cia.gov/the-world-factbook/about/archives/2021/countries/saint-kitts-and-nevis#military-and-security|url-status=dead|archive-date=8 October 2022|website=www.cia.gov|access-date=2025-11-28}}</ref>
+
+=== Human rights ===
+{{See also|LGBT rights in Saint Kitts and Nevis}}
+Male [[homosexuality]] has been legal in St. Kitts and Nevis since 29 August 2022.<ref>{{cite news |first=Sherrylyn |last=Clarke |title=Eastern Caribbean court strikes down anti-buggery law |url=https://www.nationnews.com/2022/08/29/eastern-caribbean-court-strikes-anti-buggery-law/ |work=NationNews |date=29 August 2022 |access-date=14 September 2022 |archive-date=30 August 2022 |archive-url=https://web.archive.org/web/20220830131358/https://www.nationnews.com/2022/08/29/eastern-caribbean-court-strikes-anti-buggery-law/ |url-status=live }}</ref> In 2011, the Government of St. Kitts and Nevis said it had "no mandate from the people" to abolish the criminalisation of homosexuality among consenting adults.<ref>{{Cite web|title=St. Kitts and Nevis has no mandate to repeal homosexuality laws|url=http://sflcn.com/story.php?id=9915|url-status=dead|archive-url=https://web.archive.org/web/20110716044619/http://sflcn.com/story.php?id=9915|archive-date=16 July 2011}}</ref>
+
+== Economy ==
+{{main|Economy of Saint Kitts and Nevis}}
+
+[[File:Basseterre from sea 2.JPG|thumb|The capital, [[Basseterre]]]]
+Saint Kitts and Nevis is a twin-island federation whose economy is characterised by its dominant tourism, agriculture, and light manufacturing industries.<ref name="cia.gov"/> Sugar was the primary export from the 1940s on, but rising production costs, low world market prices, and the government's efforts to reduce dependence on it have led to a growing diversification of the agricultural sector. In 2005, the government decided to close down the state-owned sugar company, which had experienced losses and was a significant contributor to the fiscal deficit.<ref name="britannica.com"/><ref name="cia.gov"/> In the 21st century, the government has sought to diversify the economy via agriculture, tourism, export-oriented manufacturing, and offshore banking.<ref name="cia.gov"/>
+
+In July 2015, St Kitts & Nevis and the [[Republic of Ireland]] signed a tax agreement to "promote international co-operation in tax matters through exchange of information." The agreement was developed by the OECD Global Forum Working Group on Effective Exchange of Information, which consisted of representatives from OECD member countries and 11 other countries in the Caribbean and other parts of the world.<ref>{{cite web |url=http://www.ntltrust.com/news/2015/8/13/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-2 |title=St.Kitts-Nevis and the Republic of Ireland sign Tax Agreement|website=Ntltrust.com|access-date=30 August 2017 |archive-date=31 August 2017 |archive-url=https://web.archive.org/web/20170831001751/http://www.ntltrust.com/news/2015/8/13/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-2|url-status=dead}}</ref>
+
+===Tourism===
+<div class="floatright">
+{|
+|+'''Tourist arrivals of 2024 in %'''<ref>{{Cite web |title=UN Tourism Data Dashboard |url=https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard |access-date=2025-08-05 |website=www.unwto.org}}</ref>
+|-
+|
+<timeline>
+ImageSize=width:270 height:250
+PlotArea=left:60 bottom:25 top:3 right:16
+AlignBars=justify
+Period=from:0 till:14
+TimeAxis=orientation:horizontal
+
+Colors=
+ id:gray value:gray(0.5)
+ id:line1 value:gray(0.9)
+ id:line2 value:gray(0.7)
+
+ScaleMajor=unit:year increment:2 start:0 gridcolor:line2
+ScaleMinor=unit:year increment:2 start:0 gridcolor:line1
+
+BarData=
+ bar:January text:January
+ bar:February text:February
+ bar:March text:March
+ bar:April text:April
+ bar:May text:May
+ bar:June text:June
+ bar:July text:July
+ bar:August text:August
+ bar:September text:September
+ bar:October text:October
+ bar:November text:November
+ bar:December text:December
+
+PlotData=
+ color:tan1 width:10
+
+ bar:January from:start till:10.5 text:
+ bar:February from:start till:11.3 text:
+ bar:March from:start till:13.1 text:
+ bar:April from:start till:7.5 text:
+ bar:May from:start till:7.4 text:
+ bar:June from:start till:8.7 text:
+ bar:July from:start till:7.4 text:
+ bar:August from:start till:6.8 text:
+ bar:September from:start till:4.6 text:
+ bar:October from:start till:4.9 text:
+ bar:November from:start till:7.2 text:
+ bar:December from:start till:10.6 text: 
+</timeline>
+|}</div>
+St Kitts and Nevis is heavily dependent upon tourism to drive its economy, a sector which has expanded significantly since the 1970s.<ref name="cia.gov"/><ref name="britannica.com"/> In 2009 there were 587,479 arrivals to Saint Kitts compared to 379,473 in 2007, an increase of just under 40% in a two-year period; however, the tourist sector declined during the [[Great Recession]] and then rebounded slowly.<ref name="cia.gov"/>
+
+===Transport===
+{{Further|Transport in Saint Kitts and Nevis}}
+[[File:St. Kitts Airport Terminal from side.jpg|thumb|[[Robert L. Bradshaw International Airport]] on St Kitts]]
+[[File:Vance Amory International Airport, Nevis.JPG|thumb|[[Vance W. Amory International Airport]] on Nevis]]
+Saint Kitts and Nevis has two international airports. The larger one is [[Robert L. Bradshaw International Airport]] on the island of [[Saint Kitts]] with service outside to the Caribbean, North America, and Europe. The other airport, [[Vance W. Amory International Airport]], is located on the island of [[Nevis]] and has flights to other parts of the Caribbean.
+
+The [[St. Kitts Scenic Railway|St Kitts Scenic Railway]] is the last remaining running railroad in the [[Lesser Antilles]].
+
+=== Science and technology ===
+In May 2026, Nevis participated in what was reported as the first space experiment from the Caribbean region. The experiment was launched on 31 May 2026 aboard the Swedish Space Corporation's SubOrbital Express S1X-5/M17 mission from Esrange Space Center in Kiruna, Sweden. The project investigated how altered gravity affects gene expression and cellular function in human immune cells, and included science teachers from Nevis in the design and implementation of the experiment. The Swiss-Caribbean project was initiated and led by University of Zurich space medicine professor [[Oliver Ullrich]] and Cora Thiel.<ref>{{cite web |date=2 June 2026 |title=Nevis Makes History with First Caribbean Space Life Sciences Experiment Launched into Space |url=https://www.niagovkn.com/nevis-makes-history-with-first-caribbean-space-life-sciences-experiment-launched-into-space/ |access-date=10 June 2026 |website=Nevis Island Administration |archive-date=8 June 2026 |archive-url=https://web.archive.org/web/20260608052707/https://www.niagovkn.com/nevis-makes-history-with-first-caribbean-space-life-sciences-experiment-launched-into-space/ |url-status=dead }}</ref><ref>{{cite web |date=31 May 2026 |title=St. Kitts and Nevis enters New Space through historic life sciences mission with Switzerland |url=https://www.einpresswire.com/article/916384678/st-kitts-and-nevis-enters-new-space-through-historic-life-sciences-mission-with-switzerland |access-date=10 June 2026 |website=EIN Presswire |publisher=Center for Space and Aviation Switzerland and Liechtenstein}}</ref>
+
+===Economic citizenship by investment===
+{{see also|Saint Kitts and Nevis passport}}
+St. Kitts and Nevis allows [[Alien (law)|foreigners]] to obtain the status of St. Kitts and Nevis citizen by means of a government sponsored investment programme called Citizenship-by-Investment.<ref>{{cite web |url=http://www.ciu.gov.kn/ |title=Citizenship-by-Investment Introduction |access-date=17 June 2013 |archive-date=22 June 2013 |archive-url=https://web.archive.org/web/20130622030345/http://www.ciu.gov.kn/ |url-status=live }}</ref><ref name="cia.gov"/> Established in 1984, St. Kitts and Nevis's citizenship programme is the oldest prevailing [[economic citizenship]] programme of this kind in the world. However, while the programme is the oldest in the world, it only catapulted in 2006 when [[Henley & Partners]], a global citizenship advisory firm, became involved in the restructuring of the programme to incorporate donations to the country's sugar industry.<ref>{{Cite book|title=The Cosmopolites: The Coming of the Global Citizen|last=Abrahamian|first=Atossa Araxia|publisher=Columbia Global Reports|isbn=978-0-9909763-6-3|year=2015}}</ref>
+
+Citizenship-by-Investment Programmes have been criticised by some researchers due to the risks of corruption, [[money laundering]] and [[tax evasion]].<ref>{{Cite book|title=Citizenship for Sale? In: The Oxford Handbook of Citizenship|author=Shachar, Ayelet |publisher=Oxford University Press|doi= 10.1093/oxfordhb/9780198805854.013.34|year=2017|pages= 789–816|s2cid=168914434 }}</ref> According to the official website of St. Kitts and Nevis's Citizenship-by-Investment Programme, they offer multiple benefits, including citizenship for life that can be passed down for generations, no residency or language requirements, and citizenship in a financially favourable country.<ref name="ciu2023julybenefits">{{Cite web |title=Sustainable Island State Contribution (SISC) |url=https://ciu.gov.kn/investment-options/sustainable-island-state-contribution-sisc/ |archive-url=https://web.archive.org/web/20230728101553/https://ciu.gov.kn/investment-options/sustainable-island-state-contribution-sisc/ |archive-date=28 July 2023 |access-date=29 April 2025 |website=St. Kitts & Nevis Citizenship Programme}}</ref> Applicants who are vetted and successfully attain citizenship are eligible to apply for a [[Saint Kitts and Nevis passport]].<ref name="HenleyRightToPassport">{{Cite web |title=St. Kitts Citizenship by Investment |url=https://www.henleyglobal.com/citizenship-investment/st-kitts-nevis |archive-url=https://web.archive.org/web/20230929173136/https://www.henleyglobal.com/citizenship-investment/st-kitts-nevis |archive-date=2023-09-29 |access-date=2026-04-29 |website=Henley & Partners |language=en}}</ref>
+
+To qualify for citizenship under the investment programme, each candidate must complete a vetting process which includes several background and due diligence checks, an interview, and other various legal requirements. This is followed by a qualifying investment into the country.<ref name=pressrelease2023 /> The applicant must make at least a minimum investment in either approved real estate; or a donation, known as the ''Sustainable Island State Contribution (SISC)'' into the Federal Consolidated Fund; or a donation to an Approved Public Benefactor.<ref name=pressrelease2023 /><ref name=ciu2023julybenefits /><ref name=CBIoptions2023July />
+
+The official website of St. Kitts and Nevis's Citizenship-by-Investment Programme lists the following investment options:
+* An investment in designated real estate with a minimum value of US$400,000, plus the payment of government fees and other fees and taxes.<ref name=pressrelease2023>St. Kitts And Nevis Government Press Release. (27 July 2023). St Kitts and Nevis announces further monumental changes to its Citizenship by Investment Programme. St. Kitts And Nevis Government. Retrieved 28 July 2023, from https://ciu.gov.kn/wp-content/uploads/2023/07/SKN-Press-Release-SKN-CBI-July_2023_Final.pdf.<br />https://web.archive.org/web/20230728095706/https://ciu.gov.kn/wp-content/uploads/2023/07/SKN-Press-Release-SKN-CBI-July_2023_Final.pdf</ref><ref name="CBIoptions2023July">{{Cite web |title=CBI Options |url=https://ciu.gov.kn/investment-options/ |archive-url=https://web.archive.org/web/20230729072552/https://ciu.gov.kn/investment-options/ |archive-date=29 July 2023 |access-date=29 April 2026 |website=St. Kitts & Nevis Citizenship Programme}}</ref><ref name=handbook1>{{Cite book|title=Global Residence and Citizenship Handbook|last=Kalin|first=Christian H.|publisher=Ideos Publications|year=2015|isbn=978-0992781859}}</ref><ref name=henleysite1>{{Cite web|url=https://www.henleyglobal.com/citizenship-saint-kitts-nevis-citizenship/|title=Citizenship Investment in St. Kitts and Nevis - Henley & Partners|website=Henleyglobal.com|access-date=20 July 2016|archive-date=19 October 2015|archive-url=https://web.archive.org/web/20151019115126/https://www.henleyglobal.com/citizenship-saint-kitts-nevis-citizenship/|url-status=live}}</ref>
+* A contribution to the Federal Consolidated Fund, or to an Approved Public Benefactor, of at least US$250,000, inclusive of all government fees but exclusive of due diligence fees which are the same as the real estate option.<ref name=pressrelease2023 /><ref name=ciu2023julybenefits />
+
+== Demographics ==
+{{main|Demographics of Saint Kitts and Nevis}}
+{{see also|List of cities and towns in Saint Kitts and Nevis}}
+[[File:Downtown Basseterre, St. Kitts.jpg|thumb|Downtown Basseterre, St Kitts]]
+
+=== Population ===
+The population of Saint Kitts and Nevis is around 53,000 (July 2019 est.)<ref name="cia.gov"/> and has remained relatively constant for many years.<ref name="britannica.com"/> At the end of the 19th century there were 42,600 residents, the number slowly rising to a little over 50,000 by the mid-twentieth century.<ref>{{Cite web|title=Data on St. Kitts and Nevis {{!}} Reconstructing Global Inequality|url=https://clio-infra.eu/Countries/StKittsandNevis.html|access-date=2021-01-26|website=clio-infra.eu|archive-date=5 February 2023|archive-url=https://web.archive.org/web/20230205111455/https://clio-infra.eu/Countries/StKittsandNevis.html|url-status=live}}</ref> Between 1960 and 1990, the population dropped from 50,000 to 40,000, before rising again to its current level. Approximately three-quarters of the population live on Saint Kitts, 15,500 of them in Basseterre. Other large settlements include [[Cayon]] (population 3,000) and [[Sandy Point Town]] (3,000), both on Saint Kitts, and [[Gingerland]] (2,500) and [[Charlestown, Saint Kitts and Nevis|Charlestown]] (1,900), both on Nevis.{{Citation needed|date=October 2023}} It ranks number 209 on the list of countries and dependencies by population.<ref>{{Cite web |date=16 July 2023 |title=Countries in the World by Population (2023) |url=https://www.worldometers.info/world-population/population-by-country/ |access-date=4 December 2023 |website=Worldometer |archive-date=5 January 2018 |archive-url=https://web.archive.org/web/20180105162622/http://www.worldometers.info/world-population/population-by-country/ |url-status=live }}</ref>
+
+===Racial and ethnic groups===
+The population is primarily [[Afro–Kittitians and Nevisians|Afro-Caribbean]] (92.5%), with significant minorities of [[White Kittitians and Nevisians|European]] (2.1%) and [[Indians in Saint Kitts and Nevis|Indian]] (1.5%) descent (2001 estimate).<ref name="cia.gov" />
+
+===Emigration===
+{{As of|{{UN_Population|Year}}}}, there were {{UN_Population|Saint Kitts and Nevis}} inhabitants; their average life expectancy is 76.9 years. Emigration has historically been very high, so high that the total estimated population in 2007 was little changed from that in 1961.<ref>{{cite book |title=United Nations Demographic Yearbook: 2016 |chapter-url=https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2016/table05.pdf |page=2 |chapter=Table 5: Estimates of Mid-year Population: 2007–2016 |publisher=United Nations |year=2017 |access-date=8 January 2018 |archive-date=7 June 2023 |archive-url=https://web.archive.org/web/20230607022918/https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2016/table05.pdf |url-status=live }}</ref>
+
+Emigration from St Kitts and Nevis to the United States:<ref name="CIA">{{cite web|url=http://uscis.gov/|title=Homepage|website=Uscis.gov|access-date=30 August 2017|archive-date=25 January 2018|archive-url=https://web.archive.org/web/20180125090305/https://www.uscis.gov/|url-status=live}}</ref>
+* 1986–1990: 3,513
+* 1991–1995: 2,730
+* 1996–2000: 2,101
+* 2001–2005: 1,756
+* 2006–2010: 1,817
+
+===Languages===
+English is the sole official language. [[Saint Kitts Creole]] is also widely spoken.<ref>{{cite web|url=http://www.ethnologue.com/country/KN/languages|title=Saint Kitts and Nevis|website=Ethnologue.com|access-date=19 September 2025}}</ref>
+
+=== Religion ===
+{{Pie chart
+|thumb = right
+|caption = Religion in Saint Kitts and Nevis (2011)<ref name="2011Census">{{Cite web|url=https://www.stats.gov.kn/topics/demographic-social-statistics/population/population-by-religious-belief-2011/|title=Population by Religious Belief, 2011|access-date=18 June 2021|publisher=Department of Statistics, Ministry of Sustainable Development|archive-date=10 July 2022|archive-url=https://web.archive.org/web/20220710132420/https://www.stats.gov.kn/topics/demographic-social-statistics/population/population-by-religious-belief-2011/|url-status=live}}</ref><ref>{{cite web|url=http://www.caricomstats.org/Files/Publications/NCR%20Reports/Kitts.pdf|title=CARICOM CAPACITY DEVELOPMENT PROGRAMME (CCDP) : 2000 ROUND OF POPULATION AND HOUSING CENSUS SUB-PROJECT NATIONAL CENSUS REPORT : ST. KITTS AND NEVIS|website=Caricomstats.org|access-date=30 August 2017|archive-date=5 February 2018|archive-url=https://web.archive.org/web/20180205005511/http://www.caricomstats.org/Files/Publications/NCR|url-status=dead}}</ref>
+|label1 = Christianity
+|value1 = 87.6
+|color1 = Purple
+|label2 = Rastafari
+|value2 = 1.2
+|color2 = Brown
+|label3 = Hinduism
+|value3 = 1.15
+|color3 = Orange
+|label4 = Islam
+|value4 = 1.89
+|color4 = Green
+|label5 = Other
+|value5 = 5.6
+|color5 = Yellow
+|label6 = No religion (atheism, agnosticism, etc)
+|value6 = 8.6
+|color6 = Grey
+}}
+
+Most inhabitants (82%) are [[Christians]], most of whom belong to [[Anglicanism|Anglican]], [[Methodist]], and other Protestant denominations.<ref name="cia.gov"/> [[Roman Catholics]] are pastorally served by the [[Roman Catholic Diocese of Saint John's–Basseterre]], and Anglicans by the [[Diocese of the North East Caribbean and Aruba]].{{Citation needed|date=October 2023}}
+
+[[Hinduism]] is the largest non-Christian religion, followed by 1.82% of the population;<ref name="2011Census"/> these are primarily [[Indians in Saint Kitts and Nevis|Indo-Kittitians and Indo-Nevisians]].{{Citation needed|date=October 2023}} [[Islam]] is the 2nd largest non-Christian religion.
+
+According to the 2011 [[census]], 17% of the population is [[Anglicanism|Anglican]], 16% [[Methodism|Methodist]], 11% [[Pentecostalism|Pentecostal]], 7% [[Church of God in Christ|Church of God]], 6% [[Catholic Church|Roman Catholic]], 5% each [[Baptists|Baptist]], [[Moravian Church|Moravian]], [[Seventh-day Adventist]], and [[Wesleyan Holiness Church|Wesleyan Holiness]], 4% percent "Other", made up of [[Brethren Church|Brethren]], [[Evangelicalism|Evangelical Christians]], [[Hindus]], [[Islam in Saint Kitts and Nevis|Muslims]], and others.<ref>{{Cite web |title=Section I. Religious Demography 2020 Report on International Religious Freedom: Saint Kitts and Nevis |url=https://www.state.gov/reports/2020-report-on-international-religious-freedom/saint-kitts-and-nevis/#:~:text=According%20to%20the%20U.S.%20government,the%20population%20does%20not%20specify. |website= |access-date=2 September 2022 |archive-date=2 September 2022 |archive-url=https://web.archive.org/web/20220902075701/https://www.state.gov/reports/2020-report-on-international-religious-freedom/saint-kitts-and-nevis/#:~:text=According%20to%20the%20U.S.%20government,the%20population%20does%20not%20specify. |url-status=live }}</ref>
+
+=== Education ===
+{{See also|List of schools in Saint Kitts and Nevis}}
+There are eight publicly administered high and secondary level schools in St. Kitts and Nevis, and several private secondary schools. Education is compulsory between the ages of 5 and 16.<ref name="britannica.com"/>
+
+== Culture ==
+{{main|Culture of Saint Kitts and Nevis}}
+
+{{See also|J'ouvert|Saint Kitts Creole}}
+
+===Music and festivals===
+{{main|Music of Saint Kitts and Nevis}}
+[[File:MongoosePlay.jpg|thumb|The ''[[Mongoose Play]]'', a popular production of folk theatre and music]]
+
+Saint Kitts and Nevis is known for a number of musical celebrations including [[Carnival]] (18 December to 3 January on Saint Kitts). The last week in June features the [[St Kitts Music Festival]], while the week-long [[Culturama]] on Nevis lasts from the end of July into early August.<ref>Cameron, pg.502</ref>
+
+Additional festivals on the island of Saint Kitts include Inner City Fest, in February in [[Nichola Town|Molineaux]]; Green Valley Festival, usually around Whit Monday in village of Cayon; Easterama, around Easter in village of Sandy Point; Fest-Tab, in July or August in the village of Tabernacle; and [[La festival de Capisterre]], around Independence Day in Saint Kitts and Nevis (19 September), in the [[Capisterre]] region. These celebrations typically feature parades, street dances and [[salsa music|salsa]], [[jazz]], [[soca music|soca]], [[Calypso music|calypso]] and [[steelpan]] music.{{Citation needed|date=October 2023}}
+
+===Media===
+{{See also|List of newspapers in Saint Kitts and Nevis|ZIZ}}
+
+The 1985 film ''[[Missing in Action 2: The Beginning]]'' was filmed in Saint Kitts.<ref>{{cite web |url=http://movies.tvguide.com/missing-action-2/review/106382 |title=Missing in Action 2-The Beginning Review |website=Movies.tvguide.com |access-date=2 November 2011 |archive-date=20 January 2012 |archive-url=https://web.archive.org/web/20120120015115/http://movies.tvguide.com/missing-action-2/review/106382 |url-status=dead }}</ref>
+
+===Sports===
+{{See also|Cricket in the West Indies|Rugby union in Saint Kitts and Nevis}}
+
+[[Cricket]] is common in Saint Kitts and Nevis. Top players can be selected for the [[West Indies cricket team]]. The late [[Runako Morton]] was from Nevis. Saint Kitts and Nevis was the smallest country to host [[2007 Cricket World Cup]] matches,<ref>{{Cite web|url=http://www.caribbean.com/cgi-bin/cms/page.cgi?g=Detailed/447.html|title=St Kitts ramps up to host ICC Cricket World Cup in 2007|website=Caribbean.com|access-date=22 November 2016|archive-date=22 November 2016|archive-url=https://web.archive.org/web/20161122221339/http://www.caribbean.com/cgi-bin/cms/page.cgi?g=Detailed%2F447.html|url-status=live}}</ref> which were played at the [[Warner Park Sporting Complex|Warner Park Stadium]].<ref>{{Cite web |title=Cricket World Cup 2007 - St. Kitts and Nevis |url=https://www.worldcup.org.uk/cricket/2007/stkitts.shtml |access-date=2024-03-10 |website=www.worldcup.org.uk |archive-date=10 March 2024 |archive-url=https://web.archive.org/web/20240310004005/https://www.worldcup.org.uk/cricket/2007/stkitts.shtml |url-status=live }}</ref>
+
+[[Rugby football|Rugby]] and [[netball]] are also common in Saint Kitts and Nevis as well.{{Citation needed|date=October 2023}}
+
+The [[St. Kitts and Nevis national football team|St Kitts and Nevis national football team]], also known as the "Sugar Boyz", has experienced some international success in recent years, progressing to the semi-final round of qualification for the [[2006 FIFA World Cup]] in the [[CONCACAF]] region. Led by Glence Glasgow, they defeated the [[US Virgin Islands]] and [[Barbados]] before they were outmatched by Mexico, [[Saint Vincent and the Grenadines]], and [[Trinidad and Tobago]]. [[Atiba Harris]] is the first footballer from the country to play in [[Major League Soccer]] and arguably the most famous footballer from the country. He is the current President of the [[SKNFA]]. Despite not representing the country, [[Marcus Rashford]] is of descent,<ref>{{cite web | url=https://www.thestkittsnevisobserver.com/soccer-star-marcus-rashford-puts-smile-on-faces-of-hungry-children/ | archive-url=https://web.archive.org/web/20210114153301/https://www.thestkittsnevisobserver.com/soccer-star-marcus-rashford-puts-smile-on-faces-of-hungry-children/ | archive-date=14 January 2021 | title=Soccer Star Marcus Rashford Puts Smile on Faces of Hungry Children | date=5 September 2020 }}</ref> as is [[Cole Palmer]].<ref>{{cite web | url=https://www.theplayerstribune.com/posts/cole-palmer-manchester-city-soccer-premier-league | title=Dead Mad &#124; by Cole Palmer | date=14 July 2022 | access-date=12 November 2023 | archive-date=22 November 2023 | archive-url=https://web.archive.org/web/20231122081210/https://www.theplayerstribune.com/posts/cole-palmer-manchester-city-soccer-premier-league | url-status=live }}</ref>
+
+The national team achieved its greatest success of the modern era when it qualified for the [[2023 CONCACAF Gold Cup]] defeating the [[Curaçao national football team]] and the [[French Guiana national football team]] in a penalty shootout in the preliminary round. It was drawn into Group A with Jamaica, the United States, and Trinidad & Tobago, but lost all three games.<ref>{{cite web |last1=Oinam |first1=Jayanta |title=Saint Kitts and Nevis: Sugar Boyz make history at CONCACAF Gold Cup |url=https://www.fifa.com/fifaplus/en/articles/saint-kitts-and-nevis-sugar-boyz-make-history-at-concacaf-gold-cup |website=FIFA.com |access-date=1 January 2024}}</ref>
+
+The St Kitts and Nevis Billiard Federation, SKNBF, is the governing body for cue sports across the two islands. The SKNBF is a member of the Caribbean Billiards Union (CBU) with the SKNBF President Ste Williams holding the post of CBU Vice-president.{{Citation needed|date=October 2023}}
+
+[[Kim Collins]] is the country's foremost track and field athlete. He has won gold medals in the [[100&nbsp;metres]] at both the [[World Championships in Athletics]] and [[Commonwealth Games]], and at the [[2000 Sydney Olympics]] he was the country's first athlete to reach an Olympic final. He and three other athletes [[Saint Kitts and Nevis at the 2008 Summer Olympics|represented St Kitts and Nevis]] at the [[2008 Summer Olympics]] in Beijing. The four by one hundred metre relay team won a bronze medal at the [[Saint Kitts and Nevis at the 2011 World Championships in Athletics|2011 world championships]].<ref>{{cite web |title=Bronze medalists of Saint Kitts and Nevis team Jason Rogers, Kim Collins, Antoine Adams and Brijesh Lawrence (L to R) react on the podium during the award ceremony for the men's 4x100 metres relay at the |url=https://www.sknvibes.com/news/newsdetails.cfm/40546 |website=sknvibes |access-date=14 February 2022 |archive-date=15 February 2022 |archive-url=https://web.archive.org/web/20220215035728/https://www.sknvibes.com/news/newsdetails.cfm/40546 |url-status=live }}</ref> [[Jason Rogers (athlete)|Jason Rogers]], [[Antoine Adams]], and [[Brijesh Lawrence]] ran the other three relay legs with Collins.{{Citation needed|date=October 2023}}
+
+American writer and former [[figure skater]] and [[triathlete]] [[Kathryn Bertine]] was granted [[dual citizenship]] in an attempt to make the 2008 Summer Olympics representing St Kitts and Nevis in women's [[road bicycle racing|cycling]]. Her story was chronicled online at ESPN.com as a part of its E-Ticket feature entitled "So You Wanna Be An Olympian?" She ultimately failed to earn the necessary points for Olympic qualification.<ref>{{cite web|url=http://www.espn.com/espn/eticket/story?page=olympianpart13|title=E-ticket: So You Wanna Be An Olympian, Part 13|website=ESPN.com|access-date=30 August 2017|archive-date=1 June 2017|archive-url=https://web.archive.org/web/20170601220634/http://www.espn.com/espn/eticket/story?page=olympianpart13|url-status=live}}</ref>
+
+St Kitts and Nevis had two athletes ride in the time trial at the 2010 [[UCI Road World Championships]]: Reginald Douglas and James Weekes.<ref>{{cite web|url=http://www.cyclingnews.com/races/uci-road-world-championships-cm/elite-men/results|title=UCI Road World Championships 2010: Elite Men Results - Cyclingnews.com|author=Rob Jones|work=Cyclingnews.com|date=30 September 2010|access-date=7 April 2016|archive-date=16 March 2016|archive-url=https://web.archive.org/web/20160316234739/http://www.cyclingnews.com/races/uci-road-world-championships-cm/elite-men/results/|url-status=live}}</ref>
+
+==Notable people==
+*[[Alexander Hamilton]] (born 1755 or 1757), statesman and Founding Father of the United States
+*[[John Gorrie]], a Nevisian-born American who largely invented mechanical refrigeration 
+*[[Paul Bilzerian]] (born 1950), financier convicted of securities fraud
+*[[Edmund Wickham Lawrence|Sir Edmund Wickham Lawrence]] (1932-2025), the third governor-general of Saint Kitts and Nevis
+*[[Warrington Phillip]] (born 1968), former first-class cricketer and convicted murderer
+*[[Shoaib Ahmed Shaikh]], also known as SAS, businessman and convicted felon
+*[[Joan Armatrading]] (born 1950), trailblazing songwriter and musician <ref>{{Cite web |date=2026-02-19|title=Joan Armatrading (1950– ): Basseterre’s Global Voice, A Pioneer Who Redefined Black British Music |url=https://timescaribbeanonline.com/joan-armatrading-1950-basseterres-global-voice-a-pioneer-who-redefined-black-british-music/ |website=Times Caribbean Online |access-date=2026-08-23}}</ref>
+*[[Cole Palmer]], whose father is of Nevisian roots, and proudly acknowledges his roots<ref>{{cite web
+ |title=Cole Palmer: Made in the Caribbean
+ |url=https://www.bbc.com/sport/extra/en7wd155d9/cole-palmer-made-in-the-caribbean
+ |website=BBC Sport
+ |publisher=BBC
+ |date=2026-01-19
+ |access-date=2026-01-19
+}}</ref>
+*[[Kim Collins]], a Kittitian former track and field sprinter; 2003 World Champion for the men's 100 m<ref>{{cite web
+
+ |title=Kim Collins' profile
+ |url=https://worldathletics.org/athletes/saint-kitts-and-nevis/kim-collins-14224942
+ |website=World Athletics
+ |publisher=World Athletics
+ |date=2026-01-19
+ |access-date=2026-01-19
+}}</ref>
+*[[Kimbell Ward]] (born 1983), FIFA football referee; first from the country to be listed on the [[FIFA International Referees List]]<ref>{{Cite web |date=2017-11-24 |title=Kimbell Ward Included In Seven for Refereee of the Year Award |url=https://www.nevispages.com/kimbell-ward-included-in-seven-for-refereee-of-the-year-award/ |access-date=2026-07-31 |website=NevisPages.com |language=en-CA}}</ref>
+*[[Mel B]] (Melanie Brown), entertainer of [[Spice Girls]] fame, whose father is Nevisian, and was made a Nevis tourism ambassador in 2022<ref>{{cite web
+ |title=Mel B’s appointment as Tourism Ambassador already creating international buzz about Nevis
+ |url=https://nia.gov.kn/mel-bs-appointment-as-tourism-ambassador-already-creating-international-buzz-about-nevis/
+ |website=Nevis Island Administration
+ |publisher=Nevis Island Administration
+ |date=2022-02-16
+ |access-date=2025-12-21
+ |archive-date=19 November 2025
+ |archive-url=https://web.archive.org/web/20251119015717/https://nia.gov.kn/mel-bs-appointment-as-tourism-ambassador-already-creating-international-buzz-about-nevis/
+ |url-status=dead
+ }}</ref>
+
+==See also==
+{{Portal|Countries|Caribbean|North America|Islands|Geography
+}}
+
+* [[Outline of Saint Kitts and Nevis]]
+* [[Index of Saint Kitts and Nevis–related articles]]
+* [[ISO 3166-2:KN]]
+{{Clear}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+* {{cite book|last=Cobley|first=Alan Gregor|title=Crossroads of Empire: The European-Caribbean Connection, 1492–1992|url=https://books.google.com/books?id=IalxKZ_YBMQC|year=1994|publisher=Department of History, University of the West Indies|isbn=978-976-621-031-1}}
+
+==External links==
+{{Sister project links|Saint Kitts and Nevis|voy=Saint Kitts and Nevis}}
+
+; Government
+* [http://www.gov.kn/ Saint Kitts & Nevis] official government site
+* [http://www.ciu.gov.kn/ Saint Kitts & Nevis] Citizenship by Investment Program
+* [https://www.investstkitts.kn/ Saint Kitts & Nevis] official Investment Promotion Agency
+* [http://www.fsrc.kn/ Saint Kitts & Nevis] St Kitts Financial Services Regulatory Commission
+* [https://www.stkittscitizenship.com/ Saint Kitts & Nevis] Citizenship Program
+
+; General information
+* [https://www.stats.gov.kn/ Department of Statistics], Federation of St. Kitts and Nevis
+
+; Maps
+* [http://www.caribbean-on-line.com/islands/sk/skm.shtml Caribbean-On-Line, St Kitts & Nevis Maps] {{Webarchive|url=https://web.archive.org/web/20120812025043/http://www.caribbean-on-line.com/islands/sk/skm.shtml |date=12 August 2012 }}
+* {{Wikiatlas|Saint Kitts and Nevis}}
+
+; Tourism
+* [http://www.nevisisland.com/ Nevis Tourism Authority] – official site
+* [http://www.stkittstourism.kn/ Saint Kitts Tourism Authority] {{Webarchive|url=https://web.archive.org/web/20070409144226/http://www.stkittstourism.kn/ |date=9 April 2007 }} – official site
+
+{{Saint Kitts and Nevis topics}}
+{{Navboxes
+|title = Articles relating to Saint Kitts and Nevis
+|list =
+{{Countries of North America}}
+{{Bolivarian Alliance for the Americas (ALBA)}}
+{{Organisation of Eastern Caribbean States (OECS)|state=collapsed}}
+{{Caribbean Community (CARICOM)|state=collapsed}}
+{{The Commonwealth}}
+{{Commonwealth realms}}
+{{English official language clickable map}}
+}}
+
+{{Authority control}}
+
+{{coord|17|20|N|62|45|W|region:KN_type:adm1st|display=title}}
+
+{{DEFAULTSORT:Saint Kitts And Nevis}}
+[[Category:Saint Kitts and Nevis| ]]<!--Keep at start of list (eponymous category)-->
+[[Category:Countries in the Caribbean]]
+[[Category:Island countries]]
+[[Category:Countries and territories where English is an official language]]
+[[Category:Federal monarchies]]
+[[Category:Member states of the Caribbean Community]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:Member states of the Organisation of Eastern Caribbean States]]
+[[Category:Former British colonies and protectorates in the Americas]]
+[[Category:States and territories established in 1983]]
+[[Category:Member states of the United Nations]]
+[[Category:Small Island Developing States]]
+[[Category:1983 establishments in North America]]
+[[Category:British Leeward Islands in World War II]]
+[[Category:Countries in North America]]

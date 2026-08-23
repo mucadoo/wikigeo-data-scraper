@@ -1,0 +1,1170 @@
+{{Otheruses}}
+{{redirect|Brasil|band|Brasil (band)}}
+{{基礎情報 国
+| 略名 =ブラジル
+| 日本語国名 =ブラジル連邦共和国
+| 公式国名 ='''{{Lang|pt-br|República Federativa do Brasil}}'''
+| 国旗画像 = Flag of Brazil.svg
+| 国章画像 =[[ファイル:Coat of arms of Brazil.svg|100ピクセル|ブラジルの国章]]
+| 国章リンク =（[[ブラジルの国章|国章]]）
+| 標語 =''{{Lang|pt|Ordem e Progresso}}''<br>（[[ブラジルポルトガル語|ポルトガル語]]:秩序と進歩）
+| 位置画像 =Brazil (orthographic projection).svg
+| 公用語 =[[ポルトガル語]]
+| 首都 =[[ブラジリア]]
+| 最大都市 =[[サンパウロ]]
+| 元首等肩書 =[[ブラジル連邦共和国大統領|大統領]]
+| 元首等氏名 =[[ルイス・イナシオ・ルーラ・ダ・シルヴァ]]
+| 首相等肩書 =[[ブラジル連邦共和国副大統領|副大統領]]
+| 首相等氏名 =[[ジェラルド・アルキミン]]
+| 他元首等肩書1={{仮リンク|連邦議会上院 (ブラジル)|en|Federal Senate (Brazil)|label=元老院議長}}
+| 他元首等氏名1={{ill2|ダヴィ・アルコロンブレ|en|Davi Alcolumbre}}
+| 他元首等肩書2=[[連邦議会下院 (ブラジル)|代議院議長]]
+| 他元首等氏名2={{ill2|ウゴ・モッタ|en|Hugo Motta}}
+| 他元首等肩書3=[[連邦最高裁判所 (ブラジル)|最高裁判所長官]]
+| 他元首等氏名3={{ill2|ルイス・エドソン・ファキン|en|Edson Fachin}}
+| 面積順位 =5
+| 面積大きさ =1 E12
+| 面積値 =851.2万<ref name="外務省">{{Cite web|和書|url=https://www.mofa.go.jp/mofaj/area/brazil/data.html#section1 |url-status=live |archiveurl=https://web.archive.org/web/20260113054327/mofa.go.jp/mofaj/area/brazil/data.html#section1 |title=ブラジル連邦共和国 |publisher=外務省 |accessdate=2026-06-11 |archivedate=2026-01-13 }}</ref>
+| 水面積率 =0.7%
+|人口追記=<ref name=population>{{Cite web |url=https://data.un.org/en/iso/br.html |title=UNdata |publisher=国連 |accessdate=2021-11-07}}</ref>
+| 人口統計年 =2024
+| 人口順位 =7
+| 人口大きさ =1 E8
+| 人口値 =2億1199万9000
+| 人口密度値 =25.4<ref name=population/>
+| GDP統計年元 =2019
+| GDP値元 =7兆4070億2300万<ref name="imf2019">{{Cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?c=223,&s=NGDP_R,NGDP_RPCH,NGDP,NGDPD,PPPGDP,NGDP_D,NGDPRPC,NGDPRPPPPC,NGDPPC,NGDPDPC,PPPPC,PPPSH,PPPEX,NID_NGDP,NGSD_NGDP,PCPI,PCPIPCH,PCPIE,PCPIEPCH,TM_RPCH,TMG_RPCH,TX_RPCH,TXG_RPCH,LUR,LP,GGR,GGR_NGDP,GGX,GGX_NGDP,GGXCNL,GGXCNL_NGDP,GGSB,GGSB_NPGDP,GGXONLB,GGXONLB_NGDP,GGXWDN,GGXWDN_NGDP,GGXWDG,GGXWDG_NGDP,NGDP_FY,BCA,BCA_NGDPD,&sy=2019&ey=2026&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|title=World Economic Outlook Database|publisher=[[国際通貨基金|IMF]]|language=英語|accessdate=2021-10-16|archiveurl=https://web.archive.org/web/20220304032526/https://www.imf.org/en/Publications/WEO/weo-database/2021/October/weo-report?c=223,&s=NGDP_R,NGDP_RPCH,NGDP,NGDPD,PPPGDP,NGDP_D,NGDPRPC,NGDPRPPPPC,NGDPPC,NGDPDPC,PPPPC,PPPSH,PPPEX,NID_NGDP,NGSD_NGDP,PCPI,PCPIPCH,PCPIE,PCPIEPCH,TM_RPCH,TMG_RPCH,TX_RPCH,TXG_RPCH,LUR,LP,GGR,GGR_NGDP,GGX,GGX_NGDP,GGXCNL,GGXCNL_NGDP,GGSB,GGSB_NPGDP,GGXONLB,GGXONLB_NGDP,GGXWDN,GGXWDN_NGDP,GGXWDG,GGXWDG_NGDP,NGDP_FY,BCA,BCA_NGDPD,&sy=2019&ey=2026&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1|archivedate=2022-03-04}}</ref>
+| GDP統計年MER =2019
+| GDP順位MER =12
+| GDP値MER =1兆8778億2200万<ref name="imf2019" />
+| GDP MER/人 =8935.756<ref name="imf2019" />
+| GDP統計年 =2019
+| GDP順位 =7
+| GDP値 =3兆2474億1600万<ref name="imf2019" />
+| GDP/人 =1万5453.07<ref name="imf2019" />
+| 建国形態 =[[独立]]<br>{{--}}宣言<br>{{--}}承認
+| 建国年月日 =[[ポルトガル]]から<br>[[1822年]][[9月7日]]<br>[[1825年]][[8月29日]]
+| 通貨 =[[レアル]]
+| 通貨コード =BRL
+| 時間帯 =（&minus;2 {{～}} &minus;5）
+| 夏時間 = なし<ref group="注記">2019年をもって[[夏時間]]を廃止。</ref>
+| 国歌 =[[ブラジルの国歌|{{lang|pt|Hino Nacional Brasileiro}}]]{{pt icon}}<br>''ブラジルの国歌''<br>{{center|[[ファイル:Hino Nacional Brasileiro instrumental.ogg]]}}
+| ISO 3166-1 = BR / BRA
+| ccTLD =[[.br]]
+| 国際電話番号 =55
+| 注記 ={{fontsize|90%|<references group="注記"/><br>}}
+}}
+'''ブラジル連邦共和国'''（ブラジルれんぽうきょうわこく、{{lang-pt|República Federativa do Brasil}}）、通称'''ブラジル'''は、[[南アメリカ]]に位置する[[連邦共和国|連邦共和制国家]]。首都は[[ブラジリア]]<ref>{{Cite web |title=ブラジルの首都機能移転 - 国土交通省 |url=https://www.mlit.go.jp/kokudokeikaku/iten/service/panf/g_panf2007_2.html#:~:text=%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%A7%E3%81%AF%E3%80%811946%E5%B9%B4%E3%81%AB,%E6%A9%9F%E8%83%BD%E3%81%8C%E7%A7%BB%E8%BB%A2%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82 |website=www.mlit.go.jp |access-date=2025-02-03}}</ref>。
+
+南米大陸で最大の面積を占め、[[ウルグアイ]]、[[アルゼンチン]]、[[パラグアイ]]、[[ボリビア]]、[[ペルー]]、[[コロンビア]]、[[ベネズエラ]]、[[ガイアナ]]、[[スリナム]]、[[フランス領ギアナ]]と国境を接しており、南米諸国で接していないのは[[チリ]]と[[エクアドル]]だけである。東は[[大西洋]]に囲まれている。また、大西洋上の[[フェルナンド・デ・ノローニャ]]諸島、トリンダージ島、マルティン・ヴァス島、[[サンペドロ・サンパウロ群島]]もブラジル領に属する。その国土面積は日本の約22.5倍で<ref name="外務省" />、[[アメリカ合衆国]]よりは約110万[[平方キロメートル|km<sup>2</sup>]]小さいが、[[ロシア]]を除いた[[ヨーロッパ]]全土より大きく、[[インド]]・[[パキスタン]]・[[バングラデシュ]]の三国を合わせた面積の約2倍に相当する。
+
+== 概要 ==
+ブラジルは、26の州と連邦管区の連合で構成されている。同国は[[南アメリカ大陸]]最大の面積を擁する国家であると同時に[[ラテンアメリカ]]最大の領土・人口を擁する国家で、面積は世界第5位である。また、人口世界第5位でもある。7,491[[キロメートル|km]](4,655[[マイル|mi]])の[[海岸#海岸線|海岸線]]を保有している<ref>[https://www.cia.gov/the-world-factbook/countries/brazil/#geography]  The World Factbook (2024 ed.). Central Intelligence Agency. Retrieved 4 May 2018. (Archived 2018 edition)</ref>。大陸の陸地面積の約半分をカバーしており<ref>{{Cite web |last=<!--not specified--> |date=<!--not specified--> |title=Brazil – Land |url=http://www.un.int/brazil/brasil/brazil-land.htm |archive-url=https://web.archive.org/web/20141023154830/http://www.un.int/brazil/brasil/brazil-land.htm |archive-date=23 October 2014 ||access-date=12 January 2024 |website=Permanent Missions |publisher=United Nations |at=Geography}}</ref> 、大陸内に在る[[アマゾン盆地]]には多様な{{仮リンク|ブラジルの野生生物|label=野生生物|en|Wildlife of Brazil}}、さまざまな{{仮リンク|ブラジルの環境|label=生態系|en|Environment of Brazil}}、および多数の{{仮リンク|ブラジルの保護地域|label=保護された生息地|en|Protected areas of Brazil}}にまたがる広範な天然資源の中心地である広大な[[アマゾン熱帯雨林|熱帯林]]が含まれている。この独得な[[文化的環境|環境遺産]]の存在は、ブラジルを17の{{仮リンク|巨大多様性国家|label=メガダイバーシティ諸国|en|Megadiverse countries}}の第1位に位置付け、傍ら森林[[伐採]]などの人為的変動による環境悪化が{{仮リンク|ブラジルの気候変動|label=気候変動|en|Climate change in Brazil}}や[[生物多様性の損失]]などの地球規模の問題へ直接影響を与えるため、世界的に大きな関心の対象となっている。
+
+また、[[アメリカ州|南北アメリカ]][[大陸]]で唯一の[[ルゾフォニア|ポルトガル語圏]]の国であり、同時に世界最大の[[ポルトガル語]]使用人口を擁する国でもある。公用語も[[ポルトガル語]]である。
+
+更に、[[ラテンアメリカ]]最大の経済規模であり、同時に世界で13番目の経済規模でもある（[[2022年]]4月現在）。同国は北部が[[赤道]]直下で、全体的に海流などの影響もあり気候は大変温暖である<ref>[https://web.archive.org/web/20180805112557/https://headlines.yahoo.co.jp/hl?a=20180805-00000009-jij_afp-int] ブラジル労働党、収監中のルラ元大統領を大統領候補に指名</ref>。最大都市は[[サンパウロ]]。
+
+世界中からの[[ブラジルへの移民|大量移民]]が幾世紀も続いており、世界で最も多文化および民族的に多様な国家の1つであり<ref>{{Cite book |last=Philander |first=S. George |url=https://books.google.com/books?id=B8VE92tDqEEC&pg=PA148 |title=Encyclopedia of Global Warming and Climate Change, Second Edition |publisher=Princeton University |year=2012 |isbn=978-1-4129-9261-9 |edition=Second |volume=1 |location=Los Angeles |page=148 |oclc=970592418 |access-date=12 January 2024 |archive-date=25 October 2023 |archive-url=https://web.archive.org/web/20231025210536/https://books.google.com/books?id=B8VE92tDqEEC&pg=PA148#v=onepage&q&f=false |url-status=live }}</ref><ref>{{Cite book |last=Vallance |first=Monique M. |title=Brazil Today: An Encyclopedia of Life in the Republic |publisher=ABC-CLIO |others=Contributing editor Monique M. Vallance |year=2012 |isbn=978-0-313-34672-9 |editor-last=Crocitti |editor-first=John J. |page=xxiii |chapter=Preface and Observations on Contemporary Brazil |oclc=787850982 |ref={{harvid|Crocitti|Vallance|2012}} |chapter-url=https://books.google.com/books?id=vP9jHaoL_s4C&pg=PR23 |access-date=12 January 2024 |archive-date=25 October 2023 |archive-url=https://web.archive.org/web/20231025210603/https://books.google.com/books?id=vP9jHaoL_s4C&pg=PR23 |url-status=live }}</ref>、そして{{仮リンク|国別のカトリック教徒の散布図の一覧|label=ローマカトリック教徒が人口の過半数を占める国家|en|Catholic Church by country}}となっている。
+
+現在のブラジルの領土には、[[1500年]]にポルトガル帝国によって発見された土地を主張した探検家[[ペドロ・アルヴァレス・カブラル]]が上陸する前に、多くの部族国家が存在していた。ブラジルは、帝国の首都がリスボンからリオデジャネイロへ移された1808年まで{{仮リンク|ブラジル植民地|label=ポルトガルの植民地|en|Colonial Brazil}}であった。1815年、同植民地は[[ポルトガル・ブラジル及びアルガルヴェ連合王国|ポルトガル連合王国、ブラジル連合王国、アルガルヴェ連合王国の成立]]により王国の地位に昇格した。独立は1822年に[[ブラジル帝国]]の創設によって達成され、国家は[[立憲君主制]]と[[議会制]]の下で統治された単一国家へと転身した。1824年に最初の憲法が批准されると、二院制の議会が設立され、現在の[[国民会議 (ブラジル)|国民会議]]の原型となった。そして1888年に奴隷制が廃止された。軍事[[クーデター]]後の1889年には{{仮リンク|ブラジルにおける共和制宣言|label=共和制への移行|en|Proclamation of the Republic (Brazil)}}で共和制国家となった。1964年には{{仮リンク|ブラジル第五共和国|label=軍事独裁政権|en|Military dictatorship in Brazil}}が出現し、1985年までその政権による統治が続いたものの、以降は文民統治が再開されることとなった。1988年に制定されたブラジルの現行憲法は、民主的な連邦共和国と定義している<ref>[https://web.archive.org/web/20071213194044/http://www.planalto.gov.br/CCIVIL_03/Constituicao/Constitui%C3%A7ao.htm　Brazilian Federal Constitution] (in Portuguese). Presidency of the Republic. 1988. Archived from the original on 13 December 2007. Retrieved 3 June 2008. "Brazilian Federal Constitution". v-brazil.com. 2007. Archived from the original on 28 September 2018. Retrieved 3 June 2008. Unofficial translate </ref>と言える。
+
+現今においてブラジルは[[地域大国]]かつ[[ミドルパワー|中堅大国]]の一国であり<ref>{{Cite book |last1=M. Schaefer |url=https://books.google.com/books?id=yXdaBQAAQBAJ&pg=PT32 |title=The Formation of the BRICS and its Implication for the United States: Emerging Together |last2=J. Poffenbarger |date=2014 |publisher=Springer |isbn=978-1-137-38794-3 |page=32 |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129183440/https://books.google.com/books?id=yXdaBQAAQBAJ&pg=PT32#v=onepage&q&f=false |url-status=live |access-date=2026-02-14}}</ref><ref>{{Cite book |last=Sean W. Burges |url=https://books.google.com/books?id=tolwCwAAQBAJ&pg=PA114 |title=Latin America and the Shifting Sands of Globalization |publisher=Routledge |year=2016 |isbn=978-1-317-69658-2 |pages=114–15 |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129183445/https://books.google.com/books?id=tolwCwAAQBAJ&pg=PA114#v=onepage&q&f=false |url-status=live |access-date=2026-02-14}}</ref><ref>{{Cite journal |last=Gardini |first=Gian Luca |year=2016 |title=Brazil: What Rise of What Power? |journal=Bulletin of Latin American Research |volume=35 |pages=5–19 |doi=10.1111/blar.12417 |doi-access=free |issn=0261-3050}}</ref>、同時に国際的に台頭する{{仮リンク|エマージング・パワー|label=新興大国|en|Emerging power}}として評価されている<ref>{{Cite web |last=Gratius |first=Susanne |date=April 2008 |title=The international arena and emerging powers: stabilising or destabilising forces? |url=http://fride.org/descarga/com_emerging_powers_eng_abr08.pdf |website=FRIDE|archive-url=https://web.archive.org/web/20160615194931/http://fride.org/descarga/com_emerging_powers_eng_abr08.pdf |archive-date=15 June 2016 |access-date=2026-02-14}}</ref><ref>{{Cite web |last=Peter Collecott |date=29 October 2011 |title=Brazil's Quest for Superpower Status |url=http://www.diplomaticourier.com/2011/10/29/brazil-s-quest-for-superpower-status/ |publisher=The Diplomatic Courier |archive-date=2 April 2019 |archive-url=https://web.archive.org/web/20190402030604/https://www.diplomaticourier.com/2011/10/29/brazil-s-quest-for-superpower-status/ |url-status=live |access-date=2026-02-14}}</ref><ref>{{Cite news |last=Clendenning |first=Alan |date=17 April 2008 |title=Booming Brazil could be world power soon |page=2 |work=USA Today |agency=The Associated Press |url=https://www.usatoday.com/money/economy/2008-04-17-310212789_x.htm |archive-date=20 August 2011 |archive-url=https://web.archive.org/web/20110820003302/http://www.usatoday.com/money/economy/2008-04-17-310212789_x.htm |url-status=live |access-date=2026-02-14}}</ref><ref>{{Cite book |last1=Jorge Dominguez |url=https://books.google.com/books?id=c0I_4JmjFbwC&pg=PA98 |title=Between Compliance and Conflict: East Asia Latin America and the New Pax Americana |last2=Byung Kook Kim |publisher=Center for International Affairs, Harvard University |year=2013 |isbn=978-1-136-76983-2 |pages=98–99}}</ref>。現時点においては[[新興国]]の一国で[[エマージング・マーケット]]が存在する地域の一つに数え上げられ<ref>{{Cite web |url=https://www.ftse.com/products/downloads/FTSE-Country-Classification-Update-2018.pdf |title=FTSE Country Classification |publisher=FTSE Group |url-status=live |date=September 2018 |archive-url=https://web.archive.org/web/20181121072632/https://www.ftse.com/products/downloads/FTSE-Country-Classification-Update-2018.pdf |archive-date=21 November 2018 |access-date=2026-02-14 }}</ref><ref>{{Cite web |title=Country and Lending Groups |url=http://data.worldbank.org/about/country-classifications/country-and-lending-groups#Upper_middle_income |archive-url=https://web.archive.org/web/20110318125456/http://data.worldbank.org/about/country-classifications/country-and-lending-groups |archive-date=18 March 2011 |access-date=5 March 2011 |publisher=World Bank |quote=Uppermiddle Income defined as a per capita income between $3,976 – $12,275}}</ref>、[[開発途上国]]の立場かつ[[新興工業経済地域|新興工業国]]に位置する中上位収入の経済国ともなっている<ref>{{Cite web|url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weoselco.aspx?g=2200&sg=All+countries+%2f+Emerging+market+and+developing+economies |title=World Economic Outlook Database, April 2019 |website=IMF.org |publisher=International Monetary Fund |archive-url=https://web.archive.org/web/20190617091704/https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weoselco.aspx?g=2200&sg=All+countries+%2f+Emerging+market+and+developing+economies |archive-date=17 June 2019 |access-date=2026-02-14}}</ref>。[[名目GDP]]および{{仮リンク|購買力平価における国の一覧|label=購買力平価(PPP)|en|List of countries by GDP (PPP)}}の両方で[[各国の名目GDPリスト|世界10大経済圏の一国]]であり<ref>{{cite web |url=https://www.imf.org/en/Publications/WEO/weo-database/2025/april/weo-report?c=223,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2023&ey=2030&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=.&br=1 |title=World Economic Outlook Database, April 2025 Edition. (Brazil) |publisher=[[International Monetary Fund]] |website=www.imf.org |date=22 April 2025 |access-date=2026-02-14}}</ref><ref>{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html |title=CIA – The World Factbook – Country Comparisons – GDP (purchasing power parity) |publisher=[[Central Intelligence Agency]]|archive-url=https://web.archive.org/web/20110604195034/https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html |archive-date=4 June 2011 |access-date=2026-02-14}}</ref>、ラテンアメリカおよび南半球で最大の経済規模、そして南アメリカ最大の{{仮リンク|国別の個人資産総額の一覧|label=国富|en|List of countries by total private wealth}}を誇っている。[[経済複雑性指標|複雑]]かつ高度に多様化した経済を持つ同国は、様々な農産物、鉱物資源、工業製品などの製造物で世界有数の主要な原産国または主要な輸出国の一つに挙げられる<ref>Jeff Neilson; Bill Pritchard (2011). Value Chain Struggles. John Wiley & Sons. p. 102. ISBN 978-1-4443-5544-4. Archived from the original on 25 October 2023. Retrieved 16 June 2015.</ref>。傍ら、[[世界遺産]]の保有数で[[国際連合教育科学文化機関]]（UNESCO）から世界第13位にランクされている<ref>{{Cite web|url=https://whc.unesco.org/en/list|title=UNESCO World Heritage Centre — World Heritage List |publisher=UNESCO |url-status=live |archive-url=https://web.archive.org/web/20210314170923/https://whc.unesco.org/en/list |archive-date=14 March 2021 |access-date=2026-02-14}}</ref>。しかし、その反面で[[治安]]の不安定さが強く、依然として著しいレベルの[[汚職]]や[[犯罪]]、[[社会的不平等]]などの問題を抱えている。
+
+ブラジルは[[国際連合]]（UN）、[[世界貿易機関]]（WTO）、[[G20]]、[[BRICS]]、[[G4諸国|G4]]、[[メルコスール]]<ref group="注釈">この関連から[[南米諸国連合]]（UNASUR）の加盟国ともなっている。</ref>、[[米州機構]]（OAS）、{{仮リンク|イベロアメリカ諸国機構|es|Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura|pt|Organização dos Estados Ibero-americanos|en|Organization of Ibero-American States}}（OEI）<ref group="注釈">ブラジルは[[イベロアメリカ首脳会議]]の参加国でもある。</ref>、[[ポルトガル語諸国共同体]]（CPLP）<ref group="注釈">ブラジルは[[ルゾフォニア]]の一国に数え上げられている。</ref>、[[ラテンアメリカ経済機構]]（SELA）の創設メンバーである。また、[[アラブ連盟]]のオブザーバー国であり、[[アメリカ合衆国]]の[[MNNA|主要な非NATO同盟国]]の一国でもある<ref>{{Cite web|url=https://www.stripes.com/news/trump-bumps-up-brazil-to-major-non-nato-ally-1.580256 |title=Trump bumps up Brazil to 'major non-NATO' ally |website=Stars and Stripes |language=en |last=Vandiver |first=John |date=9 May 2019 |url-status=live |archive-url=https://web.archive.org/web/20191013035014/https://www.stripes.com/news/trump-bumps-up-brazil-to-major-non-nato-ally-1.580256 |archive-date=13 October 2019 |access-date=2026-02-14}}</ref><ref>{{Cite web|url=https://anba.com.br/en/brazil-must-be-a-facilitator-in-the-middle-east-says-vp/|title=Brazil must be a 'facilitator' in the Middle East, says VP |date=14 August 2019 |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526041219/https://anba.com.br/en/brazil-must-be-a-facilitator-in-the-middle-east-says-vp/ |url-status=live|access-date=2026-02-14}}</ref>。一方で[[ラテンアメリカ統合連合]]（ALADI）や[[ラテンアメリカ・カリブ諸国共同体]]（CELAC）<ref group="注釈">同共同体の[[立法府]]となる[[ラテンアメリカ議会]]の加盟国でもある。</ref>に加盟しており、[[経済協力開発機構]]（OECD）への加盟協議を行なっている<ref>{{Cite news|url=https://www.nikkei.com/article/DGXZQOGN260060W2A120C2000000/|title=OECD、ブラジルなど6カ国の加盟協議を開始|date=2022-01-26|access-date=2026-02-14}}</ref>。傍らで[[アンデス共同体]]（CAN）の準加盟国ともなっている。
+
+== 国名 ==
+[[File:ARCHELLA E THERY Img 06.png|thumb|ブラジルの人口分布図（2000年）]]
+正式名称は[[ポルトガル語]]で、{{Lang|pt-br|República Federativa do Brasil}} {{IPA-pt|xeˈpublika fedeɾaˈtʃiva du bɾaˈziw}}（{{Small|ヘプブリカ・フェデラチヴァ・ドゥ・ブラズィウ}}<small>{{Audio|Pt-br-República Federativa do Brasil.ogg|聞く|help=no}}</small>)。通称 {{Lang|pt-br|Brasil}}（{{Small|ブラズィウ}}<small>{{Audio|Pt-br-Brasil.ogg|聞く|help=no}}</small>）。「ブラジル」という読みは[[ポルトガル]]本国などで使われる[[ポルトガル語|イベリア・ポルトガル語]]での発音であり、[[ブラジル・ポルトガル語]]での発音にもっとも近いカタカナ表記は「ブラズィウ」である。
+
+公式の[[英語]]表記は{{Lang|en|Federative Republic of Brazil}} （{{Small|フェデラティヴ・リパブリク・オヴ・ブラズィル}}）。通称 {{Lang|en|Brazil}}（{{Small|ブラズィル}}<small>{{Audio|en-us-Brazil.ogg|聞く|help=no}}</small>）。ポルトガル語では {{Lang|pt|Bra'''s'''il}} と綴られるが、英語では {{Lang|en|Bra'''z'''il}} と綴られる。ただし、首都の[[ブラジリア]]については英語でも {{Lang|pt|Bra'''s'''ília}} と表記される。
+
+[[日本語]]の表記は'''ブラジル連邦共和国'''、通称'''ブラジル'''。[[外国地名および国名の漢字表記一覧|漢字表記]]では'''伯剌西爾'''か'''伯国'''<ref>[https://www.nikkeyshimbun.jp/?s=%E4%BC%AF%E5%9B%BD 検索結果： 伯国]</ref><ref>http://saopauloshimbun.com/?s=%E4%BC%AF%E5%9B%BD</ref>となり、'''伯'''と略される。ただし[[中国]]においては'''巴西'''（バーシー）と表記される。
+
+国号のブラジルは、樹木の[[ブラジルボク|パウ・ブラジル]]に由来する。もともと、この土地は1500年に[[ポルトガル人]]の[[ペドロ・アルヴァレス・カブラル]]が来航した当初は、南米大陸の一部ではなく島だと思われたために「ヴェラ・クルス（真の十字架）島 ( {{Lang|pt|Ilha de Vera Cruz}} )」と名づけられたが、すぐに[[マヌエル1世 (ポルトガル王)|マヌエル1世]]の時代に「サンタ・クルス（聖十字架）の地 ( {{Lang|pt|Terra de Santa Cruz}} )」と改名された。
+
+その後、あまりにも[[キリスト教]]的すぎる名前への反発や、ポルトガル人がこの地方で[[ヨーロッパ]]で染料に用いられていた[[スオウ]]に似た木を発見すると、それもまた同様に染料に使われていたことから、木を[[ポルトガル語]]で「赤い木」を意味する「パウ・ブラジル」（[[ブラジルボク]]）と呼ぶようになり、ブラジルボクのポルトガルへの輸出が盛んになったこともあり、[[16世紀]]中にこの地はブラジルと呼ばれるようになった。
+
+[[1822年]]に'''[[ブラジル帝国]]'''（Império do Brasil）として独立し、[[1889年]]の共和革命以降は'''ブラジル合衆国'''（Estados Unidos do Brasil）もしくは'''ブラジル合衆共和国'''（República dos Estados Unidos do Brasil）を国名としていたが、[[1967年]]に現在のブラジル連邦共和国に改称した。
+
+== 歴史 ==
+{{Main|ブラジルの歴史}}
+
+=== 先コロンブス期 ===
+[[ファイル:Famille d’un Chef Camacan se préparant pour une Fête.jpg|thumb|left|ブラジルの[[インディオ]]]]
+ブラジルの最初の住民は、紀元前11000年<ref group="注釈">4万年以上も前という説もある。</ref>に[[ベーリング海峡]]を渡って[[アジア]]からやって来た人々（狩人）だった。彼らは紀元前8000年ごろ、現在のブラジルの領域に到達した<ref group="注釈">ミナスジェライス洲ラゴーアサンタ地方で発見された、[[石斧]]、[[槌|石槌]]、[[水晶]]の破片、[[貝殻]]の[[装飾品]]がその有力な証拠となっている。</ref>。現在のブラジルとなっている地に遠く離れたタワンティンスーユ（[[インカ帝国]]）の権威は及ばず、この地には、のちにヨーロッパ人によって「[[インディオ]]」（インディアン）と名づけられる、原始的な農耕を営む{{仮リンク|トゥピ人|en|Tupí people|label=トゥピ族}}・[[グアラニー族]]・[[アラワク族]]系の人々が暮らしていた。16世紀前半の時点でこうした先住民の人口は、沿岸部だけで100万人から200万人と推定されている。しかし、ヨーロッパ人が渡来してくるまでは、ブラジルに住んでいた人々の生活については何も知られていない。
+
+=== ポルトガル植民地時代 ===
+{{See also|ポルトガルによるアメリカ大陸の植民地化}}
+[[ファイル:Pedro Álvares Cabral.jpg|サムネイル|241x241ピクセル|ブラジルの「発見者」 [[ペドロ・アルヴァレス・カブラル]]]]
+[[ファイル:Brazil-16-map.jpg|thumb|upright|植民地時代初期の地図]]
+[[1492年]]に[[クリストファー・コロンブス|クリストーバル・コロン]]が[[ヨーロッパ人]]として初めて[[アメリカ大陸]]に到達したあと、「発見」されたアメリカ大陸の他の部分と同様にブラジルも植民地化の脅威に晒されることになった。
+
+[[1500年]]に[[ポルトガル人]]の[[ペドロ・アルヴァレス・カブラル]]がブラジルを「発見」すると、以降ブラジルは[[ポルトガル]]の植民地として、ほかの南北アメリカ大陸とは異なった歴史を歩むことになった。[[1502年]]にはイタリア人の[[アメリゴ・ヴェスプッチ]]が[[リオデジャネイロ]]（1月の川）を命名した。
+
+ポルトガル人が最初に接触したのは、{{仮リンク|トゥピ語|en|Tupi language|label=古トゥピ語}}や[[グアラニー語]]などを含む[[トゥピ語族]]を話す先住民であった。トゥピ語族のほかにもブラジル先住民には、{{仮リンク|ジェー語族|en|Jê languages}}・[[アラワク語族]]（ヌ＝アルアーク語族とも）・[[カリブ語族]]を話す集団があった。ポルトガル人は古トゥピ語先住民の言葉がブラジル人の言葉であると誤解し、ほかの先住民はそれぞれ部族の言葉を持っているにもかかわらず、ポルトガル宣教師達は先住民にその言葉を教えた。こうして[[リングワ・フランカ]]（一種の共通語）の[[リンガ・ジェラール]]（[[リンガ・ジェラール・パウリスタ]]と[[ニェエンガトゥ語|リンガ・ジェラール・アマゾニカ]]）が形成された。それは信仰も同様として仕向けられた<ref>シッコ・アレンカール他著、明石書店 2007年 22ページ</ref>。
+
+初期のブラジルにおいては[[新キリスト教徒]]（改宗ユダヤ人）によって[[ブラジルノキ|パウ・ブラジル]]の輸出が主要産業となった。このために当初''ヴェラ・クルス''島と名づけられていたこの土地は、16世紀中にブラジルと呼ばれるようになった。[[1549年]]には[[フランス]]の侵攻に対処するために、初代ブラジル[[総督]]として{{仮リンク|トメ・デ・ソウザ|en|Tomé de Sousa}}が[[サルヴァドール|サルヴァドール・ダ・バイーア]]に着任した。
+
+1580年にポルトガルが[[スペイン・ハプスブルク朝]]と合同すると、ブラジルは[[オランダ西インド会社]]軍の攻撃を受けた。[[北東部地域 (ブラジル)|北東部]]の一部が[[ネーデルラント連邦共和国]]（[[オランダ]]）に占領され、{{仮リンク|ブラジル植民地 (オランダ領)|en|Dutch Brazil|label=オランダ領ブラジル}}となった。1661年、[[ハーグ条約 (1661年)|ハーグ講和条約]]が締結され、オランダは400万クルザードの賠償金と引き換えに、ポルトガルの[[アンゴラ植民地|ポルトガル領アンゴラ]]（現・[[アンゴラ]]）領有を認めるとともにオランダ領ブラジルをポルトガルに割譲した。
+
+一方、パウ・ブラジルの枯渇後、新たな産業として北東部に[[マデイラ諸島]]から[[サトウキビ]]が導入され、{{仮リンク|エンジェニョ|en|Engenho}}（砂糖[[プランテーション]]）で働く労働力としてまず[[インディオ]]が奴隷化された。インディオの数が足りなくなると[[西アフリカ]]や[[アンゴラ]]、[[モザンビーク]]から[[黒人]][[奴隷]]が大量に連行され、ポルトガル人農場主の[[ファゼンダ]]で酷使された。
+[[ファイル:Antônio Parreiras - Zumbi.jpg|左|サムネイル|251x251ピクセル|「全人種の黒き指導者」[[ズンビ・ドス・パルマーレス|ズンビ・ドス・パルマ―レス]]]]
+17世紀にはブラジル内陸部の探検が、[[サンパウロ]]の[[バンデイランテス (ブラジル探検隊)|バンデイランテス]]（奴隷狩りの探検隊）により始まった。バンデイランテスは各地に遠征して現在の都市の基となる村落を多数築いた一方、[[南部地域 (ブラジル)|南部]]や[[パラグアイ]]まで遠征して[[イエズス会]]によって保護されていた[[グアラニー人]]を奴隷として狩った。こうした中で、激しい奴隷労働に耐えかねた[[マルーン]]（逃亡奴隷）の中には奥地に{{仮リンク|キロンボ|en|Quilombo}}（逃亡奴隷集落）を築くものもあった。その中でも最大となった{{仮リンク|キロンボ・ドス・パルマーレス|pt|Quilombo dos Palmares}}は[[ズンビ・ドス・パルマーレス|パルマーレスのズンビ]]によって指導されたが、[[1695年]]の{{仮リンク|パルマーレスの戦い|pt|Guerra dos Palmares}}でバンデイランテスによって征服され消滅した。
+
+一方、1680年にポルトガル植民地政府は、[[トルデシリャス条約]]を無視して[[ラ・プラタ川]]の河口左岸の[[ブエノスアイレス]]の対岸に[[コロニア・ド・サクラメント]]を建設した。以降[[バンダ・オリエンタル]]の地は独立後まで続くブラジルの権力とブエノスアイレスの権力との衝突の場となった。また、[[南部地域 (ブラジル)|南部]]ではラ・プラタ地方の[[スペイン人]]の影響を受けて[[ガウーショ]]（[[スペイン語]]ではガウチョ）と呼ばれる牧童の集団が生まれた。
+
+その後、18世紀には[[ミナスジェライス州|ミナスジェライス]]で金鉱山が発見されたためにゴールドラッシュが起こった。ブラジルの中心が[[北東部地域 (ブラジル)|北東部]]から[[南東部地域 (ブラジル)|南東部]]に移動し、1763年には[[リオデジャネイロ]]が植民地の首都となった。ゴールドラッシュにより、18世紀の間に実に30万人のポルトガル人がブラジルに移住し、金採掘のためにさらに多くの黒人奴隷が導入された。一方でミナスの中心地となった[[オウロ・プレット]]では独自の[[バロック]]文化が栄えた。
+[[ファイル:Julgainconfidentes2.jpg|thumb|[[ミナスの陰謀]]：このブラジル初の独立運動では、首謀者の内うちもっとも身分の低かったチラデンテスのみが処刑された]]
+[[バンダ・オリエンタル]]をめぐるスペインとの衝突のあと、18世紀末には[[啓蒙思想]]がヨーロッパから伝わり、[[フランス革命]]や[[アメリカ独立革命|アメリカ合衆国の独立]]の影響もあり、[[1789年]]にはポルトガルからの独立を画策した「[[ミナスの陰謀]]」が発生。計画は密告によって失敗した。首謀者のうちもっとも身分の低かった[[チラデンテス]]がすべての罪をかぶせられ処刑された。
+
+その後、1791年に始まった[[ハイチ革命]]の影響もあってクレオール<!--曖昧さ回避の必要な文字列に対する内部リンクはご遠慮願います(jawpに適切なリンク先がない)-->白人や[[ムラート]]、クレオール黒人（クリオーロ）による独立運動が進展。植民地時代にはブラジルに[[大学]]が設立されず、知的環境の不備により、ブラジルの独立運動は一部の知識人の「[[陰謀]]」に留まり、大衆的な基盤を持つ「[[革命]]」にはならなかった。このことは、ブラジルと[[イスパノアメリカ]]諸国の独立のあり方の差異に大きな影響を与えた。
+[[ファイル:Lei Áurea (Golden Law).tif|サムネイル|黄金法（1888年）]]
+
+=== ブラジルの独立 ===
+{{See also|近代における世界の一体化#ラテンアメリカ諸国の独立|[[ブラジル独立]]}}
+[[ファイル:Calixt33.jpg|thumb|left|upright|[[ジョゼ・ボニファシオ・デ・アンドラーダ|ジョゼ・ボニファシオ・デ・アンドラーダ・エ・シルヴァ]]：独立派のブラジル人ブルジョワジーを代表してペドロを擁立した]]
+
+[[ナポレオン戦争]]により、[[1807年]]に[[ジャン＝アンドシュ・ジュノー]]に率いられた[[フランス軍]]がポルトガルに侵攻した。このためポルトガル宮廷は[[リスボン]]から[[リオデジャネイロ]]に遷都し、以降、リオの開発が進んだ。1815年にリオデジャネイロは[[ポルトガル・ブラジル及びアルガルヴェ連合王国]]の首都に定められた。ポルトガル政府は[[バンダ・オリエンタル|バンダ・オリエンタル・ド・ウルグアイ]]（{{lang-pt-short|Banda Oriental do Uruguai}}）の{{仮リンク|ホセ・ヘルバシオ・アルティーガス|en|José Gervasio Artigas|label=ホセ・アルティーガス}}率いる[[連邦同盟]]（{{lang-pt-short|Liga dos Povos Livres}}、[[1815年]] - [[1820年]]）との戦いを進めてバンダ・オリエンタルを支配下に置き、征服した地域に[[シスプラチナ州]]を設立した。[[1820年]]ポルトガルを自由主義的な立憲君主制国家に変革しようとする革命が起こり、リオデジャネイロの[[ジョアン6世 (ポルトガル王)|ジョアン6世]]に帰国を要請し、[[1821年]]にポルトガル宮廷は[[リスボン]]に帰還した。
+
+一方、摂政として残留した[[ブラガンサ家]]の王太子ペドロが[[ジョゼ・ボニファシオ・デ・アンドラーダ|ジョゼ・ボニファシオ]]に代表されるブラジル人ブルジョワジー勢力に支持され、[[1822年]][[2月18日]]に{{仮リンク|ブラジル独立戦争|pt|Guerra da independência do Brasil}}が勃発した。[[1822年]][[9月7日]]に「[[ブラジル独立|イピランガの叫び]]」（{{lang-pt-short|Grito do Ipiranga}}）と呼ばれる独立宣言が行われ、ペドロが初代皇帝[[ペドロ1世 (ブラジル皇帝)|ペドロ1世]]（在位1823年 - 1831年）として即位し、[[ブラジル帝国]]はポルトガルから独立した<ref>増田義郎・今井圭子「南アメリカ諸国の独立」181-183ページ（増田義郎編『新版世界各国史26 ラテン・アメリカ史Ⅱ 南アメリカ』山川出版社 2000年）</ref>。
+
+=== 帝政時代 ===
+{{main|ブラジル帝国}}
+[[ファイル:Pedro II of Brazil - Brady-Handy.jpg|サムネイル|249x249ピクセル|[[ペドロ2世 (ブラジル皇帝)|ペドロ2世]]]]
+ブラジルの独立はブラガンサ家の皇帝という求心力があったために、[[リベルタドーレス|解放者]][[シモン・ボリバル]]や[[ホセ・デ・サン＝マルティン]]、[[ミゲル・イダルゴ]]らの掲げた共和制や立憲君主制の思想が求心力とならなかった。[[イスパノアメリカ]]諸国が分裂したのとは異なり、広大なブラジル植民地は単一のまとまりとして新たな主権国家を形成した。しかし、このことは植民地時代からのエリート層が独立後もそのまま権力を握り続けることをも意味していた。
+
+このため、帝政時代は当初から各地方の中央政府に対する反乱や、[[共和制]]を求める自由主義者の反乱が勃発し、1820年代には北東部の[[ペルナンブッコ州]]では{{仮リンク|赤道連盟|en|Confederation of the Equator|label=赤道連盟の反乱}}が、最南部の[[シスプラチナ州]]では[[東方州]]の[[リオ・デ・ラ・プラタ連合州]]復帰を求めた[[33人の東方人]]の潜入により、シスプラチナ州をめぐって[[シスプラティーナ戦争]]が勃発した。シスプラチナ州はイギリスの仲介によって1828年に[[ウルグアイ|ウルグアイ東方共和国]]として独立した。
+
+1831年にペドロ1世が退位するとさらに地方の混乱は増し、最南部の[[リオ・グランデ・ド・スール州]]では牧場主と[[ガウーショ]]が{{仮リンク|ファラーポス戦争|en|War of the Ragamuffins}}（{{lang-pt-short|Guerra dos Farrapos}}、{{lang|pt|Revolução Farroupilha}} - 「ファロウピーリャの反乱」とも）を起こした。
+
+[[ファイル:José Ignacio Garmendia-Soldado paraguayo ante el cadáver de su hijo.jpeg|thumb|upright|『我が子の遺体を前にするパラグアイ兵』（[[ホセ・イグナシオ・ガルメンディア]]画）]]
+1840年に[[ペドロ2世 (ブラジル皇帝)|ペドロ2世]]が即位すると事態は落ち着きを見せ、[[1848年]]に[[プライエイラ革命]]（{{lang-pt-short|Insurreição Praieira}} - 「プライエイラの反乱」とも）を鎮圧したあと、ブラジル史上初の安定期が訪れた。ペードロ2世は領土的野心を持っていたウルグアイ、パラグアイへの介入を進め、その結果として[[1864年]]にパラグアイの[[フランシスコ・ソラーノ・ロペス]]大統領はブラジルに宣戦布告し、[[三国同盟戦争|パラグアイ戦争]]（{{lang-pt-short|Guerra do Paraguai}}、{{lang-es-short|Guerra de la Triple Alianza}} - 「三国同盟戦争」とも）が勃発したが、[[ルイス・アルヴェス・デ・リマ・エ・シルヴァ (カシアス公爵)|カシアス公]]率いるブラジル帝国が主体となった三国同盟軍はパラグアイを破壊した。
+
+一方、独立後も大農園主の意向によって奴隷制は維持され続けたが、[[アメリカ合衆国|アメリカ]]の[[南北戦争]]後は西半球で奴隷制を採用する独立国はブラジル帝国のみとなったため、三国同盟戦争後から[[オーギュスト・コント]]の[[実証主義]]の影響を受けた知識人によって奴隷制批判がなされた。三国同盟戦争後に制度的に確立した軍の青年将校（{{lang-pt-short|Tenentes}} - 「{{仮リンク|テネンテ革命|en|Tenente revolts|label=テネンテス}}」）たちは実証主義思想に影響を受け、次第に奴隷制の廃止と帝政の廃止をも含めた国民運動が生まれた。この運動により[[1888年]][[5月13日]]に{{仮リンク|黄金法|en|Lei Áurea}}（{{lang-pt-short|Lei Áurea}}）が公布され、西半球で最後まで維持されていた[[奴隷制]]が廃止されたが、ペドロ2世は奴隷制廃止によって大農園主からの支持を失い、翌1889年の[[デオドロ・ダ・フォンセッカ]]元帥のクーデターによって帝政は崩壊した。
+
+=== 旧共和国時代 ===
+[[ファイル:Flag of Brazil (November 1889).svg|thumb|left|共和制革命後4日間だけ用いられたブラジル合衆国の国旗]]
+[[1889年]]の共和制革命により、ブラジルは[[帝政]]から[[共和制]]に移行した。この時期には [[カフェ・コン・レイテ]]と呼ばれる[[サン・パウロ州]]と[[ミナス・ジェライス州]]で相互に大統領を選出する慣行が生まれた。[[バイーア州]]{{仮リンク|カヌードス|pt|Canudos|en|Canudos}}で[[:en:Jagunço|Jagunço]]による[[カヌードス戦争]]（[[1896年]] - [[1896年]]）が勃発。これにともなう通貨下落を政府は[[ロスチャイルド]]から借り入れて切り抜けた。また、帝政時代から[[コーヒー]]・プランテーションでの労働力確保のためにヨーロッパより[[イタリア人]]、[[ポルトガル人]]、[[スペイン人]]、[[ドイツ人]]をはじめとする移民を受け入れていたが、奴隷制廃止後はさらに移民の流入速度が速まり、[[1908年]]にはヨーロッパのみならずアジアからも[[笠戸丸]]で[[日本人]][[移民]]が導入された。
+
+[[第一次世界大戦]]に[[連合国 (第一次世界大戦)|協商国]]側で参戦したあと、1920年代にはカフェ・コン・レイテ体制への批判が高まり、{{仮リンク|ルイス・カルロス・プレステス|pt|Luís Carlos Prestes}}をはじめとするテネンテス（青年将校たち）による{{仮リンク|テネンテ革命|en|Tenente revolts}}が各地で起こった。この{{仮リンク|テネンチズモ|pt|Tenentismo}}は直接は国政に大きな影響を与えなかったが、間接的に1930年代の政治状況を用意することになった。
+
+=== ヴァルガス時代 ===
+{{main|{{仮リンク|ヴァルガス時代|en|Vargas Era}}|{{仮リンク|エスタード・ノーヴォ (ブラジル)|pt|Estado Novo (Brasil)|label=エスタード・ノーヴォ}}}}
+[[ファイル:Getulio Vargas (1930).jpg|左|サムネイル|284x284ピクセル|[[ジェトゥリオ・ドルネレス・ヴァルガス]]：15年にわたるヴァルガス時代の間に現在のブラジルが形作られた]]
+[[1930年]]にカフェ・コン・レイテ体制に対する反乱が各地で勃発し、[[リオ・グランデ・ド・スール州]]の[[ジェトゥリオ・ドルネレス・ヴァルガス]]が{{仮リンク|1930年革命|pt|Revolução de 1930}}を起こし、独裁政治を確立しようとした。[[1932年]]には[[サン・パウロ州]]の反ヴァルガス勢力によって{{仮リンク|護憲革命|en|Revolução Constitucionalista de 1932}}（{{lang-pt-short|Revolução Constitucionalista de 1932}}）が勃発したが、この反乱を鎮圧するとヴァルガスはブラジル全土に対する支配権を確立した。1937年にはヴァルガスはクーデターによって[[イタリア]]・[[ファシズム]]に影響を受けた{{仮リンク|エスタード・ノーヴォ (ブラジル)|pt|Estado Novo (Brasil)|label=エスタード・ノーヴォ}}体制を確立し、11月10日に新憲法を公布、12月2日に発布した<ref>http://www.jttk.zaq.ne.jp/cocon-reserch/DATA/2303brazil.htm</ref>。ヴァルガス時代には[[大学]]の整備、国家主導の工業化、[[ナショナリズム]]の称揚と移民の同化政策、中央集権体制の確立が進んだ。
+
+[[1942年]][[8月22日]]にヴァルガスは[[第二次世界大戦]]に[[連合国 (第二次世界大戦)|連合国]]の一員として[[イタリア戦線 (第二次世界大戦)|イタリア戦線]]に宣戦布告、参戦したが、独裁体制に対する不満が国民と軍内部で強まり、第二次世界大戦終結後の1945年10月13日に軍事クーデターによって失脚した。
+
+=== ポプリズモ時代 ===
+[[ファイル:Catedral1 Rodrigo Marfan.jpg|thumb|ブラジリア大聖堂]]
+1946年9月18日に新憲法が制定されたあと、1950年にブラジル史上初の民主的選挙によって[[ジェトゥリオ・ドルネレス・ヴァルガス]]が大統領に就任した。2度目のヴァルガスはファシズム色よりも左派[[ポプリズモ]]色を打ち出し、ブラジル経済の国民化が進められたが、軍の抵抗にあってヴァルガスは1954年に自殺した。
+
+1956年に就任した[[ジュセリーノ・クビシェッキ]]大統領は「50年の進歩を5年で」を掲げて開発政策を進め、内陸部の[[ゴイアス州]]に新首都[[ブラジリア連邦直轄区]]を建設し、[[1960年]]に[[リオデジャネイロ]]から遷都した。しかし、この開発政策によって生まれた債務が財政を圧迫し、[[インフレ]]が加速した。
+
+[[1961年]]に就任した[[ジョアン・グラール]]（通称・ジャンゴ）大統領（任期：[[1961年]] - [[1964年]]）はこのような困難な状況を乗り切ることが出来なかった。
+
+=== 軍事独裁政権時代 ===
+[[1964年]]に[[アメリカ合衆国|アメリカ]]の支援する[[ウンベルト・アレンカール・デ・カステロ・ブランコ|カステロ・ブランコ]]将軍は、[[1964年ブラジル軍事クーデター|クーデター]]によってジョアン・ゴラールを失脚させ、軍事独裁体制を確立すると、[[親米]][[反共]]政策と、外国資本の導入を柱にした工業化政策が推進された（[[コンドル作戦]]、[[:en:Operation Condor|en]]）。この軍政の時代に「[[ブラジルの奇跡]]」と呼ばれたほどの[[高度経済成長]]が実現したが、1973年の[[オイルショック]]後に経済成長は失速し、さらに所得格差の増大により犯罪発生率が飛躍的に上昇した。また、軍事政権による人権侵害も大きな問題となった。この間、各地で[[カルロス・マリゲーラ]]の[[民族解放行動]]（ALN）や[[10月8日革命運動]]など[[都市ゲリラ]]が武装闘争を展開し、外国大使の誘拐や[[ハイジャック]]が複数にわたって発生した。
+
+1974年に将軍から大統領に就任した[[エルネスト・ガイゼル]]は国民的な不満を受けて軍政の路線転換を行い、1979年に就任した[[ジョアン・フィゲイレード]]大統領は民政移管を公約した。1985年に行われた大統領選挙では[[タンクレード・ネーヴェス]]が勝利した。
+
+=== 民政移管以降 ===
+[[ファイル:Jair Bolsonaro em 24 de abril de 2019 (1) (cropped).jpg|サムネイル|288x288ピクセル|ジャイール・ボルソナーロ大統領]]
+[[1985年]]に民政移管が実現し、[[文民]]政権が復活したが、ネーヴェスが急死したために副大統領だった[[ジョゼー・サルネイ]]が大統領に昇格した。サルネイ政権下ではインフレの拡大によりブラジル経済は悪化し、内政では大きな成果を残せなかったが、外交ではアルゼンチンの[[ラウル・アルフォンシン]]政権との関係がこの時期に大きく改善し、長らく続いた両国の敵対関係に終止符が打たれた。
+
+1990年には[[国家再建党]]から[[フェルナンド・コーロル]]が大統領に就任したが経済問題に対処できず、数々の汚職やさまざまな奇行のために1992年に罷免された。コーロルの失脚後、副大統領の[[イタマール・フランコ]]が大統領に昇格した。
+
+1995年に[[ブラジル社会民主党]]から就任した[[フェルナンド・エンリッケ・カルドーゾ]]政権下でアルゼンチン、ブラジル、ウルグアイ、パラグアイにより、同年1月に[[メルコスール]]（メルコスウと発音、南米南部共同市場）が発足し、市場中心主義、緊縮政策・新自由主義を推し進めたが汚職や腐敗が深刻化し、格差の拡大をもたらした。
+
+2003年には前政権までの貧困・格差の拡大に反発する形で[[労働者党 (ブラジル)|労働者党]]から[[ルイス・イナシオ・ルーラ・ダ・シルヴァ]]が大統領に就任し、ブラジル発の本格的な左派政権となり、これまで前政権時代に推し進められていた市場中心主義、[[新自由主義]]政策を改め、富の再分配を重視し貧困撲滅政策を実行。外交面では新興国との関係を重視した。資源価格の高騰や新興国経済の好調に伴ってブラジル史上屈指の好景気となり、貧困撲滅と中間層誕生をもたらしたことで国民の支持を集めた。また、[[2014 FIFAワールドカップ|2014年のワールドカップ]]と[[2016年リオデジャネイロオリンピック|2016年の夏季五輪]]の招致に成功した。
+
+[[2010年]]10月、ルーラ大統領の任期満了に伴い大統領選挙が行われ、好調な経済の後押しを受けて与党[[労働者党 (ブラジル)|労働者党]]の[[ジルマ・ルセフ]]官房長官が当選。2011年1月に大統領に就任した。しかし、その後新興国経済の失速と資源価格の低迷から景気が低迷し支持率は急落。[[2013年]]に[[2013年ブラジル抗議運動|反政府デモ]]が起きるも、2014年の大統領選挙では決選投票で[[中道右派]]の[[ブラジル社会民主党]]の[[アエシオ・ネベス]]に接戦の末勝利し、再選を果たした。しかし、2016年にはルセフ大統領が弾劾裁判を受け、ブラジル検察はブラジル屈指の人気を誇ったルーラ元大統領を汚職疑惑により強制捜査。[[労働者党 (ブラジル)|労働者党]]と[[ブラジル民主運動党]]による連立政権が崩壊するなど政権基盤は急速に失速し、政治的な混乱が続いた。
+
+[[2016年]][[5月12日]]、ブラジル議会上院はルセフ大統領に対する弾劾法廷の設置を賛成多数で決定し、大統領の職務を停止させた。ルセフ大統領の職務が停止される間、[[ブラジル民主運動党]]の[[ミシェル・テメル]]副大統領が大統領代行を務めた<ref>{{Cite web|和書|url=http://www3.nhk.or.jp/news/html/20160512/k10010518511000.html|title= ブラジル大統領職務停止に 弾劾法廷の設置決まる|publisher=NHKオンライン|accessdate=2016-05-12|archiveurl=https://web.archive.org/web/20160513113019/http://www3.nhk.or.jp/news/html/20160512/k10010518511000.html|archivedate=2016-05-13 |url-status=dead|url-status-date=2020-07}}</ref>。テメル大統領代行は労働党閣僚を排除し、最大野党の[[中道右派]]社会民主党の閣僚を抜擢し、実質的に13年ぶりの政権交代となった。[[親米]]、[[緊縮財政政策]]をとり、[[国営企業]]の[[民営化]]、[[公務員]]や社会保障削減などの[[ウォール街]]をはじめとした[[国際金融市場]]が求める政策の実行を表明するなど、カルドーゾ政権時代の[[新自由主義]]政策への回帰となった<ref>{{Cite web|和書|url=http://jp.wsj.com/articles/SB10359106571790804599004582063161822904958|title= ブラジル、経済など問題山積　ルセフ氏退陣でも|publisher=[[ウォールストリートジャーナル]]|accessdate=2016-05-13}}</ref>。しかし、与野党問わず[[汚職]]も蔓延しており政治的には混乱期に突入している。
+
+そして、テメル大統領自身も収賄罪で起訴されるなど<ref>{{Cite web|和書|url=https://mainichi.jp/articles/20170627/k00/00e/030/150000c|title= ブラジル テメル大統領を収賄罪で起訴　裁判は回避か|publisher=[[毎日新聞]]|accessdate=2017-11-08}}</ref>、ルセフ前大統領に続いて弾劾を求める動きが活発化している<ref>{{Cite web|和書|url=http://www.asahi.com/articles/ASK4F3QVSK4FUHBI01M.html|title= ブラジル大規模汚職、閣僚ら98人捜査へ　最高裁が許可|publisher=[[朝日新聞]]|accessdate=2017-11-08|url-status=dead|url-status-date=2024-09-09|archiveurl=https://web.archive.org/web/20170415111726/http://www.asahi.com/articles/ASK4F3QVSK4FUHBI01M.html|archivedate=2017-04-15}}</ref>。このように、有力政治家が相次いで汚職の捜査対処になり、ブラジルの政治は大混乱期を迎え国民の信頼を完全になくしている。
+
+2019年に[[ジャイール・ボルソナーロ]]が大統領に就任<ref>{{cite news |url=https://www.afpbb.com/articles/-/3204804|title= ブラジル、極右のボウソナロ新大統領が就任 左派政策との決別宣言  |author=  |work= [[AFP通信]] |date=  2019年1月1日|accessdate=2019年1月9日}}</ref>、[[シカゴ学派 (経済学)|シカゴ学派]]の経済学者の[[パウロ・ゲデス]]をブレインに[[新自由主義]]、[[緊縮財政]]、軍政の再評価、親米外交など、これまでのルーラ政権以来続いた労働者党政権の逆の政策を行うと主張しており、その過激な発言からは「ブラジルの[[ドナルド・トランプ|トランプ]]」ともいわれる。
+
+=== 連邦議会襲撃 ===
+[[2022年ブラジル総選挙|2022年10月の大統領選]]で、ボルソナーロ大統領が[[ルイス・イナシオ・ルーラ・ダ・シルヴァ]]（ルラ大統領）に敗北したことを正式に認めていないことが、引き金となった政治的対立が原因で、[[2023年ブラジル三権広場襲撃事件|2023年1月8日には多数のボルソナーロ支持者が連邦議会を襲撃]]した<ref>{{Cite web|和書|title=バス手配し集合か ブラジル議会襲撃、1500人拘束 |url=https://mainichi.jp/articles/20230111/ddm/012/030/108000c |website=毎日新聞 |access-date=2023-01-15 |language=ja}}</ref>。
+
+本事件は発生から2年前の2021年1月6日にアメリカで発生した[[2021年アメリカ合衆国議会議事堂襲撃事件|合衆国議会襲撃事件]]との襲撃理由や日程など数多くの類似性が世界中で指摘{{Efn|以前から日本でもボルソナーロ大統領はブラシルのトランプ大統領と呼ばれていただけであって（さらに共に[[右派]]政党）、トランプ大統領、ボルソナーロ大統領、共に選挙敗北によって、同じ手口、日程も1月6日と1月8日と時期もほぼ重なり、尚且つ議会が大勢に襲撃され、大勢の負傷者が発生し、議会が混乱した。}}された。
+
+=== 襲撃事件後の政治 ===
+ルラ大統領は、襲撃事件を強く非難した。
+
+== 政治 ==
+[[File:Fachada do Palácio do Planalto - 49727772326.jpg|150px|thumb|[[プラナルト宮殿]]]]
+[[ファイル:Brasilia_Congresso_Nacional_05_2007_221.jpg|150px|thumb|[[国会議事堂 (ブラジル)|国会議事堂]]]]
+[[ファイル:Supremo Brasil.jpg|150px|thumb|[[連邦最高裁判所 (ブラジル)|連邦最高裁判所]]]] 
+[[File:Lula (2023) (cropped).jpg|150px|サムネイル|右|ルイス・イナシオ・ルーラ・ダ・シルヴァ大統領]]
+{{Main|{{仮リンク|ブラジルの政治|pt|Política do Brasil|en|Politics of Brazil}}}}
+[[大統領制]]を敷き、大統領を[[元首]]とする[[連邦]][[共和制]]となっている。
+
+[[冷戦|東西冷戦]]期の[[1964年]]から[[1985年]]まで親西側の軍事政権下にあった。なお、軍事政権下の当時から現在にいたるまで、官僚や政治家、警察の腐敗や[[汚職]]は拡がったままである。
+{{also|{{仮リンク|ブラジルの連邦政府機関の一覧|pt|Lista de instituições governamentais federais do Brasil}}}}
+
+=== 行政 ===
+大統領および副大統領の任期は4年で、一度限りにおいて再選が認められている（つまり、3選は憲法で禁止されている）。大統領は国会により弾劾されることが可能である。
+
+現在は、[[ルイス・イナシオ・ルーラ・ダ・シルヴァ]]大統領（2023年1月1日就任）。現行憲法は1988年憲法である。
+{{also|{{仮リンク|1988年ブラジル憲法|pt|Constituição brasileira de 1988}}}}
+
+=== 立法 ===
+議会は[[国民会議 (ブラジル)|上院]]（元老院、定数81）・[[連邦議会下院 (ブラジル)|下院]]（代議院、定数513）の[[二院制]]である。
+
+=== 政党 ===
+{{Main|ブラジルの政党}}
+[[労働者党 (ブラジル)|労働者党]]（PT）、[[ブラジル民主運動党]]（PMDB）、[[進歩党 (ブラジル)|進歩党]]（PP）、[[ブラジル社会民主党]]（PSDB）などがある。
+
+=== 司法 ===
+{{Main|{{仮リンク|ブラジルの司法|pt|Poder Judiciário do Brasil|en|Judiciary of Brazil}}}}
+{{節スタブ}}
+{{See also|{{仮リンク|ブラジルの法律|en|Law of Brazil}}}}
+
+=== 投票権 ===
+投票は18歳から70歳までの読み書きができるすべての国民に義務づけられている（[[義務投票制]]）。希望すれば16歳以上、もしくは70歳を超える国民や読み書きのできない国民も投票することができる。
+
+=== 政権 ===
+[[2003年]]1月にルーラ政権が発足した。元労働組合の指導者だったルーラは「飢餓ゼロ」計画を打ち上げ、貧困家庭向けの食料援助や援助金制度などを推進した。貧困家庭の生活水準改善を着実に進め、経済発展に取り残されていた内陸部へのインフラ整備も進みつつある。外交面では、南米統合へのリーダーシップも発揮した。[[2006年]][[6月24日]]にルーラ大統領は政権与党の労働党の全国大会で大統領候補指名を受託し、10月の大統領選挙で貧困層の圧倒的な支持を得て再選した。
+
+ルーラ政権下では[[2014 FIFAワールドカップ]]ブラジル大会や[[2016年リオデジャネイロオリンピック]]という二大スポーツイベントの招致に成功した。
+
+[[2011年]][[1月1日]]からは労働者党出身の[[ジルマ・ルセフ]]新政権が発足し、ルーラの政策を受け継いでいたが、[[2016年]][[5月12日]]以降は[[ミシェル・テメル]]副大統領が大統領代行を務める。
+
+2019年1月1日より[[ジャイール・ボルソナーロ]]大統領が政権を担った。長らく左派が政権を占めていた国で生まれた極右の大統領の登場に国内外で賛否両論が巻き起こった。「年金改革」と「汚職や犯罪との戦い」を掲げ、治安強化と軍政賛美の姿勢を見せている。
+
+[[2022年ブラジル総選挙]]では、ルーラ元大統領が当選した<ref>{{Cite web|和書|url=https://web.archive.org/web/20221030233034/https://www3.nhk.or.jp/news/html/20221031/k10013875481000.html |title=ブラジル大統領選挙 決選投票 ルーラ元大統領が当選 |accessdate=2022-11-25}}</ref>。
+
+=== 国際関係 ===
+[[File:Diplomatic missions of Brazil.png|thumb|520px|ブラジルが外交使節を派遣している諸国の一覧図]]
+{{Main|{{仮リンク|ブラジルの国際関係|pt|Relações internacionais do Brasil|en|Foreign relations of Brazil}}}}
+独立直後から旧宗主国だったポルトガルに代わって莫大な[[イギリス]]の投資を受け、「老いた母（ポルトガル）の代わりに金持ちの継母（イギリス）を得た」と表現されるほどの飛躍的な経済的発展を遂げた。また、独立直後からウルグアイをめぐってアルゼンチンと[[シスプラティーナ戦争]]を起こし、[[バンダ・オリエンタル]]（シスプラチナ州）がウルグアイとして独立するなどの失敗もあったが、それでもウルグアイへの影響力は大きく、[[大戦争]]終結後は植民地時代のウルグアイの領域の大きな部分（[[ウルグアイ川]]左岸の[[東ミシオネス]]など）をブラジルに併合することを認めさせた。
+
+1860年代に[[三国同盟戦争|パラグアイ戦争]]が勃発すると、親英政策のもとにパラグアイを完膚なきまでに破壊し尽くした。戦争が終わるとパラグアイの領土は一部ブラジルに割譲され、パラグアイそのものも政治的にブラジルの強い影響に置かれることになった。その後はリオ・ブランコ男爵の尽力などもあり、[[ギアナ三国]]、ベネスエラ、コロンビア、ボリビアなどの周辺国からアマゾンの辺境地を獲得することに躍起となった。[[アメリカ合衆国|アメリカ]]の後ろ盾を得る形で併合されたアマゾンの現[[アクレ州]]をめぐるボリビアとの争いでは、[[アクレ共和国]]のような傀儡政権が樹立されることもあった。
+
+20世紀前後から周囲をスペイン語圏諸国に囲まれていることの孤立感、および当時急速な発展を遂げていた[[アルゼンチン]]の勃興などに対処するために[[親米]]政策を採用し、アメリカも[[遠交近攻]]政策に基づいて[[中央アメリカ]]・[[カリブ海]]のアメリカによる支配権確立のためにブラジルとの友好を望んだため、伯米両国の関係は非常に友好的なものとなった。この親米政策の背景には、1889年の共和制革命直後のバルボーザ案新国旗に見て取れるようなこの当時の[[実証主義]]知識人の[[アメリカ合衆国|アメリカ]]崇拝の激しさも要因となっていた。
+
+アルゼンチンとの対立はチリを交えて20世紀初頭から1980年代まで続く軍拡競争を招き、アルゼンチン・ブラジル・チリはABC三大国と呼ばれるようになった。一方で親米英政策は[[第一次世界大戦]]、[[第二次世界大戦]]に連合国側で参戦したように激しいものがあり（アルゼンチンが独自外交を標榜して両大戦で[[ドイツ]]に好意的な中立を続けようと努力したのとは対照的である）、第二次世界大戦後も暫くこの政策は続いた。なお、19世紀末より現在に至るまで友好関係を築いている[[日本]]との関係は、日本が[[連合国 (第二次世界大戦)|連合国]]と交戦状態に入り、1942年1月29日に国交を断絶<ref>{{Cite book |和書 |author=岡野護|title=年表 移住150年史:邦人・日系人・メディアの足跡|publisher=風響社|year=2020|page=161|isbn=9784894892804}}</ref><ref>{{Cite web|title=Brazilian Diplomacy before and during the Early Phase of Japanese Immigration <1897-1942>|website=日文研オープンアクセス|url=https://nichibun.repo.nii.ac.jp/records/1396|access-date=2026-01-29|page=7|publisher=国際日本文化研究センター学術リポジトリ}}</ref>。[[1950年代]]初頭に国交回復するまでの間はしばし途絶えることとなった。
+
+第二次世界大戦後にイギリスが没落すると、左翼[[ポプリズモ]]政権によって親米政策から[[第三世界]]外交への転換がなされたが、1964年にアメリカの内諾を得て起こされた軍事クーデターにより成立した官僚主義的権威主義体制は、露骨に積極的な親米を掲げてアメリカに追従し、1965年の[[ドミニカ内戦]]の際には[[ドミニカ共和国]]の[[フアン・ボッシュ|ボッシュ]]派政権を崩壊させるための軍隊を率先して送り、その後、軍部は1971年のボリビアの[[ウーゴ・バンセル]]政権をはじめとして多くのラテンアメリカ諸国の右翼反共軍事クーデターを支援した。
+
+時系列的には前後するが、パラグアイの[[アルフレド・ストロエスネル]]政権の成立にもブラジル軍の支援があった。そしてこの露骨な親米政策は、[[エドゥアルド・ガレアーノ]]をはじめとするラテンアメリカ諸国の知識人からは「裏切り」だとみなされた<ref>[[エドゥアルド・ガレアーノ]]/大久保光夫：訳『[[収奪された大地 ラテンアメリカ五百年]]』新評論、1986年 pp.327-329</ref>。
+
+しかし、1985年に民政移管すると、特に[[1980年代]]後半の[[冷戦]]終結後は南アメリカの大国としてアルゼンチンやパラグアイなどの近隣諸国のみならず、[[アジア]]や[[アフリカ]]、[[中近東]]諸国などとも全方面外交を行い、[[世界貿易機関|WTO]]や[[メルコスール]]などを通して積極外交を行うほか、没落したアルゼンチンに代わってラテンアメリカ諸国をまとめるリーダーとして[[国際連合|国連]]改革を積極的に推進し、[[国際連合安全保障理事会|国連安全保障理事会]]の[[常任理事国]]入りを日本や[[インド]]、[[ドイツ]]などとともに狙っているとされる。また、ポルトガル語圏の一員として旧[[宗主国]]の[[ポルトガル]]や、[[アンゴラ]]、[[モザンビーク]]、[[東ティモール]]とも強い絆を保っている。更には[[南大西洋]]地域に位置する国家により設立された『{{仮リンク|南大西洋平和協力地帯|en|South Atlantic Peace and Cooperation Zone}}』（ZPCAS,ZOPACAS）の加盟国の一つとなっている。
+
+ブラジルは主権の相互尊重の原則を根拠に対等な外交施策をとることで知られる。アメリカ政府がテロリスト対策のひとつである新入国管理制度で、ブラジルを含む25か国から入国する者に顔写真と指紋の登録を実施したのに対抗し、ブラジル政府は、2004年1月1日から対抗措置としてブラジルに入国するアメリカ人を対象に、顔写真と指紋の登録を実施した。またかつてはブラジルは南米で唯一日本人が短期滞在で入国するときに[[査証|ビザ]]が必要な国であった。これも、日本政府がブラジルからの入国に対してビザを求めていることに対する、相互尊重の原則を根拠にした対抗措置だった。しかし、リオデジャネイロオリンピックの期間（2016年6月1日ー9月18日）は日本人、アメリカ人、カナダ人、オーストラリア人を対象に一方的に観光ビザを免除し、その延長上として2019年6月17日以降はこれら４ヶ国から入国する外国人を対象に観光ビザの免除となった。これにより日本人は南米全ての国にビザなしで入国が可能となった。(1回につき90日以内の滞在、1年間のうち合計180日間無査証で滞在可能)
+
+==== パレスチナ ====
+{{main|{{仮リンク|ブラジルとパレスチナの関係|en|Brazil–Palestine relations}}}}
+2010年12月[[パレスチナ自治政府]]を国家承認した<ref>http://www.jiji.com/jc/zc?k=201012/2010120700525</ref>。また、2016年2月には西半球の国では初のパレスチナ大使館も設立した<ref>[http://www.imemc.org/article/74854 Palestinian Embassy Opens in Brazil [[:en:International Middle East Media Center|IMEMC]] 2016年2月6日]</ref>。
+
+==== 日本との関係 ====
+[[ファイル: Street in Liberdade, São Paulo.jpg|thumb|[[サンパウロ]]の[[日本人街]]「[[リベルダージ]]」]]
+[[ファイル:Feiraliberdadesaopaulo.jpg|thumb|left|250px|地域で有名な見本市]]
+[[ファイル:Luiz Inacio Lula da Silva and Yasuo Fukuda 20080709.jpg|thumb|第35代[[ブラジル連邦共和国大統領|大統領]][[ルイス・イナシオ・ルーラ・ダ・シルヴァ]]と第91代[[内閣総理大臣]][[福田康夫]]（2008年の[[第34回主要国首脳会議|G8・北海道洞爺湖サミット]]）]]
+{{Main article|日伯関係}}
+
+日本との外交関係は[[1895年]]の修好通商航海条約調印から始まり、[[1897年]]に両国内に[[公使館]]を開設。1908年6月には日本からの本格的移民が開始され、[[笠戸丸]]がサントスに入港した。その後[[第二次世界大戦]]中の断交状態（ブラジルは連合国として参戦）と1950年代初頭の国交回復を経て、常に活発な人的、経済的交流が行われており、その距離の遠さにもかかわらず世界各国の中でも特に日本との縁が非常に深い国である。
+
+1908年に最初の本格的な集団移民、いわゆる「笠戸丸移民」が到着して以降、[[第一次世界大戦]]期や第二次世界大戦を経て、[[1950年代]]に日本政府の後援による移民が停止されるまでにブラジルに渡った日本人移民の子孫は5世、6世の世代になり、サンパウロの世界最大級の[[日本人街]]「[[リベルダージ]]」を中心に、海外で最大の[[日系人]]社会（約200万人<ref>{{Cite news|author=[[茂木敏充]]|url=https://www.nikkeyshimbun.jp/2021/210107-61colonia.html|title=訪問記念特別寄稿＝ブラジルとの関係強化に向けて|newspaper=[[ニッケイ新聞]]|publisher=|date=2021-01-07|archiveurl=https://web.archive.org/web/20210106221918/https://www.nikkeyshimbun.jp/2021/210107-61colonia.html|archivedate=2021-01-06}}</ref><ref>{{Cite news|author=[[外務省]]|url=https://www.mofa.go.jp/mofaj/area/brazil/data.html|title=ブラジル連邦共和国（Federative Republic of Brazil）基礎データ|newspaper=|publisher=|date=2020-06-15|archiveurl=https://web.archive.org/web/20210304044107/https://www.mofa.go.jp/mofaj/area/brazil/data.html|archivedate=2021-03-04}}</ref><ref>{{Cite news|author=[[岡田玄]]|url=https://withnews.jp/article/f0181126004qq000000000000000W09y10101qq000018413A|title=「日本でなくてもいい」日系ブラジル人の「総スカン」食らった新制度|newspaper=[[withnews]]|publisher=|date=2018-11-26|archiveurl=https://web.archive.org/web/20181126172833/https://withnews.jp/article/f0181126004qq000000000000000W09y10101qq000018413A|archivedate=2018-11-27}}</ref><ref>{{Cite news|author=|url=https://www.jiji.com/jc/article?k=2019050300273&g=int|title=日本との友好、一層深化を＝天皇即位でメッセージ－ブラジル大統領|newspaper=[[時事通信]]|publisher=|date=2019-05-03|archiveurl=https://web.archive.org/web/20200123024931/https://www.jiji.com/jc/article?k=2019050300273&g=int|archivedate=2020-01-23}}</ref><ref>{{Cite news|author=|url=https://www.jiji.com/jc/article?k=2019070900671|title=ブラジル上院、日本移民111周年祝う＝200万日系人に感謝|newspaper=[[時事通信]]|publisher=|date=2019-07-09|archiveurl=https://web.archive.org/web/20200123194303/https://www.jiji.com/jc/article?k=2019070900671|archivedate=2020-01-23}}</ref>）を持つなどブラジル社会に完全に溶け込んでいる。
+
+1923年から1940年まで、[[五島列島|五島]]出身の[[ドミンゴス中村長八|ドミンゴス中村長八神父]]が初の海外派遣日本人宣教師として、[[サンパウロ州]]、[[マットグロッソ州]]、[[パラナ州]]、そして[[ミナスジェライス州]]南部の計4州で活躍した。「生ける聖人」と呼ばれており、現在、列福調査が進められている<ref name="Mizūra Masao">{{Cite book|title=Domingosu nakamura chōhachi shinpu : Burajiru nihon imin no shito|url=https://www.worldcat.org/oclc/675073080|date=2007|publisher=Mizūra Masao|isbn=9784882162865|location=[[S.l.]]|others=Ōnishi, Pedoro., Mizuno, Hajime, 1930-, 大西, ペドロ, 水野, 一, 1930-, Nichihaku Shiboku Kyōkai., 日伯司牧協会|oclc=675073080}}</ref>。
+
+[[日系ブラジル人]]は政治や経済などで、高い地位に就くものも多いほか、特に長年の農業における高い貢献は非常に高い評価を得ている。2007年2月には、2世の[[ジュンイチ・サイトウ]]空軍大将が空軍総司令官に任命され、ブラジル軍の最高位ポストに就いた初の日系人となった<ref>[http://www.brasemb.or.jp/news/nws/nws_07n08.html 在日ブラジル大使館報道資料]</ref>。
+
+また、[[1950年代]]以降、日本の[[高度経済成長期]]にかけて[[東芝]]や[[トヨタ自動車]]、[[東京海上日動火災保険|東京海上日動]]、[[小松製作所|コマツ]]、[[ヤクルト本社]]、[[日本航空インターナショナル|日本航空]]など、重工業から金融、サービス業や運送業に至るまで、さまざまな業種の日本企業がサンパウロを中心に[[2018年]]時点で500社以上進出しており<ref>{{Cite news |author= |url=https://www.elpais.com.uy/que-pasa/uruguay-entra-radar-japon.html |title=Uruguay entra al radar de Japón |newspaper={{仮リンク|エル・パイス (ウルグアイ)|en|El País (Uruguay)|label=エル・パイス}} |publisher=| date= 2018-02-25 |archiveurl=https://web.archive.org/web/20180225094255/https://www.elpais.com.uy/que-pasa/uruguay-entra-radar-japon.html|archivedate=2018-02-25 }}</ref>、世界でも有数の規模の[[日本人学校]]、[[サンパウロ日本人学校]]など、ブラジル国内に複数の日本人学校があるほか、日本においてもブラジルの音楽やスポーツ、料理などの文化が広く親しまれており、また、両国間の人的交流が活発にあるなどその関係は非常に深いものがある。在留邦人は約5万人（2018年）、在日ブラジル人は約20万人（2019年、法務省）である。
+
+[[1962年]]に両国による合弁事業である[[ウジミナス]]製鉄所への[[政府開発援助|ODA]]による融資を行って以降、電気や港湾、衛生設備など、各種[[インフラ]]の充実を中心としたODAが継続的に行われている。しかしながら、ブラジルが工業国であり比較的インフラが整っていることから、近年はインフラでも環境、衛生関係の技術的要素に特化されたものとなっている。日本人学校めぐみ学園などがある。
+
+=== 軍事 ===
+[[ファイル:P9071444 copy.jpg|thumb|[[サルヴァドール|サルヴァドール・ダ・バイーア]]でのパレード]]
+[[ファイル:Troca da bandeira na Praça dos Três Poderes, 5 de agosto de 2007.jpg|thumb|[[ブラジリア]]の[[ブラジル軍]]]]
+[[File:Sao_Paulo_at_sea_(11522051596).jpg|thumb|空母[[サン・パウロ (空母)|サン・パウロ]]]]
+{{Main|ブラジル軍}}
+1889年の共和制革命で主要な役割を果たしたことがおもな理由となり、軍は伝統的に政治に強い影響力を持ち、1920年代ごろから「[[テネンチズモ]]」（[[テネンテ]]＝[[中尉]]から転じて青年[[将校]]を指す）と呼ばれる、革新的な青年将校が強い影響力を持って政治を進めようとする傾向が生まれ、ヴァルガス体制の設立にも協力した。その後1964年から1985年まで軍政下にあったこともあり、民政移管に際しても大きな影響力を政界に残した。そのため、かつて軍は「ブラジル最大の野党」と呼ばれていた。
+
+また、ブラジルは[[第一次世界大戦]]、[[第二次世界大戦]]ともに連合国側で参戦し、第二次世界大戦に[[連合国 (第二次世界大戦)|連合国]]として参戦した際には、ラテンアメリカで唯一[[陸軍]]をヨーロッパ戦線（[[イタリア戦線 (第二次世界大戦)|イタリア戦線]]）に派遣した（[[ブラジル遠征軍]]）。その後、1965年の[[ドミニカ共和国]]の[[ドミニカ内戦|内戦]]の治安維持に派遣され、アメリカ主導による、[[フアン・ボッシュ|ボッシュ]]派社会改革政権崩壊への積極的な協力を行った。
+
+[[1982年]]の[[フォークランド紛争]]の敗北によってアルゼンチンの軍事政権が崩壊した後は、長らく最大の[[仮想敵国]]と見ていたアルゼンチンとの融和政策が実現し、それまで続いていた軍拡競争が終わったために現在は周辺諸国との軍事的緊張関係はなくなった。ただし、国土が広大で人口も多いために、依然として南アメリカで最大規模の軍事力を保持する。
+
+12か月の[[徴兵制]]を敷いており、総兵力は約32万人ほどである。[[陸軍]]・[[海軍]]・[[空軍]]の[[三軍]]が存在する。軍事政権期には核開発計画を進めていたが、1988年にアルゼンチンとともに核計画の放棄を宣言した。
+
+近年は[[国際連合|国連]]の[[国際連合平和維持活動|PKO]]に積極的に派遣されている。また、各種[[軍用機]]や軍用車両の国産化が進んでおり、特にブラジルの航空機産業の基盤を生かした一部の軍用機は自国や南アメリカの周辺国のみならず、ヨーロッパや[[中東]]諸国、[[オセアニア]]にも輸出されている。
+
+俸給と軍人年金の支払いだけで各軍の予算は圧迫されており、装備の維持と更新に必要とされる予算は不足している。陸軍の全保有車両の78%は運用開始から34年以上が経過しており、一部のトラックは第二次世界大戦中に使用されたものもあるとされる。火砲の大半も第二次世界大戦時のものだとしている。1437両の装甲戦闘車両のうち42%から70%は使用不能で、6,676両の車両のうち40%は使用不能である。弾薬は必要量のわずか15%しかない。海軍も同様に困難に直面している。海軍は7,000キロを越す海岸線を警備するために21隻の水上艦艇しか保有しておらず、しかも可動状態なのは10隻程度のみで、そのうちの多くは制限つきで運用されている。5隻ある潜水艦のうち完全な可動状態は1隻のみで、ほかに2隻が制限つきで運用されている。海軍航空隊の58機のヘリコプターのうち、27機（46%）も作戦不能状態にある。空軍保有の航空機のうち満足に使用できるのは267機のみで、残る452機は予備部品不足と整備不良で飛行不能とされる。この問題を悪化させている要因として、保有航空機の60%が運用20年経過、もしくはそれ以上の老朽機であるためとされる。
+
+近年の軍事費の対GDP比は1.5%程度で推移している<ref>http://www.sipri.org/research/armaments/milex/milex_database/milex_database</ref>が、その広大な国土と多数の人口規模に比して、2009年の予算総額は297億ドルと圧倒的に少ない。2011年の予算は354億ドルとなり、若干の微増になってはいるものの、装備の近代化はまったく進んでいないのが実情である。
+
+==== 陸軍 ====
+{{main|ブラジル陸軍}}
+兵力19万人を擁する。PKOのため、[[ハイチ]]に展開している。
+
+==== 海軍 ====
+{{main|ブラジル海軍}}
+兵力6万7,000人を擁する。長らくラテンアメリカで唯一の[[航空母艦|空母]]を保有する海軍であったが、財政事情などから唯一の空母「[[サン・パウロ (空母)|サン・パウロ]]」の近代化改修を諦め<ref>http://www.navyrecognition.com/index.php/news/defence-news/2017/february-2017-navy-naval-forces-defense-industry-technology-maritime-security-global-news/4895-brazil-gives-up-modernization-plans-for-aircraft-carrier-sao-paulo-prepares-for-decommissioning.html</ref>、2017年2月に同艦を退役させた<ref>http://www.combataircraft.net/2017/02/15/end-of-the-line-for-brazils-carrier/</ref>。2007年、[[原子力潜水艦]]建造計画が持ち上がり、フランスの技術援助を受けて、2020年を目処に原子力潜水艦の配備を計画している。
+
+==== 空軍 ====
+{{main|ブラジル空軍}}
+兵力7万700人を擁する。主要装備は[[イタリア]]と共同開発した亜音速ジェット軽攻撃機[[AMX (航空機)|AMX]]や、双発[[ターボプロップエンジン|ターボプロップ]]機の[[エンブラエル EMB 110]]など。2007年2月、日系2世の[[ジュンイチ・サイトウ]]大将が空軍総司令官に任命された。
+
+==== 情報機関 ====
+{{仮リンク|ブラジル情報局|label=国家情報局|pt|Agência Brasileira de Inteligência|en|Brazilian Intelligence Agency}}（ABIN）が同国の主要な[[情報機関]]として機能している。この機関は{{仮リンク|ブラジル情報機構|label=国家情報機構|pt|Sistema Brasileiro de Inteligência}}（Sisbin）の一部として編成されているものであるが、元々は1964年から1990年にかけて存在した{{仮リンク|ブラジル国家情報庁|label=国家情報庁|pt|Serviço Nacional de Informações|en|National Information Service (Brazil)}}（SNI）を前身としている<ref group="注釈">国家情報庁は軍事独裁時代のブランコ政権下で結成されたものである。</ref>。
+
+== 地理 ==
+<!--[[width=200]] -->
+[[ファイル:Amazon CIAT (3).jpg|thumb|[[アマゾン川]]]]
+[[ファイル:Neve Caxias do Sul (3).jpg|thumb|[[サンタカタリーナ州]][[サン・ジョアキン (サンタ・カタリーナ州)|サン・ジョアキン]]の雪]]
+[[ファイル:Brazil topo en2.PNG|thumb|ブラジルの地形図]]
+{{Main|{{仮リンク|ブラジルの地理|pt|Geografia do Brasil|en|Geography of Brazil}}|ブラジル大断崖}}
+国土は、流域を含めると705万km²及ぶ[[アマゾン川]]と、その南に広がるブラジル高原に分けられるが、広大な国土を持つだけにさまざまな地形があり、北部は[[赤道]]が通る[[熱帯雨林気候]]で、大河アマゾン川が流れる。近年、環境破壊によるアマゾン川流域の砂漠化が問題となっている。
+{{also|{{仮リンク|ブラジルにおける地球温暖化の影響|pt|Impacto do aquecimento global no Brasil}}}}
+
+最高峰はベネズエラとの国境近く、北部[[ギアナ高地]]にある[[ネブリナ山]]で、標高3,014メートルである。熱帯には「[[セハード]]」と呼ばれる広大な草原が広がり、[[エマス国立公園]]も含まれている。また、北東部は、沿岸部では[[大西洋岸森林]]が、内陸部では乾燥した{{仮リンク|セフタン・ブラジレイロ|pt|Sertão brasileiro|en|Sertão|label=セフタン}}が広がり、セフタンはしばしば[[旱魃]]に悩まされてきた。
+
+南西部のパラグアイ、アルゼンチンとの国境付近には有名な[[イグアスの滝]]のある、[[ラ・プラタ川]]水系の大河[[パラナ川]]が流れる。ほかに[[ネグロ川]]、[[サン・フランシスコ川]]、[[シングー川]]、[[マデイラ川]]や[[タパジョス川]]がある。また、ボリビアとパラグアイとの国境付近は世界最大級の熱帯性湿地とされる[[パンタナール]]自然保全地域となっている。
+
+ブラジル南部3州ではブラジル高原はウルグアイ、アルゼンチンへと続く[[パンパ]]（大平原）との移行地帯となり、伝統的に牧畜が盛んで[[ガウーショ]]（ガウチョ）も存在する。南部は[[コーノ・スール]]の一部として扱われることもある。
+
+また、ブラジル南部は[[沖縄本島]]や[[薩南諸島]]などの[[対蹠地]]にあたり、また国土の大半が[[南半球]]となるため、季節は日本とはおおよそ正反対になるが、[[熱帯]]ではない南部以外ではあまり意識されることはない。
+
+=== 気候 ===
+{{Main|{{仮リンク|ブラジルの気候|pt|Clima do Brasil|en|Climate of Brazil}}}}
+[[ケッペンの気候区分]]によると、国土の93%は[[熱帯]]地域に属す。気候は[[亜熱帯]]性気候、半[[砂漠]]型[[サバナ気候]]、[[熱帯雨林気候]]、[[熱帯モンスーン気候]]、高地の亜熱帯性気候、[[温帯夏雨気候]]、[[温暖湿潤気候]]に分類できる。大西洋沿岸は全体的に温暖なため、リオデジャネイロやレシーフェなどの[[リゾート]]地が多い。南部3州の標高が高い地域では雪が降ることもある。
+
+'''年間平均気温'''
+* アマゾン地域：22 - 26℃
+* 大西洋沿岸地域：23 - 27℃
+* 内陸部高原地域：18 - 21℃
+
+'''四季'''：緯度によって異なるが、以下の通りである。
+* [[春]]：9月22日から12月21日
+* [[夏]]：12月22日から3月21日
+* [[秋]]：3月22日から6月21日
+* [[冬]]：6月22日から9月21日
+<gallery mode="packed">
+ファイル:Cerejeiras no Parque do Carmo, em São Paulo.jpg|ブラジルの春、サンパウロに咲く桜
+ファイル:Boa Viagem (2) - Recife - Pernambuco, Brasil.jpg|ブラジルの夏、レシフェの街のビーチ
+ファイル:Lago São Bernardo no Outono em São Francisco de Paula.jpg|ブラジルの秋
+ファイル:Neve Caxias do Sul (2).jpg|ブラジルの冬
+</gallery>
+
+== 地方行政区分 ==
+[[ファイル:Brazil map ja.png|thumb|351px|ブラジルの地図]]
+{{Main|ブラジルの地方行政区分}}
+ブラジルは[[ブラジルの地域|5つの地域]]に分かれ、それらの地域は26の州（Estado、エスタード）と1つの連邦直轄区（首都ブラジリア）から構成されている。州は[[ムニシピオ (ブラジル)|ムニシピオ]]（市・郡に相当）に分けられ、全国で5,564のムニシピオが存在する。
+
+[[ファイル:Regions and states of Brazil.png|700px|thumb|left|[[ブラジルの地域]]と[[ブラジルの州|州]]の区分。<br />（A. [[北部地域 (ブラジル)|北部]]、B. [[北東部地域 (ブラジル)|北東部]]、C. [[中西部地域 (ブラジル)|中西部]]、D. [[南東部地域 (ブラジル)|南東部]]、E. [[南部地域 (ブラジル)|南部]]）]]
+{{-}}
+
+# [[アクレ州]]
+# [[アラゴアス州]]
+# [[アマパー州]]
+# [[アマゾナス州]]
+# [[バイーア州]]
+# [[セアラー州]]
+# [[エスピリト・サント州]]
+# [[ゴイアス州]]
+# [[マラニョン州]]
+# [[マット・グロッソ州]]
+# [[マット・グロッソ・ド・スーウ州]]
+# [[ミナス・ジェライス州]]
+# [[パラー州]]
+# [[パライバ州]]
+# [[パラナ州]]
+# [[ペルナンブコ州]]
+# [[ピアウイー州]]
+# [[リオデジャネイロ州]]
+# [[リオ・グランデ・ド・ノルテ州]]
+# [[リオ・グランデ・ド・スーウ州]]
+# [[ロンドニア州]]
+# [[ロライマ州]]
+# [[サンタ・カタリーナ州]]
+# [[サン・パウロ州]]
+# [[セルジッペ州]]
+# [[トカンティンス州]]
+# [[ブラジリア連邦直轄区]]
+
+{{clear}}
+ 
+=== 主要都市 ===
+{{Main|ブラジルの都市の一覧}}
+{| class="wikitable" style="text-align:center; line-height:1.5em; width:569px"
+|-
+!
+!都市
+![[ブラジルの地方行政区分|行政区分]]
+!人口（人）
+|-
+!1
+|align="left"|'''[[サンパウロ]]'''
+|align="left"|{{Flagicon|São Paulo}}[[サン・パウロ州]]
+| style="text-align:right;" |12,396,372
+|-
+!2
+|align="left"|'''[[リオ・デ・ジャネイロ]]'''
+|align="left"|{{Flagicon|Rio de Janeiro}}[[リオ・デ・ジャネイロ州]]
+| style="text-align:right;" |6,775,561
+|-
+!3
+|align="left"|'''[[ブラジリア]]'''
+|align="left"|{{Flagicon|Distrito Federal (Brazil)}}[[ブラジリア連邦直轄区]]
+| style="text-align:right;" |3,094,325
+|-
+!4
+|align="left"|'''[[サルヴァドール]]'''
+|align="left"|{{Flagicon|Bahia}}[[バイーア州]]
+| style="text-align:right;" |2,900,319
+|-
+!5
+|align="left"|'''[[フォルタレザ]]'''
+|align="left"|{{Flagicon|Ceará}}[[セアラー州]]
+| style="text-align:right;" |2,703,391
+|-
+!6
+|align="left"|'''[[ベロ・オリゾンテ]]'''
+|align="left"|{{Flagicon|Minas Gerais}}[[ミナス・ジェライス州]]
+| style="text-align:right;" |2,530,701
+|-
+!7
+|align="left"|'''[[マナウス]]'''
+|align="left"|{{Flagicon|Amazonas}}[[アマゾナス州]]
+| style="text-align:right;" |2,255,903	
+|-
+!8
+|align="left"|'''[[クリチバ]]'''
+|align="left"|{{Flagicon|Paraná}}[[パラナ州]]
+| style="text-align:right;" |1,963,726
+|-
+!9
+|align="left"|'''[[レシフェ]]'''
+|align="left"|{{Flagicon|Pernambuco}}[[ペルナンブーコ州]]
+| style="text-align:right;" |1,661,017
+|-
+!10
+|align="left"|'''[[ゴイアニア]]'''
+|align="left"|{{Flagicon|Goiás}}[[ゴイアス州]]
+| style="text-align:right;" |1,555,626
+|-
+!11
+|align="left"|'''[[ベレン (パラー州)|ベレン]]'''
+|align="left"|{{Flagicon|Pará}}[[パラー州]]
+| style="text-align:right;" |1,506,420
+|-
+!12
+|align="left"|'''[[ポルト・アレグレ]]''' 
+|align="left"|{{Flagicon|Rio Grande do Sul}}[[リオグランデ・ド・スル州]]
+| style="text-align:right;" |1,492,530
+|-
+!13
+|align="left"|'''[[グアルーリョス]]'''
+|align="left"|{{Flagicon|São Paulo}}[[サン・パウロ州]]
+| style="text-align:right;" |1,404,694
+|-
+!14
+|align="left"|'''[[カンピーナス]]''' 
+|align="left"|{{Flagicon|São Paulo}}[[サン・パウロ州]]
+| style="text-align:right;" |1,223,237
+|-
+!15
+|align="left"|'''[[サン・ルイス (マラニョン州)|サン・ルイス]]''' 
+|align="left"|{{Flagicon|Maranhão}}[[マラニョン州]]
+| style="text-align:right;" |1,115,932
+|-
+!16
+|align="left"|'''[[サンゴンサロ (リオデジャネイロ州)|サンゴンサロ]]'''
+|align="left"|{{Flagicon|Rio de Janeiro}}[[リオ・デ・ジャネイロ州]]
+| style="text-align:right;" |1,098,357
+|-
+!17
+|align="left"|'''[[マセイオ]]'''
+|align="left"|{{Flagicon|Alagoas}}[[アラゴアス州]]
+| style="text-align:right;" |1,031,597
+|-
+!18
+|align="left"|'''[[ドゥケ・デ・カシアス]]'''
+|align="left"|{{Flagicon|Rio de Janeiro}}[[リオ・デ・ジャネイロ州]]
+| style="text-align:right;" |929,449
+|-
+!19
+|align="left"|'''[[カンポ・グランデ (マットグロッソ・ド・スル州)|カンポ・グランデ]]'''
+|align="left"|{{Flagicon|Mato Grosso do Sul}}[[マットグロッソ・ド・スル州]]
+| style="text-align:right;" |916,001
+|-
+!20
+|align="left"|'''[[ナタール]]''' 
+|align="left"|{{Flagicon|Rio Grande do Norte}}[[リオグランデ・ド・ノルテ州]]
+| style="text-align:right;" |896,708
+|-
+| colspan="11" style="background:#f5f5f5;" |2021年国勢調査<ref name="IBGE">{{cite web |title=Brazilian Institute of Geography and Statistics|url=https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2021/estimativa_dou_2021.pdf |year=2021 |quote=2021 Estimates of Population |access-date=2021-08-29}}</ref>
+|}
+<gallery>
+File:Webysther 20190306130042 - Edifício Altino Arantes.jpg|01.[[サンパウロ]]
+File:AGB5002COLOR.jpg|02.[[リオデジャネイロ]]
+File:Brasilia aerea setorbancariosul.jpg|03.[[ブラジリア]]
+File:Salvador BA.jpg|04.[[サルヴァドール]]
+File:Fortaleza, Brazil (4) (cropped).jpg|05.[[フォルタレザ]]
+</gallery>
+
+== 経済 ==
+[[ファイル:Octávio Frias de Oliveira Bridge, 2014.jpg|thumb|[[サンパウロ]]はビジネス、文化、政治などを総合評価した[[世界都市#研究調査|世界都市格付け]]で世界34位の都市と評価された<ref>[http://www.atkearney.com/documents/10192/4461492/Global+Cities+Present+and+Future-GCI+2014.pdf/3628fd7d-70be-41bf-99d6-4c8eaf984cd5 2014 Global Cities Index and Emerging Cities Outlook] (2014年4月公表)</ref>]]
+[[ファイル:1_leblon_aerial_2014.jpg|thumb|ブラジル第二の都市[[リオデジャネイロ]]（イパネマ海岸、レブロン海岸を望む）]]
+[[ファイル:Cirrus_Airlines_E170_D-ALIE.jpg|thumb|[[エンブラエル]]EMJ-170LR]]
+{{Main|ブラジルの経済}}
+{{also|{{仮リンク|ブラジルの産業|pt|Indústria no Brasil|en|Industry in Brazil}}|{{仮リンク|ブラジル国家法人登録簿|en|CNPJ}}}}
+[[国際通貨基金|IMF]]の調査によると、[[2013年]]の[[国内総生産|GDP]]は2兆2,460億ドルであり、世界7位、南米では首位である。一方、1人あたりの名目GDPは1万1,173ドルであり、[[先進国]]と比較すると依然低い水準である。
+{{See also|{{仮リンク|ブラジルにおける課税|en|Taxation in Brazil}}}}
+
+建国以来長らく、[[イギリス]]や[[アメリカ合衆国]]、[[日本]]をはじめとする[[先進国]]からの重債務国であったが、ブラジルの支払い能力に応じたものであった。しかし、1956年に就任したジュセリーノ・クビシェッキ大統領は「50年の進歩を5年で」を掲げて開発政策を進め、内陸部のゴイアス州に新首都ブラジリアを建設し、1960年にリオデジャネイロから遷都した。クビシェッキは積極的な外資導入などにより日本やアメリカなど諸外国での評価は高かったものの、ブラジリア建設と遷都などの強引な手法、そして経済的な混乱を招いたことに対してブラジル国内では現在でも賛否が大きく分かれている。1968年から1973年にかけてはクビシェッキの狙い通り、「ブラジルの奇跡」と呼ばれる高度経済成長を達成したが、第一次オイル・ショックによって挫折を余儀なくされた。1970年代の経済政策の失敗により、外貨準備は底を尽き、さらに債務が激増していった。
+
+1980年代には中南米を襲った債務危機に直面し、[[メキシコ]]、[[アルゼンチン]]、[[ペルー]]と並ぶ財政破綻国家のひとつとして数えられ、[[インフレ]]と莫大な[[累積債務]]に苦しんだ。1980年半ばに入ると、世界的な金利上昇を契機にブラジルはマイナス成長を記録した。南米随一の大国ブラジルとはいえ、ブラジルの国家財政は限界に達しており、1983年には対外[[債務不履行]]を宣言した。その結果、海外資本の流入は途絶え、国内の投資も鈍化。さらに対外債務の負担によって公共赤字が増大し、更なるインフレを加速させる結果となる。1980年代の後半には1,000%以上のインフレが起こり、1993年には2,500%という途方もないハイパーインフレを招いてしまい、ブラジル経済は破綻した。従業員へのチップは100万クルゼイロ（アメリカ・ドルの1ドル以下の価値）、安いホテルの宿泊料は1億クルゼイロという途方もない額で、事実上、通貨は紙切れ同然となり紙幣の枚数を数えることができないため、重さで換算していたほどである。この間の混迷によって中間層の多くは没落し、富裕層の海外脱出が続くなど経済は混迷の度を深めた。
+
+しかし、一向にインフレは止まらず、ハイパーインフレ期の末期にはアメリカ・ドルしか流通しなくなってしまった。苦渋の選択の末にブラジル政府は当時の通貨[[レアル|クルゼイロ]]を、合計4回にわたって[[デノミ]]を行い、通貨の価値を実に2兆7,500億分の1という切り下げを断行し、新通貨[[レアル]]に交代した。[[1994年]]になって、新通貨レアルとともに「レアル・プラン」と呼ばれる[[固定相場制|ドル・ペッグ制]]を導入することによって、ようやくハイパーインフレを抑えることに成功。その後、1999年に起こったブラジル通貨危機により、一時は国家破綻寸前まで陥った。IMFと米国の緊急融資により、何とか破綻は回避された。その一方で隣国の[[アルゼンチン]]は2002年にデフォルトしている。金融危機を乗り越えると、カルドーゾ政権下で成長を遂げるようになり、ルーラ政権では発展途上国向けの貿易拡大が行われ、ブラジルは長く続いた累積債務問題の解消へ向かう。その後の経済の回復とともに2007年には[[国際通貨基金]]への債務を完済し、債務国から債権国に転じた。
+
+[[メルコスール]]、[[南米共同体]]の加盟国で、現在では[[ロシア]]、[[中華人民共和国|中国]]、[[インド]]と並んで「[[BRICS]]」と呼ばれる新興経済国群の一角に挙げられるまでに経済状態が復活した。重工業、中でも航空産業が盛んで、[[エンブラエル]]は現在、小型[[ジェット機]]市場の半分近いシェアを誇り、一大市場である欧米諸国や日本などのアジア各国をはじめとする世界各国へ輸出されているなど、その技術力は高い評価を得ている。
+
+公衆衛生・教育などの公共サービスや交通インフラの水準は先進諸国に比べ低く、沿岸部と大陸内部の経済的な格差や貧富の格差がとても大きいが、{{要出典範囲|date=2014年7月5日|経済や財政の好転を背景に近年急速に改善されつつあり、貧困層の生活水準の底上げは内需の拡大にも貢献している}}。
+
+{{要出典範囲|date=2014年7月5日|また、GDPにおける税の割合は30%を超えており、BRICS諸国で突出している。これは、貧困層への援助のために課税が行われているためであるが、高い税率に嫌気がさしている富裕層からは現政権に対して不満の声があがり始めている。}}。
+
+2014年からは経済が減速し、建設部門をはじめとする産業界の失業が続出、2015年にはマイナス成長（-3.5％）記録している<ref>[https://forbesjapan.com/articles/detail/10433 ブラジル経済が瀕死なワケ]-[[フォーブス・ジャパン]]</ref>。[[ペトロブラス]]の汚職問題（[[オペレーション・カー・ウォッシュ]]）など政治の混乱もこれに拍車をかけている。全般的に新興国の景気が低迷する中で、ブラジルの景気後退は特に強いとされる<ref>[http://www.nikkeyshimbun.jp/2016/160407-column.html 伯国の景気後退は予想以上]-[[ニッケイ新聞]]</ref>。大企業の業績低迷も深刻であり、国内主要15社の負債総額は1,500億レアルにおよび、債務不履行の可能性があると危惧されている<ref>[http://www.nikkeyshimbun.jp/2016/160412-22brasil.html 伯国大企業に不渡りの懸念＝格付け低下で返済が不利に＝大手銀行が負債再交渉を開始]-[[ニッケイ新聞]]</ref>。傍らで労働力の対価は経営課題にも直結するため、問題は非常に深刻さを増している。
+{{See also|{{仮リンク|ブラジルにおけるコスト|en|Brazil cost}}}}
+
+=== 経済改革 ===
+2016年、憲法を改正して歳出の伸びに20年にわたる上限（キャップ）を設定した。本改正は2036年までの20年間、利払いを含まない連邦歳出の伸びを前年のインフレ率の範囲内に抑える、すなわち歳出を実質ベースで2016年レベルに固定せんとするものである<ref>{{Cite web|和書|url=https://www.digima-news.com/20170322_15502|title=ブラジル・テメル政権の経済改革。期待と不安の交錯する2017年|publisher=|date=2017-03-22|accessdate=2018-10-30}}</ref>。
+{{See also|{{仮リンク|ブラジル連邦歳入特別局|en|Receita Federal do Brasil}}}}
+
+=== 工業 ===
+<!-- ==== GNP世界第9位、2050年は世界4位との予想も ==== -->
+安価な労働力と豊富な天然資源により、ブラジルは[[2004年]]度の[[国民総生産]]（GNP）で世界第9位に位置し、[[南半球]]および[[南アメリカ]]の国家における最大の経済規模を有する。<!-- GSの予想では、2050年ごろの同国のGDPは世界4位になると予想されている。因みに、1位アメリカ、2位[[インド]]、3位[[中国]]、4位[[ブラジル]]、5位[[メキシコ]]、6位[[ロシア]]、7位[[インドネシア]]、8位[[日本]]である。--><!-- http://www2.goldmansachs.com/hkchina/insight/research/pdf/BRICs_3_12-1-05.pdf などの出典を引いてください。記述位置は「BRICSの一角」がよいでしょう。-->
+
+[[第二次世界大戦]]後の[[1950年代]]以降、急速な工業化を推し進めるとともに経済発展を遂げ、軍事政権の外資導入政策によって[[1960年代]]後半から毎年10%を超える成長率を見せ、「ブラジルブーム（安い人件費で腕のいい熟練の労働者が得られる、豊かな資源がある）」となる。
+
+これにより日本やアメリカ、ドイツや[[フランス]]などの[[ヨーロッパ]]諸国などの先進工業国からの直接投資による現地生産や合弁企業の設立も急増し、[[自動車]]生産や造船、製鉄では常に世界のトップ10を占めるほどの工業国となったが、1950年代後半に当時の[[ジュセリーノ・クビチェック]]大統領の「50年の成長を5年で」の号令下でスタートした首都[[ブラジリア]]建設の負担や、[[1970年代]]初頭の[[オイルショック]]、さらには外国資本の大規模な流出などで経済が破綻した。
+
+これらの結果[[1970年代]]後半には経済が低迷し、同時に深刻な高[[インフレーション|インフレ]]に悩まされるようになったため、これ以降[[グルジェル]]（[[自動車]]メーカー）のように業績が悪化・倒産する企業が相次いだ。また経済の悪化を受け、[[1980年代]]にかけて[[クライスラー]]や石川島播磨（現・[[IHI]]）、[[ヤオハン]]など多数の外国企業が引き上げてしまい、同時に[[先進国]]からの負債も増大した。
+
+しかしレアル導入後の[[1990年代]]後半からはインフレも沈静化し、[[2000年代]]のルーラ政権では発展途上国向けの貿易拡大が行われ、ブラジルは長く続いた累積債務問題の解消へ向かう。2007年には[[国際通貨基金]]への債務を完済し、債務国から債権国に転じた。2010年代初頭には[[ロシア]]、[[中華人民共和国|中国]]、[[インド]]、[[南アフリカ共和国]]と並んで「[[BRICS]]」と呼ばれる新興経済国群の一角に挙げられるまでに経済状態が復活し、地場資本による工業投資も活発に行われている。
+
+=== 農業 ===
+[[ファイル:A Cidade e o Rio.jpg|thumb|[[ペルナンブーコ州]]の[[レシーフェ]]]]
+{{Main|{{仮リンク|ブラジルの農業|pt|Agricultura no Brasil|en|Agriculture in Brazil}}}}
+地球上有数の穀倉地帯であり、農業では生産力の高い一面を示している。かつては[[ブラジルボク]]や[[ゴム]]の生産を中心とした。ブラジルボクはポルトガル語でパウ・ブラジルと呼ばれ、赤茶色の木地を持つ、堅く重たい木である。当時、[[赤]]の染料が貴重であったことから、赤の染料の原料となるこの木の経済価値が高かった。乱伐により一時は枯渇しかかったが、その後植林が進められて現在でもパウ・ブラジルでできた土産物などが現地で売られている。
+
+[[19世紀]]までブラジルはゴム栽培を独占し、アマゾン川中流域の[[マナウス]]は大繁栄し、アマゾンの中心に[[オペラハウス]]が建設された。しかしペルーの[[イキトス]]やボリビアの[[リベラルタ]]をはじめとする周辺国へのゴム栽培の拡大があり、さらに19世紀後半のイギリスによる[[マレーシア]]へのゴムの密移入によりアマゾンのゴム栽培は大きく衰退した。
+
+==== プロデセール ====
+1970年代から21世紀初頭にかけては、[[日本]]によるナショナルプロジェクト「[[セハード]]農業開発プロジェクト」（プロデセール）が3期にわたって行われ、その結果、ブラジル内部のセハード地帯（セハードとは「閉ざされた」を意味する）を中心とする農業発展が急速に進んだ。その際、日本とブラジルは共同事業として日伯セハード開発公社（CAMPO社）を現地に設立してプロジェクトの進捗管理を行うとともに、開発面積と同規模の保留地を耕作地周辺に確保するなど、農業開発と環境保全の両立を率先して行った。
+
+また同時に、現地に適した種子の開発や栽培方法の確立などについても、ブラジル国内に専門の研究所を設立して支援するなど、日本はハード面とソフト面の両面にわたって支援し大きな成果を残した。現在では、ブラジルは[[大豆]]の生産ではアメリカに次ぐ世界第2位の地位を占めている。また、日本が大豆を輸入する相手国としても、ブラジルはアメリカに次いで第2位である。
+
+==== 牧畜 ====
+歴史的に[[リオグランデ・ド・スル州]]や[[ミナスジェライス州]]を中心に牧畜が盛んであり、近年まで「1ヘクタールに足1本」とまで言われていた。最近では都市近郊の農家の所得向上と相まって集約的な畜産業が行われるようになってきており、特にサンパウロなど大都市周辺の養鶏などは近代的システムの下で行われている。鶏肉については加工肉を中心に日本に相当輸入されているものの、牛肉については[[口蹄疫]]などの[[検疫]]上の問題が依然として存在している。ブラジルは数十年にわたる徹底的な口蹄疫対策により、2000年と2001年の発生以降は報告されておらず、清浄国として扱われている<ref>[http://lin.alic.go.jp/alic/month/domefore/2011/jan/gravure01.htm ブラジルにおける口蹄疫清浄化の取り組み]- 星野和久・石井清栄、[[農畜産業振興機構]]ブエノスアイレス駐在員事務所、2011年1月</ref>。
+
+[[2000年代]]以降、アマゾンや[[パンタナル]]の熱帯雨林地域を開発して大規模な[[牧場]]を造成し、[[ウシ]]の飼育をする業者が現れると環境破壊として問題視されるようになった。
+環境破壊が疑われている牧場のウシが流通・販売業者から忌避されると、クリーンな牧場へウシを売却した後に転売する食肉ロンダリングが横行するなどいたちごっこが続いた<ref>{{Cite web|和書|url=https://www.afpbb.com/articles/-/3381349 |title=欧州小売り各社、ブラジル産牛肉製品撤去へ 熱帯雨林破壊で |publisher=AFP |date=2021-12-17 |accessdate=2021-12-17}}</ref>。
+
+==== サトウキビとコーヒー ====
+植民地から、独立後の帝政期にかけてのブラジルの北東部では[[サトウキビ]]の[[プランテーション]]栽培が盛んだった。[[カリブ海諸国]]と同様に、サトウキビを作るときは労働力として[[アフリカ]]から連れてきた[[奴隷]]を働かせた。しかし、[[米州]]でももっとも遅い1888年にようやく奴隷制が廃止されると、栽培の主流作物もサトウキビから[[コーヒー]]へと移り、大量導入していたヨーロッパからの移民を労働力におもに南東部の[[サンパウロ州]]を中心にして[[コーヒー豆]]の栽培が進んだ。その後ヨーロッパ諸国と移民の待遇をめぐって対立すると、今度は日本人移民獲得のため、1908年に第1回目の日本人移民が行われた。サトウキビは砂糖の原料になるだけでなく、[[バイオエタノール]]に精製されてガソリンの代わりの燃料に使われている。
+
+[[コーヒー]]の輸出量は、世界第1位である。これは、人的労働が重要な[[コーヒー]]生産において、なにより安い労働力を得やすいという事情によるところが大きいが、霜の降りにくい高台地帯の広いことも幸いしている。その規模は過去150年間で最大となっている。しかし、コーヒーの過剰生産により、国際価格が暴落。コーヒーへの依存度を下げるために、トウモロコシ・大豆・サトウキビなどの栽培が奨励された。[[ブラジルにおけるコーヒー生産]]も参照。
+
+==== 焼畑農法 ====
+貧困層が[[アマゾン熱帯雨林]]でいまだに[[焼畑農法]]を行っており、自然環境の破壊につながるとして問題視されているが、むしろ同地域を大規模に焼き払うのは当地での農業生産を目指す企業である場合が多い。一方、ブラジル東北部の乾燥地域では生活そのものが苦しく、政府が募った入植に応じた農業者が生活を行っているが、生活はきわめて厳しく、都市部の生活者との経済的格差は極めて大きい。[[森林率]]の減少に歯止めがかからない状況から、近年では[[人工衛星]]画像を使った監視網などが整いつつある。
+
+==== 日系移民者の貢献 ====
+かつて日本人が農業[[移民]]としてブラジルに入植して以来、日本人は「農業の神様」と呼ばれ、現在に至るまでブラジル社会における[[日系ブラジル人]]の高いステータスを確保する重要な礎になっている。ブラジルの首都ブラジリアが建設された際には、首都建設に必要な食料生産を日系人に任せる目的で、当時の政府はブラジリア周辺に日系人を入植させた。日本人の農業を通じたこうした功績に対し、ブラジリア建設40周年記念式典の際には、日系人に対して連邦区知事から特別に感謝の言葉が述べられた。
+
+果実生産も日本の経済協力を契機に盛んになっており、特に南部[[サンタ・カタリーナ州]]における[[リンゴ]]栽培などへの協力は、ブラジルにおける日本のプレゼンス向上に大いに役立った。リンゴ栽培に関するブラジル側研究施設の所長に日系人が抜擢されたこともあるうえ、同協力に殉じた日本人研究者の胸像まで設置されているなど、日本の農業協力のひとつの象徴として位置づけられる。また、[[2005年]][[9月29日]]解禁の[[マンゴー]]の対日輸出は、両国政府の間で20年以上にわたる懸案となっていたものである。
+
+=== 鉱業 ===
+{{Main|{{仮リンク|ブラジルの鉱業|en|Mining in Brazil}}}}
+ブラジルは世界第2位の[[鉄鉱石]]輸出国であり、世界における鉄鉱石埋蔵量のランキングでも上位に位置し、少なくとも290億トンの鉄鉱石が同国の地中に存在しているとされる。鉄鉱石の採掘を担っているのはミナス・ジェライス州で、同州は最大の鉱山保有地方となっている。250以上の自治体で採掘活動があり、300以上の鉱山が操業中。また、ブラジルの有力な100鉱山の内の40座がミナス・ジェライス州内に存在する。
+
+国立鉱物生産局(DNPM)によると、2011年時点で国内に8,870の鉱業会社があり、更に東南部地域が3,609社と全体の約40%を占めていると発表されている。
+{{節スタブ}}
+
+=== エネルギー ===
+{{Main|{{仮リンク|ブラジルのエネルギー|en|Energy in Brazil}}}}
+[[ペトロブラス]]は、1953年に経済的独立のための国営企業として成立した。その後、民営化プロセスに成功し企業は急拡大、[[カナダ]]の[[オイルメジャー]]を買収し、欧米のオイルメジャーと張り合える存在となっている。カンポス沖とサントス沖を中心に油田を多数保有し、最近発見相次ぐ新型油田により近い将来輸出国への転換を見込んでいる。ペトロブラスには、深海での石油開発能力、技術力において他メジャーよりも先行しており、未開発な箇所が多い深海油田をめぐり優位な立場で開発を行うと見られる。また、サトウキビ栽培による[[バイオエタノール]]生産では2007年現在唯一、内需より生産量に余裕があり、輸出を行える状況にある。[[バイオエタノール]]の世界市場において、ブラジルが占める割合は7割以上に達する。エネルギー資源の確保について世界的に問題が深刻化するであろう今後、ブラジルのエネルギー市場での存在感が2000年代初頭より急激に大きくなっている。ペトロブラスは2006年に沖縄の石油精製企業南西石油を買収し子会社化したが、2011年に株式売却意向を発表した。2015年には大規模な贈賄事件が発覚し、またブラジル経済の低迷と世界的な原油安の影響もあって巨額の赤字を出している<ref>[http://www.nikkeyshimbun.jp/2016/160323-22brasil.html]-[[ニッケイ新聞]]</ref>。
+
+ブラジルは水資源が豊富で、[[水力発電]]が占める割合は大きい。パラグアイと共同建設した同国国境地帯の[[パラナ川]]流域に位置する世界最大の[[イタイプダム|イタイプー・ダム]]から電力を買っているほか、国内各地に[[ダム]]がある。
+
+天然[[ウラン]]の資源量は2019年時点で世界第8位であるが、開発は進んでおらず生産量は少ない<ref>{{Cite web |url=https://www.jaif.or.jp/cms_admin/wp-content/uploads/2021/02/uranium_2020 |title=世界のウラン資源量と生産量トップ10 |publisher=日本原子力産業協会 情報・コミュニケーション部 |date=2021 |accessdate=2024-11-16}}</ref>。また、原子力電力もまだまだ少ない。
+{{also|{{仮リンク|ブラジルの電力セクター|en|Electricity sector in Brazil}}}}
+{{節スタブ}}
+
+=== インフラストラクチャー ===
+{{Main|{{仮リンク|ブラジルのインフラストラクチャー|pt|Infraestrutura do Brasil}}}}
+{{節スタブ}}
+
+=== 観光 ===
+{{Main|{{仮リンク|ブラジルの観光|en|Tourism in Brazil}}}}
+ブラジルにおいて観光業は成長分野として見られており、現今も同国内の幾つかの地域における経済の「鍵」とされている面がある。
+
+[[外国人]][[観光客]]は主に[[アメリカ州]]の国々（アルゼンチン、ウルグアイ、パラグアイ、ボリビア、ペルー、チリ、エクアドル、コロンビア、ベネズエラ、コスタリカ、[[メキシコ]]、[[キューバ]]、[[ドミニカ共和国]]、[[米国]]、[[カナダ]]）が多い。
+
+次いで[[ヨーロッパ州]]の国々（[[スペイン]]、[[イタリア]]、[[フランス]]、[[ドイツ]]、[[イギリス]]、[[ギリシャ]]、[[アイルランド]]、[[オランダ]]、[[ベルギー]]、[[スイス]]、ポルトガル、[[ロシア]]）から訪れる外国人が中心となっている。 　
+
+他には[[オセアニア]]では[[オーストラリア]]から、[[アジア]]では[[中華人民共和国|中国]]、[[韓国]]、[[日本]]からの観光客が同国を訪れていることが判明している。
+
+== 交通 ==
+{{Main|{{仮リンク|ブラジルの交通|en|Transport in Brazil}}}}
+{{also|{{仮リンク|ブラジルにおける交通法規|pt|Código de Trânsito Brasileiro}}}}
+旅客および貨物輸送の約85%を道路輸送に依存しているが、国土が広大なことより古くから航空運送が盛んなうえ、長い海岸線や豊富な河川を元にした水上輸送も盛んに行われている。
+
+=== 陸運 ===
+[[ファイル:Sao_Paulo_ethanol_pump_04_2008_74_zoom.jpg|thumb|アルコール（右）とガソリン両方のポンプが用意されたガソリンスタンド]]
+第二次世界大戦後は[[自動車]]の一般層への普及が進むとともに、高速道路網が急速に発達した。自動車の燃料として1970年代後半より政府主導のもとアルコールが普及しており、多くの自動車メーカーがアルコール燃料車を用意しており、大抵の[[ガソリンスタンド]]でアルコール燃料車にアルコールを入れることができる。最近では[[フレックス燃料車]]（ガソリンとアルコールのどちらでも動かせる車、混入可）が注目されている。
+
+なお現在はヨーロッパや日本などと比べて排気ガス規制が甘いこともあり、都市部を中心に排気ガスによる大気汚染が深刻化しており、渋滞とともに大気汚染の緩和を目指してさまざまな対策が試されている。
+
+現在の道路の総延長距離は165万キロであり、旅客および貨物輸送の約85%が道路輸送に依存している。サンパウロやリオデジャネイロ、ブラジリアなど都市部近郊の道路、および幹線道路のほとんどが舗装整備されており、また、第二次世界大戦後の自動車産業の発達と自動車産業保護の観点から道路網の整備に重点が置かれていたこともあり、一般層への普及に合わせて沿岸都市部を中心に高速道路網が急速に発達した。
+{{also|{{仮リンク|ブラジル高速道路網|en|Brazilian Highway System}}}}
+
+しかし、大気汚染や渋滞削減などの観点から、近年は鉄道への注目が高まっており、都市圏における地下鉄や通勤電車の整備が進められているだけでなく、サンパウロ - リオデジャネイロ間の高速鉄道の整備も計画されており、日本の[[新幹線]]の導入も検討されているが現時点では長距離鉄道は貨物のみである。
+
+=== バス ===
+[[ファイル:Saopaolotroli.jpg|thumb|[[トロリーバス]]]]
+高速道路網の発展とともに、寝台設備や[[便所|トイレ]]、[[エア・コンディショナー|エアコン]]完備した長距離[[バス (交通機関)|バス]]による路線網が国中に張り巡らされ、手軽で安価な交通手段として重宝されている。ただし、[[21世紀]]に入ってからは安くもなくなった。また、アルゼンチンやウルグアイ、パラグアイなどの近隣諸国との間の長距離定期バスが両国の主要都市の間で運行されている。飛行機と違い、バスの切符は直前でも予約なしで手に入りやすい。
+
+多くの都市では市内鉄道や[[地下鉄]]路線網が整備されていないことから、おもな市内交通手段として市バスが使用されているほか、サンパウロをはじめとするいくつかの大都市では[[トロリーバス]]も運行されている。ほとんどのバスは外国資本や民族資本の企業によってブラジルで自国生産されており、連接バスや2階建てバス、歩道側だけでなく運転席側にも客用ドアを設置したバスなど多彩な車種が走っている。またその多くが国外へ輸出されている。
+
+=== 鉄道 ===
+{{main|ブラジルの鉄道}}
+[[航空機]]やバスによる長距離移動網が古くから整えられていたことや、自動車業界保護の観点から道路網の整備に重点が置かれていたこともあり、[[鉄道]]の総延長は[[2000年]]現在で2万9,283キロとその広大な国土に比べて少ないうえ、そのほとんどが沿岸部に集中している。また、貨物輸送が中心で、旅客輸送は大都市近郊に限られる。なお、鉄道による貨物輸送のシェアは20%強となっている。
+
+上記のような理由から都市間を結ぶ長距離鉄道網<ref group="注釈">1980年代までは、既存の鉄道網において数多くの中・長距離旅客列車が運行されていたが、採算性や速度、線路の保線状況の関係から急速に数を減らしていき、2002年以降の定期的な運行はヴィトリア - ベロ・オリゾンテ間のみとなっている。</ref>や都市近郊の鉄道網の整備も遅れていたが、サンパウロやリオデジャネイロなどの大都市では[[1970年代]]以降、交通渋滞解消や省エネルギー、排気ガスによる大気汚染の解消などの目的から、地下鉄や郊外との通勤電車の整備が進んでいる。なお車両は1980年代までは国内設計・生産のものが一定数みられたが、それ以降は国産ではなく日本やドイツ、韓国などからの輸入、ノックダウン、ライセンス生産となっている。
+
+=== 航空 ===
+[[File:A320 NEO LATAM SBPA (36886103586).jpg|thumb|A320 NEO]]
+{{main|ブラジルの空港の一覧}}
+国土が広大なために古くから航空網が国中に張り巡らされており、現在国内に2,000を超える空港を有しており、アメリカや[[ロシア]]などと並ぶ航空大国として知られている。特にサンパウロとリオデジャネイロ間の[[シャトル便]]「ポンテ・アエレア」は世界有数の運送量を有する。
+
+近年では、もともとはローカル線専門であった[[LATAM ブラジル]]と、もともとは[[フラッグ・キャリア]]であった老舗の[[ヴァリグ・ブラジル航空]]を傘下に収めた新興航空会社の[[ゴル航空]]（ゴウと発音）、[[アズールブラジル航空]]の3社を筆頭に[[格安航空会社]]がその勢力を伸ばしている。
+
+さらに長距離鉄道網が発達していないことから、かつては長距離バスが都市間を結ぶ安価な移動手段となっていたものの、近年は上記のような格安航空会社がそのシェアを奪っている。場合運賃の差は2倍以下に縮まっている。
+
+== 科学技術 == 
+{{Main|{{仮リンク|ブラジルの科学技術|pt|Ciência e tecnologia no Brasil|en|Brazilian science and technology}}|ブラジルの宇宙開発}}
+20世紀の間、ブラジルは基礎研究や先端技術では欧米諸国に遅れを取ってしまったが、それでも[[ライト兄弟]]と同様に[[飛行機]]開発のパイオニアだった[[アルベルト・サントス・ドゥモン]]のように（フランスに移住して活躍、第一次世界大戦に失望しブラジルへ永住帰国、フランスの市民権も持つ）、科学技術の発展に大きな貢献をもたらした技術者が存在し、近年では1970年代から進められた燃料用[[エタノール]]の研究により、この分野では世界的なパイオニアとなっている。
+
+[[人文科学]]や[[社会科学]]においても、「[[人種民主主義論]]」を打ち出し、[[文化相対主義]]的な立場から[[アフリカ系ブラジル人]]とブラジルのナショナリズムを結びつけた人類学者[[ジルベルト・フレイレ]]や、[[アンドレ・グンダー・フランク]]以来停滞していた[[従属論]]経済学を用いて、第三世界の経済発展のあり方を模索した経済学者[[フェルナンド・エンリケ・カルドーゾ]]や、第三世界の識字教育に大きな貢献をもたらし、「[[エンパワメント]]」などの概念を発達させた教育学者[[パウロ・フレイレ]]などがブラジル出身の世界的に有名な学者として挙げられる。
+
+== 国民 ==
+=== 人種と民族 ===
+{{Main|ブラジル人}}
+{{also|{{仮リンク|ブラジルの人種と民族|en|Race and ethnicity in Brazil}}|{{仮リンク|ブラジルの人口統計|pt|Demografia do Brasil|en|Demographics of Brazil}}}}
+{{bar box
+|title=人種・民族構成
+|left1=
+|right1=
+|caption=(2010年, [[:en:Brazilian Institute of Geography and Statistics|ブラジル地理・統計院]]による調査)<ref>https://biblioteca.ibge.gov.br/visualizacao/periodicos/93/cd_2010_caracteristicas_populacao_domicilios.pdf</ref>
+|titlebar=#ddd
+|float=right
+|bars=
+{{bar percent|[[:en:White Brazilians|Brancos (白人)]]|blue|47.7}}
+{{bar percent|[[:en:Pardo Brazilians|Pardos (混血)]]|green|43.1}}
+{{bar percent|[[アフリカ系ブラジル人|Pretos (アフリカ系)]]|red|7.6}}
+{{bar percent|[[:en:Asian Brazilians|Amarelos (アジア系)]]|orange|1.1}}
+{{bar percent|[[ブラジルの先住民|Indigenous (ブラジル先住民)]]|brown|0.4}}
+}}
+[[ファイル:Two Pataxo indians (Brasília, 04 April 2006).jpeg|thumb|[[ブラジルの先住民]]]]
+
+ブラジル人は大きく4つのグループに分かれる。主にトゥピー・グアラニー語族の言葉を話す[[ブラジルの先住民|先住民]]（ [[グアラニー人]]、アマゾン先住民など）、植民当時の[[ポルトガル]]系、[[アフリカ]]からの[[黒人]][[奴隷]]の子孫（[[アフリカ系ブラジル人]]）、そして[[19世紀]]半ばからブラジルに定住するためにポルトガル以外の[[ヨーロッパ]]、[[中近東]]、[[日本]]を中心としたアジア諸国からやってきた移民である。
+
+{{仮リンク|ヨーロッパ系ブラジル人|en|White Brazilians}}の多くは元[[ポルトガル人]]で、植民地時代はポルトガル人と原住民、黒人奴隷との雑婚が常態であった。独立後に続く[[イタリア人]]や[[スペイン人]]、[[ポルトガル人]]、[[ドイツ人]]、[[ポーランド人]]、[[ウクライナ人]]、[[ロシア人]]、[[アシュケナジム]]系[[ユダヤ人]]などのヨーロッパ系や、[[日本人]]、[[アラブ人]]（[[シリア人]]、[[レバノン人]]）、[[中国人]]などの[[:en:Asian Brazilians|アジア系]]の移民の波や、独立後も続いた黒人奴隷の流入がブラジルの多様な民族と文化の形成に貢献し続けている。なお、ヨーロッパ系ブラジル人は移民数で最多を占めたイタリア系が最多ともいわれている。もっとも今や混血が進んでおり、正確なことは曖昧で把握できない。
+
+北東部は[[アフリカ系ブラジル人]]や[[ムラート]]（白人と黒人との混血）が多く、南部はおもに[[ドイツ系ブラジル人|ドイツ系]]や[[ポーランド系ブラジル人|ポーランド系]]、[[ウクライナ系ブラジル人|ウクライナ系]]をはじめとする中東欧系住民が、南西部は[[イタリア系ブラジル人|イタリア系]]や{{仮リンク|スペイン系|pt|Imigração espanhola no Brasil}}、[[ポルトガル系ブラジル人|ポルトガル系]]、[[アラブ系ブラジル人|アラブ系]]、[[日系ブラジル人|日系]]をはじめとして、サンパウロ州のコーヒーブームにより現存するほぼすべてのエスニシティの移民が流入していたなど、地域差も見られる。
+
+[[2010年]]以降は白人人口は半数を割り込み、「黒人」「混血」が過半数を占めた<ref>{{cite news |language  = | author  = | url =http://www.jiji.com/jc/c?g=int_30&k=2011111700086| title =白人人口、半数割る＝ブラジル| publisher =| date= 2011-11-17| accessdate =2011-11-17}}</ref>。
+{{also|{{仮リンク|ブラジルのファヴェーラ|pt|Favelas no Brasil}}}}
+
+=== 言語 ===
+{{Main|ブラジルの言語}}
+[[ファイル:Detailed SVG map of the Lusophone world.svg|300px|thumb|ポルトガル語圏を表す地図]]
+[[公用語]]は[[ポルトガル語]]（[[ブラジル・ポルトガル語]]）であり、ブラジル生まれの国民のほとんどにとっての[[母語]]でもある。ただし、ブラジルで使われるポルトガル語は語彙の面でアフリカやインディオの影響を受けているため、[[ブラジル・ポルトガル語]]と言われるほど本国[[ポルトガル]]のポルトガル語（イベリア・ポルトガル語）とは多少異なっている。日本はポルトガル語圏諸国の中ではブラジルとの交流関係が圧倒的に多いため、あえてポルトガルのポルトガル語と特記されていない限り、日本国内の語学教科書や語学講座で教えられているポルトガル語はブラジル・ポルトガル語であると考えて差し支えない。ブラジル国内でも多少の方言は存在する。また日本のブラジル系移民では、日本独特のポルトガル語表現が存在する。1940年代のヴァルガス時代にブラジルのポルトガル語をブラジル語と呼ぶべきか否かをめぐってブラジル語論争があったが、結局ブラジル語なるものは存在せずに、ブラジルの言葉はポルトガル語の方言であることが確認された。ただし、ナショナリズムの観点からブラジル語という言葉を用いるブラジル人は今でも存在する。
+
+なお、ブラジルにおける外国からの移民第1世代の中には、[[イタリア語]]や[[ドイツ語]]、[[日本語]]や[[中国語]]なども使う者も多く、ブラジル生まれの2世以降においても家庭や各種教育機関においてこれらの言語を習得し、これらの言語に堪能な場合が少なくない。たとえばドイツ語は南部の[[テウト・ブラジレイロ]]たちに6世まで受け継がれて話されている。ブラジルで話されている外国語は多くの場合方言であり、ドイツ人入植地域では村同士でドイツ語会話が困難な場合があり、その場合はポルトガル語を話す。また北部イタリア移民の言語であるタリアンやヴェネトと呼ばれるスイスの一部にも及ぶ北部イタリア語が、パラナおよびサンタ・カタリーナ東部からリオ・グランデ・ド・スーウ（以下南大河州）にかけて強く残り、北部ドイツからポーランドにおける[[ポメラノ語]]は、エスピリト・サント、サンタ・カタリーナ、南大河州で使用されている。ドイツ西部のフランス国境付近の言語である[[フンスルキッシュ語]]は、南大河州の[[サン・レオポルド]]や[[サンタ・クルス・ド・スーウ]]、[[ベナンシオ・アイレス]]といった各市に残る。リオ・グランデ・ド・スーウ州最南部のウルグアイ国境で、ウルグアイの[[リベラ (ウルグアイ)|リベラ]]市とつながっている[[サンターナ・ド・リヴラメント]]では、[[リオプラテンセ・スペイン語]]とブラジル・ポルトガル語の[[クレオール言語]]である[[ポルトゥニョール・リヴェレンセ]]が話されている。日本語はコロニア語とよばれるブラジルの方言が話されている。中国語は大部分が方言で、中国標準語である普通話を話せる人はいるがそう多くはない。また、インディオの言語は180近く存在すると見積もられており、トゥピナンバー系の言語のひとつである[[ニェエンガトゥ語]]は、特にリオ・ネグロの上流、サンガブリエル・ダ・カショエイラでは日常語である。また[[グアラニー語]]はMBYA、NHANDEVA、KAIOWAの3語族に大別されるが、エスピリト・サント、リオ、サンパウロ、南部3州、マット・グロッソ・ド・スーウの各州において約3万人が話す言語である。アマゾン地域には非常にまれながらイゾラード（隔離された人々という意味）と呼ばれる一家族単位のインディオ（インジオと発音）が住んでいる。周辺のインディオやブラジル一般社会と交流がなく、彼らの言語や生活には不明な点が多い。アフリカ系言語である[[カフンド語]]は、ミナス・ジェライスの中西部の[[ジラ・ダ・タバチンガ]]の奴隷博物館、サンパウロの[[サウト・デ・ピラポーラ]]市に残っており、ブラジル最北端のオヤポッケ地方ではインディオ語やアフリカ語、[[フランス語]]の交じり合った[[カリプナ語]]などがある。
+{{also|{{仮リンク|ブラジルにおける移住|pt|Migração interna no Brasil}}}}
+
+=== 婚姻 ===
+ブラジルにおいて結婚とは「同じ家に住み、その中で子供を授かること」と捉えられている。その観念は、現在の婚姻に対する意識や法律にも反映されている。
+
+基本として結婚する際には婚姻手続が必要となるが、手続きが受理された場合には当事者の婚姻を新聞で告知する決まりとなっている。これは当事者に結婚に対する責任を持たせると同時に、[[重婚]]を防ぐ狙いがある。その後、結婚に関する異議申し立てがなければ晴れて結婚成立となる。
+
+なお、同国では結婚時に関して男性が18歳以上、女性は16歳以上であることが法的に定められているものの、女性は親ならびに保護者の同意があれば16歳から結婚することができ<ref group="注釈">妊娠している場合は例外として16歳未満でも結婚が許可される場合がある。</ref>、18歳以降からは当事者の意思のみの婚姻が可能となっている。
+
+[[国際結婚|外国人との婚姻]]の際には[[IDカード]]をはじめ{{仮リンク|CPF番号|en|CPF number}}など当事者の身分証明に関するものを持参する必要が求められる点から、その過程が少し複雑な場合があることが報告されている<ref>{{Cite news|url=https://www.expat.com/en/guide/south-america/brazil/9233-getting-married-in-brazil.html|title=Marriage in Brazil|publisher=Expat.com|date=2022-03-23|accessdate=2022-12-10}}</ref>。
+
+婚姻の際、自身の名前をそのまま名乗ることも、配偶者の姓に改姓することも、配偶者の姓を付加することも可能。2002年の法改正で別姓が可能となった<ref>[https://www.conjur.com.br/2018-fev-04/processo-familiar-prerrogativa-conjuge-mudar-ou-manter-nome-casado É prerrogativa do cônjuge mudar ou manter o nome de casado após o divórcio], Consultor Jurídico, Feb 4, 2018.</ref>。さらに、2013年より、ブラジルのどの州においても同性同士の結婚（[[同性婚]]）が認められるようになった<ref group="注釈">それまでは、州によってばらつきがあった。</ref><ref name="estadao.com.br">{{cite web|url=http://www.estadao.com.br/noticias/cidades,cnj-obriga-cartorios-a-celebrar-casamento-entre-homossexuais,1031678,0.htm |title=CNJ obriga cartórios a celebrar casamento entre homossexuais |language=Portuguese |publisher=Estadao.com.br |date=2013-05-14|accessdate=2018-10-16}}</ref><ref name="france24.com">[http://www.france24.com/en/20130514-brazil-judicial-panel-clears-way-gay-marriage Brazil judicial panel clears way for gay marriage]</ref>。
+{{See also|{{仮リンク|ブラジルにおける同性結婚|en|Same-sex marriage in Brazil}}}}
+
+=== 宗教 ===
+[[ファイル:1 cristor redentor 2014.jpg|thumb|[[コルコバードのキリスト像]]]]
+{{Main|{{仮リンク|ブラジルの宗教|pt|Religião no Brasil|en|Religion in Brazil}}}}
+ブラジルは、世界でもっとも多くの[[カトリック教会|カトリック]]人口を擁する国である。国民の約73%がカトリックの信者で、これは1億1,240万人に相当し、カルナヴァルなどをはじめとして現在も社会に強い影響を持つ。[[プロテスタント]]信者も1970年代より伝統的な[[ルター派]]、[[プレスビテリアン]]、[[バプティスト]]などが増加し、近年は[[ペンテコステ派]]やネオペンテコステ派も増加している。プロテスタントの信者は人口の15.4%となっている。
+
+ブラジル世論調査・統計機関（IBOPE）の調査によると、有権者の27%は福音派信者だという。地理統計院（IBGE）のデータでの福音派信者の割合は1991年にはわずか8%、2010年でも22%だった<ref>{{Cite web|和書|url=https://www.nikkeyshimbun.jp/2018/180501-21brasil.html|title=《ブラジル》大統領選＝福音派支持頼みの候補者たち＝今や国民の3分の1弱の勢力＝指導者の一声で逆転狙う＝ボウソナロも宗教票狙い|publisher=|date=2018-05-01|accessdate=2018-10-27}}</ref>。
+
+1600万人もペンテコステ派信者がおり、それ以外の伝統的プロテスタント信者は500万人に過ぎない
+<ref>{{Cite web|和書|url=https://www.nikkeyshimbun.jp/2020/201215-41colonia.html|title=《記者コラム》ブラジルの聖戦――台頭するキリスト教ペンテコステ派|publisher=|date=2020-12-15|accessdate=2021-04-18}}</ref>。
+
+非キリスト教の少数宗教として{{仮リンク|マクンバ|pt|Macumba|en|Macumba}}、{{仮リンク|バトゥーケ|pt|Batuque}}、[[カンドンブレ]]、[[ウンバンダ]]などアフリカの宗教に起原するアフロ・ブラジル宗教がある。特にウンバンダ、カンドンブレは、植民地時代に[[大西洋奴隷貿易]]によってアフリカ人奴隷が多く持ち込まれた[[北東部地域 (ブラジル)|北東部]]を中心にブラジル全土で信仰されている。現在は[[アフリカ系ブラジル人]]のみならず非アフリカ系の信者の割合も増加している。
+
+[[ブラジルのイスラム教]]はアフリカからの黒人奴隷のイスラーム教徒によってもたらされたが、現在ではおもに[[アラブ系ブラジル人]]の移民によって信仰されており、約55のモスクとムスリムの宗教センターがあると見積もられている。
+
+アジアからも[[仏教]]、[[神道]]、[[道教]]やさまざまな[[新宗教]]などがもたらされているが、日系人の大半がカトリック信者である。1923年から1940年まで、[[五島列島|五島]]出身の[[ドミンゴス中村長八|ドミンゴス中村長八神父]]が[[サンパウロ州]]を中心に、日本人・日系人の間で初めて日本人カトリック宣教師として活躍した<ref name="Mizūra Masao" />。
+
+=== 教育 ===
+{{Main|ブラジルの教育}}
+[[ファイル:Paulo Freire.jpg|thumb|ブラジルを代表する教育理論家[[パウロ・フレイレ]]。フレイレの考案した貧しい人々による[[識字]]教育の取り組みへの理論は、ブラジルの[[ファヴェーラ]]のみならず、世界中で実践されている]]{{節スタブ}}
+
+==== 初等および中等教育 ====
+[[初等教育]]と[[中等教育]]（日本における[[高等学校|高校]]以上の教育）、[[高等教育]]（日本における[[大学]]）からなり、初等教育と前期中等教育を併せた[[義務教育]]は8年間、後期中等教育は3年間となっている。義務教育年齢の児童の中、学校に行っている者の率は約97%となっている<ref>[http://www.ibge.gov.br/home/estatistica/populacao/condicaodevida/indicadoresminimos/sinteseindicsociais2003/default.shtm]</ref>。また、[[1990年代]]から中等教育を受ける者が急増している。中等教育を終えると高等教育への道が開ける。おもな問題としては初等、中等教育における落第率の高さや教室、校舎数の不足などが挙げられる。1930年代に国民の3分の2が非識字者だったように、かつては初等教育に力は入れられてこなかったが、[[パウロ・フレイレ]]らの活躍により初等・中等教育の見直しが行われて現在に至っている。2004年に推計された15歳以上の人口の[[識字率]]は88.6%（男性：88.4%、女性：88.8%）である<ref>https://www.cia.gov/library/publications/the-world-factbook/geos/br.html 2009年10月30日閲覧</ref>。2022年時点で6歳から14歳の就学率は99.4%<ref name=":0">{{Cite web |url=https://cidades.ibge.gov.br/brasil/panorama |title=Panorama censo 2022 |access-date=2023-11-13 |publisher=ブラジル地理統計資料院 |language=pt}}</ref>、15歳以上の非識字率は5.6%である<ref name=":0" />。
+
+==== 高等教育 ====
+[[ファイル:Universidade Federal do Parana 4 Curitiba Parana.jpg|thumb|left|[[パラナ連邦大学]]]]
+植民地時代にはブラジルに[[大学]]は存在せず、エリート層はポルトガルの[[コインブラ大学]]や、ブラジル内の各種高等専門学校で教育を受けた。その後、独立してから1827年にサンパウロと[[オリンダ (ブラジル)|オリンダ]]（のちにレシーフェに移転）に[[法学部|法科大学]]が設立され、ブラジルのエリートを養成する機関になった。正規の大学は20世紀になってからの1912年に[[クリティーバ]]の[[パラナ連邦大学]]がようやく建設されたために、ブラジルにおける高等教育の歴史は欧米諸国と比べると長くはない。大学の創設は1930年代のヴァルガス時代に既存の専門学校の改変を軸にして特に重点的に行われた。
+
+おもな高等教育機関としては[[リオデジャネイロ連邦大学]]（1792年、1920年、1937年）、[[パラナ連邦大学]]（1912年）、[[サンパウロ連邦大学]]（1933年）、[[サンパウロ大学]]（1934年）などが挙げられる。
+{{Clearleft}}
+
+=== 保健 ===
+{{Main|{{仮リンク|ブラジルの保健|pt|Saúde no Brasil|en|Health in Brazil}}}}
+[[:pt:Sistema Único de Saúde|Sistema Único de Saúde]]と呼ばれる公衆衛生機関ならび制度が存在する。
+{{節スタブ}}
+
+==== 医療 ====
+{{Main|{{仮リンク|ブラジルの医療|en|Healthcare in Brazil}}}}平均寿命は72.39歳で世界92位である<ref>{{Cite web|title=【最新2025年】平均寿命の世界ランキング 寿命が長い国と短い国はどこ？|url=https://eleminist.com/article/4161|website=ELEMINIST|access-date=2025-10-04|language=ja}}</ref>。{{節スタブ}}
+{{also|{{仮リンク|ブラジルの伝統医学|en|Brazilian traditional medicine}}|{{仮リンク|ブラジルにおけるHIV / AIDS|en|HIV/AIDS in Brazil}}|{{仮リンク|ブラジルにおける衛生|pt|Saneamento no Brasil}}}}
+
+== 社会 ==
+{{Main|{{仮リンク|ブラジルの社会問題|pt|Problemas sociais do Brasil}}}}
+ブラジルはラテンアメリカ諸国の中で汚職が極めて蔓延している。
+{{See also|{{仮リンク|ブラジルにおける汚職|pt|Corrupção no Brasil|en|Corruption in Brazil}}}}
+{{節スタブ}}
+
+== 治安 ==
+{{main|{{仮リンク|ブラジルにおける犯罪|en|Crime in Brazil|pt|Criminalidade no Brasil}}}}
+ブラジルの治安は非常に悪い。市民の間で違法な[[銃器]]所持が横行しており、一般犯罪でも殆どの場合で銃が使用され、[[殺人]]へ発展することも多い。
+
+主に大都市、地方都市を問わず重犯罪が頻発している<ref>{{Cite web|和書| publisher = [[外務省]]| title = ブラジルに対する渡航情報（危険情報）の発出 | url =http://www2.anzen.mofa.go.jp/info/pchazardspecificinfo.asp?id=259&infocode=2014T012|date = 2014-02-05 | accessdate = 2014-05-03}}</ref>。人口10万人あたりの犯罪発生率は[[日本]]の数十倍から数百倍であり、[[2012年]]の統計では、殺人は日本の34倍、強盗は約315倍となっている<ref>{{Cite web|和書| publisher = [[外務省]][[在ブラジル日本国大使館]] | title = 在留邦人向け安全の手引き | url =http://www.anzen.mofa.go.jp/manual/brasilia.html | accessdate = 2014-05-03}}</ref>。2011年から2015年までの4年間に、ブラジルでは28万人近くが殺害されたといわれる。
+
+人口に10倍近くの差があるため、単純比較はできないが、これは[[シリア人権監視団]]が発表している同期間中の[[シリア内戦]]の犠牲者数（25万6,124人）を超えている<ref>{{cite news |title=ブラジル過去4年間の殺人犠牲者、シリア内戦を上回る |newspaper=[[フランス通信社|AFPBB News]] |date=2016-10-28 |url=https://www.afpbb.com/articles/-/3106151|accessdate=2016-10-30 }}</ref>。
+
+とりわけ[[ファヴェーラ]]と呼ばれる都市に形成された[[スラム]]は、凶悪犯罪の温床となっている。これらの地域では麻薬密売組織同士の抗争や治安当局の介入により銃撃戦が昼夜問わず発生し、多くの市民が巻き込まれて命を落としている<ref>{{Cite web|和書| publisher = [[外務省]]| title = 安全対策基礎データ | url =http://www2.anzen.mofa.go.jp/info/pcsafetymeasure.asp?id=259|date = 2013-05-27 | accessdate = 2014-07-05}}</ref>。
+
+同国の[[警察]]は[[給与]]の支払いが十分でないことが多く、しばしば[[ストライキ]]を起こすことがあり、当然その間は凶悪犯罪も多発する<ref>{{cite news |title= ブラジル警察が賃上げ求めスト、Ｗ杯開催都市で殺人や略奪が多発 |newspaper=[[トムソン・ロイター|Reuters]] |date=2014-04-18|url=https://jp.reuters.com/article/worldNews/idJPTYEA3H06G20140418/ | accessdate=2014-05-03}}</ref>。日本の[[外務省]]は、多くの主要地域に対して「十分注意」の危険情報を発している<ref>{{cite news |title=「南ア」より危険なブラジルＷ杯…開催都市は銃殺人・強盗多発の無法地帯、まるで“北斗の拳” |newspaper=[[産経新聞]] |date=2014-05-03 |url=https://web.archive.org/web/20140503222133/http://sankei.jp.msn.com/west/west_sports/news/140503/wsp14050312000002-n1.htm |accessdate=2014-05-10|author=北川信行 }}</ref>。
+
+=== 法執行機関 ===
+{{Main|{{仮リンク|ブラジルの法執行機関|en|Law enforcement in Brazil}}}}
+{{節スタブ}}
+
+==== 警察 ====
+{{Main|{{仮リンク|ブラジル連邦警察|en|Federal Police of Brazil}}|{{仮リンク|市民警察 (ブラジル)|en|Civil Police (Brazil)}}|オペレーション・カーウォッシュ}}
+上述されている通り、治安の悪化に歯止めを掛けられる能力に乏しい面が目立ちがちとなっている。また、2017年にはリオデジャネイロで国内史上最大とも呼べる警察の汚職事件が発生しており<ref>[https://insightcrime.org/news/brief/brazil-largest-ever-police-corruption-case-unfolds-rio-de-janeiro-state/ 'Largest-Ever' Police Corruption Case Unfolds in Brazil's Rio de Janeiro] 2017年6月29日 Insight Crime</ref>、2018年には「約6,160人がブラジルの警察によって殺害された」との報道がされている<ref>[https://www.ft.com/content/7bbc9228-a09f-11e9-a282-2df48f366f7d  Violent crime has undermined democracy in Latin America] 2019年7月9日 [[フィナンシャル・タイムズ|Financial Times]]</ref>。
+{{節スタブ}}
+
+==== 憲兵 ====
+{{Main|{{仮リンク|ブラジル憲兵|en|Military Police (Brazil)}}}}
+{{節スタブ}}
+
+=== 人権 ===
+{{Main|{{仮リンク|ブラジルにおける人権|en|Human rights in Brazil}}}}
+{{節スタブ}}
+{{See also|{{仮リンク|ブラジルにおける人種差別|pt|Racismo no Brasil}}|{{仮リンク|ブラジルにおけるLGBTの権利|en|LGBT rights in Brazil}}}}
+{{also|{{仮リンク|ブラジルにおける同性愛嫌悪|pt|Homofobia no Brasil}}}}
+
+== マスコミ ==
+
+=== 通信とメディア  ===
+{{main|{{仮リンク|ブラジルの通信|en|Telecommunications in Brazil}}}}
+軍事政権下で報道の自由はある程度制限されたものの、民政化された現在では完全に自由な報道が行われている。[[新聞]]は[[オ・グローボ]]などの全国紙のほか、スポーツ専門紙などがある。{{要出典範囲|date=2018-04|また、専門紙や[[雑誌]]をはじめとするスポーツ[[メディア (媒体)|メディア]]の中でも、特にサッカー専門メディアについては世界的に高い評価を受けている。}}
+
+[[テレビ]]は1950年に初放映がなされ、1965年に[[オ・グローボ]]が設立されてから同社が圧倒的なシェアを占め、現在は[[SBT]]などがグローボを追い上げている。近年では[[衛星放送]]や[[インターネット]]の普及が急速に進んでいる。ただし、インターネット普及率は2014年時点でも40.8%ほどであり、さらに農村部や低所得地域を中心に、全体の9.1%の住居ではいかなる電気通信サービスも利用していない状態である<ref>{{cite news |title=依然低いネット普及率 |newspaper=[[サンパウロ新聞]] |date=2014-03-24 |url=http://www.saopauloshimbun.com/index.php/conteudo/show/id/16893/cat/95 |accessdate=2014-04-15 }}</ref>。
+
+{{also|{{仮リンク|ブラジルのテレビ|en|Television in Brazil}}|{{仮リンク|ブラジルのインターネット|en|Internet in Brazil}}|{{仮リンク|ブラジルの大手メディアグループの一覧|pt|Lista dos maiores grupos de mídia do Brasil}}}}
+
+== 文化 ==
+{{Main|ブラジルの文化}}
+ブラジルの文化は、[[インディオ]]と呼ばれるトゥピ・グアラニー系の先住民や、アフリカ人奴隷、ヨーロッパやアジアからの移民などが持ち込んださまざまな文化が織り成す[[モザイク]]だと評されることが多い。
+
+古くから[[音楽]]や[[建築]]、[[スポーツ]]などの分野で世界的に高い評価を受けることが多く、世界的に有名な[[ミュージシャン]]やスポーツ選手、芸術家を多数送り出している。また、多彩な文化的な背景を持つ国民を対象にした[[広告]]表現などでも近年では高い評価を受けている。
+
+{{仮リンク|ポルトガルの文化|pt|Cultura de Portugal|en|Culture of Portugal}}とブラジルの文化を象徴する言葉に「[[サウダージ]]（Saudade）」という言葉がある。郷愁、慕情の意味であるが、多くのブラジル人はこの表現がポルトガル語にしかないと信じている。
+
+=== 食文化 ===
+{{Main|ブラジル料理}}
+[[ファイル:Feijoada 01.jpg|thumb|ブラジルの[[フェジョアーダ]]]]
+[[アフリカ]]からの奴隷の食事がルーツといわれる[[フェジョアーダ]]や牧童の肉料理であった[[シュラスコ]]、バイーア地方の[[ムケカ]]、[[ヴァタパ]]、[[カルルー]]、ミナス地方の[[トゥトゥ・ア・ミネイラ]]ほか、またロシア系の[[ビーフストロガノフ|ストロガノフ]]もブラジル風にアレンジされてよく食される。フェイジョアーダは塩味が強く豚の脂肪分が高いので、健康上の心配から近年は人気が落ち、フェイジャンと呼ばれる豆の煮込みが多く食されている。
+
+[[肴|おつまみ]]程度のものは'''サウガジニョ'''と呼ばれるが、これらにはブラジル風[[コロッケ]]のコシーニャやアラブ系のキビ、[[パステウ]]（ブラジル風揚げパイ）などがあり（コロッケや類似食品は存在するが珍しい）、豊富な肉や野菜、魚介類を基にしたブラジル料理が日常的に食べられている。南部三州では、[[ウルグアイポルトガル語|ウルグアイ]]、[[アルゼンチン]]、[[パラグアイ]]といったラ・プラタ諸国と文化が近いため、[[グアラニー人]]起源のシマホンと呼ばれる[[マテ茶]]を飲む伝統がある。
+
+また、[[ヨーロッパ]]などからの[[移民]]や[[20世紀]]以降の[[日本人]]をはじめとするアジア系移民など、さまざまな人種が融合していることもあり、都市部を中心に[[イタリア料理]]や[[ドイツ料理]]、[[中華料理]]や[[日本料理]]など多様な国の料理が味わえる。
+
+おもにドイツ系移民がもたらした[[ビール]]の生産、輸出国としても知られている。ブラジル国内では加熱処理した[[セルヴェージャ]]に加え、生ビールであるショッピが非常に好まれるが、地ビールのブランドもかなりの数がある。また[[ブラーマ]]や[[アンタルチカ]]、[[スコール (ビール)|スコール]]といったブランドは日本やヨーロッパ、アメリカ諸国にも輸出されている。なお、これらは当初別会社であったが次第に合併により、現在は[[ベルギー]]に本社を持つ世界最大の「InBev（インベブ）」社に属すブランドとなっている。
+
+また、南部では同じくドイツ系の移民やイタリア系の移民を中心に、その気候を生かして[[ワイン]]の生産も古くから行われている。ブラジル独自の酒としては、[[サトウキビ]]を原料とした蒸留酒であるピンガ（[[カシャッサ|カシャーサ]]）が有名である。このピンガを使用したカクテルである[[カイピリーニャ]]や[[バチーダ]]もよく飲まれる。また、日系人が設立した現地企業が[[日本酒]]「[[東麒麟]]」を生産している。きわめて精錬された高エネルギーのピンガは、自動車の燃料用アルコールとして多量に生産されている。
+
+[[コカ・コーラ]]や[[ペプシ]]などのほかに[[ガラナ]]（グァラナーと発音）の実を使用した[[ソフトドリンク]]（[[ガラナ飲料]]）が広く飲まれており、日本やアメリカなどの各国へ輸出もされている。また、ブラジルは[[フルーツ]]も豊富な国として知られ、[[オレンジジュース]]やマラクジャ（[[パッションフルーツ]]）、カジュー（[[カシューナッツ]]の実）、[[ココナッツ]]など多くの種類がある。またアマゾン原産の[[トロピカル・フルーツ]]である[[アサイー]]や[[アセロラ]]、[[スターフルーツ]]、[[グラヴィオラ]]や[[クプアス]]、[[グアバ]]などもよく好まれており、近年日本でもそれらの[[ジュース]]やバルブ（[[ピューレ]]）が輸入されている。
+
+日本起源である寿司はもはやブラジル料理の一部となっている。多くの寿司レストランの経営者は中国人で寿司職人はブラジル北部のセアラー州出身である。出稼ぎブーム以降、日本人日系人職人がいるレストランは激減したが2023年現在は増加にある。
+
+=== 文学 ===
+{{Main|ブラジル文学}}
+[[ファイル:Machado_de_Assis_aos_57_anos.jpg|thumb|19世紀を代表する[[ムラート]]の小説家 [[マシャード・デ・アシス]]。[[ブラジル文学アカデミー]]初代会長でもある]]
+
+文字によるブラジル文学は、16世紀にブラジルに到達したポルトガル人の{{仮リンク|ペロ・ヴァス・デ・カミーニャ|pt|Pero Vaz de Caminha|en|Pêro Vaz de Caminha}}の『{{仮リンク|マヌエル1世への書簡 (ペロ・ヴァス・デ・カミーニャ)|pt|Carta a El-Rei D. Manuel|en|Carta de Pêro Vaz de Caminha|label=カミーニャの書簡}}』に起源を持つ。
+
+1822年の独立後、当時の知識人はヨーロッパ、特にフランスに文化の範を求めた。1836年から[[ゴンサルヴェス・ド・アルヴェス]]の『詩的吐息と感傷』によって[[ロマン主義]]がヨーロッパからもたらされたことにより、インディオを理想的なブラジル人とみなす[[インディアニズモ]]の潮流が生まれ、詩の分野ではムラートの詩人の{{仮リンク|ゴンサウヴェス・ジアス|pt|Gonçalves Dias|en|Gonçalves Dias}}が大成し、そのほかにも『イラセーマ』と『グアラニー』で知られる[[ジョゼ・デ・アレンカール]]や、[[奴隷制廃止運動]]の第一人者となった詩人の{{仮リンク|カストロ・アウヴェス|pt|Castro Alves|en|Castro Alves}}を生み出した。19世紀後半の第二帝政期には[[写実主義]]がヨーロッパからもたらされ、写実主義の作家としては『ドン・カズムーホ』（むっつり屋）で知られる[[マシャード・デ・アシス]]や、『コルチッソ』で知られる自然主義作家の{{仮リンク|アルイジオ・アゼヴェード|pt|Aluísio Azevedo|en|Aluísio Azevedo}}などが挙げられる。
+
+1889年の共和制革命後、1897年には[[ブラジル文学アカデミー]]が設立され、初代会長にはマシャード・デ・アシスが就任した。この時代には{{仮リンク|カヌードス戦争|pt|Guerra de Canudos|en|War of Canudos}}を取材した『{{仮リンク|奥地の反乱|pt|Os Sertões|en|Os Sertões|label=奥地}}』で知られる{{仮リンク|エウクリデス・ダ・クーニャ|pt|Euclides da Cunha|en|Euclides da Cunha}}や、{{仮リンク|リマ・バレット|pt|Lima Barreto (escritor)|en|Lima Barreto}}、{{仮リンク|モンテイロ・ロバート|pt|Monteiro Lobato|en|Monteiro Lobato}}が活躍した。
+[[ファイル:Carlos Drummond de Andrade, 1970.tif|左|サムネイル|{{仮リンク|カルロス・ドゥルモン・デ・アンドラーデ|pt|Carlos Drummond de Andrade|en|Carlos Drummond de Andrade}}（1970年撮影）]]
+[[第一次世界大戦]]によってブラジルのエリートが範としていたヨーロッパが没落すると、「ブラジルのブラジル化」が掲げられ、文化面でのヨーロッパの模倣からの脱却が模索された。それまでの文化潮流を背景に1922年から始まった[[モダニズム|近代主義]]運動(モダニズモ)においては、1920年代にはブラジル各地の伝承や神話を素材にした小説家の{{仮リンク|マリオ・デ・アンドラーデ (ブラジルの詩人)|pt|Mário de Andrade|en|Mário de Andrade|label=マリオ・デ・アンドラーデ|preserve=1}}や、後にファシズム政党[[インテグラリスタ党]]を創始した{{仮リンク|プリニオ・サルガード|pt|Plínio Salgado|en|Plínio Salgado}}、{{仮リンク|パウ・ブラジル運動|pt|Manifesto da Poesia Pau-Brasil|en|Manifesto Pau-Brasil}}（1924）や{{仮リンク|食人運動|pt|Manifesto Antropófago|en|Manifesto Antropófago}}（1928）などで原始主義を創始した{{仮リンク|オスヴァルド・デ・アンドラーデ|pt|Oswald de Andrade|en|Oswald de Andrade}}、ブラジルにおけるプロレタリア文学の第一人者である{{仮リンク|パトリシア・ガルヴァン|pt|Pagu|en|Pagu}}が活躍した。続く1930年代、1940年代のヴァルガス時代にはヴァルガスによるファシズム的な中央集権体制に抗するかのように地方主義（レジオナリズモ）が発達し、{{仮リンク|グラシリアーノ・ラーモス|pt|Graciliano Ramos|en|Graciliano Ramos}}、[[ジョルジェ・アマード]]などの小説家や、{{仮リンク|カルロス・ドゥルモン・デ・アンドラーデ|pt|Carlos Drummond de Andrade|en|Carlos Drummond de Andrade}}などの詩人が活躍した。
+
+現在はマリオ・デ・アンドラーデや{{仮リンク|マヌエル・バンデイラ|pt|Manuel Bandeira|en|Manuel Bandeira}}などが特に対外的にも有名であり、日本でも[[ジョルジェ・アマード]]の『革命児プレステス 希望の騎士』『カカオ』『果てなき大地』『砂の戦士たち』や、[[ジョゼー・デ・アレンカール]]の『イラセマ』など、また[[パウロ・コエーリョ]]の『星の巡礼』や『[[ベロニカは死ぬことにした]]』など多くの著作が翻訳されている。
+
+1988年にブラジル、ポルトガル両政府共同で、ポルトガル語圏の優れた文学者に贈られる[[カモンイス賞]]が創設された。
+
+=== 音楽 ===
+{{Main|ブラジル音楽}}
+[[ファイル:Instrumentos choro.jpg|thumb|[[ショーロ]]に用いられる楽器]]
+
+ブラジルの音楽は[[トゥピー・グアラニー]]系の[[インディオ]]、[[アンゴラ]]、[[ナイジェリア]]をはじめとするアフリカ、ポルトガルやその他[[ヨーロッパ]]の伝統音楽が混じりあって発展した。したがってブラジルにおける音楽的文化は非常に豊かで、貧富の差を問わず多くの国民が音楽を好む傾向にある。また、それらの複合的なメロディーと独特なリズムやハーモニーの要素から、古くより世界的に高い評価を得ている。日本でもほかの地域の[[ワールドミュージック]]愛好者に比べれば、ブラジル音楽を愛好する人は非常に多い。
+
+おもな音楽のジャンルとしては、日本でも一般に知られる[[サンバ (ブラジル)|サンバ]]や[[ボサノヴァ]]に加え、[[インストルメンタル]]ではアメリカの[[ジャズ]]よりも古い歴史を持つといわれる[[ショーロ]]、ポピュラー音楽である[[ムジカ・ポプラール・ブラジレイラ|MPB]]、あるいは{{仮リンク|フォホー|pt|Forró|en|Forró}}をはじめとする[[ノルデスチ]]（[[北東部地域 (ブラジル)|北東部]]の音楽）、[[サルヴァドール|バイーア]]の{{仮リンク|アシェー (ブラジル音楽)|pt|Axé (gênero musical)|en|Axé (music)|label=アシェー}}などが挙げられる。
+
+ただし、ブラジルの若い世代は、こうしたブラジル音楽よりも、欧米の[[ロック (音楽)|ロック]]やポップス、{{仮リンク|ブレーガ|pt|Brega|en|Brega (music)}}（ブラジルの俗謡）を好む人も多い。また近年では[[カンセイ・ジ・セール・セクシー|CSS]]のように世界的に人気を集める若い世代のバンドも現れている。ブラジル音楽にしても現代においてはファヴェーラ発祥のパーティー音楽の[[バイレファンキ]]や小規模なサンバとも言える[[サンバ (ブラジル)|パゴーヂ]]、中西部にルーツをおく{{仮リンク|セルタネージョ|en|Sertanejo music}}が若者の間で好まれる傾向にある。
+
+ブラジル音楽では、サンバなどで使われる[[パンデイロ]]や[[スルド]]、[[タンボリン]]、[[カポエイラ]]で使われる[[ビリンバウ]]などブラジルで発展・発明された楽器が多い。このため[[パーカッション]]が比較的に多用される傾向があり、ブラジルは打楽器の強い国、あるいはほかの楽器が弱い国と思われやすい。しかし音楽自体が盛んな国であるため、[[ピアノ]]、あるいは[[クラシック・ギター|ヴィオラゥン]]や[[カヴァキーニョ]]などの[[弦楽器]]、[[フルート]]や[[オーボエ]]などの[[管楽器]]などもよく演奏される。また歌手や声楽家なども多く、有能な人材を世界に送り出している。
+
+また、ポピュラー音楽のみならず、[[クラシック音楽]]や[[ジャズ]]の分野においても重要な音楽家を輩出しており、著名な音楽家としては19世紀に活躍したオペラ作曲家の[[カルロス・ゴーメス]]や、『[[ブラジル風バッハ]]』などで知られる[[エイトル・ヴィラ＝ローボス]]、[[エルネスト・ナザレー]]といった作曲家のほか、演奏者としては[[セルジオ・アサド|アサド兄弟]]などのギター奏者も世界的に知られている。
+
+=== 美術 ===
+{{Main|{{仮リンク|ブラジル美術|pt|Artes do Brasil|en|Brazilian art}}}}
+{{節スタブ}}
+
+=== 建築 ===
+{{Main|{{仮リンク|ブラジルの建築|pt|Arquitetura do Brasil|en|Architecture of Brazil}}}}
+ブラジルにおける建築は、宗主国であったポルトガルの文化の影響が強く、植民地時代からのものが基盤となっている。特に著名な建築家としては首都ブラジリアの設計を手掛けた[[オスカー・ニーマイヤー]]やコパカバーナの遊歩道などを手掛けた造園家の[[ロバート・ブール・マルクス]]などがいる。
+{{also|[[ブラジルの高層建築物]]}}
+
+=== 映画 ===
+{{Main|ブラジルの映画}}
+ブラジルはアルゼンチン、[[メキシコ]]とともにラテンアメリカでも特に映画制作が盛んな国である。ブラジルに映画が伝えられたのは1896年7月で、リオでヨーロッパから持ち込まれた映写機の実演に始まる。1905年ごろには短編作品が多く撮影され、各地に映画館が建てられた。1930年に[[マリオ・ペイショット]]の『リミッチ』が製作され、これはイギリスや[[ソビエト連邦|ソヴィエト]]でも上映された。
+
+1950年代後半には[[シネマ・ノーヴォ]]という運動から[[カルロス・ヂエギス]]、[[ネルソン・ペレイラ・ドス・サントス]]、[[グラウベル・ローシャ|グラウベル・ホーシャ]]、[[ルイ・ゲーハ]]といった監督を輩出した。1964年に軍事政権が樹立されると表現の自由が制限され、検閲が行われた。1969年に発足した政府機関の[[ブラジル映画公社]]（エンブラ・フィルメ）は、ほとんどの映画作品の製作に関与した。1976年に[[ブルーノ・バヘット]]による『[[未亡人ドナ・フロールの理想的再婚生活]]』（ドナ・フロールと2人の夫）が製作・公開されると、ブラジルで1,300万人を動員し、観客動員数第1位を更新する空前の大ヒット作となった。また同監督の『ガブリエラ』、ヂエギスの『バイバイ・ブラジル』、『シッカ・ダ・シルヴァ』など、ブラジルの史実に基づいた多くの良心的な作品が製作された。またアルゼンチン出身の[[エクトール・バベンコ]]も、ブラジル国籍を取得して活動拠点を移し『[[蜘蛛女のキス (映画)|蜘蛛女のキス]]』（1985）、『[[カランジル]]』（2003）などを製作した。1986年に軍事政権が終焉すると民主化が活発化し、低予算で製作される大衆的な作品も増加した。しかし、1990年代に入るとそれまでのブラジル映画公社を主体としたブラジル映画製作は行き詰まり、完全な破綻を迎えた。
+
+現在のブラジル映画の再生は、1994年から始まった。1998年、[[ヴァルテル・サレス]]の『[[セントラル・ステーション]]』（セントラウ・ド・ブラズィウ, Central do Brasil）が多くの国際的な受賞を受けたことから、ブラジルの映画にも注目が集まるようになり、ヂエギスの『[[オルフェ (1999年の映画)|オルフェ]]』（1999）をはじめ、『トロパ・デ・エリーテ』『デスムンド』などがブラジル国外でも公開されるようになった。特に[[ファヴェーラ]]の問題を描いた[[フェルナンド・メイレレス]]の『[[シティ・オブ・ゴッド]]』（Cidade de Deus、2002）は、多くの映画祭で受賞、世界的にヒットした。このような成功により、ブラジル人監督による映画作品が世界的に注目されている。また、ほかに『[[クアトロ・ディアス]]』『[[スエリーの青空]]』『[[モーターサイクル・ダイアリーズ]]』『[[バス174]]（Ônibus 174）』『[[オイ・ビシクレッタ]]』『[[私の小さな楽園]]』『[[ビハインド・ザ・サン]]』などの作品が国外でも公開され、これらは日本でもDVD化され販売されている。『[[フランシスコの2人の息子]]』（2005）は『[[ドナ・フロールと二人の夫]]』の記録を塗り替え、観客動員数歴代1位を更新した。また東京では、[[ブラジル映画祭]]が毎年開催されており、日本でも多くの作品が公開されている。
+
+ブラジル国内においては、近年各地のショッピングセンターにおけるシネマコンプレックスが増加している一方で、いわゆる[[海賊盤]]と呼ばれる違法なDVDが販売されることも多い。ベルリン国際映画祭で金熊賞を受賞した『[[トロッパ・デ・エリーテ]]』は公開前から海賊盤が出回り、映画の内容を多少変更せざるを得なくなってしまったという事件が起こった。
+{{also|{{仮リンク|ブラジル映画の一覧|en|Lists of Brazilian films}}}}
+
+=== 被服・ファッション ===
+[[ファイル:Vestimentas Típicas do Brasil, Vestimentas do Brasil.jpg|thumb|典型的なブラジルの被服 <br> 南米大陸の気候に合わせた仕様で占められていることが覗える]]
+{{main|{{仮リンク|ブラジルのファッション|en|Brazilian fashion}}}}
+{{仮リンク|リオ・ファッション・ウィーク|en|Rio Fashion Week}}や{{仮リンク|サンパウロ・ファッション・ウィーク|en|São Paulo Fashion Week}}が開催されている。
+{{節スタブ}}
+
+=== カーニバル ===
+[[ファイル:Brazilian Carnival.jpg|thumb|[[リオのカーニバル]]]]
+{{main|{{仮リンク|ブラジルのカーニバル|en|Brazilian Carnival}}}}
+毎年2月ごろの[[四旬節]]の前に、国中の市町村で[[謝肉祭|カーニバル]]（ブラジルポルトガル語では「カルナヴァウ」と発音する）が祝われる。期間中は国中を挙げ、徹夜で[[サンバ (ブラジル)|サンバ]]のリズムに乗って踊りまくる。リオのカーニバルといえば、一般的に死者が多いことで知られるが、これは[[酒]]に酔ったための喧嘩や飲酒運転による自動車事故、心臓麻痺などで毎年数百人規模の死者が出ることである。したがってカーニバル自体での死者が多いということではない。
+
+リオデジャネイロで行われるカーニバルは世界的に有名で、世界各国から多くの観光客を呼び寄せている。[[サンバチーム#エスコーラ・ヂ・サンバ|エスコーラ・デ・サンバ]]（Escola de Samba、千人単位の大規模なサンバチーム、以下「エスコーラ」と略称）単位によるパレードがサンボードロモというコンテスト会場で行われ、一番高い評価を得たサンバチームが優勝する。いわゆるリオのカーニバルは、[[サンボードロモ・ダ・マルケス・ジ・サプカイ|サンボードロモ]]で行われるコンテストを指すことが多いが、それ以下の小規模なエスコーラやブロッコ・カルナヴァレスコ（Bloco Carnavalesco）などが、リオ・ブランコ通りなど街中やイパネマ海岸付近などをパレードすることも多い。
+
+なお、リオのカーニバルはサンバだけだと思われがちであるが、'''マルシャ'''（ブラジル版3拍子のマーチ）や[[ポルカ]]、{{仮リンク|マラカトゥ|fr|Maracatu}}なども演奏されている。
+
+=== 世界遺産 ===
+{{Main|ブラジルの世界遺産}}
+ブラジル国内には、[[国際連合教育科学文化機関|ユネスコ]]の[[世界遺産]]リストに登録された[[文化遺産 (世界遺産)|文化遺産]]が10件、[[自然遺産 (世界遺産)|自然遺産]]が7件存在する。
+
+<gallery mode="packed">
+ファイル:OuroPreto1-CCBYSA.jpg|[[オウロ・プレット|古都オウロ・プレット]] - （1980年、文化遺産）
+ファイル:Ruinas-saomiguel6.jpg|[[グアラニーのイエズス会伝道所群]]：[[サン・ミゲル・ダス・ミッソンエス]]遺跡(ブラジル) - （1983年、/ 1984年、文化遺産）
+ファイル:Salvador-CCBY-2.jpg|[[サルヴァドール|サルヴァドール・デ・バイーア歴史地区]] - （1985年、文化遺産）
+ファイル:Sanctuary of Bom Jesus do Congonhas.jpg|[[ボン・ジェズス・ド・コンゴーニャスの聖所]] - （1985年、文化遺産）
+ファイル:FozDoIguaçu.JPG|[[イグアス国立公園 (ブラジル)|イグアス国立公園]] - （1986年、自然遺産）
+ファイル:Catedral1 Rodrigo Marfan.jpg|[[ブラジリア]] - （1987年、文化遺産）
+ファイル:Saoluizbrasil.jpg|[[サン・ルイス (ブラジル)|サン・ルイス歴史地区]] - （1997年、文化遺産）
+ファイル:Diamantina MG.jpg| [[ジアマンテチーナ歴史地区]] - （1999年、文化遺産）
+ファイル:Fernando de Noronha - vista aera.jpg|ブラジルの大西洋諸島：[[フェルナンド・デ・ノローニャ]]とホッカス環礁保護区群 - （2001年、自然遺産）
+ファイル:Boamorte.jpg|[[ゴイアス (ゴイアス州)|ゴイアス歴史地区]] - （2001年、文化遺産）
+</gallery>
+
+=== 祝祭日 ===
+{{main|{{仮リンク|ブラジルの祝日|pt|Feriados no Brasil|en|Public holidays in Brazil}}}}
+{| class="wikitable" style="width:923px"
+|+ 
+! 日付
+! 日本語表記
+! ポルトガル語表記
+! 備考
+|-
+| [[1月1日]]
+| [[元日]]
+| Confraternização Universal<br />慣用：Ano Novo
+| 新しい年の始まりを祝う日
+|-
+| [[1月20日]]
+| [[セバスティアヌス|聖セバスティアン]]の日
+| São Sebastião
+| リオデジャネイロ市のみ
+|-
+| [[1月25日]]
+| サン・パウロ市記念日
+| Aniversário de São Paulo
+| サン・パウロ市のみ
+|-
+| 2月 - 3月中の火曜日
+| [[謝肉祭]]
+| Carnaval
+| [[移動祝日]]
+|-
+| 2月 - 3月中の水曜日
+| [[灰の水曜日]]
+| Quarta-feira de Cinzas
+| 移動祝日
+|-
+| 3月 - 4月中の金曜日
+| [[受難]]
+| Paixão de Cristo<br />慣用：Sexta-feira Santa
+| 移動祝日
+|-
+| 3月 - 4月中の日曜日
+| [[復活祭]]
+| Páscoa
+| 移動祝日
+|-
+| [[4月21日]]
+| [[チラデンテス]]
+| Tiradentes
+| チラデンテスが亡くなった日
+|-
+| [[4月23日]]
+| [[ゲオルギウス|聖ジョルジ]]の日
+| São Jorge
+| リオデジャネイロ州のみ
+|-
+| [[5月1日]]
+| メーデー
+| Dia do Trabalho
+| 労働者の功績を称える日
+|-
+| 5月 - 6月中の日曜日
+| [[聖霊降臨祭]]
+| Pentecostes
+| 移動祝日
+|-
+| 5月 - 6月中の日曜日
+| [[三位一体|聖三位一体]]の日曜日
+| Domingo da Santíssima Trindade
+| 移動祝日
+|-
+| 5月 - 6月中の木曜日
+| [[聖体の祝日]]
+| Corpus Christi
+| 移動祝日
+|-
+| [[6月24日]]
+| [[フェスタジュニーナ]]
+| São João
+| ペルナンブーコ州、<br>[[アラゴアス州]]
+|-
+| [[9月7日]]
+| 独立記念日
+| Dia da Independência
+|
+|-
+| [[10月12日]]
+| [[聖母アパレシーダ]]の日
+| Nossa Senhora Aparecida
+| [[子どもの日]]としても祝う
+|-
+| [[11月2日]]
+| [[死者の日]]
+| Dia de Finados
+|
+|-
+| [[11月15日]]
+| 共和制宣言記念日
+| Proclamação da República
+|
+|-
+| [[11月20日]]
+| 黒人の自覚の日
+| Dia da Consciência Negra
+| リオデジャネイロ州、サン・パウロ州、<br />アラゴアス州、アマゾナス州、<br />マットグロッソ州、アマパー州のみ
+|-
+| [[12月25日]]
+| [[クリスマス]]
+| Natal
+|
+|}
+
+== スポーツ ==
+{{Main|ブラジルのスポーツ}}
+[[File:Bra-Cos (2).jpg|thumb|[[サッカーブラジル代表]]（[[2018 FIFAワールドカップ|2018年ロシアW杯]]）]]
+[[サッカー]]はブラジルの[[国技]]であり、最も人気の高い[[スポーツ]]であり、さらには国民的なアイデンティティでもある。[[フットサル]]や[[ビーチサッカー]]も盛んであり、世界屈指の強豪国として知られている。
+
+[[ブラジルサッカー連盟]]（CBF）によって構成される[[サッカーブラジル代表]]は、[[FIFAワールドカップ]]において世界で唯一、[[2026 FIFAワールドカップ|2026年大会]]までの'''23大会全てにおいて本大会出場'''を果たしており、さらには[[1958 FIFAワールドカップ|1958年大会]]、[[1962 FIFAワールドカップ|1962年大会]]、[[1970 FIFAワールドカップ|1970年大会]]、[[1994 FIFAワールドカップ|1994年大会]]、[[2002 FIFAワールドカップ|2002年大会]]で、'''W杯最多となる5度の優勝'''を飾っている。
+
+=== サッカー ===
+{{Main|ブラジルのサッカー}}
+[[File:Firma_de_Pelé.svg|thumb|[[ペレ]]のサイン]]
+[[1971年]]には全国リーグの[[カンピオナート・ブラジレイロ・セリエA]]が開始されており、[[SEパルメイラス]]がリーグ最多12度の優勝を遂げている。その他にも[[サントスFC]]、[[SCコリンチャンス・パウリスタ|SCコリンチャンス]]、[[CRフラメンゴ]]など、世界的に有名な名門クラブが複数存在する。また、ブラジルの象徴およびサッカーの象徴として、「サッカーの王様 (''The King of Football'')」と評される[[ペレ]]は、15歳でプロデビューしてから[[1977年]]に引退するまで、実働22年間で通算1363試合に出場し、1281得点を記録した。
+
+[[FIFAコンフェデレーションズカップ]]では大会最多4度の優勝を達成しており、[[コパ・アメリカ]]では9度の優勝に輝いている。さらに[[夏季オリンピック]]でも地元開催となった[[2016年リオデジャネイロオリンピックのサッカー競技・男子|2016年リオ五輪]]と、続く[[2020年東京オリンピックのサッカー競技・男子|2021年東京五輪]]でも優勝し5か国目となる大会連覇を達成している。ブラジル代表（セレソン）の主力選手はスーパースターと見なされ国際的にも名声を得て、高額なスポーツ契約を結んだり広告塔としても活躍したりしている<ref>[http://www.football-zone.net/archives/68179 PSGのネイマール獲得資金は衝撃の総額735億円！ 伊紙「クレイジーな金額」]</ref>。そのような選手としては、[[ガリンシャ]]、[[ジーコ]]、[[ロマーリオ]]、[[リバウド]]、[[ロナウド]]、[[ロナウジーニョ]]、[[カカ (サッカー選手)|カカ]]、[[ネイマール]]、[[ヴィニシウス・ジュニオール]]などが挙げられる<ref>[https://web.archive.org/web/20170804112935/https://headlines.yahoo.co.jp/hl?a=20170731-00010009-sportes-socc 年俸が2倍 ネイマールPSG移籍で世界一高額所得の選手に]</ref>。
+
+=== オリンピック ===
+{{Main|オリンピックのブラジル選手団}}
+{{For2|ブラジルで開催された夏季大会|2016年リオデジャネイロオリンピック}}
+
+== 著名な出身者 ==
+{{Main|ブラジル人の一覧}}
+ブラジルは世界的に[[日系人]]が多い国の一つであり、過去から現在に至るまで様々な分野に亘って著名人を輩出して来ている。
+
+主な[[日系ブラジル人]]の出身者では、[[サッカー]][[評論家]]の[[セルジオ越後]]や、元[[サッカー日本代表]]の[[ラモス瑠偉]]、[[田中マルクス闘莉王]]、元[[サッカーカタール代表]]の[[ロドリゴ・タバタ]]、[[UFC]]・元[[ライトヘビー級]]王者の[[リョート・マチダ]]、[[RIZIN]]・[[ライト級]]王者の[[ホベルト・サトシ・ソウザ]]、RIZIN・元[[フェザー級]]王者の[[クレベル・コイケ]]、[[力士|大相撲力士]]の[[魁聖一郎|魁聖]]など、主に[[スポーツ|スポーツ分野]]での活躍が目立っている。
+{{See also|Category:日系ブラジル人のサッカー選手}}
+
+== 象徴 ==
+{{main|{{仮リンク|ブラジルの国の象徴|en|National symbols of Brazil|pt|Símbolos do Brasil}}}}
+
+=== 国花 ===
+[[国花]]には[[パウダルコ]]や[[カトレヤ]]、{{仮リンク|コガネノウゼン|pt|Handroanthus chrysotrichus|en|Handroanthus chrysotrichus}}が挙げられている。
+
+=== 国果 ===
+[[国果]]は[[アサイー]]である。
+
+=== 国樹 ===
+{{仮リンク|国樹の一覧|label=国樹|en|List of national trees}}は[[ブラジルボク]]である。
+
+=== 国獣 ===
+[[国獣]]は[[ジャガー]]である。
+
+=== 国鳥 ===
+[[国鳥]]は{{仮リンク|ナンベイコマツグミ|en|Rufous-bellied thrush}}である。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist|2}}
+=== 出典 ===
+{{Reflist|25em}}
+
+== 参考文献 ==
+=== 総合 ===
+* {{Cite book|和書|author=アンジェロ・イシ|authorlink=アンジェロ・イシ|date=2001年5月|title=ブラジルを知るための55章|series=エリア・スタディーズ|publisher=[[明石書店]]|location=[[東京]]|isbn=4-7907-0898-5|ref=イシ(2001)}}
+* {{Cite book|和書|author=田所清克|authorlink=田所清克|date=2001年9月|title=ブラジル学への誘い──その民族と文化の原点を求めて|series=|publisher=[[世界思想社]]|location=[[京都市|京都]]|isbn=4-7907-0898-5|ref=富田、住田編(2002)}}
+* {{Cite book|和書|editor1=富野幹雄|editor1-link=富野幹雄|editor2=住田育法|editor2-link=住田育法|date=2002年8月|title=ブラジル学を学ぶ人のために|series=|publisher=[[世界思想社]]|location=京都|isbn=4-7907-0952-3|ref=富田、住田編(2002)}}
+* {{Cite book|和書|author=ピエール・モンベーク|authorlink=ピエール・モンベーク|translator=[[山本正三]]、[[手塚章]]|series=文庫クセジュ568|date=1981年7月|title=改訂新版──ブラジル|publisher=[[白水社]]|location=[[東京]]|id={{全国書誌番号|81037030}}、{{NCID|BN01496290}}|ref=モンベーク/山本、手塚訳(1981)}}
+
+=== 歴史 ===
+* {{Cite book|和書|author=シッコ・アレンカール、マルクス・ヴェニシオ・リベイロ、ルシア・カルピ|translator=[[東明彦]]、[[鈴木茂 (歴史学者)|鈴木茂]]、[[アンジェロ・イシ]]|date=2003年1月|title=ブラジルの歴史──ブラジル高校歴史教科書|series=世界の教科書シリーズ7|publisher=[[明石書店]]|location=[[東京]]|id={{ISBN|
+4-7503-1679-2}}、ISBN:13:978-4-7503-1679-6|ref=アレンカール、ヴェニイオ・リベイロ、カルピ/東、鈴木、イシ訳(2003)}}
+* {{Cite book|和書|author=エドゥアルド・ガレアーノ|authorlink=エドゥアルド・ガレアーノ|translator=大久保光夫|date=1986年9月|title=[[収奪された大地 ラテンアメリカ五百年|収奪された大地──ラテンアメリカ五百年]]|series=|publisher=[[新評論]]|location=[[東京]]|id={{全国書誌番号|86057830}}、{{NCID|BN00626572}}|ref=ガレアーノ/大久保訳(1986)}}
+* {{Cite book|和書|author=金七紀男|authorlink=金七紀男|date=2009年7月|title=ブラジル史|series=|publisher=[[東洋書店]]|location=[[東京]]|isbn=978-4-88595-852-6|ref=金七(2009)}}
+* {{Cite book|和書|author1=ボリス・ファウスト|authorlink1=ボリス・ファウスト|author2=鈴木茂訳|authorlink2=鈴木茂 (歴史学者)|date=2008年6月|title=ブラジル史|series=世界歴史叢書|publisher=[[明石書店]]|location=[[東京]]|isbn=978-4-7503-2788-4|ref=ファウスト/鈴木訳(2008)}}
+* {{Cite book|和書|author=増田義郎|authorlink=増田義郎|date=1998年9月|title=物語ラテン・アメリカの歴史──未来の大陸|series=中公新書1437|publisher=[[中央公論社]]|location=[[東京]]|isbn=4-12-101437-5|ref=増田(1998)}}
+* {{Cite book|和書|editor=増田義郎|editor-link=増田義郎|date=2000年7月|title=ラテンアメリカ史II|series=新版世界各国史26|publisher=[[山川出版社]]|location=[[東京]]|isbn=4-634-41560-7|ref=増田編(2000)}}
+
+=== 政治 ===
+* {{Cite book|和書|author=後藤政子|authorlink=後藤政子|date=1993年4月|title=新現代のラテンアメリカ|publisher=[[時事通信社]]|isbn=4-7887-9308-3|ref=後藤(1993)}}
+
+=== 経済 ===
+* {{Cite book|和書|editor1=内橋克人|editor1-link=内橋克人|editor2=佐野誠|editor2-link=佐野誠|date=2005年4月|title=ラテン・アメリカは警告する──「構造改革」日本の未来|series=「失われた10年」を超えて──ラテン・アメリカの教訓第1巻|publisher=[[新評論]]|location=[[東京]]|isbn=4-7948-0643-4|ref=内橋、佐野編(2005)}}
+
+=== 社会 ===
+* {{Cite book|和書|editor1=国本伊代|editor1-link=国本伊代|editor2=乗浩子|editor2-link=乗浩子|date=1991年9月|title=ラテンアメリカ都市と社会|series=|publisher=[[新評論]]|location=[[東京]]|isbn=4-7948-0105-X|ref=国本、乗編(1991)}}
+**[[山崎圭一 (社会学者)|山崎圭一]]「大都市の環境問題──サンパウロ市を中心に」『ラテンアメリカ都市と社会』 [[国本伊代]]、[[乗浩子]]編、[[新評論]]、1991年9月。ISBN 4-7948-0105-X。
+** [[小池洋一]]「発展する都市と貧困の蓄積──サンパウロ」『ラテンアメリカ都市と社会』 [[国本伊代]]、[[乗浩子]]編、[[新評論]]、1991年9月。ISBN 4-7948-0105-X。
+* {{Cite book|和書|editor1=中川文雄|editor1-link=中川文雄|editor2=三田千代子|editor2-link=三田千代子|date=1995年10月|title=ラテン・アメリカ人と社会|series=ラテンアメリカ・シリーズ4|publisher=[[新評論]]|location=[[東京]]|isbn=4-7948-0272-2|ref=中川、三田編(1995)}}
+** [[中川文雄]]「ブラジルの文化価値体系──スペイン語圏ラテンアメリカ諸国との比較を通じて」『ラテンアメリカ人と社会』中川文雄、三田千代子編、新評論、1995年10月。
+** [[国本伊代]]「近代ヨーロッパ移民とラテンアメリカ」『ラテンアメリカ人と社会』中川文雄、三田千代子編、新評論、1995年10月。
+** [[乗浩子]]「ラテンアメリカのユダヤ人」『ラテンアメリカ人と社会』中川文雄、三田千代子編、新評論、1995年10月。
+
+; 文化
+* {{Cite book|和書|author=佐野泰彦|authorlink=佐野泰彦|date=1983年6月|title=ポルトガル・ブラジル文化への誘い|series=|publisher=[[同朋舎出版]]|location=京都|isbn=4-8104-0325-4|ref=佐野(1983)}}
+* {{Cite book|和書|author1=田所清克|authorlink1=田所清克|author2=伊藤奈希砂|authorlink2=伊藤奈希砂|date=2008年9月|title=社会の鏡としてのブラジル文学──文学史から見たこの国のかたち|series=|publisher=[[国際語学社]]|location=[[東京]]|isbn=978-4-87731-440-8|ref=田所、伊藤(2008)}}
+
+== 関連項目 ==
+{{ウィキポータルリンク|南アメリカ|[[画像:P South America.png|42ピクセル|Portal:南アメリカ]]}}
+{{colbegin|2}}
+* [[ブラジル関係記事の一覧]]
+* [[在ブラジル日本国大使館]]
+** [[駐日ブラジル大使館]]
+* [[ブラジル時間]]
+* [[南米共同体]]
+* [[メルコスール]]
+* [[ラテンアメリカ]]
+** [[ラテンアメリカ経済機構]]
+* [[ブラジルポルトガル語]]
+** [[ポルトガル語諸国共同体]]
+* [[BRICS]]
+** [[新開発銀行]]
+** [[BRICS PAY]]
+* [[南アメリカ]]
+** [[南アメリカのスポーツ]]
+* [[ブラジル系日本人]]
+** [[日系ブラジル人]]
+** [[在外ブラジル人]]
+** [[在日ブラジル人]]
+{{colend}}
+
+== 外部リンク ==
+{{Sisterlinks
+| commons = Brasil
+| commonscat = Brazil
+| v = en:Brazil
+| voy = en:Brasil
+| d = Q155
+| q = no
+| b = no
+}}
+{{osm box|r|59470}}
+{{Wikivoyage|pt:Brasil|ブラジル{{pt icon}}}}
+'''政府'''
+* [https://www.gov.br/ ブラジル連邦共和国政府] {{pt icon}}{{en icon}}
+* [https://www.gov.br/planalto/pt-br ブラジル大統領府] {{pt icon}}{{en icon}}
+* [http://cgtoquio.itamaraty.gov.br/ja/ 在日ブラジル大使館] {{ja icon}}
+
+'''日本政府'''
+* [https://www.mofa.go.jp/mofaj/area/brazil/ 日本外務省 - ブラジル] {{ja icon}}
+* [https://www.br.emb-japan.go.jp/itprtop_ja/index.html 在ブラジル日本国大使館] {{ja icon}}{{pt icon}}
+'''子供向け'''
+
+* [https://kids.gakken.co.jp/jiten/dictionary06300542/ ブラジル（連邦共和国）] - [[学研キッズネット]]
+* [https://www.meiji.co.jp/meiji-shokuiku/worldculture/brazil/ ブラジル連邦共和国 | 比べてみよう！世界の食と文化] - [[明治 (企業)|明治]]
+
+'''その他'''
+* [https://www.jetro.go.jp/world/cs_america/br/ JETRO - ブラジル] {{ja icon}}
+* {{CIA World Factbook link|br|Brazil}} {{en icon}}
+* {{Curlie|Regional/South_America/Brazil}} {{en icon}}
+* {{Kotobank}}
+* {{ウィキトラベル インライン|ブラジル|ブラジル}} {{ja icon}}
+* {{wikiatlas|Brazil}} {{en icon}}
+* {{Googlemap|ブラジル}}
+
+{{ブラジルの州|state=uncollapsed}}
+{{南米共同体}}
+{{NATOに加盟していない米国の同盟国}}
+{{アメリカ}}
+{{BRICS}}
+{{G8}}
+{{G20}}
+{{CPLP}}
+{{Authority control}}
+{{Coord|15|47|S|47|52|W|type:country_region:BR|display=title}}
+
+{{DEFAULTSORT:ふらしる}}
+[[Category:ブラジル|*1]]
+[[Category:南アメリカの国]]
+[[Category:共和国]]
+[[Category:連邦制国家]]
+[[Category:国際連合加盟国]]
+[[Category:BRICS加盟国]]
+[[Category:G20加盟国]]
+[[Category:ポルトガル語圏]]

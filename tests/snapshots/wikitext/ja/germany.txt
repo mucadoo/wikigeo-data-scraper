@@ -1,0 +1,967 @@
+{{Redirect|ドイツ連邦共和国|[[1949年]]から[[1990年]]までの東西分断時代のドイツ連邦共和国|西ドイツ}}
+{{Otheruses|現在のドイツ|過去に存在したドイツ|ドイツ (曖昧さ回避)}}
+{{基礎情報 国
+|略名 = ドイツ
+|日本語国名 = ドイツ連邦共和国
+|公式国名 = '''{{lang|de|Bundesrepublik Deutschland}}'''
+|国旗画像 = Flag of Germany.svg
+|国章画像 = [[ファイル:Coat of Arms of Germany.svg|80px|ドイツの国章]]
+|国章リンク = （[[ドイツの国章|国章]]）
+|標語 = Einigkeit und Recht und Freiheit<br/>(ドイツ語:[[統一と正義と自由]])
+|国歌 = [[ドイツの歌|{{lang|de|Das Lied der Deutschen}}]]{{de icon}}<br>''ドイツ人の歌''{{center|[[File:National Anthem of Germany.ogg]]}}
+|位置画像 = EU-Germany.svg
+|公用語 = [[ドイツ語]]<ref>[[デンマーク語]]、[[ソルブ語]]は公認され、[[少数言語]]として保護されている。[[低ザクセン語]]は[[欧州連合]]により保護されている。</ref>
+|首都 = [[ベルリン|ベルリン州]]
+|最大都市 = ベルリン（[[都市州]]）
+|元首等肩書 = [[連邦大統領 (ドイツ)|連邦大統領]]
+|元首等氏名 = [[フランク＝ヴァルター・シュタインマイヤー]]
+|首相等肩書 = [[連邦首相 (ドイツ)|連邦首相]]
+|首相等氏名 = [[フリードリヒ・メルツ]]
+|他元首等肩書1 = [[連邦参議院|連邦参議院議長]]
+|他元首等氏名1 =[[アンケ・レーリンガー]]
+|他元首等肩書2 = [[ドイツ連邦議会|連邦議会議長]]
+|他元首等氏名2 = [[ユリア・クレックナー]]
+|他元首等肩書3 = [[連邦裁判所 (ドイツ)|連邦裁判所長官]]
+|他元首等氏名3 = {{仮リンク|ベティナ・リンペルク|de|Bettina Limperg}}
+|他元首等肩書4 = [[連邦憲法裁判所|連邦憲法裁判所長官]]
+|他元首等氏名4 = {{仮リンク|シュテファン・ハーバート|de|Stephan Harbarth}}
+|面積順位 = 63
+|面積大きさ = 1 E11
+|面積値 = 357,578
+|面積追記 = <ref>{{Cite web|和書|url=https://www.mofa.go.jp/mofaj/area/germany/data.html#section1 |title=ドイツ連邦共和国基礎データ |publisher=[[日本国外務省]] |accessdate=2018-11-13 }}</ref>
+|水面積率 = 1.27%<ref>{{cite web|title=Surface water and surface water change|accessdate=11 October 2020|publisher=[[経済協力開発機構]]|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#|archivedate=24 March 2021|archiveurl=https://web.archive.org/web/20210324133453/https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER|url-status=live}}</ref>
+|人口統計年 = 2024
+|人口順位 = 18
+|人口大きさ = 1 E7
+|人口値 = 84,746,132
+|人口追記 = <ref name="population">{{cite web|url=https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/liste-zensus-geschlecht-staatsangehoerigkeit.html |publisher=Destatis|accessdate=7 February 2023|title=Bevölkerung nach Nationalität und Geschlecht (Quartalszahlen)}}</ref>
+|人口密度値 = 237.0<ref name=population/>
+|GDP統計年元 = 2024
+|GDP値元 = 4兆3,289億7,000万<ref name="imf2025">{{Cite web|url= https://www.imf.org/en/publications/weo/issues/2025/10/14/world-economic-outlook-october-2025 |title=World Economic Outlook Database, October 2025|publisher=[[国際通貨基金|IMF]]|date = 2020-10|accessdate=2026-02-26}}</ref>
+|GDP統計年MER = 2024
+|GDP順位MER = 3
+|GDP値MER = 4兆6,841億8,200万<ref name="imf2025"/>
+|GDP MER/人 = 5万6,087<ref name="imf2025"/>
+|GDP統計年 = 2024
+|GDP順位 = 6
+|GDP値 = 5兆9,961億9,600万<ref name="imf2025"/>
+|GDP/人 = 7万1,797<ref name="imf2025"/><ref>{{Cite web|url=https://www.ceicdata.com/ja/indicator/germany/monthly-earnings |title=ドイツ 月収 (1991 - 2024) – CEICデータ|language=ja|website=ceicdata.com |date=2024-10-31|access-date=2025-04-15}} - ドイツの月収は、2025-09に5,640 米ドルを記録した。</ref>
+|建国形態 = 建国
+|確立形態1 = [[ドイツ統一]]<br/>（[[ドイツ帝国]]成立）
+|確立年月日1 = [[1871年]][[1月18日]]
+|確立形態2 = [[ドイツ共和国宣言]]<br/>（[[ヴァイマル共和政]]成立）
+|確立年月日2 = [[1918年]][[11月9日]]
+|確立形態3 = [[ナチ党の権力掌握|ヒトラー政権成立]]<br/>（[[ナチス・ドイツ]]成立）
+|確立年月日3 = [[1933年]][[1月30日]]
+|確立形態4 = [[ベルリン宣言 (1945年)|ベルリン宣言]]<br/>（[[連合軍軍政期 (ドイツ)|連合軍軍政]]開始）
+|確立年月日4 = [[1945年]][[6月5日]]
+|確立形態5 = [[西ドイツ]]成立
+|確立年月日5 = [[1949年]][[5月23日]]
+|確立形態6 = [[ドイツ民主共和国|東ドイツ]]成立
+|確立年月日6 = [[1949年]][[10月7日]]
+|確立形態7 = [[ドイツ再統一]]
+|確立年月日7 = [[1990年]][[10月3日]]
+|通貨 = [[ユーロ]]（&#8364;）
+|通貨コード = EUR
+|通貨追記 = <ref>[[1999年]]以前は[[ドイツマルク]]を使用。</ref><ref>「[[ドイツのユーロ硬貨]]」も参照。</ref>
+|時間帯 = +1
+|夏時間 = +2
+|ISO 3166-1 = DE / DEU
+|ccTLD = [[.de]]
+|国際電話番号 = 49
+|注記 = <references/>
+}}
+'''ドイツ連邦共和国'''（ドイツれんぽうきょうわこく、{{lang-de-short|Bundesrepublik Deutschland}}<ref name=":2" />）、通称'''ドイツ'''（{{lang-de-short|Deutschland|links=no}}）は、[[中央ヨーロッパ]]および広義の[[西ヨーロッパ]]<ref group="注釈">「[[中西欧]]」と括られることもある。再統一前の東ドイツ（[[ドイツ民主共和国]]）は、政治的にはソ連の[[衛星国]]として[[東側諸国]]の一員であり地理的には東欧（[[東ヨーロッパ]]）に分類されることが多かった。</ref>に位置する[[連邦共和国|連邦共和制国家]]である。
+
+== 概要 ==
+[[首都]]および{{仮リンク|ドイツの都市人口の順位|de|Liste der Großstädte in Deutschland|label=人口が最大の都市}}は[[ベルリン]]<ref name=":2">{{Cite web|和書|title=ドイツ基礎データ |url=https://www.mofa.go.jp/mofaj/area/germany/data.html |website=Ministry of Foreign Affairs of Japan |accessdate=2022-02-28 |language=ja}}</ref>。[[国境]]を接する隣国は、北が[[デンマーク]]、東が[[ポーランド]]、南東が[[チェコ]]、南が[[オーストリア]]、南西が[[スイス]]、西が[[フランス]]と[[ベネルクス三国]]（[[ベルギー]]、[[オランダ]]、[[ルクセンブルク]]）。北東は[[バルト海]]、北西は[[北海]]のうちに[[ワッデン海]]に面する。
+
+[[大陸ヨーロッパ]]における政治的・経済的な主要国であり、歴史上、多くの文化・科学・技術分野における重要な指導国でもある。人口は約8300万人で、これは[[欧州連合]]（EU）において最大である。1993年にEUへ発展した1957年の[[欧州諸共同体]]の原加盟国であるほか、1995年以来[[シェンゲン圏]]の一員で、1999年以降は[[ユーロ圏]]の一員でもある。また、[[国際連合]]、[[欧州評議会]]、[[北大西洋条約機構|NATO]]、[[主要国首脳会議|G7]]、[[G20]]、[[経済協力開発機構|OECD]]の主要なメンバーであり、欧州の大国「[[ビッグ4 (ヨーロッパ)|ビッグ4]]」や[[列強]]の一国に数えられる。
+
+限定的主権を有する[[ドイツの地方行政区分|16の州]]（[[連邦州]]）により構成される。国土の総面積は35万7386平方キロメートルであり、緯度の割には比較的温暖な気候に属する。
+
+[[ドイツの経済|ドイツ経済]]の規模は、対[[アメリカ合衆国ドル|米ドル]][[為替レート|名目為替レート]]によって計算される米ドル建て[[国内総生産|名目GDP]]（MERベースGDP）で[[各国の名目GDPリスト|世界第3位]]であり、対米ドル[[購買力平価説|購買力平価]]（PPP）によって計算される米ドル建て[[国内総生産#実質国内総生産|実質GDP]]（PPPベースGDP）で[[各国の実質GDPリスト|世界第5位]]である。技術及び産業分野における世界的なリーダーとして、[[:en:List of countries by exports|世界第3位の輸出国]]かつ[[:en:List of countries by imports|世界第3位の輸入国]]である。世界最古の[[ユニバーサルヘルスケア]]制度を含む、包括的な[[社会保障]]を特色とする[[人間開発指数による国順リスト|非常に高い生活水準]]が実現されている[[先進国]]である。豊かな[[ドイツの政治|政治]]及び[[:en:Culture of Germany|文化]]の[[ドイツの歴史|歴史]]で知られ、影響力ある多数の[[:en:German art|芸術家]]、[[:en:Music of Germany|音楽家]]、[[ドイツの映画|映画人]]、[[:en: German philosophy|哲学者]]、{{仮リンク|科学者及び技術者|de|Deutschland#Wissenschaft}}、[[起業家]]の故国である。
+
+ドイツは世界第1位の[[:en:Immigration to Germany|移住地]]である<ref>{{Cite web|和書|title=【高論卓説】外国人労働者の受け入れ拡大の現状、魅力ある制度へ「共生の視点」が必要 |url=https://web.archive.org/web/20180822114306/https://www.sankeibiz.jp/macro/news/180822/mca1808220500006-n1.htm |website=SankeiBiz |date=2018-08-22 |access-date=2022-10-04 |publisher=産業経済新聞社}}</ref>。
+
+== 国名 ==
+[[ドイツ語]]での正式名称は、{{lang|de|'''Bundesrepublik Deutschland'''}}（{{IPA-de|ˈbʊndəsʁepubliːk ˈdɔʏtʃlant||De-Bundesrepublik_Deutschland.ogg}} ブンデスレプブリーク・ドイチュラント）。通称は{{lang|de|'''Deutschland'''}}（ドイチュラント）、略称は'''BRD'''（{{IPA-de|beː ɛɐ deː|}} ベーエァデー）。{{lang|de|Bund}}は「[[連邦]]」の、{{lang|de|Republik}}は「[[共和国]]」の意である。
+
+[[駐日ドイツ大使館]]や[[日本国外務省]]が用いる[[日本語]]表記は'''ドイツ連邦共和国'''。通称は'''ドイツ'''。[[外国地名および国名の漢字表記一覧#ドイツ|漢字]]では'''独逸'''、'''独乙'''などと表記され、'''独'''と略される。日本語名称の「ドイツ」の由来は、原語の「{{lang|de|Deutsch}}」もしくは[[オランダ語]]の「{{lang|nl|Duits}}」が起源だといわれている。
+
+[[英語]]表記は通称、{{lang|en|Germany}}（ジャーマニ）で、これは[[ラテン語]]の{{lang|la|Germania}}（[[ゲルマニア]]：｢[[ゲルマン人]]の地」の意味）に由来し、地名としてのドイツを指す。[[イタリア語]]ではラテン語と同様に{{lang|it|Germania}}（ジェルマーニア）、[[フランス語]]では{{lang|fr|Allemagne}}（アルマーニュ）、[[スペイン語]]では{{lang|es|Alemania}}（アレマニア）、[[ポルトガル語]]では{{lang|pt|Alemanha}}（アレマーニャ）と呼ばれるが、これらは本来は「（ゲルマン人の一派である）[[アレマン人]]の地」を意味する。また、[[ポーランド語]]では{{lang|pl|Niemcy}}（ニェムツィ）、[[チェコ語]]と[[スロバキア語]]では{{lang|cs|Německo}}, {{lang|sk|Nemecko}}（ニェメツコ）、[[ハンガリー語]]では{{lang|hu|Németország}}（ネーメトルサーグ）と呼ばれるが、これは[[スラヴ祖語]]の「{{lang|bu|němъ}}」あるいはその派生語の「{{lang|bu|němьcь}}」（言葉が話せない人、[[発話障害]]者）に由来する<ref>{{仮リンク|ヴィエスワフ・ボリス|pl|Wiesław Boryś}}, ''Słownik etymologiczny języka polskiego'', Kraków 2005, s. 361–362.</ref>。
+
+「ドイチュ（{{lang|de|Deutsch}}）」の語源は、北部で話されていたゲルマン語の「{{Unicode|theod}}」「{{Unicode|thiud}}」「{{Unicode|thiod}}」などの名詞に由来し、いずれも「民衆」や「[[大衆]]」を意味している。意味も使われた時代も同じだが、綴りは地域によって異なる。[[フランク王国]]時代に、[[ロマンス諸語|ラテン系言語]]ではなく[[ゲルマン語派|ゲルマン系言語]]を用いるゲルマン人の一般大衆をこう呼んだことから、同地域を指す呼称として用いられ始めた。「{{Unicode|th}}」はのちに「{{Unicode|d}}」という発音と綴りになったため「{{Unicode|diet}}」に変わった。さらに[[古高ドイツ語]]では形容詞化するための接尾辞「{{Unicode|-isk}}」が付加されて「{{Unicode|diutisk}}」と変わった。意味も「大衆の、民衆の」という形容詞になり、その後「{{Unicode|diutisch}}」に変わり、現代ドイツ語では「{{lang|de|deutsch}}」となった<ref name="etymologie1">[https://www.jstor.org/discover/10.2307/3531786?uid=2&uid=4&sid=21102066903537 The History of the Language as an Instructional Aid]</ref><ref name="etymologie2">[http://www.sprache-werner.info/Was-Dieter-mit-Deutsch-zu-tun-hat-L.20268.html Was Dieter mit Deutsch zu tun hat]</ref>。
+
+形容詞形の「{{lang|de|deutsch}}」には上記の意味はなく、単に「ドイツの」という意味だけである。代わりに「[[フェルキッシュ|{{lang|de|völkisch}}]]」という形容詞が「大衆の、民衆の」という意味で使われたが、[[国民社会主義ドイツ労働者党]]（ナチス）が自らの理念や政策を表現するのに好んで用いたため、[[第二次世界大戦]]に敗れて[[非ナチ化]]が進められた戦後は、[[ナチズム]]を連想させるとして用いられなくなり、現在は「{{lang|de|des Volkes}}」が主に使われる。
+
+== 歴史 ==
+{{Main|ドイツの歴史}}
+{{ドイツの歴史}}
+
+=== 先史時代から東フランク王国まで ===
+{{Main|東フランク王国}}
+現在のドイツを含む西ヨーロッパ地域に人類が居住を始めたのは、[[石器]]などが発見されたa地層から約70万年前と考えられている。60万年から55万年前の地層では[[ホモ・ハイデルベルゲンシス|ハイデルベルク原人]]の化石が、4万年前の地層では[[ネアンデルタール人]]の[[化石]]が確認されている。[[新人#生物学|新人]]（[[ホモ・サピエンス]]）は約3万5000年前から現れ、紀元前4000年ごろの[[巨石文明]]を経て、紀元前1800年ごろまでに[[青銅器文明]]に移行している。紀元前1000年ごろには、ケルト系民族によって[[ドナウ川]]流域に[[ハルシュタット文化|ハルシュタット文明]]と呼ばれる[[鉄器文明]]が栄えた。
+
+[[紀元前58年]]から[[紀元前51年|51年]]までの[[ガイウス・ユリウス・カエサル]]の[[ガリア遠征]]などを経て、[[ゲルマン人]]は[[傭兵]]や農民として[[ローマ帝国]]に溶け込んでいった。しかし紀元後9年に[[トイトブルク森の戦い]]が起こり、ゲルマン人が勝利して[[ライン川]]右岸を守った。この流域南部において83年に[[ドミティアヌス帝]]がリメス・ゲルマニクスの建設を打ち出し、[[マイン川]]からドナウ川へとつながる[[長城]]が建設された。これによってライン川中・上流域では[[リメス]]が前進した。これは2000年にわたるドイツ史の将来を規定する伏線となった。すなわち、ローマ帝国内にあるドイツ南部と、外にあるドイツ北部である。ローマ帝国の解体が進むと、[[375年]]には[[西ゴート族]]が[[黒海]]沿岸から[[地中海]]に沿って、[[コロナートゥス]]化の進んだ西部へ移動した。
+
+476年、[[西ローマ帝国]]が滅亡した。代わって西ヨーロッパを支配した[[フランク王国]]では各地に分王国が興り、その一つである[[アウストラシア]]が北方でライン川両岸を占めた。843年、[[ヴェルダン条約]]によってフランク王国が三分割された。そのうちの一つである[[東フランク王国]]が、のちのドイツの原型となった。東フランク王国の国王[[オットー1世 (神聖ローマ皇帝)|オットー1世]]（[[ザクセン公国|ザクセン朝]]）は[[962年]]に'''[[アウグストゥス (称号)|アウグストゥス]]'''（古代[[ローマ皇帝]]の称号）を得て、いわゆる'''[[神聖ローマ帝国]]'''と呼ばれる連合体を形成した。
+
+=== 神聖ローマ帝国 ===
+{{Main|神聖ローマ帝国}}
+[[神聖ローマ皇帝]][[マクシミリアン1世 (神聖ローマ皇帝)|マクシミリアン1世]]のとき、｢ドイツ国民の神聖ローマ帝国（{{lang|de|Heiliges Römisches Reich Deutscher Nation}}）」と国名を称した。[[キリスト教]]の[[宗教改革]]においては、ドイツの諸侯が新旧両教（[[カトリック教会]]と[[プロテスタント]]）に分かれて互いに争った。その最大の惨劇である[[三十年戦争]]ではドイツのほとんど全土が徹底的に破壊され、1600万人いたドイツの人口が戦火によって600万人に減少したといわれる。
+
+[[帝国自由都市]]の自治権が奪われ、ドイツは領邦主権体制となった。[[1667年]]に[[プーフェンドルフ]]が著した書『ドイツ帝国憲法について（{{lang|de|Über die Verfassung des deutschen Reiches}}）』において初めて、'''[[ドイツ国]]'''という呼称が確認できる。
+
+=== プロイセン王国の台頭とドイツ帝国の興亡 ===
+[[シュヴァーベン]]にある[[ホーエンツォレルン城]]一帯から台頭した[[プロイセン]]領邦君主[[ホーエンツォレルン家]]は、[[17世紀]]半ばから[[オランダ]]とともに勢力を拡大し、[[1701年]]には[[プロイセン王国]]を形成した。
+
+[[フランス革命]]の動乱は全ヨーロッパに波及し、[[フランス革命戦争]]で反撃を主導した[[ナポレオン・ボナパルト]]による侵略をドイツも免れなかった。[[対仏大同盟]]がナポレオンを破り、ドイツは[[帝国代表者会議主要決議]]の枠内で国家統一を志向するようになった。ホーエンツォレルン家は、オーストリアを拠点とする[[ハプスブルク家]]（[[ハプスブルク帝国]]）とドイツ統一の役割を争い、[[北ドイツ連邦]]を作り[[普墺戦争]]と[[普仏戦争]]に勝利したプロイセン国王[[ヴィルヘルム1世 (ドイツ皇帝)|ヴィルヘルム1世]]は、ドイツ系オーストリアを除く[[ドイツ帝国]]を創建し、ベルリンを首都とした。
+
+国力が伸長したドイツ帝国は[[ヴィルヘルム2世 (ドイツ皇帝)|ヴィルヘルム2世]]の治世下、英仏に遅ればせながら[[ヨーロッパ]]以外での[[植民地]]や勢力圏の獲得に乗り出し、[[アフリカ分割]]に参加したほか、遠く[[太平洋]]でも[[ドイツ領ニューギニア]]や[[膠州湾租借地]]を支配し、[[オスマン帝国]]領内にも進出した（「[[3B政策]]」「[[東方問題]]」参照）。[[ドイツ帝国海軍]]も大幅に増強して、[[大洋艦隊]]を建設した。これらはイギリス、フランス、[[ロシア帝国]]の英仏露[[三国協商]]との対立を招いて[[第一次世界大戦の原因]]となり、同盟関係になっていたオーストリアの皇太子が暗殺された[[サラエボ事件]]（1914年）を契機に英仏露などとの戦争に突入。激しい消耗戦を展開し、[[アメリカ合衆国|アメリカ]]も敵に回したことで[[1918年]]には戦力の限界を迎えて敗れ、国内では[[ドイツ革命]]の勃発によってヴィルヘルム2世がオランダへ[[亡命]]して帝政は終わり、領土の大幅な喪失と[[第一次世界大戦の賠償|巨額の賠償]]を課される[[ヴェルサイユ条約]]への調印を余儀なくされた。
+
+=== ヴァイマル共和政の混乱とナチス・ドイツ ===
+{{Main|ヴァイマル共和政|ナチス・ドイツ}}
+ドイツは共和国として再出発した（[[ヴァイマル共和政]]）。これは連邦制が小党を乱立させて政局を不安定にした。ヴェルサイユ条約がドイツに課した賠償の負担は経済や政治に悪影響を与えた。1921年には1ドル＝4.2マルクだったものが、1923年夏には[[ヴァイマル共和政のハイパーインフレーション|1ドル＝110万マルクという下落でハイパーインフレ]]に陥り、[[レンテンマルク]]発行による通貨改革が行われた<ref>森彰英『行動する異端 秦豊吉と丸木砂土』（[[ティビーエスブリタニカ]] 1998年）p.56</ref>。1920年代中ごろから相対的な安定期を迎え、[[ロカルノ条約]]（1925年）と[[国際連盟]]理事会の常任理事国としての加盟（[[1926年]][[10月26日]]<ref>{{Cite web|url=https://www.loc.gov/item/2021667902/|title=Membership of Germany in the League of Nations. Letter from Gustav Stresseman.|access-date=2025-10-26|publisher=Library of Congress}}</ref>）により[[国際社会]]にも復帰しつつあった。第一次世界大戦後期に起きた[[ロシア革命]]で崩壊したロシア帝国に代わり成立した[[ソビエト連邦]]（ソ連）とは、[[ラパッロ条約 (1922年)]]と[[ベルリン条約 (1926年)]]で外交および秘密裏の軍事協力関係を構築した。
+
+1930年代初頭、[[世界恐慌]]がドイツにも波及し、経済破綻を背景に[[国家社会主義ドイツ労働者党]]（ナチ党）が台頭した。党首[[アドルフ・ヒトラー]]の指導下で、極右的[[民族主義]]、差別的な[[優生学|人種政策]]、さらに拡張的な領土政策を唱えた。[[1933年]]にヒトラーが首相に任命されると、[[ナチ党の権力掌握|ナチ党は国内の政敵を次々に制圧し]]、ナチ党一党独裁体制を築き上げた（[[ナチス・ドイツ]]）。
+
+ヒトラーは1935年にヴェルサイユ条約の軍備制限を破棄する[[ドイツ再軍備宣言]]を発し、[[ヴァイマル共和国軍]]は[[ドイツ国防軍]]に改編された。翌1936年には、[[非武装地帯]]と定められていた[[ライン川]]西岸へ軍を配置（[[ラインラント進駐]]）。ソ連を仮想敵とする[[日独防共協定]]を締結し、のちに[[日独伊三国同盟]]、さらには[[第二次世界大戦]]における[[枢軸国]]に発展した。1938年にはオーストリアを併合し（[[アンシュルス]]）、[[ナチス・ドイツによるチェコスロバキア解体|チェコスロバキア解体]]も進めた。次第に英仏との緊張関係が高まった。[[ポーランド回廊]]を寸断すべく、ドイツは[[1939年]]9月に[[ポーランド侵攻|ポーランドへ侵攻]]した。英仏の[[宣戦布告]]を招き、第二次世界大戦が始まった。一時はフランスを打倒して[[ヴィシー政権]]を樹立し、[[北欧侵攻]]も成功させ、ヨーロッパ大陸の大半を勢力下に置いた。[[バトル・オブ・ブリテン]]で敗北して[[アシカ作戦|イギリス上陸]]を断念し、[[独ソ戦]]で打開を図ったものの、[[スターリングラード攻防戦]]での敗北などで劣勢に転じた。日本の対米英開戦（[[太平洋戦争]]）に伴い米国も再び敵に回し、[[連合国 (第二次世界大戦)|連合国]]軍による[[ノルマンディー上陸作戦]]成功後は東西と[[イタリア戦線 (第二次世界大戦)|イタリア戦線]]を含めた三方から攻められ、本土には英米の[[戦略爆撃]]（[[ドイツ本土空襲]]）を受けて追い詰められ、[[ベルリンの戦い]]中の1945年4月30日に[[アドルフ・ヒトラーの死|ヒトラーが自殺]]。海軍提督[[カール・デーニッツ]]がヒトラーを後継する。デーニッツは、[[アルフレート・ヨードル]]将軍を代理人に指名し、[[ドワイト・D・アイゼンハワー]]将軍と降伏交渉を行わせる。1945年[[5月7日]]、[[フランス]]の[[ランス (マルヌ県)|ランス]]で降伏文書に調印し、[[欧州戦線における終戦 (第二次世界大戦)|ドイツ軍は無条件降伏した]]<ref>{{Cite web |url=https://www.nationalgeographic.com/history/article/germany-surrendered-twice-world-war-ii|title=Why Germany surrendered twice in World War II|access-date=12 Feb 2024|publisher=National Geographic Society National Geographic Partners, LLC.|date=MAY 7, 2020|website=[[ナショナル ジオグラフィック (雑誌)|National Geographic]]}}</ref>。
+
+=== 連合国による占領と東西分断===
+{{Main|ドイツ民主共和国|西ドイツ}}
+1945年6月5日の[[ベルリン宣言 (1945年)|ベルリン宣言]]により、ドイツ中央政府の不在が宣言され、米英仏ソ4か国による分割占領が開始された（[[連合軍軍政期 (ドイツ)|連合軍軍政期]]）。ドイツの占領政策は戦争中の協議と[[ポツダム協定]]によって規定されていたが、ソ連が物納での賠償を主張して[[西側諸国]]と鋭く対立し（ドル条項問題）、西側連合国とソ連の占領地域は分断を深めていった。この結果、1949年に西側連合国の占領地域は[[ボン]]を暫定的な首都とする'''ドイツ連邦共和国'''（'''[[西ドイツ]]'''）として、ソ連の占領地域はベルリンの東部地区（東ベルリン）を首都とする'''[[ドイツ民主共和国]]'''（'''東ドイツ'''）としてそれぞれ独立し、ドイツは[[分断国家]]としての道を歩むことになった。
+
+西ドイツとフランス両国の首脳が交流を深めた結果、1951年に[[欧州石炭鉄鋼共同体]]が誕生した。一方、ソ連は東ドイツを含む東欧諸国による軍事同盟[[ワルシャワ条約機構]]を1955年に設立し、東西ドイツは[[冷戦]]の時代を通じ、[[資本主義]]と[[共産主義]]が対立する最前線となった。労働力をめぐる対立は1961年に[[ベルリンの壁]]となって現れた。1972年に[[東西ドイツ基本条約]]が成立した。
+
+=== 再統一後のドイツ ===
+[[1989年]]、ソビエト連邦の[[ペレストロイカ]]に端を発した東欧の民主化運動（[[東欧革命]]）をきっかけに[[ベルリンの壁崩壊|ベルリンの壁が崩壊]]した。翌1990年の10月3日に[[ドイツ再統一|再統一]]（正式にはドイツ連邦共和国がドイツ民主共和国を吸収・併合した形での統一）を達成し、首都もボンからベルリンへと戻された。
+
+1992年9月、ドイツマルクが高騰して欧州の通貨を混乱に陥れた。2001年[[5月2日]]に連邦がベルリンへの首都機能移転を完了させた。2002年、[[ドイツ連邦銀行]]の政策が[[欧州中央銀行]]と加盟国の中央銀行で構成される[[欧州中央銀行]]を（ECB）制度へ移管された。
+
+2015年からの欧州難民危機では、中東から多くの難民を受け入れたことで[[アンゲラ・メルケル|メルケル政権]]の支持率が下がり、ポピュリズムが広がりをみせた。
+
+[[2021年ドイツ連邦議会選挙]]では[[ドイツ社会民主党]]が連邦議会の第1党になった<ref>{{Cite web|url=https://www.jetro.go.jp/biznews/2021/09/676f62c8c69415a2.html |title=連邦議会選挙は社会民主党が第1党に躍進、連立協議に向け始動(ドイツ) |website=ジェトロ |date=2021-09-28 |accessdate=2024-08-30 }}</ref>。
+
+[[2022年]]には国家転覆（かつて存在したドイツ帝国を模した[[君主制]]国家を樹立する事）を目指した極右集団が[[2022年ドイツクーデター未遂事件|クーデター未遂事件]]を起こした<ref>{{Cite web|和書|title=ドイツのクーデター未遂事件、誰が、なぜ、何を計画していたのか |url=https://www.asahi.com/articles/ASQDV4HRTQDHUHBI026.html |website=[[朝日新聞デジタル]] |date=2022-12-26 |access-date=2023-01-21 |language=ja}}</ref><ref>{{Cite web|和書|title=ドイツ｢クーデタ未遂事件｣の深刻な背景事情 |url=https://toyokeizai.net/articles/-/642000 |website=東洋経済オンライン |date=2022-12-25 |access-date=2023-01-21 |language=ja}}</ref>。{{Main|2022年ドイツクーデター未遂事件}}
+<!--
+[[世界金融危機]]で国内のMMFもアメリカのように残高を激減させた<ref name=structure1>[https://www.bundesbank.de/dynamic/action/en/statistics/time-series-databases/time-series-databases/745582/745582?tsId=BBQFS.Q.DE.MMFU.FINASS._X.0000&listId=www_fsb_sbs_stru&tsTab=1&id=0 Time series BBQFS.Q.DE.MMFU.FINASS._X.0000: Money market funds in Germany- financial assets (FSR 2015)]</ref>。また、国内の州立銀行は[[債務担保証券]]をつかまされ、機関投資家として損害を被った。2009年に憲法の第109条および第115条を改正、起債の制限がより厳しくなった<ref>渡辺 富久子 [https://dl.ndl.go.jp/view/download/digidepo_9111090_po_02630007.pdf?contentNo=1 ドイツにおける財政規律強化のための基本法の規定] 外国の立法 263（2015. 3）</ref>。近年の[[2010年欧州ソブリン危機|ユーロ危機]]では、競争力の高いドイツが域内から黒字を吸い上げる構造がほかの[[ギリシャ財政危機|トロイカ]]勢から批判される一方、これまで合理化に耐えてきた国民からは援助支出への不満の声が高まるなど、政府は難しい舵取りを迫られている。アメリカで「銀行狩り」のあった2013年を除き、ドイツの[[ミューチュアル・ファンド]]および[[シャドー・バンキング・システム|他の金融仲介]]の残高は2003年 - 2017年の期間で増加の勢いを保っている<ref>[https://www.bundesbank.de/dynamic/action/en/statistics/time-series-databases/time-series-databases/745582/745582?tsId=BBQFS.Q.DE.MFOF.FINASS._X.0000&listId=www_fsb_sbs_stru&treeAnchor=FINSTAB&tsTab=1&id=0 Time series BBQFS.Q.DE.MFOF.FINASS._X.0000: Financial assests of Mutual funds and Other financial intermediaries in Germany (FSR 2017)]</ref>。-->
+
+[[2025年ドイツ連邦議会選挙]]ではキリスト教民主・社会同盟が連邦議会の第1党になった<ref>{{Cite web|url=https://www.jetro.go.jp/biznews/2025/02/0b76b82b73425381.html |title=ドイツ連邦議会選挙が投開票、キリスト教民主・社会同盟と社会民主党の連立を軸に交渉  |accessdate=2025-05-29 }}</ref>。
+
+== 政治 ==
+{{Main|ドイツの政治|ドイツ法|大陸法}}
+[[ファイル:Reichstag building Berlin view from west before sunset.jpg|thumb|300px|[[国会議事堂 (ドイツ)|国会議事堂]]（''Reichstag''）]]
+ドイツは連邦制、[[議院内閣制]]、[[間接民主制|代表民主制]]の共和国である。ドイツの政治システムは1949年に発効された、[[憲法]]に相当する[[ドイツ連邦共和国基本法]]（{{lang|de|Grundgesetz}}）の枠組みに基づいて運営されている。基本法改正には議会両院（[[ドイツ連邦議会]]）と[[連邦参議院]]）で3分の2の賛成を必要としており、このうち「人間の尊厳の保証」「権力の分割」「連邦制」そして「[[法の支配|法による支配]]」といった基本法諸原則は「永久化」され、侵害は許されない<ref name=":2" /><ref>{{cite web|url=https://www.btg-bestellservice.de/pdf/80201000.pdf|title=Basic Law for the Federal Republic of Germany|date=October 2010|work=Deutscher Bundestag|publisher=Btg-bestellservice|accessdate=14 April 2011}}</ref><ref>{{Cite web|和書|title=基本法|url=http://www.tatsachen-ueber-deutschland.de/jp/political-system/main-content-04/the-basic-law.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}{{リンク切れ|date=2021年6月}}</ref>。こうした原則や、これらを否定する政党の禁止については「[[戦う民主主義#ドイツ]]」を参照。
+{{multiple image|align= right|image1=Frank-Walter_Steinmeier_-_2018.jpg|image2=2024-08-21_Event,_CDU,_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(cropped).jpg|width1=190|width2=90|footer=シュタインマイヤー大統領（左）とメルツ首相（右）}}
+
+[[連邦大統領 (ドイツ)|連邦大統領]]（''Bundespräsident''）は[[元首|国家元首]]であり、主に儀礼的な権能のみが与えられている<ref name="daihyakkaGermany">{{Cite web|和書|title=ドイツ|url=http://100.yahoo.co.jp/detail/%E3%83%89%E3%82%A4%E3%83%84/%E6%94%BF%E6%B2%BB%E3%83%BB%E5%A4%96%E4%BA%A4%E3%83%BB%E8%BB%8D%E4%BA%8B/|publisher=日本大百科全書(小学館)|accessdate=2011-07-15}}{{リンク切れ|date=2013年12月}}</ref>。大統領は任期5年で、連邦議会議員と各州議会代表とで構成される[[連邦会議 (ドイツ)|連邦会議]]によって選出される。大統領は連邦議会の解散権を有する<ref>"[http://www.tatsachen-ueber-deutschland.de/jp/political-system/main-content-04/the-federal-president.html 連邦大統領]"、{{Cite web|和書|title=連邦首相と政府|url=http://www.tatsachen-ueber-deutschland.de/jp/political-system/main-content-04/the-federal-chancellor-and-the-government.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>。
+
+大統領に次ぐ序列は{{仮リンク|連邦議会議長 (ドイツ)|de|Präsident des Deutschen Bundestages|label=連邦議会議長}}（''Bundestagspräsident''）であり、連邦議会によって選出され、議会運営の監督責任を持つ。
+
+序列第3位であり、[[政府の長]]となる地位が[[連邦首相 (ドイツ)|連邦首相]]（''Bundeskanzler''）である。連邦議会で選出されたあとに、議長によって任命される<ref name="state">{{cite web|url=http://www.state.gov/r/pa/ei/bgn/3997.htm|title=Germany|publisher=U.S. Department of State|date=10 November 2010|accessdate=26 March 2011}}</ref>。首相は任期4年で、行政府の長として[[行政|行政権]]を執行する。内閣の閣僚は首相の指名に基づき、大統領が任命する。
+
+連邦の[[立法|立法権]]は[[ドイツ連邦議会|連邦議会]]（''Bundestag''）と[[連邦参議院]]（''Bundesrat''）が有し、この両院で[[立法府]]を構成する。連邦議会議員は[[小選挙区比例代表併用制]]による[[直接選挙]]によって選ばれ<ref name="CIA"/>、定数は598議席<ref>{{Cite web|和書|title=連邦議会|url=http://www.tatsachen-ueber-deutschland.de/jp/political-system/main-content-04/the-bundestag.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>（ただし選挙制度の関係で{{仮リンク|超過議席|en|Overhang seat}}が出るため、選挙のたびに実際の議席数は変わり、2020年現在は709議席）で任期4年。連邦参議院議員は定数69議席で16州政府の代表であり、また州政府内閣の閣僚でもある<ref name="state"/>。
+
+1949年以降、政権は[[ドイツキリスト教民主同盟]]（CDU）と[[ドイツ社会民主党]]（SPD）によって占められており、歴代首相はいずれかの党から選出されている。しかしながら、選挙制度の関係で単独政権だったことは一度も無く、常に両党の[[大連立]]か、いずれかの党と[[自由民主党 (ドイツ)|自由民主党]]か[[同盟90/緑の党]]との連立政権が組まれている<ref>{{Cite web|和書|title=選挙制度|url=http://www.tatsachen-ueber-deutschland.de/jp/political-system/main-content-04/the-electoral-system.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>。ほかに連邦議会に議席を有する主要政党として、[[欧州懐疑主義]]と反[[移民]]を掲げる[[ドイツのための選択肢]]（2017年以降）、東ドイツの独裁政党だった[[ドイツ社会主義統一党]]の流れをくむ[[左翼党 (ドイツ)|左翼党]]（2005年以降）がある<ref>{{cite web|url=http://countrystudies.us/germany/159.htm|title=Christian Democratic Union/Christian Social Union|publisher=U.S. Library of Congress|accessdate=26 March 2011}}</ref>。
+
+ドイツでは、首相と党首と議員団長（与党会派の代表）が「3つの頭」といわれる。政党は単なる「看板」ではなく、社会と国家をつなぐ実体のある組織であり、その長である党首独自の仕事も多い。そのため首相と党首を別の人が務めることも珍しくない<ref>{{Cite web|和書|url=https://www.asahi.com/articles/ASLC14Q4YLC1UHBI023.html|title=党首と首相は別人OK ドイツの仕組みは「三つの頭」|publisher=朝日新聞|date=2018-11-01|accessdate=2018-11-17}}</ref>。
+
+過激派の政党としては極左の[[ドイツ共産党 (DKP)|ドイツ共産党]]と極右の[[ドイツ国家民主党]]が存在するが、国政レベルの影響を持つには至っていない。
+
+=== 司法 ===
+{{Main|{{仮リンク|ドイツの司法|de|Liste deutscher Gerichte}}}}
+ドイツは[[ゲルマン法]]の要素を加えた[[ローマ法]]を基礎とする[[大陸法]]を法律において採用している（[[ドイツ法]]）。[[憲法]]に関しては[[第二次世界大戦]]後の[[1949年]]に[[西ドイツ]]で[[ドイツ連邦共和国基本法]]（''Grundgesetz für die Bundesrepublik Deutschland''）が暫定的な憲法（基本法）として定められたが、[[ドイツ民主共和国憲法]]を制定していた[[東ドイツ]]との統合後（[[ドイツ再統一]]）も正式憲法は制定されず、共和国基本法が継続している。
+
+司法機関については[[連邦憲法裁判所]]（''Bundesverfassungsgericht''）が[[違憲審査制|違憲審査権]]を有する憲法に関する事項の最高裁判所として機能している<ref name="state"/><ref>{{Cite web|url=http://www.bundesverfassungsgericht.de/en/index.html|title=Federal Constitutional Court|publisher=Bundesverfassungsgericht|accessdate=2011-03-26|archiveurl=https://web.archive.org/web/20110429005142/http://www.bundesverfassungsgericht.de/en/index.html|archivedate=2011-04-29|url-status=dead|url-status-date=2017-09}}</ref><ref>{{Cite web|和書|title=連邦憲法裁判所|url=http://www.tatsachen-ueber-deutschland.de/jp/political-system/main-content-04/the-federal-constitutional-court.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>。
+
+''Oberste Gerichtshöfe des Bundes''と呼ばれるドイツの最高裁判所制度は専門化がなされており、民事および刑事に関する裁判所は[[連邦裁判所 (ドイツ)|連邦通常裁判所]]、それ以外の事項に関しては{{仮リンク|連邦労働裁判所|de|Arbeitsgerichtsbarkeit (Deutschland)}}、{{仮リンク|連邦社会裁判所|de|Sozialgerichtsbarkeit}}、{{仮リンク|連邦金融裁判所|de|Finanzgerichtsbarkeit}}、{{仮リンク|連邦行政裁判所|de|Verwaltungsgerichtsbarkeit (Deutschland)}}などがそれぞれ担当する<ref name="daihyakkaGermany"/>。また{{仮リンク|国際刑法典|de|Völkerstrafgesetzbuch}}（''Völkerstrafgesetzbuch''）は[[人道に対する罪]]、[[ジェノサイド]]そして[[戦争犯罪]]について規定しており、いくつかの状況においてドイツの裁判所に対して{{仮リンク|普遍的管轄権|de|Weltrechtsprinzip}}を与えている<ref>{{cite web|url=http://bundesrecht.juris.de/vstgb/BJNR225410002.html#BJNR225410002BJNG000200000|title=Völkerstrafgesetz Teil 1 Allgemeine Regelungen|publisher=Bundesministerium der Justiz|accessdate=19 April 2011|language=German}}</ref>。[[刑法]]と[[民法]]は[[刑法典 (ドイツ)|刑法典]]（''Strafgesetzbuch''）と[[民法典 (ドイツ)|民法典]]（''Bürgerliches Gesetzbuch''）に成文化されている。ドイツの刑法制度は犯罪者の更生と一般大衆の保護を主眼としている<ref>{{cite web|url=http://www.gesetze-im-internet.de/stvollzg/__2.html|title=§ 2 Strafvollzugsgesetz|publisher=Bundesministerium der Justiz|accessdate=26 March 2011|language=German}}</ref>。
+
+== 国際関係 ==
+{{Main|{{仮リンク|ドイツの国際関係|de|Außenpolitik der Bundesrepublik Deutschland}}}}
+[[ファイル:Diplomatic missions of Germany.png|thumb|520px|ドイツが外交使節を派遣している諸国の一覧図]]
+[[File:33rdG8Leaders.jpg|thumb|アンゲラ・メルケル首相は、2007年[[ハイリゲンダム]]G8サミットの議長を務めた]]
+<div style="font-size: 90%">
+{| class="wikitable sortable floatright" style="width:450px; border:1px black; float:right; margin-left:1em;"
+|+ style="background:#f99;" colspan="2"|2018年欧州委員会によるドイツ人が主要国及び欧州連合に対する見解に関する調査<ref name=":6">{{Cite web |title=Special Eurobarometer 479: Future of Europe - Link to ebs_479_vol_A_xls.zip {{!}} European Union Open Data Portal |url=https://web.archive.org/web/20190203030408/http://data.europa.eu/euodp/en/data/dataset/S2217_90_2_479_ENG/resource/4cf980aa-212e-42f4-8330-8e09d1eb5f98 |website=web.archive.org |date=2019-02-03 |access-date=2023-11-04}}</ref><br />
+!国・地域 !! <small>肯定</small> !! <small>否定</small> !! <small>どちらでもない</small>!!<small>肯定-否定</small>
+|-
+| {{flagcountry|United States}}|| {{Percentage bar|21|c=#80FF80|width=70}} || {{Percentage bar|75|c=#FF8080|width=70}} || 4 || <span style="color:red;">-54</span>
+|-
+| {{flagcountry|Russia}}|| {{Percentage bar|21|c=#80FF80|width=70}} || {{Percentage bar|72|c=#FF8080|width=70}} || 7 || <span style="color:red;">-51</span>
+|-
+| {{flagcountry|People's Republic of China}}|| {{Percentage bar|25|c=#80FF80|width=70}} || {{Percentage bar|63|c=#FF8080|width=70}} || 12 || <span style="color:red;">-38</span>
+|-
+| {{flagcountry|UK}}|| {{Percentage bar|49|c=#80FF80|width=70}} || {{Percentage bar|43|c=#FF8080|width=70}} || 8 || <span style="color:green;">6</span>
+|-
+| {{flagcountry|Japan}}|| {{Percentage bar|65|c=#80FF80|width=70}} || {{Percentage bar|20|c=#FF8080|width=70}} || 15 || <span style="color:green;">45</span>
+|-
+| {{flagcountry|France}}|| {{Percentage bar|79|c=#80FF80|width=70}} || {{Percentage bar|15|c=#FF8080|width=70}} || 6 || <span style="color:green;">64</span>
+|-
+| {{flagcountry|European Union}}|| {{Percentage bar|82|c=#80FF80|width=70}} || {{Percentage bar|15|c=#FF8080|width=70}} || 3 || <span style="color:green;">67</span>
+|-
+| {{flagcountry|Germany}}|| {{Percentage bar|87|c=#80FF80|width=70}} || {{Percentage bar|12|c=#FF8080|width=70}} || 1 || <span style="color:green;">75</span>
+|}</div>
+ドイツは190か国以上との外交関係を結び、229か所の[[在外公館]]を有している<ref>{{cite web|url=http://www.auswaertiges-amt.de/EN/AAmt/Auslandsvertretungen/Uebersicht_node.html|title=German Missions Abroad|publisher=German Federal Foreign Office|accessdate=26 March 2011}}</ref>。
+
+2011年時点、ドイツは[[欧州連合]]（EU）への最大の分担金拠出国であり（拠出額20%）<ref>{{cite web|url=http://ec.europa.eu/budget/figures/2011/2011_en.cfm|title=The EU budget 2011 in figures|publisher=[[:en:European Commission]]|accessdate=6 May 2011}}</ref>、[[国際連合|国連]]（UN）に対しては第3位の分担金拠出国である（拠出額8%）<ref>{{Cite web|url=http://www.un.org/ga/search/view_doc.asp?symbol=ST/ADM/SER.B/824|title=United Nations regular budget for the year 2011|publisher=UN Committee on Contributions|accessdate=2011-05-06|archiveurl=https://web.archive.org/web/20110623054849/http://www.un.org/ga/search/view_doc.asp?symbol=ST%2FADM%2FSER.B%2F824|archivedate=2011-06-23|url-status=dead|url-status-date=2017-09}}</ref>。ドイツは[[北大西洋条約機構]]（NATO）、[[経済協力開発機構]]（OECD）、[[主要国首脳会議]]（G8）、[[G20]]、[[世界銀行]]、[[国際通貨基金]]（IMF）に加盟している。ドイツは欧州連合発足当初から主要な役割を果たしており<ref name="commitment">{{Cite web|和書|title=欧州統合への取り組み|url=http://www.tatsachen-ueber-deutschland.de/jp/foreign-policy/main-content-05/commitment-to-european-integration.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>、また第二次世界大戦以降はフランスとの緊密な同盟関係を保っている。ドイツは[[欧州統合]]を政治および安全保障面で推進する努力を続けてきた<ref>{{Cite web|url=http://www.ambafrance-uk.org/Declaration-by-the-Franco-German,4519.html|title=Declaration by the Franco-German Defence and Security Council|publisher=French Embassy UK|date=2004-05-13|accessdate=2011-03-19|archiveurl=https://web.archive.org/web/20140327015942/http://www.ambafrance-uk.org/Declaration-by-the-Franco-German%2C4519.html|archivedate=2014-03-27|url-status=dead|url-status-date=2017-09}}</ref><ref>{{cite news|url=https://www.nytimes.com/2008/04/04/world/europe/04iht-poll.4.11666423.html|title = The leader of Europe? Answers an ocean apart|author = Freed, John C.|newspaper = The New York Times|date = 4 April 2008|accessdate = 28 March 2011 }}</ref><ref>"[http://www.tatsachen-ueber-deutschland.de/jp/foreign-policy/main-content-05/commitment-to-european-integration.html 欧州統合への取り組み]"、[http://www.tatsachen-ueber-deutschland.de/jp/foreign-policy/main-content-05/deutschlandineuropa0.html EUの中のドイツ]、{{Cite web|和書|title=深化と拡大のための行動|url=http://www.tatsachen-ueber-deutschland.de/jp/foreign-policy/main-content-05/consolidation-and-expansion-initiatives.html|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>。
+
+ドイツの[[政府開発援助]]政策は外交政策における独立した分野となっている。政策は{{仮リンク|連邦経済協力開発省|de|Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung}}（BMZ）が策定し、関係各機関が遂行する<ref>{{Cite web|和書|title=開発政策|url=http://www.tatsachen-ueber-deutschland.de/jp/foreign-policy/content/background/development-policy.html?type=1|publisher=ドイツの実情|accessdate=2011-07-15|url-status=dead|url-status-date=2024-09-09}}</ref>。ドイツ政府は開発援助政策を国際社会における共同責任と位置づけている<ref>{{cite web|url=http://www.bmz.de/en/index.html|title=Aims of German development policy|publisher=Federal Ministry for Economic Cooperation and Development|date=10 April 2008|accessdate=26 March 2011}}</ref>。ドイツの開発援助支出額は米国、フランスに次ぐ世界第3位である<ref>{{Cite web|url=http://www.oecd.org/dataoecd/17/9/44981892.pdf|title=Net Official Development Assistance 2009|publisher=OECD|accessdate=2011-03-26|archiveurl=https://web.archive.org/web/20110426173037/https://www.oecd.org/dataoecd/17/9/44981892.pdf|archivedate=2011-04-26|url-status=dead|url-status-date=2017-09}}</ref><ref>{{cite news|url = http://www.bundesregierung.de/nn_6566/Content/EN/Reden/2010/2010-09-21-merkel-mdg-gipfel.html|title =Speech by Chancellor Angela Merkel to the United Nations General Assembly|work =Die Bundesregierung|date =21 September 2010|accessdate =18 March 2011}}</ref>。
+
+冷戦の時代、[[鉄のカーテン]]により分断されたドイツは東西緊張の象徴となり、欧州における政治的戦場となっていた。しかしながら、[[東方外交]]を行った[[ヴィリー・ブラント]]首相は1970年代における東西緊張の[[デタント]]成功の鍵となった<ref>{{cite journal|last=Harrison|first=Hope|url=http://www.ghi-dc.org/files/publications/bu_supp/supp1/supp-01_005.pdf|publisher=German Historical Institute|journal=Bulletin Supplement|volume=1|year=2004|title=American détente and German ostpolitik, 1969–1972|accessdate=26 March 2011|archiveurl=https://web.archive.org/web/20120108170102/http://www.ghi-dc.org/files/publications/bu_supp/supp1/supp-01_005.pdf|archivedate=2012年1月8日|deadurldate=2017年9月}}</ref>。1999年に[[ゲアハルト・シュレーダー]]首相がNATOの[[コソボ紛争|コソボ派兵]]への参加を決めたことにより、ドイツ外交の新たな基礎が定められ、第二次世界大戦以後、初めてドイツ兵が戦場へ送られた<ref>{{cite news|url=http://www.dw-world.de/dw/article/0,2144,1741310,00.html|title=Germany's New Face Abroad|work=[[:en:Deutsche Welle]]|date=14 October 2005|accessdate=26 March 2011}}</ref>。ドイツと米国は緊密な政治的同盟関係にある<ref name="state"/>。1948年の[[マーシャル・プラン]]と強い文化的な結びつきが両国の絆を強めたが、シュレーダー首相の[[イラク戦争]]に対する強い反対意見は[[大西洋主義]]の終焉を示唆し、独米関係を冷却化させた<ref>{{cite news|url = http://www.economist.com/node/7141311?story_id=7141311|title = Ready for a Bush hug?|newspaper = [[:en:The Economist]]|date =6 July 2006|accessdate = 19 March 2011}}</ref><ref>{{Cite web|和書|title=ドイツ - 政治・外交・軍事|url=http://100.yahoo.co.jp/detail/%E3%83%89%E3%82%A4%E3%83%84/%E6%94%BF%E6%B2%BB%E3%83%BB%E5%A4%96%E4%BA%A4%E3%83%BB%E8%BB%8D%E4%BA%8B/|publisher=日本大百科全書(小学館)|accessdate=2011-07-15}}{{リンク切れ|date=2013年12月}}</ref>。両国は経済的に相互依存関係にあり、ドイツの対米輸出は8.8%、輸入は6.6%である<ref>{{Cite web|url=http://germany.usembassy.gov/germany/img/assets/9336/econ_factsheet_may2006.pdf|title=U.S.-German Economic Relations Factsheet|publisher=U.S. Embassy in Berlin|date=May 2006|accessdate=2011-03-26|archiveurl=https://web.archive.org/web/20110511123309/http://germany.usembassy.gov/germany/img/assets/9336/econ_factsheet_may2006.pdf|archivedate=2011-05-11|url-status=dead|url-status-date=2017-09}}</ref>。2019年時点で[[中華人民共和国|中国]]は[[アジア]]における一番の貿易相手国である。
+
+2021年に[[ロシア・ウクライナ危機 (2021年-2022年)|ロシア・ウクライナ危機]]を背景にウクライナがドイツに武器輸出を含めた軍事支援を求めると、ドイツ政府は「危機地域に殺傷武器を送って状況を悪化させるよりは、他の方式を選びたい」として軍用ヘルメットを送るにとどまり<ref>{{Cite web|和書|url=https://web.archive.org/web/20220127071143/https://japanese.joins.com/JArticle/287200 |title=独「軍用ヘルメット支援」に失望のウクライナ「次は枕か」|publisher=中央日報 |date=2021-01-27 |accessdate=2022-02-24}}</ref>、艦船の提供などを期待していたウクライナ側を失望させた<ref>{{Cite web|和書|url=https://web.archive.org/web/20220126213542/https://www.jiji.com/jc/article?k=2022012700215&g=int |title=独、ヘルメット5000個供与　ウクライナから失望の声 |publisher=[[時事通信]] |date=2021-01-27 |accessdate=2022-02-26}}</ref>。[[2022年ロシアのウクライナ侵攻]]が始まると、ドイツはアメリカと協調して[[対戦車ミサイル]]1000基の供与を決定した<ref>{{Cite web|和書|url=https://mainichi.jp/articles/20220227/k00/00m/030/009000c |title=独、ウクライナに武器供与へ 慎重姿勢転換 「侵略軍から防衛」 |publisher=[[毎日新聞]] |date=2022-02-27 |accessdate=2022-02-26}}</ref>。2023年には、主力戦車[[レオパルト2]]の供与と導入国による再輸出を許可した<ref>[https://www.sankei.com/article/20230125-6JUR7IQUKRPBNOJUK6MBXLMYIY/独がレオパルト2のウクライナ供与を「決定」、他国の再輸出も許可 米も主力戦車供与へ] [[産経デジタル|産経新聞ニュース]]（2023年1月25日）2023年4月19日閲覧</ref>。人口10万人あたりの武器輸出額で見ると、2025年のドイツは世界第8位である<ref name=":9">{{Cite web |title=Global Peace Index Map » The Most & Least Peaceful Countries |url=https://www.visionofhumanity.org/maps/ |website=Vision of Humanity |access-date=2024-06-11 |language=en-US}}</ref>。
+
+=== 平和 ===
+2018年の欧州委員会によると、世界の主要国を評価する際、欧州連合（EU）加盟国はドイツを最も肯定的に評価し、フランスと日本を僅差で上回った<ref name=":6" />。2022年、「積極的平和指数」の1項目である「近隣諸国との良好な関係の構築」において、ドイツは世界第1位となったが<ref name=":12">{{Cite web |url=https://www.visionofhumanity.org/wp-content/uploads/2022/01/PPR-2022-web.pdf |title=POSITIVE PEACE REPORT Analysing the factors that build, predict and sustain peace. |accessdate=2022-01-31}}</ref>、2024年、ドイツは「積極的平和指数」で11位、「近隣諸国との良好な関係の構築」で25位前後となった<ref name=":8">{{Cite web |url=https://www.visionofhumanity.org/wp-content/uploads/2024/04/PPR-2024-web.pdf |title=Positive Peace Report 2024 |access-date=2024-04-13}}</ref>。
+
+=== 日本との関係 ===
+{{Main|日独関係}}
+
+'''1603年 - 1870年'''
+[[江戸時代]]に来日したドイツ人の1人に、[[徳川綱吉]]とも会見した[[博物学者]][[エンゲルベルト・ケンペル]]がいる。ケンペルが著した広汎な『日本誌』は詳細な紀行文にして博物誌であり、[[ヨハン・ヴォルフガング・フォン・ゲーテ|ゲーテ]]も愛読したと伝えられる。日本に西洋医学を伝えた[[フィリップ・フランツ・フォン・シーボルト]]もドイツ人であり、[[江戸幕府]]が崩壊したあとも日本人は盛んにドイツから[[医学]]を学んだ。
+
+直接の外交関係は、[[1850年代]]にプロイセン王国の[[軍艦]]が[[品川 (東京都)|品川]]沖に来航したことに始まり、アメリカの[[マシュー・ペリー|マシュー・カルブレイス・ペリー]]による[[黒船来航]]のように武力で外交を開こうとした。このため、[[1911年]]まで（すなわち[[幕末]]から[[明治]]まで）の日独関係は[[不平等条約]]で結ばれていた。しかし、後述のように文化交流では重要な国となった。さらに歴史的経過を見ると、ドイツ帝国成立（1871年）と[[明治維新]]（1868年）がほぼ同じ時期に起こった点も大きい。
+
+'''1871年 - 1945年'''
+[[ファイル:在ドイツ日本公使館印.png|thumb|200px|在ドイツ日本公使館の印（明治時代初期）]]
+1873年に[[岩倉使節団]]はベルリン<ref>[[久米邦武]] 編／田中彰 校注『[[米欧回覧実記]] 3』、（[[岩波文庫]]、1996年）301〜362頁</ref>、ハンブルク、ミュンヘン<ref>久米邦武 編／田中彰 校注『米欧回覧実記 4』（岩波文庫、1996年）194〜251b頁</ref> を歴訪しており、その当時の様子は『[[米欧回覧実記]]』にも詳しく記載されている。[[明治維新]]を経た[[1870年代]]から[[1880年代]]までの日本では、ドイツ帝国の文化や制度が熱心に学ばれ、[[近代化]]の過程に大きな影響を与えた。このため、日本の近代化は「ドイツ的近代化」であるとも言われている{{要出典|date=2011年3月}}。[[伊藤博文]]は、[[大日本帝国憲法]]の作成にあたって[[ベルリン大学]]の[[憲法学者]][[ルドルフ・フォン・グナイスト]]と[[ウィーン大学]]の[[ローレンツ・フォン・シュタイン|シュタイン]]に師事し、[[歴史法学]]を研究している。当時の[[帝国大学|東京帝国大学]]がヨーロッパから招聘した教員にはドイツ人が多く、明治9年（[[1876年]]）に[[エルヴィン・フォン・ベルツ]]が来日したのをはじめ、[[哲学]]では[[夏目漱石]]もその教えを受けて「ケーベル博士」と親しまれた[[ラファエル・フォン・ケーベル]]、化学では[[ゴットフリード・ワグネル]]などがいる。工学においては、[[大久保利通]]の命を受けた[[千住製絨所#井上省三|井上省三]]が、ザガン市（現・ポーランド領[[ジャガン]]）のカール・ウルブリヒト工場で紡績の[[生産技術]]を学び、日本に伝えている。その知識は現代の日本の製造業の礎となった。軍事においても、[[大日本帝国陸軍]]は[[普仏戦争]]後に軍制をフランス式からプロイセン式へと変え、その制度と理論による近代化に努め、[[日露戦争]]の勝利につながった。
+
+[[日清戦争]]後、ドイツはロシア帝国やフランスとともに日本に対し[[三国干渉]]を行った。さらに第一次世界大戦が勃発すると、日本は[[日英同盟]]により[[連合国 (第一次世界大戦)|連合国]]側に与し、ドイツ帝国、[[オーストリア・ハンガリー帝国]]など[[中央同盟国]]に対して開戦。ドイツの南太平洋の植民地や膠州湾租借地を攻略（[[青島の戦い]]）したほか、[[エムデン (軽巡洋艦・初代)|ドイツ巡洋艦エムデン]]の追撃戦、地中海へ[[第二特務艦隊]]を派遣しての対[[Uボート]]作戦にも参加した（「[[第一次世界大戦下の日本]]」も参照）。
+
+第一次世界大戦敗戦後、ドイツ帝国は崩壊し[[ヴァイマル共和政|ヴァイマル共和制]]が成立し、[[ヴェルサイユ条約]]によって莫大な賠償金を課され、全[[植民地]]の喪失とともに国内での軍事産業が制限された。そのためドイツは、ソ連や中国との密貿易関係を構築した。特に中国は[[タングステン]]を産出したため、[[中独合作]]を行い、[[日中戦争]]（[[支那事変]]）では[[蔣介石]]政権に最新の兵器と[[軍事顧問]]団を送り込み、日本軍を苦しめた。当時日本が高度に軍事的成長を果たすのに対して、ドイツは[[黄禍論]]も背景にあり、脅威を感じていた。その後、国際情勢の変動により、1936年には[[日独防共協定]]を締結。利害を共有する日独両国は親近感を深め、1940年には[[日独伊三国軍事同盟]]へと発展し、第二次世界大戦では枢軸国（同盟国）としてともに戦うこととなった。
+
+'''1945年 - 現在'''
+
+技術・経済面での交流は活発で、日本にとってヨーロッパ最大の貿易相手国となっている。特にドイツの[[自動車]]は日本でも高い人気を誇り、日本の輸入車の販売数上位3つは[[メルセデス・ベンツ]]、[[BMW]]、[[フォルクスワーゲン]]が占めている。文化や制度の面では第二次世界大戦前ほどの影響力を持たなくなったものの、[[クラシック音楽]]では[[ヨハン・ゼバスティアン・バッハ|バッハ]]や[[ルートヴィヒ・ヴァン・ベートーヴェン|ベートーヴェン]]をはじめとするドイツ（およびオーストリア）の作曲家の楽曲が愛好されている。これは他国でも同様ではあるものの、日本は[[イギリス]]と並び特にその傾向が強いといわれる。ドイツ語教育は、戦前のような英語に準ずる位置は失われたものの、なお多くの大学にドイツ文学科が設置されるなど、欧州語では[[英語]]、[[フランス語]]に次ぐ位置を占める。ドイツ映画の輸入は戦後しばらくはポルノ、西部劇B級作品に限定されていたものの、[[ニュー・ジャーマン・シネマ|ニュージャーマンシネマ]]ブームを経て1980年代ごろから娯楽作品もコンスタントに紹介されるようになっている。
+
+欧州連合が設立されてからは、欧州連合の中心国として交流してきた。
+
+ドイツでは、1999年1月から[[2000年]]9月までは「ドイツにおける日本年」と定められて日本が総合的に紹介された。また、日本では[[2005年]]と[[2006年]]に「日本におけるドイツ年」の諸企画が行われ、新しい形の日独交流が形成されている。2018年の欧州委員会の調査によると、ドイツでは65％の人が日本に対して好意的な見方をしている<ref>{{Cite web |title=Special Eurobarometer 479: Future of Europe - Link to ebs_479_vol_A_xls.zip {{!}} European Union Open Data Portal |url=https://web.archive.org/web/20190203030408/http://data.europa.eu/euodp/en/data/dataset/S2217_90_2_479_ENG/resource/4cf980aa-212e-42f4-8330-8e09d1eb5f98 |website=web.archive.org |date=2019-02-03 |access-date=2024-02-20}}</ref>。
+
+=== アメリカとの関係 ===
+ドイツの対米感情は非常に否定的であり、対米否定感情は欧州連合諸国の中でも圧倒的に高い。[[欧州委員会]]の調査によると、2018年にドイツで[[アメリカ合衆国|米国]]に否定的な意見を表明した人の割合は75％で、これは[[ロシア]]や[[中華人民共和国|中国]]に対する否定的意見の割合よりもさらに高い<ref name=":6" />。同じ年、アメリカの[[ピュー研究所]]の世論調査でも、ドイツでは73％の人がアメリカとの関係は悪いと主張していた。興味深いことに、アメリカでは70％の人がドイツとの関係はむしろ良好だと述べている<ref>{{Cite web |title=米国とドイツ、相互感情に大きな差 共同世論調査 |url=https://www.cnn.co.jp/world/35129266.html |website=CNN.co.jp |access-date=2024-12-22 |language=ja}}</ref>。
+
+=== 台湾との関係 ===
+ドイツ連邦議会の外交委員会は2024年7月に「台湾海峡の平和と安定の重要性」を支持する決議を採択しており、台湾側の公式広報はこれを歓迎する旨を伝えている<ref>{{Cite web|title=ドイツ連邦議会外交委員会、「台湾海峡の平和と安定の重要性」を支持する決議採択|url=https://jp.taiwantoday.tw/news.php?unit=148,149,150,151,152&post=255416|website=Taiwan Today|date=2024-07-09|access-date=2024-09-13|language=jp|first=Ministry of Foreign Affairs, Republic of|last=China (Taiwan)}}</ref>。
+
+2024年9月13日、ドイツ海軍のフリゲート艦と補給艦の2隻が台湾海峡を通過したと報じられた。複数の国際報道機関は、今回の通過が2002年以降で初めてと伝えている<ref name=":1">{{Cite web|title=ドイツ艦艇が台湾海峡を通過 中国の軍事的圧力をけん制か {{!}} NHK|url=https://www3.nhk.or.jp/news/html/20240913/k10014581641000.html|website=NHKニュース|date=2024-09-13|access-date=2024-09-13|last=日本放送協会}}</ref>。ドイツ政府は当該航行について「国際水域は国際水域であり、最短かつ安全な航路である」と説明し、国際法に基づく航行の自由および規則に基づく国際秩序を支持する観点から実施されたと位置付けた。一方、中国側はこれに対して批判的な反応を示したと報じられている<ref name=":1" />。
+
+== 軍事 ==
+{{main|ドイツ連邦軍}}
+[[ファイル:US_military_bases_in_Germany.png|サムネイル|在欧（在独）外国軍基地一覧]]
+ドイツには在欧アメリカ軍が常駐する。作戦指揮は[[アメリカ欧州軍]]から受ける。第二次世界大戦以降、ドイツの[[ラムシュタイン空軍基地]]に司令部を置いており、ドイツ国内に何か所か基地がある。ドイツは[[ニュークリア・シェアリング]]のための核兵器を装備している（ドイツ政府による核兵器発射権限はない）。
+
+[[ファイル:Bundeswehr Kreuz.svg|thumb|200px|ドイツ連邦軍の国籍マーク]]
+{{See also|ドイツ連邦軍}}
+同連邦軍（''Bundeswehr''）は[[ドイツ陸軍 (ドイツ連邦軍)|陸軍]]（''Heer''）、[[ドイツ海軍 (ドイツ連邦軍)|海軍]]（''Marine''）、[[ドイツ空軍 (ドイツ連邦軍)|空軍]]（''Luftwaffe''）、[[救護業務軍]]（''Zentraler Sanitätsdienst''）そして[[戦力基盤軍]]（''Streitkräftebasis''）に分けられる。
+
+ドイツは第2次世界大戦でのナチスの反省から、欧州連合（EU）の盟主でありながら軍事的には抑制を守ってきた。2018年時点においてドイツの軍事支出はGDP比1.24%で対GDP比としては世界94位だが<ref name="CIA" />、軍事費自体は世界第8位である。また、軍事支出は約495億ドルと低めに抑えられている<ref name="SIPRI">{{Cite report|author=Dr Nan Tian|author2=Alexandra Kuimova|author3=Dr Aude Fleurant|author4=Pieter D. Wezeman|author5=Siemon T. Wezeman|date=April 2019|title=TRENDS IN WORLD MILITARY EXPENDITURE, 2018(2018年の世界の軍事費の動向)|url=https://www.sipri.org/sites/default/files/2019-04/fs_1904_milex_2018.pdf|publisher=STOCKHOLM INTERNATIONAL PEACE RESEARCH INSTITUTE（ストックホルム国際平和研究所）|format=PDF|location =[[スウェーデン]] [[ソルナ]]|accessdate=2019-06-08}}</ref>。平時において連邦軍は国防大臣の指揮下に置かれる。ドイツが戦時に入れば（基本法は自衛のみを容認している）、首相が連邦軍の総司令官となる<ref>{{cite web|url=http://www.gesetze-im-internet.de/bundesrecht/gg/gesamt.pdf|title=Grundgesetz für die Bundesrepublik Deutschland, Artikel 65a,87,115b|publisher=Bundesministerium der Justiz|accessdate=19 March 2011|language=German}}</ref>。2011年5月現在、ドイツ連邦軍は職業軍人18万8000人と兵役最低6か月の18 - 25歳からなる徴集兵3万1000人を擁している<ref>{{cite web|url=http://www.bundeswehr.de/portal/a/bwde/!ut/p/c4/DcmxDYAwDATAWVgg7unYAugc8kSWI4OMIesTXXm002D8SeWQy7jRStshc-4p94L0hENCnXEGUvXXSuMKG8FwBd26TD9uIZiT/|title=Die Stärke der Streitkräfte|accessdate=5 June 2011|publisher=[[:en:Bundeswehr]]|language=German}}</ref>。ドイツ政府は職業軍人17万人、短期志願兵1万5000人へ縮小することを計画している<ref name="bwzukunft">{{cite web|url=http://www.bundeswehr.de/portal/a/bwde/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP3I5EyrpHK9pPKUVL3ikqLUzJLsosTUtJJUvbzU0vTU4pLEnJLSvHRUuYKcxDygoH5BtqMiAMTJdF8!/|title=Ausblick:Die Bundeswehr der Zukunft|accessdate=5 June 2011|publisher=:en:Bundeswehr|language=German}}</ref>。各軍には予備役兵がおり、軍事訓練や海外派兵に参加している。予備役の将来の兵力や機能に関する新たなコンセプトが2011年に発表された<ref name="bwzukunft" />。
+
+2022年のロシアによるウクライナ侵略以降は、防衛予算、武器輸出に関する姿勢を転換し、2024年には[[北大西洋条約機構]]（NATO）が求める「国内総生産（GDP）2%」に相当する717億ユーロ（約12兆円）の防衛予算を計上した。GDP2%に達するのは冷戦末期の1992年以来、32年ぶり<ref>{{Cite web |title=ドイツ、32年ぶり軍事費「GDP2%」超え 揺らぐ財政ルール 欧州安保「大転換」の現場③ |url=https://www.nikkei.com/article/DGXZQOGR1804D0Y4A410C2000000/ |website=日本経済新聞 |date=2024-04-25 |access-date=2024-04-25 |language=ja}}</ref>。
+
+ドイツ連邦軍と[[連邦警察 (ドイツ)|国境警備隊]]が国防を担っているほか、相互防衛条約に基づき6万人強の米軍が駐留している。ドイツはEUおよびNATOの主要構成国であり、ロシアなど東方諸国を主たる仮想敵国としてきた。時代の移り変わりとともに、政府は連邦軍の主任務を、従来の国土防衛から「国際紛争への対処」に移行させる方針を発表した。内容としては、[[2010年]]までに紛争地において[[NATO即応部隊]]などに参加する「介入軍」、平和維持活動にあたる「安定化軍」、両軍の後方支援を担当する「支援軍」の3つに再編成するものである。
+
+同連邦軍は、1996年から始まる[[コソボ紛争]]に投入され、[[セルビア]]への[[アライド・フォース作戦|空爆]]を実施して初陣を飾った<ref>{{cite news |title=日本は「ドイツを模範に…」 説教を垂れる中国に問う、困るのはどちらか |newspaper=[[産経新聞]] |date=2014-04-23|url=https://web.archive.org/web/20140323033636/http://sankei.jp.msn.com/world/news/140323/chn14032311110002-n1.htm|accessdate=2014-03-23|author =野口裕之 }}</ref>。以来、各地の戦争に参加しており、2011年現在、ドイツ兵約6900人が国際平和維持活動に参加して国外に駐留しており、この中にはNATO主導の[[国際治安支援部隊]]（ISAF）に参加して[[アフガニスタン]]や[[ウズベキスタン]]に駐留した4900人、[[コソボ]]駐留の1150人、[[国際連合レバノン暫定駐留軍]]の300人が含まれる<ref>{{cite web|url=http://www.bundeswehr.de/portal/a/bwde/einsaetze/einsatzzahlen?yw_contentURL=/C1256EF4002AED30/W264VFT2439INFODE/content.jsp|title=Einsatzzahlen – Die Stärke der deutschen Einsatzkontingente|accessdate=14 April 2011|publisher=:en:Bundeswehr|language=German}}</ref>。
+
+2011年まで、ドイツには18歳以上の男性に対する[[徴兵制|徴兵制度]]が存在し6か月の兵役期間が課せられていた。しかし、[[良心的兵役拒否]]者は同期間の{{仮リンク|民間役務|en|Zivildienst}}（''Zivildienst''）と呼ばれる老人介護や障害者支援などの社会奉仕活動、または[[消防団]]や[[赤十字]]に対する6年間のボランティア活動を選択することができた。兵役拒否者は年々増加し、近年では兵役を選択する者は2割に過ぎなくなっていた<ref name="mainichi20110704"/>。このドイツの徴兵制度は2011年7月1日をもって中止となった<ref name=":2" /><ref name="mainichi20110704">[http://mainichi.jp/select/world/news/20110704ddm007030204000c.html ドイツ：徴兵制を中止 志願制に移行、国防費削減へ]『毎日新聞』朝刊2011年7月4日（2011年7月7日閲覧）</ref><ref>{{cite news|title= Germany to abolish compulsory military service|author= Connolly, Kate|url= https://www.theguardian.com/world/2010/nov/22/germany-abolish-compulsory-military-service|newspaper =The Guardian|location =UK|date= 22 November 2010|accessdate =7 April 2011}}</ref><ref>{{cite news|title = Marching orders for conscription in Germany, but what will take its place?|author =Pidd, Helen|url= https://www.theguardian.com/world/2011/mar/16/conscription-germany-army|newspaper =The Guardian|location =UK|date =16 March 2011|accessdate =7 April 2011}}</ref>。しかし、徴兵制の廃止により、それまでボランティアとして慈善活動に従事させられた兵役拒否者がいなくなってしまい、老人介護などの福祉に多大な経済的負担が発生する懸念が持たれており<ref>{{Cite web|和書|url=https://www.newsweekjapan.jp/stories/world/2010/10/post-1685.php|title=ドイツ徴兵制廃止の思わぬ副作用|publisher=[[ニューズウィーク]]日本版|date=2010-10-07|accessdate=2011-07-07}}</ref>、ドイツ政府は補充対策を検討している<ref>{{Cite web|和書|url=http://www.nikkei.com/news/category/article/g=96958A9C9381959FE2E3E2E7858DE2E3E2E5E0E2E3E39494E3E2E2E2;at=DGXZZO0195570008122009000000|title=ドイツ、伝統の徴兵制廃止|publisher=日本経済新聞|date=2011-07-01|accessdate=2011-07-07}}</ref>。[[2025年]]、[[ロシアのウクライナ侵攻|ウクライナ侵略]]などの事情を背景に徴兵制を部分的に復活させる事が閣議決定された<ref>{{cite news|url=https://www.nikkei.com/article/DGXZQOGR27COD0X20C25A8000000/?n_cid=SNSTW001&n_tw=1756314675|title=志願者不足なら徴兵制を部分的に復活　ドイツ、法案を閣議決定|newspaper=[[日本経済新聞]]|date=2025-08-28|accessdate=2025-08-28}}</ref>。
+
+2001年以降、女性軍人に対する制限が廃止され全ての軍務に従事できるようになったが、女性は徴兵制の対象ではなかった。2011年時点で約1万7500人の女性の現役兵と予備役兵がいる<ref>{{cite web|url=http://www.bundeswehr.de/portal/a/bwde/!ut/p/c4/FcwxEoUgDAXAE0l6O0_x1YZ5QMSMEp2In-urs_3STC_FXzKqHIqdRpqi9KG50BK7qxpL3Qy8VHbZbk07MqtbDDerF_WJzYdGv286DbmAJj26iLgynaUMD6qutPs!/
+|title=Frauen in der Bundeswehr|accessdate=14 April 2011|publisher=:en:Bundeswehr|language=German}}</ref>。
+
+2024年に[[経済平和研究所]]が発表した軍事力ランキングでは、ドイツは上位10カ国にランクインしていない。つまり、ドイツの軍事力は、1位[[アメリカ合衆国|アメリカ]]、2位[[中華人民共和国|中国]]、3位[[ロシア]]、4位[[フランス]]、5位[[イギリス]]、6位[[インド]]、7位[[日本]]、8位[[大韓民国|韓国]]、9位[[イタリア]]、10位[[台湾]]に劣っている<ref>{{Cite web |title=New methodology ranks military might |url=https://www.visionofhumanity.org/new-methodology-ranks-military-might/ |website=Vision of Humanity |date=2024-07-30 |access-date=2024-12-22 |language=en-US |first=Puja |last=Pandit}}</ref>。
+
+=== 武器輸出 ===
+2025年時点で、ドイツの10万人あたりの武器輸出率は世界8位であり、これは経済平和研究所のデータに基づいている。同研究所による軍事化レベルの評価では、ドイツは1.994と算出され、世界的な3段階評価で「レベル1」に分類されている。しかしながら、この数値は「レベル2」の閾値に比較的近い位置にある<ref name=":9" />。[[人権蹂躙|人権弾圧]]国家や[[紛争地]]への武器輸出は原則禁止しているとされるが、実際には[[サウジアラビア]]のような人権弾圧の疑いのある国や、[[イスラエル]]のように[[イスラエルの大量破壊兵器|核保有の疑い]]があり、[[パレスチナ問題]]のような不和を抱える国にも輸出されている<ref>{{cite news|和書 |title=ドイツとイスラエルの和解とパレスチナ問題 |newspaper=SYNODOS |date=2013-10-08 |url=https://synodos.jp/opinion/international/5768/ |author=武井彩佳 |authorlink=武井彩佳|accessdate=2023-04-29}}</ref><ref>{{cite news |title=ドイツ:武器輸出決定で社民党に批判 サウジに巡視艇など|newspaper=毎日新聞|date=2014-02-05 |url=https://web.archive.org/web/20140222113255/http://mainichi.jp/select/news/20140205k0000e030210000c.html | accessdate=2014-02-11}}{{リンク切れ|date=2017年10月}}</ref>。また、[[地政学]]的に[[国家安全保障|直接的な脅威]]となるロシアと戦うウクライナへの武器輸出について、賛否両論があったが、[[世論]]に押される形で武器輸出を容認するようになった<ref>{{Cite web |title=ドイツ、32年ぶり軍事費「GDP2%」超え 揺らぐ財政ルール 欧州安保「大転換」の現場③ |url=https://www.nikkei.com/article/DGXZQOGR1804D0Y4A410C2000000/ |website=日本経済新聞 |date=2024-04-25 |access-date=2024-04-25 |language=ja}}</ref>。ドイツの武器輸出は伸びており、2013年に輸出した武器の総額は、前年比24 %増の58億5000万[[ユーロ]]（約8015億[[円 (通貨)|円]]）であった。一方、ドイツ国民の間には武器輸出に反対する声が強く、2012年の[[世論調査]]では、ドイツ人の3分の2が武器輸出に反対しているとする調査もある<ref>{{cite news |title=焦点：「平和主義」か「産業保護」か、武器輸出規制に揺れるドイツ |newspaper=ニューズウィーク|date=2014-07-26 |url=https://www.newsweekjapan.jp/headlines/world/2014/07/131085.php | accessdate=2014-08-12 }}</ref>。
+
+=== 主力兵器 ===
+<gallery>
+Leopard 2 A5 der Bundeswehr.jpg|ドイツ陸軍の[[レオパルト2]]主力戦車
+Eurofighter 9803 5.jpg|ドイツ空軍の[[ユーロファイター タイフーン|ユーロファイター]]戦闘機
+Fregatte Karlsruhe.jpg|[[アフガニスタン紛争 (2001年-2021年)|「不朽の自由」作戦]]に参加したドイツ海軍の[[ブレーメン級フリゲート|ブレーメン級フリゲート艦]]「[[カールスルーエ (フリゲート・2代)|カールスルーエ]]」が[[ソマリア]]沖で難民の乗った船を保護している
+</gallery>
+{{節スタブ}}
+
+== 地理 ==
+{{Main|ドイツの地理}}
+ドイツは[[西ヨーロッパ|西欧]]および[[中央ヨーロッパ|中欧]]に属し<ref>"[http://100.yahoo.co.jp/detail/%E8%A5%BF%E6%AC%A7/ 西欧]"{{リンク切れ|date=2013年12月}}、{{Cite web|和書|url = http://100.yahoo.co.jp/detail/%E4%B8%AD%E6%AC%A7/|title = 中欧|accessdate = 2011-07-15|publisher=日本大百科全書（[[小学館]]）}}{{リンク切れ|date=2017年9月}}</ref>、北に[[デンマーク]]、東に[[ポーランド]]と[[チェコ]]、南に[[オーストリア]]と[[スイス]]、南西に[[フランス]]と[[ルクセンブルク]]、そして北西に[[ベルギー]]と[[オランダ]]とそれぞれ国境を接しており、国土はおおよそ北緯47 - 55度（[[ジルト島]]の北端が55度）、東経5 - 16度の範囲に位置している。総面積は35万7022平方キロメートルに及び、[[領土]]34万8672平方キロメートル、[[領海]]8350平方キロメートルからなる。この面積はヨーロッパ第5位、世界第64位である<ref name="CIA"/>。
+
+標高は南部の[[アルプス山脈]]最高峰[[ツークシュピッツェ]]の2962[[メートル]]から、北西部の北海（{{lang|de|Nordsee}}）および北東部のバルト海（{{lang|de|Ostsee}}）海岸に及ぶ。中位山地、[[北ドイツ低地]]（最低地点は{{仮リンク|ヴィルシュターマールシュ|de|Amt Wilstermarsch}}の海抜3.54メートル）には[[ライン川]]、ドナウ川、[[エルベ川]]が流れている。
+
+おもな天然資源は、[[鉄鉱石]]、[[石炭]]、[[炭酸カリウム]]、木材、[[褐炭]]、[[ウラン]]、[[銅]]、[[天然ガス]]、塩、[[ニッケル]]、[[農地|可耕地]]と水である<ref name="CIA">{{cite web|url = https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html|title = World Factbook|accessdate = 26 March 2011|publisher=CIA}}</ref>。
+[[ファイル:Deutschland topo.jpg|thumb|200px|地形図]]
+ドイツの地形は北から南へ、大きく5つの地域に分けられる。北ドイツ低地、中部山岳地帯、南西ドイツ中部山岳階段状地域、南ドイツアルプス前縁地帯、バイエルン・アルプスである。
+
+北ドイツ低地は全体的に[[標高]]100メートル以下の平坦な地域で、エルベ川などの川沿いにはリューネブルクハイデと呼ばれる大きな丘陵地がある。バルト海沿岸は平坦な砂浜や、断崖をなす岩石海岸となっている。中部山岳地帯は、おおよそ北は[[ハノーファー]]の辺りから南は[[マイン川]]に及ぶ地域で、ドイツの西部と中部に広がり、ドイツを南北に分けている。地形的に峡谷や低い山々、盆地など変化にとんでおり、山地としては西部の[[アイフェル丘陵]]と[[フンスリュック山地]]、中央部の[[ハルツ山地]]、東部のエルツ山脈がある。南西ドイツ中部山岳階段状地域には[[オーデンヴァルト]]や、ドイツ語で「黒い森」を意味する[[シュヴァルツヴァルト]]の標高1000メートルを超える広大な森林がある。アルプスはドイツ国内ではもっとも標高が高い地域で、南部の丘陵や大きな湖の多いシュヴァーベン＝バイエルン高原に加えて、広大な堆石平野とウンターバイエルン丘陵地、そしてドナウ低地を包括している。ここにはアルプスの山々に囲まれた絵のように美しい数々の湖や観光地があり、オーストリアとの国境地帯にはドイツの最高峰ツークシュピッツェ（標高2962メートル）がそびえ立つ。
+
+ドイツにおける火山活動は[[先カンブリア代]]に収束している。先カンブリア代末から始まった[[カレドニア造山運動|カレドニア変動]]や、後期[[古生代]]に起こった{{仮リンク|バリスカン造山運動|label=バリスカン（ヘルシニアン）変動|de|Variszische Orogenese}}はいずれも主要活動帯がドイツを横切っているものの、地表には痕跡が残っていない。バリスカン変動は2000[[キロメートル]]に及ぶ規模の大陸間の変動であった。現在のドイツの地形を決定したのは[[新生代]]における[[褶曲運動]]である。[[アルプス山脈|アルプス]]変動帯の活動により、最南部は標高1200メートルにいたるまで隆起した。ドイツにおけるアルプス変動帯は東アルプスと呼ばれている。同時に西部フランス国境に近いライン川に相当する位置に、[[ライン地溝]]を形成する。ライン地溝は、約500キロメートルにわたって南北に伸びる。
+
+ドイツ北部（[[北ヨーロッパ平野]]）の地表は[[氷河地形]]の典型例である。[[最終氷期]]においては北緯51度線にいたるまで[[氷河]]が発達し、ヨーロッパを横切る数千キロメートル規模の末端堆石堤を残した。その100 - 200キロメートルの海岸線方面には[[モレーン]]が残る。末端堆石堤とモレーンの北側に沿っていずれも氷食性の[[黄土|レス]]が堆積し、農業に適した肥沃な土壌が広がる。一方、モレーンの南側は土地が痩せている。ドイツに残る長大な河川はいずれも最終氷期の河川に由来するが、ポーランドの[[ヴィスワ川]]、ポーランド国境に伸びる[[オーデル川]]、エルベ川、ドイツ西部の[[ヴェーザー川]]が互いに連結し、網目状の流路を形成するなど、現在とは異なる水系が広がっていた。
+
+=== 気候 ===
+ドイツの大部分は[[ケッペンの気候区分]]でいう[[西岸海洋性気候]]に属し、温暖な偏西風と[[メキシコ湾流]]の北延である[[北大西洋海流]]の暖流によって緯度の割には[[温帯|比較的温和]]である<ref name="Germany">{{Cite web|和書|title=ドイツ|url=http://100.yahoo.co.jp/detail/%E3%83%89%E3%82%A4%E3%83%84/|publisher=日本大百科全書(小学館)|accessdate=2011-07-15}}{{リンク切れ|date=2013年12月}}</ref>。温かい海流が北海に隣接する地域に影響を与え、北西部および北部の気候は[[海洋性気候]]となっている。[[降雨]]は年間を通してあり、特に夏季に多い。冬季は温暖で夏季は（30[[セルシウス度|℃]]を超えることもあるが）冷涼になる傾向がある<ref name="climate">{{cite web|title=Climate in Germany|url=http://www.germanculture.com.ua/library/facts/bl_climate.htm|publisher=GermanCulture|accessdate=26 March 2011}}</ref><ref name="ikeuchi47">[[#池内(1992)|池内(1992)]],p.47.</ref>。
+
+東部はより[[大陸性気候]]的で、冬季はやや寒冷になる<ref name="Germany"/><ref name="ikeuchi47"/>。そして長い乾期がしばしば発生する。中部および南ドイツは過渡的な地域で、海洋性から大陸性までさまざまである。国土の大部分を占める海洋性および大陸性気候に加えて、南端にあるアルプス地方と中央ドイツ高地の幾つかの地域は低温と多い降水量に特徴づけられる<ref name="climate"/>。
+
+=== 自然 ===
+[[ファイル:Golden Eagle in flight - 5.jpg|thumb|[[イヌワシ]]は保護猛禽類であり、[[国章]]に用いられている]]
+ドイツは「ヨーロッパの地中海沿岸部山地混交林」と「大西洋北東部大陸棚海域」の2つの[[エコリージョン|生態系ブロック]]に分けられる<ref>{{cite web|title=Terrestrial Ecoregions|url=http://wwf.panda.org/about_our_earth/ecoregions/ecoregion_list/|publisher=WWF|accessdate=19 March 2011}}</ref>。2008年時点ではドイツの過半が耕地（34%）と森林・[[疎林]]（30.1%）に占められており、13.4%が放牧地で、11.8%が定住地・道路となっている<ref>{{cite web|last=Strohm|first=Kathrin|url=http://www.agribenchmark.org/fileadmin/freefiles/ccc_2010/Poster_Germany.pdf|title=Arable farming in Germany|publisher=Agri benchmark|date=May 2010|accessdate=14 April 2011}}</ref>。
+
+動植物は中央ヨーロッパにおいて一般的なものである。[[ブナ]]、[[カシ]]、およびその他の[[落葉樹]]が森林の3分の1を構成しており、また[[針葉樹]]が植林の結果、増加傾向にある。[[トウヒ]]と[[モミ]]の木が高地山脈を占めている一方で[[松]]や[[カラマツ]]を砂質土で見出だせる。[[シダ]]、花、菌類、そして[[コケ]]の多くの種がある。野生動物にはシカ、[[イノシシ]]、[[ムフロン]]、[[狐]]、[[アナグマ]]、[[ノウサギ]]、そして少数の[[ビーバー]]が含まれている<ref>{{cite book|last=Bekker|first=Henk|title=Adventure Guide Germany|year=2005|publisher=Hunter|isbn =9781588435033|page=14}}</ref>。
+
+ドイツには{{仮リンク|シュレースヴィヒ＝ホルシュタイン干潟国立公園|de|Nationalpark Schleswig-Holsteinisches Wattenmeer|preserve=1}}<!--翻訳スタブなため強制表示-->、{{仮リンク|ヤスムント国立公園|de|Nationalpark Jasmund}}、{{仮リンク|フォアポンメルン入り江地帯国立公園|de|Nationalpark Vorpommersche Boddenlandschaft}}、{{仮リンク|ミューリッツ国立公園|de|Müritz-Nationalpark}}、{{仮リンク|下オーデル渓谷国立公園|de|Nationalpark Unteres Odertal}}、{{仮リンク|ハルツ国立公園|de|Nationalpark Harz}}、[[ザクセン・スイス国立公園]]、{{仮リンク|バイエルンの森国立公園|de|Nationalpark Bayerischer Wald}}などの国立公園がある。ドイツ国内では400以上の動物園が運営されており、世界最多とされる<ref>{{cite web|title=Zoo Facts|url=http://www.americanzoos.info/Zoofacts.html|publisher=Zoos and Aquariums of America|accessdate=16 April 2011}}{{リンク切れ|date=2017年9月 |bot=InternetArchiveBot }}</ref>。[[ベルリン動物園]]はドイツ最古の[[動物園]]であり、ここには世界で最も多くの動植物種が収集されている<ref>{{cite web|url=http://www.zoo-berlin.de/zoo/unternehmen/historie.html|title=Der Zoologische Garten Berlin|publisher=Zoo Berlin|accessdate=19 March 2011|language=German}}</ref>。
+
+== 地方行政区分 ==
+{{Main|ドイツの地方行政区分}}
+ドイツには16の[[連邦州]]がある。[[ベルリン]]と[[ハンブルク]]は都市州と呼ばれ、単独で連邦州を形成する。[[ブレーメン]]と[[ブレーマーハーフェン]]も合わせて都市州となる。
+{{ドイツの地方行政区分|options=float:left;font-size:100%;border:3px;max-width:480px;width:50%;}}
+{{地域区分表|style="font-size:9%" |CONTENTS=
+ {{地域区分表列
+|NAMEJ={{Flagicon|Baden-Württemberg}} [[バーデン＝ヴュルテンベルク州]]
+|NAMEL=[[:de:Baden-Württemberg|Baden-Württemberg]]
+|POP=1078万6227
+|CAPJ=[[シュトゥットガルト]]
+|CAPL=[[:de:Stuttgart|Stuttgart]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Bayern}} [[バイエルン州|バイエルン自由州]]
+|NAMEL=[[:de:Freistaat Bayern|Freistaat Bayern]]
+|POP=1259万5891
+|CAPJ=[[ミュンヘン]]
+|CAPL=[[:de:München|München]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Berlin}} [[ベルリン]]
+|NAMEL=[[:de:Berlin|Berlin]]
+|POP=350万1872
+|CAPJ=
+|CAPL=
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Brandenburg}} [[ブランデンブルク州]]
+|NAMEL=[[:de:Brandenburg|Brandenburg]]
+|POP=249万5635
+|CAPJ=[[ポツダム]]
+|CAPL=[[:de:Potsdam|Potsdam]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Bremen}} [[ブレーメン州|自由ハンザ都市ブレーメン]]
+|NAMEL=[[:de:Freie Hansestadt Bremen|Freie Hansestadt Bremen]]
+|POP=66万1301
+|CAPJ=ブレーメン
+|CAPL=[[:de:Bremen|Bremen]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Hamburg}} [[ハンブルク|自由ハンザ都市ハンブルク]]
+|NAMEL=[[:de:Freie und Hansestadt Hamburg|Freie und Hansestadt Hamburg]]
+|POP=179万8836
+|CAPJ=
+|CAPL=
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Hessen}} [[ヘッセン州]]
+|NAMEL=[[:de:Hessen|Hessen]]
+|POP=609万2126
+|CAPJ=[[ヴィースバーデン]]
+|CAPL=[[:de:Wiesbaden|Wiesbaden]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Mecklenburg-Vorpommern}} [[メクレンブルク＝フォアポンメルン州]]
+|NAMEL=[[:de:Mecklenburg-Vorpommern|Mecklenburg-Vorpommern]]
+|POP=163万4734
+|CAPJ=[[シュヴェリーン]]
+|CAPL=[[:de:Schwerin|Schwerin]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Niedersachsen}} [[ニーダーザクセン州]]
+|NAMEL=[[:de:Niedersachsen|Niedersachsen]]
+|POP=791万3502
+|CAPJ=ハノーファー
+|CAPL=[[:de:Hannover|Hannover]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Nordrhein-Westfalen}} [[ノルトライン＝ヴェストファーレン州]]
+|NAMEL=[[:de:Nordrhein-Westfalen|Nordrhein-Westfalen]]
+|POP=1784万1956
+|CAPJ=[[デュッセルドルフ]]
+|CAPL=[[:de:Düsseldorf|Düsseldorf]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Rheinland-Pfalz}} [[ラインラント＝プファルツ州]]
+|NAMEL=[[:de:Rheinland-Pfalz|Rheinland-Pfalz]]
+|POP=399万9117
+|CAPJ=[[マインツ]]
+|CAPL=[[:de:Mainz|Mainz]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Saarland}} [[ザールラント州]]
+|NAMEL=[[:de:Saarland|Saarland]]
+|POP=101万3352
+|CAPJ=[[ザールブリュッケン]]
+|CAPL=[[:de:Saarbrücken|Saarbrücken]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Sachsen}} [[ザクセン州|ザクセン自由州]]
+|NAMEL=[[:de:Freistaat Sachsen|Freistaat Sachsen]]
+|POP=413万7051
+|CAPJ=[[ドレスデン]]
+|CAPL=[[:de:Dresden|Dresden]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Sachsen-Anhalt}} [[ザクセン＝アンハルト州]]
+|NAMEL=[[:de:Sachsen-Anhalt|Sachsen-Anhalt]]
+|POP=231万3280
+|CAPJ=[[マクデブルク]]
+|CAPL=[[:de:Magdeburg|Magdeburg]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Schleswig-Holstein}} [[シュレースヴィヒ＝ホルシュタイン州]]
+|NAMEL=[[:de:Schleswig-Holstein|Schleswig-Holstein]]
+|POP=283万7641
+|CAPJ=[[キール (都市)|キール]]
+|CAPL=[[:de:Kiel|Kiel]]
+ }}
+ {{地域区分表列
+|NAMEJ={{Flagicon|Thüringen}} [[テューリンゲン州|テューリンゲン自由州]]
+|NAMEL=[[:de:Freistaat Thüringen|Freistaat Thüringen]]
+|POP=222万1222
+|CAPJ=[[エアフルト]]
+|CAPL=[[:de:Erfurt|Erfurt]]
+ }}
+}}
+
+=== 主要都市 ===
+{{Main|ドイツの都市の一覧}}
+ドイツは小邦分立による[[地方分権]]の歴史が長いため、[[ロンドン]]や[[パリ]]、[[東京]]のような首都への一極集中はしていない。人口は2021年のデータを使用。
+{| class="wikitable" style="font-size:small"
+!人口順!!都市 !! 行政区分 !! 人口(人)
+|-
+!1
+|'''[[ベルリン]]'''||[[ベルリン]]||style="text-align:right" | 3,891,385
+|-
+!2
+|'''[[ハンブルク]]'''||[[ハンブルク]]||style="text-align:right" | 1,915,689
+|-
+!3
+|'''[[ミュンヘン]]'''||[[バイエルン州]]||style="text-align:right" | 1,618,112
+|-
+!4
+|'''[[ケルン]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 1,083,498
+|-
+!5
+|'''[[フランクフルト・アム・マイン|フランクフルト]]'''||[[ヘッセン州]]||style="text-align:right" | 841,795
+|-
+!6
+|'''[[シュトゥットガルト]]'''||[[バーデン＝ヴュルテンベルク州]]||style="text-align:right" | 685,143
+|-
+!7
+|'''[[デュッセルドルフ]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 653,167
+|-
+!8
+|'''[[ドルトムント]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 653,167
+|-
+!9
+|'''[[エッセン]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 608,156
+|-
+!10
+|'''[[ライプツィヒ]]'''||[[ザクセン州]]||style="text-align:right" | 659,265
+|-
+!11
+|'''[[ブレーメン]]'''||[[ブレーメン州]]||style="text-align:right" | 580,355
+|-
+!12
+|'''[[ドレスデン]]'''||[[ザクセン州]]||style="text-align:right" | 594,693
+|-
+!13
+|'''[[ハノーファー]]'''||[[ニーダーザクセン州]]||style="text-align:right" | 573,259
+|-
+!14
+|'''[[ニュルンベルク]]'''||[[バイエルン州]]||style="text-align:right"|547,642
+|-
+!15
+|'''[[デュースブルク]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 495,405
+|-
+!16
+|'''[[ボーフム]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 368,457
+|-
+!17
+|'''[[ヴッパータール]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 361,423
+|-
+!18
+|'''[[ビーレフェルト]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 342,643
+|-
+!19
+|'''[[ボン]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 339,426
+|-
+!20
+|'''[[ミュンスター]]'''||[[ノルトライン＝ヴェストファーレン州]]||style="text-align:right" | 343,476
+|-
+|}
+<gallery>
+Berlin Mitte by night.JPG|[[ベルリン]]<ref>[[2016年]]に発表された「[[世界都市|世界の都市総合力ランキング]]」では、世界9位と評価された [http://www.mori-m-foundation.or.jp/ius/gpci/ 世界の都市総合力ランキング(GPCI) 2016] 森記念財団都市戦略研究所 2016年10月31日閲覧。</ref>
+Hamburger Skyline - panoramio (1).jpg|[[ハンブルク]]
+Stadtbild München.jpg|[[ミュンヘン]]
+Kölnpanorama bei Abenddämmerung (2).JPG|[[ケルン]]
+Frankfurt am Main, Skyline von der Alten Brücke.jpg|[[フランクフルト]]
+</gallery>
+
+== 経済 ==
+{{main|ドイツの経済}}
+{{see also|ドイツ帝国#経済|ナチス・ドイツの経済|西ドイツ#経済改革|ルール地方}}
+2023年のドイツの[[国内総生産]]（GDP）予測は4兆4298億米ドルであり、アメリカ、中国に次ぐ世界第3位の[[経済大国]]である<ref>[http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?pr.x=28&pr.y=11&sy=2013&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=134&s=NGDPD%2CNGDPDPC&grp=0&a= IMF:World Economic Outlook Database]</ref>。ヨーロッパではGDP1位であり、世界で有数の先進工業国である<ref name=":2" />。ビスマルク統一直後にイギリスを抜いて世界最大の経済大国となり、1890年代にはアメリカに抜かれたものの、今度はアメリカ資本の集中的な投下を受けて充実を維持した。両国は第二次産業革命の牽引役と言われている。
+
+[[ファイル:Mercedes-Benz_W223_IMG_6663.jpg|thumb|200px|[[メルセデス・ベンツ・Sクラス]]。世界第3位、欧州第1位のGDPを擁するドイツは、世界有数の自動車輸出国である。]]
+ドイツの[[主要産業]]は工業で、[[自動車産業]]を含む[[機械工業]]、[[化学工業]]、[[金属産業]]、[[電気製品]]製造業が発達している<ref name=":2" />。大企業より中小企業の割合が他の先進国より高い。ドイツは戦前から[[科学]]技術に優れており、ガソリン自動車や[[ディーゼルエンジン]]を発明したのはドイツ人であった。また現在見られる液体燃料[[ロケット]]（[[スペースシャトル]]、[[ソユーズ]]、[[アリアン]]、[[H-IIA]]など、固体ロケット[[M-Vロケット]]などを除く）は戦時中にナチスが開発した技術が基礎となっている。現在でも技術力があり、自動車は[[メルセデス・ベンツ]]、[[ポルシェ]]、[[BMW・5シリーズ|BMW]]、[[アウディ]]、[[フォルクスワーゲン]]といったブランドが世界的に有名である。そのほか、化学・薬品大手の[[バイエル (企業)|バイエル]]、[[ベーリンガーインゲルハイム]]、[[BASF]]、電機大手の[[シーメンス]]、[[ロバート・ボッシュ (企業)|ボッシュ]]、航空会社の[[ルフトハンザドイツ航空]]、金融の[[ドイツ銀行]]、[[コメルツ銀行]]、経営管理ソフトウェア大手の[[SAP AG|SAP]]、光学機器メーカーの[[カール・ツァイス]]、[[ライカ]]、機械メーカーの[[MAN (企業)|MAN]]、[[フォイト]]、[[リープヘル]]、[[クーカ]]、[[シュマルツ (企業)|シュマルツ]]、[[ティッセンクルップ]]、世界最大の[[映画用カメラ]]メーカーである[[アーノルド&リヒター]]、人工透析で世界シェア40%の[[フレゼニウス]]、呼吸器メーカーの{{仮リンク|ドレーゲル|de|Drägerwerk}}など、世界的に活動している大企業は多い。
+
+また生活用品や日用品においても、家庭用・業務用洗剤の[[ヘンケル]]、清掃機器の[[ケルヒャー]]、高級キッチンの[[ミーレ]]、電気シェーバーや電動歯ブラシの[[ブラウン (企業)|ブラウン]]、スポーツ用品の[[アディダス]]、[[プーマ]]、高級時計の[[ランゲ・アンド・ゾーネ]]や軍用時計の[[チュチマ]]、世界最初の[[電波時計]]を作った[[ユンハンス]]、筆記用具の[[モンブラン (企業)|モンブラン]]、[[ペリカン (企業)|ペリカン]]<ref group="注釈">いずれも現在の会社そのものはスイスの企業傘下である。</ref>、[[ロットリング]]、[[ラミー (企業)|ラミー]]、[[ファーバーカステル]]、[[ステッドラー]]、音響機器の[[ゼンハイザー]]、[[ベリンガー]]や世界初の[[ヘッドフォン|ステレオヘッドフォン]]を発売した[[ベイヤーダイナミック|ベイヤー]]、ぬいぐるみの[[テディベア]]で知られる[[マルガレーテ・シュタイフ|シュタイフ]]など世界的に著名な企業が多い。
+
+[[ファイル:Skyline Frankfurt 2011-01.jpg|thumb|200px|ドイツ経済の中枢であり、[[世界都市]]である[[フランクフルト・アム・マイン|フランクフルト]]は、世界有数の[[金融センター]]であり、国際的な[[フランクフルト空港|ハブ空港]]を持つ。]]
+
+旧西ドイツは日本同様、第二次世界大戦後に急速な経済発展を成し遂げたが、1990年の東西統一以降旧東ドイツへの援助コストの増大、社会保障のためのコスト増大などが重荷となって経済が低迷した。また、旧東ドイツでは市場経済に適応できなかった旧国営企業の倒産などで失業が増え、旧東側では失業率が17.2%に達し、深刻な問題となっていた。企業が人件費の安いポーランドやチェコなどへ生産拠点を移転させようとしているために、ますます失業が増えるのではないかとの懸念もある{{要出典|date=2008年8月}}。しかしこの数年はGDPは増加傾向であり<ref name="GDPtrend">[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/Content/Statistics/TimeSeries/EconomicIndicators/NationalAccounts/Content100/kvgr111graf0,templateId=renderPrint.psml DEStatis,GDPのトレンド]</ref>、失業率も減少して2011年の時点では1991年以来の低水準となっている<ref name="smam_unemploymenttrend">「[http://www.bloomberg.co.jp/apps/news?pid=90920012&sid=awKBKrcJ98V8 ドイツ：5月の失業者数、23カ月連続減少-失業率は91年来最低]」ブルームバーグ</ref>。OECDのデータによると、ベルリンの1人当たりの税引き後可処分所得（物価ベース）はドイツの平均を下回っており、これは世界でも珍しいことで、先進国の首都としては例外的である<ref>{{Cite web |title=OECD Statistics |url=https://stats.oecd.org/ |website=stats.oecd.org |access-date=2024-06-01}}</ref>。
+
+かつては全ての州で「[[閉店法]]（{{lang|de|Ladenöffnungszeit}}）」により、（空港や駅構内の売店、ガソリンスタンド併設のコンビニを除く）小売店は平日（月曜日から土曜日まで）は20時から翌朝6時まで、日曜・祝日は終日営業できないといった規則が定められていたが、2006年の[[2006 FIFAワールドカップ|FIFAワールドカップ]]開催をきっかけとして営業時間が延長された。同時に各州に閉店法に関する詳細を定める権限も移り、一部では閉店法自体が撤廃される州も出てきている。大型のショッピングセンターやトルコ人、イタリア人、ギリシャ人、中国人など外国人が経営する店は深夜や土日も開店している場合も多い。
+
+2010年代後半からユーロ安により安定的な[[経常収支]]の黒字を記録してきた。2019年の経常黒字額は2930億ドルと4年連続世界最高水準を記録。経常黒字の対[[国内総生産]]比は、欧州委員会が持続可能と見なす水準6.0%を超え7.6%に達した<ref>{{Cite web|和書|date=2020-02-04 |url=https://jp.reuters.com/article/germany-economy-currentaccount-idJPKBN1ZX29Q/ |title=ドイツ経常黒字、19年も世界最大 日本は2位 |publisher=ロイター |accessdate=2023-04-19}}</ref>。
+
+=== 電力・エネルギーと環境問題 ===
+2008年時点、ドイツは世界第6位のエネルギー消費国であり<ref>{{cite web|url = http://www.eia.gov/countries/country-data.cfm?fips=GM|title = Overview/Data:Germany|date = 30 June 2010|publisher = U.S. Energy Information Administration|accessdate = 19 April 2011}}</ref>、主要エネルギーの60%を輸入に依存していた<ref>{{cite web|title=Energy imports, net (% of energy use)|url=http://data.worldbank.org/indicator/EG.IMP.CONS.ZS|publisher=The World Bank Group|accessdate=18 April 2011}}</ref>。2022年のエネルギーの輸入依存度は69%となっている<ref>[https://ag-energiebilanzen.de/wp-content/uploads/2023/04/AGEB_Infografik_04_2023_Importabhaengigkeit_2022.pdf Importabhängigkeit der deutschen Energieversorgung 2022] AGEB</ref>。政府はエネルギー効率改善と再生可能エネルギー活用を推進している<ref>[http://www.tatsachen-ueber-deutschland.de/jp/environment-climate-energy/startseite-klima/paths-to-a-modern-and-sustainable-climate-and-energy-policy.html ドイツの実情:先進的かつ持続的な気候・エネルギー政策に向けて]、2011年7月8日閲覧</ref>。[[エネルギー効率]]は1970年前半以降改善しており、政府は2050年までに国内電力需要を再生可能エネルギーのみで賄うことを目標に掲げていた<ref>{{cite news|title=*Environment *Renewable energy Germany targets switch to 100% renewables for its electricity by 2050|url=https://www.theguardian.com/environment/2010/jul/07/germany-renewable-energy-electricity|accessdate=18 April 2011|newspaper=The Guardian|date=7 July 2010|publisher=Reuters Berlin|location=UK}}</ref>。2010年時点でのエネルギー源は石油（33.8%）、[[褐炭]]を含む石炭（22.8%）、天然ガス（21.8%）、原子力（10.8%）、[[水力発電]]や[[風力発電]]（1.5%）、そしてその他の再生可能エネルギー（7.9%）となっていたが<ref>{{Cite web|url=http://www.bmwi.de/BMWi/Redaktion/Binaer/Energiedaten/energiegewinnung-und-energieverbrauch2-primaerenergieverbrauch.xls|title=Primärenergieverbrauch nach Energieträgern|language=German|publisher=Bundesministerium für Wirtschaft und Technologie|date=December 2010|accessdate=2011-04-18|archiveurl=https://web.archive.org/web/20110427062607/http://www.bmwi.de/BMWi/Redaktion/Binaer/Energiedaten/energiegewinnung-und-energieverbrauch2-primaerenergieverbrauch.xls|archivedate=2011-04-27|url-status=dead|url-status-date=2017-09}}</ref>、2022年の発電構成は風力21.7%、褐炭20.1%、天然ガス13.8%、石炭11.2%、太陽光10.5%、[[バイオマス]]7.7%、原子力6.0%、水力3.0%、その他の再生可能エネルギー1.0%、その他4.9%となっており<ref>[https://ag-energiebilanzen.de/wp-content/uploads/2023/03/AGEB_Infografik_02_2023_Stromerzeugung_2022-1.pdf Struktur der Stromerzeugung in Deutschland 2022] AGEB</ref>、このうち電力消費中の再生可能エネルギーは46％に達し、新たな目標として2035年までに国内電力需要を再生可能エネルギーのみで賄うことを目標に掲げた<ref>[https://www.asahi.com/sdgs/article/14842235 ロシアのウクライナ侵攻で、脱炭素を加速するドイツ　熊谷徹のヨーロッパSDGリポート【2】]</ref>。
+2000年、政府と[[ドイツの原子力発電所|原子力産業]]は2021年までに全ての[[原子力発電所]]を閉鎖することに合意した<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/4295389.stm|title=Germany split over green energy|work=BBC News|date= 25 February 2005|accessdate=27 March 2011}}</ref>。さらに2011年の日本の[[福島第一原子力発電所事故]]を受けて[[原子力発電]]（原発）からの脱却を決め、最後まで稼働していた3基を2023年4月15日に送電網から切り離した<ref name="asahi">「[https://www.asahi.com/articles/DA3S15613255.html ドイツ全原発停止 なお課題：廃炉に10～15年 最終処分場も未定]」『朝日新聞』朝刊2023年4月18日（国際面）同日閲覧</ref>。近年は[[再生可能エネルギー]]産業が急成長している<ref name="REpromotion1">{{Cite web|和書|title=市民も潤う太陽光発電 脱温暖化社会へ 欧州の挑戦・2 - 地球環境 |url=https://www.asahi.com/special/070110/TKY200705110187.html |access-date=2022-12-12 |publisher=asahi.com（朝日新聞） |date=2007-05-11}}</ref><ref name="REpromotion2">[http://www.eic.or.jp/news/?act=view&word=&category=&oversea=1&serial=18985 再生可能エネルギーが電力消費量の14.2%にまで増加、雇用増大、売り上げ250億ユーロに] EICネット（2008年7月31日）</ref>。また電力に関しては2008年以降、輸出が輸入を上回っている<ref>[https://energy-shift.com/news/686fba8d-956a-45a3-8b61-15b7dea97909 「ドイツはフランスの原発由来電力を輸入している」は本当か] 2019年08月06日</ref><ref>[https://www.renewable-ei.org/activities/column/20180302.html ドイツは電力の輸出国だ ―原子力主体のフランスにも供給] 自然エネルギー財団 2018年3月2日</ref>。
+
+ドイツは[[京都議定書]]や生物多様性、排出量規制、リサイクルそして再生可能エネルギーの利用などを推進するその他の諸条約に係わっており、世界レベルでの持続可能な開発を支持している<ref>{{cite press release
+|url = http://www.kst.portalu.de/dokumente/Aktuelles/Inventar-Bericht_Treibhausgas_2008.pdf|title = Deutschland erfüllte 2008 seine Klimaschutzverpflichtung nach dem Kyoto-Protokoll|publisher = Umweltbundesamt|date =1 February 2010|accessdate =19 March 2011|language=German}}</ref>。ドイツ政府は大幅な排出量削減運動に着手しており、国内の排出量は低下している<ref>{{cite news|url= http://articles.timesofindia.indiatimes.com/2008-06-21/pollution/27752791_1_energy-security-global-energy-germany|title =Germany greenest country in the world|newspaper =The Times of India|location = New Delhi|date =21 June 2008|accessdate = 26 March 2011}}</ref>。しかしながら、2019年時点でのドイツの温室効果ガス排出量は中国、アメリカ、インド、ロシア、日本に続き世界第6位であり、依然としてEU最大である<ref>[https://www.jccca.org/global-warming/knowleadge04 データで見る温室効果ガス排出量（世界）]</ref>。
+
+特に電力系統において、1990年から[[固定価格買い取り制度]]を採用、[[スマートグリッド]]を構築中である。1994年、基本法第20条a項として「国は未来の世代に対する責任という面においても生活基盤としての自然を保護するものとする」という条文が採用された。経済と環境は対立するものではなく、大気、土壌、水質の保護は経済発展の前提条件とされた。背景には、国土が狭いうえに海岸線が短いため埋立地も十分に確保できず、そのうえ廃棄物の他国への越境移動が禁止されたため、自国内で処理せざるを得なくなったことである。環境保護に対する国民の意識が高まり、1998年に同盟90/緑の党が連立政権に参加した。
+[[ファイル:Windgermany.JPG|thumb|ドイツでの風力発電]]
+
+* 1986年 - 廃棄物発生防止・処理規正法
+
+: 産業廃棄物などの発生源によって規制する規則。
+
+* 1991年6月 - 包装材廃棄物政令
+* 1994年10月 - リサイクル経済促進・廃棄物無公害処分確保法（廃棄物リサイクル促進法）
+* 1996年10月 - 同法施行
+
+: 製造業者の関与を深める法体系を作った。
+
+* 2002年1月 - [[デポジット制]]の制定
+
+: 環境に優しくない素材のすべての容器包装廃棄物にデポジットが課される。
+
+* 2011年7月 - 脱[[原子力発電所|原発]]法の成立
+: 2011年3月の[[福島第一原子力発電所事故]]の発生を機に反原発の声が高まり、2022年までに国内17基の原発を全て停止することになった<ref>[https://www.huffingtonpost.jp/toru-kumagai/nuclear-power-abolition-in-germany_b_6822166.html ドイツの脱原子力政策決定から4年・ 国民的合意は揺るがない] ハフィントンポスト 2015年3月19日</ref>。2023年4月に全ての原子力発電所が稼働を停止<ref name="asahi"/>。
+
+== 交通 ==
+{{main|{{仮リンク|ドイツの交通|de|Verkehr in Deutschland}}}}
+ヨーロッパの中央部に位置するドイツは輸送機関の中枢となっている。このことは密集化され、かつ近代化された輸送ネットワークに反映されている。自動車大国であるだけに道路網も発達しており、[[アウトバーン]]と呼ばれる[[高速道路]]が主要都市を結んでおり、総延長は世界第3位である<ref>{{cite press release|url= http://www.presse.adac.de/standpunkte/Verkehr/Autobahn_Temporegelung.asp?active1=tcm:11-18784-4|title = Autobahn-Temporegelung|publisher =[[:en:ADAC]]|date =June 2010|accessdate =19 March 2011|language= German}}</ref>。[[鉄道]]は[[ドイツ鉄道]]（''DB'', ''Deutsche Bahn''）が全国に路線を張り巡らせ、超高速列車[[ICE]]や都市間を結ぶ[[インターシティ (ドイツ)|インターシティ]]、ヨーロッパ各国との間の国際列車が多数運行されている<ref>{{Cite web|url=http://www.db.de/site/bahn/de/unternehmen/investor__relations/finanzberichte/geschaeftsbericht/geschaeftsbericht__2006.html|archiveurl=https://web.archive.org/web/20070809140315/http://www.db.de/site/bahn/de/unternehmen/investor__relations/finanzberichte/geschaeftsbericht/geschaeftsbericht__2006.html|archivedate=2007-08-09|title=Geschäftsbericht 2006|publisher=[[:en:Deutsche Bahn]]|accessdate=2011-03-27|language=German|url-status=dead|url-status-date=2017-09}}</ref>。また、都市部では近郊電車の[[Sバーン]]や地下鉄（[[Uバーン]]）、[[路面電車]]の路線網が発達している。なお[[ヴッパータール]]には、現在運行している世界最古の[[モノレール]]がある。[[トランスラピッド]]は[[世界金融危機]]で建設が断念された。
+
+航空では、欧州でも屈指の大手航空会社[[ルフトハンザドイツ航空]]が世界各国に航空路線を持っている。また、[[ユーロウィングス]]などの[[格安航空会社]]もある。ドイツ最大の[[フランクフルト空港]]と[[ミュンヘン国際空港]]はルフトハンザの国際[[ハブ空港]]となっており、とりわけフランクフルト空港は欧州で3番目に利用旅客数の多い空港となっている<ref>[http://www.aci.aero/Data-Centre/Annual-Traffic-Data/Passengers/2011-final Passenger Traffic 2011 FINAL (Annual)]（[[国際空港評議会]]公式サイトより）</ref>。そのほかの主要空港には[[デュッセルドルフ空港]]、[[ベルリン・ブランデンブルク国際空港]]、[[ハンブルク国際空港]]、[[ケルン・ボン空港]]、[[ライプツィヒ・ハレ空港]]がある<ref>{{cite web|url=http://www.aircraft-charter-world.com/airports/europe/germany.htm|title=Airports in Germany|publisher=Air Broker Center International|accessdate=16 April 2011}}</ref>。
+
+== 科学技術 ==
+{{main|{{仮リンク|ドイツの科学技術|de|Deutschland#Wissenschaft}}}}
+[[科学]]におけるドイツの業績は非常に大きく、[[研究開発]]活動はドイツ経済にとって不可欠な分野となっている<ref>{{cite web|publisher=Federal Ministry of Education and Research|year=2005|url=http://technologische-leistungsfaehigkeit.de/en/4246.php|title=Germany's Technological Performance|accessdate= 21 March 2011}}</ref><ref>{{Cite web|和書|url=http://www.tatsachen-ueber-deutschland.de/jp/economy/main-content-06/innovations-for-the-markets-of-the-future.html|title=未来の市場のための革新|publisher=ドイツの実情|accessdate=2011-07-09|url-status=dead|url-status-date=2024-09-09}}</ref>。これまでに[[国別のノーベル賞受賞者#ドイツ|103人のノーベル賞受賞者]]を輩出しており<ref>{{cite web|url=http://nobelprize.org/|title=Nobel Prize|publisher=Nobelprize.org|accessdate=27 March 2011}}</ref>、20世紀においては、[[ノーベル物理学賞|物理学賞]]、[[ノーベル化学賞|化学賞]]、[[ノーベル生理学・医学賞|生理学・医学賞]]といった科学の分野で、ほかのどの国よりも多くの受賞をしている<ref>{{cite news|url=http://www.sciencenews.org/view/generic/id/63944/title/Swedish_academy_awards|title=Swedish academy awards|newspaper=ScienceNews|accessdate=1 October 2010}}</ref><ref>National Science Nobel Prize shares 1901–2009 [http://www.idsia.ch/~juergen/sci.html by citizenship at the time of the award] and [http://www.idsia.ch/~juergen/scinat.html by country of birth]. From {{cite web|author=[[:en:Jürgen Schmidhuber|Schmidhuber, J.]]|year=2010|url=http://www.idsia.ch/~juergen/nobelshare.html|title=Evolution of National Nobel Prize Shares in the 20th century|accessdate=27 March 2011}}</ref>。非英語圏では群を抜いた受賞者数となっている。
+
+[[アルベルト・アインシュタイン]]や[[マックス・プランク]]の業績が現代[[物理学]]確立への重要な役割を果たし、[[ヴェルナー・ハイゼンベルク]]と[[マックス・ボルン]]がこれをより一層発展させた<ref>{{cite book|last=Roberts|first=J. M.|title =The New Penguin History of the World|publisher =Allen Lane|year =2002|page =1014|isbn= 9780713996111}}</ref>。彼らの仕事は[[ヘルマン・フォン・ヘルムホルツ]]や[[ヨゼフ・フォン・フラウンホーファー]]といった物理学者たちに引き継がれている。[[ヴィルヘルム・レントゲン]]は[[X線]]を発見し、1901年に第1回ノーベル物理学賞を受賞した<ref>{{cite news|url=http://www.dw-world.de/dw/article/0,,5984670,00.html|title=The First Nobel Prize|newspaper=Deutsche Welle|date=8 September 2010|accessdate=27 March 2011}}</ref>。また、[[カール・フリードリヒ・ガウス]]、[[ダフィット・ヒルベルト]]、[[ベルンハルト・リーマン]]、[[ゴットフリート・ライプニッツ]]、[[カール・ワイエルシュトラス]]、[[ヘルマン・ワイル]]、[[フェリックス・クライン]]といった数多くの[[数学者]]たちがドイツから生まれている。ドイツにおける研究機関には[[マックス・プランク研究所]]や[[ドイツ研究センターヘルムホルツ協会]]、[[フラウンホーファー協会]]がある<ref>{{Cite web|和書|url=http://www.tatsachen-ueber-deutschland.de/jp/education-and-research/main-content-07/top-research-outside-the-universities.html|title=大学外の先端研究|publisher=ドイツの実情|accessdate=2011-07-09|url-status=dead|url-status-date=2024-09-09}}</ref>。毎年、10人の研究者に[[ゴットフリート・ヴィルヘルム・ライプニッツ賞]]が授与されており、最大250万ユーロの賞金は最も高額な学術賞の一つである<ref>{{Cite web|url=http://www.dfg.de/en/research_funding/scientific_prizes/gw_leibniz_prize.html|archiveurl=https://web.archive.org/web/20080621091621/http://www.dfg.de/en/research_funding/scientific_prizes/gw_leibniz_prize.html|archivedate=2008-06-21|title=Gottfried Wilhelm Leibniz Prize|publisher=DFG|accessdate=2011-03-27|url-status=dead|url-status-date=2017-09}}</ref>。
+
+諸科学の中でも医学、薬学、化学はとりわけドイツが世界の先進的立場を占める分野であり、特に日本では徹底してドイツ医学に学ぶ傾向が強かったため、戦後かなり遅い時期まで日本の医師はドイツ語を学び[[カルテ]]をドイツ語で書くことが常識とされていたほどである。[[森鷗外]]、[[北杜夫]]、[[手塚治虫]]といった医学者出身文化人がそろってドイツ文学に傾倒しているのもこの影響である。
+
+ドイツは多数の著名な発明家や[[技術者]]の出身国であり、その中にはヨーロッパで初めて[[活字|活版印刷]]を発明したとされる[[ヨハネス・グーテンベルク]]<ref>グーテンベルクの業績については議論がある。{{Cite web|和書|url=http://100.yahoo.co.jp/detail/%E3%82%B0%E3%83%BC%E3%83%86%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%EF%BC%88Johannes%20Gutenberg%EF%BC%89/|title=グーテンベルク|publisher=日本大百科全書（小学館）|accessdate=2011-07-09}}{{リンク切れ|date=2013年12月}}</ref>、[[ガイガー＝ミュラー計数管]]を開発した[[ハンス・ガイガー]]、初めて全自動デジタルコンピュータを製作した[[コンラート・ツーゼ]]がいる<ref>{{cite web|last=Bianchi|first=Luigi|title=The Great Electromechanical Computers|url=http://www.yorku.ca/lbianchi/sts3700b/lecture17a.html|publisher=[[:en:York University]]|accessdate=17 April 2011}}</ref>。[[フェルディナント・フォン・ツェッペリン]]、[[オットー・リリエンタール]]、[[ゴットリープ・ダイムラー]]、[[ルドルフ・ディーゼル]]、[[フーゴー・ユンカース]]、[[カール・ベンツ]]といったドイツの発明家、技術者、企業家たちが現代の自動車や航空輸送技術を形づくった<ref>{{Cite web|url=http://www.centennialofflight.gov/essay/Lighter_than_air/zeppelin/LTA8.htm|title=The Zeppelin|publisher=U.S. Centennial of Flight Commission|accessdate=2011-03-27|archiveurl=https://web.archive.org/web/20110501132157/http://www.centennialofflight.gov/essay/Lighter_than_air/zeppelin/LTA8.htm|archivedate=2011-05-01|url-status=dead|url-status-date=2017-09}}</ref>。史上初の宇宙ロケット（[[V2ロケット]]）を開発した[[航空宇宙工学|航空宇宙工学技術者]]の[[ヴェルナー・フォン・ブラウン]]は、のちに[[アメリカ航空宇宙局|NASA]]の主要メンバーとなり、[[サターンV|サターンV型]]ロケットを開発して[[アポロ計画]]の成功に貢献している。[[ハインリヒ・ヘルツ]]の[[電磁波]]分野での業績は現代の遠距離通信の発展にとってきわめて重要である<ref>{{cite web|url=http://www.itu.int/aboutitu/HistoricalFigures.html|title=Historical figures in telecommunications|publisher=International Telecommunication Union|date=14 January 2004|accessdate=27 March 2011}}</ref>。
+
+また、ドイツは[[環境技術]]の開発と利用に関する主要国の一つである。環境技術を専門とする企業の総売上高は2005年時点で再生エネルギー分野で164億ユーロ、廃棄物処理分野は500億ユーロにのぼる<ref>{{Cite web|和書|url=http://www.tokyo.diplo.de/Vertretung/tokyo/ja/06__Umwelt/Kolumne/Umweltpolitik.html|title=世界や各国の課題としての気候・環境政策|publisher=ドイツ大使館 東京|accessdate=2011-07-09}}</ref>。ドイツ環境技術業界の重要市場は発電、[[持続可能な交通|持続可能な交通・輸送]]、材料能率差、エネルギー効率、廃棄物管理とリサイクル、持続可能な{{仮リンク|水管理|en|Water resource management}}である<ref>[[ローランド・ベルガー|ローランド・ベルガー経営戦略コンサルティング]]:''Green Growth, Green Profit – How Green Transformation Boosts Business'' {{仮リンク|パルグレイブ・マクミラン|en|Palgrave Macmillan}}, New York 2010, {{ISBN|978-0-230-28543-9}}</ref>。
+<gallery mode="packed" heights="200px">
+Johannes Gutenberg.jpg|グーテンベルク
+WilhelmRöntgen.JPG|レントゲン
+Einstein 1921 by F Schmutzer - restoration.jpg|アインシュタイン
+Dr. Wernher von Braun and Saturn IB.jpg|ブラウン
+Hermann Weyl ETH-Bib Portr 00890.jpg|ヘルマン・ワイル
+</gallery>
+
+== 国民 ==
+[[File:Germanypop.svg|lang=ja|thumb|300px|ドイツの[[人口ピラミッド]]|リンク=ファイル:Germanypop.svg%3Flang=ja]]
+{{main|[[ドイツの人口統計]]}}
+[[少子高齢化]]が進み、2025年の高齢化率は23.7%で日本、イタリアに次ぐ<ref>{{Cite web|title=日本の 65 歳以上人口の割合は、世界で最高（38 か国中）|publisher=統計センター|url=https://www.stat.go.jp/data/topics/pdf/topi146_01.pdf|access-date=2026年5月28日}}</ref><!-- 人口4000万以上の国のなかで -->。2023年のドイツの人口は約8,482万人<ref>{{Cite web|title=ドイツ基礎データ|url=https://www.mofa.go.jp/mofaj/area/germany/data.html|access-date=2026年5月28日}}</ref>、[[合計特殊出生率]]は女性1人あたり1.35人<ref>{{Cite web|title=2023年の出生率、1.35に低下|url=https://www.jil.go.jp/foreign/jihou/2024/09/germany_02.html|access-date=2026年5月28日}}</ref>。
+
+2010年1月現在のドイツの人口は8180万人であり<ref name="population">{{Cite book|title = Key Figures on Europe|publisher = European Union|date = 2011|location = Belgium|page = 37|language = English|url = http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-EI-11-001/EN/KS-EI-11-001-EN.PDF|doi = 10.2785/623|isbn = 978-92-79-18441-3}}</ref>、EU域内では最大、[[国の人口順リスト|世界第15位]]である<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2119rank.html?countryName=Lebanon&countryCode=le&regionCode=me&rank=126|title=Country Comparison ::Population|publisher=CIA|accessdate=26 June 2011}}</ref>。[[国の人口密度順リスト|平均人口密度]]は[[平方キロメートル]]あたり229.4人である。[[国の平均寿命順リスト|平均寿命]]は79.9歳。2009年の[[合計特殊出生率]]は女性1人あたり1.4人、1000人あたりでは7.9人となり、世界で最も低率の国の一つである<ref>{{cite web|url=http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pm/2010/01/PD10__034__12641,templateId=renderPrint.psml|title=Durchschnittliche Kinderzahl 2008 in den neuen Ländern angestiegen|author=[[:en:Federal Statistical Office of Germany|Destatis]]|language=German|accessdate=28 March 2011}}</ref>。1990年代以降、[[死亡率]]が[[出生率]]を上回る状態が続いている<ref>{{cite web|title = Demographic Transition Model|publisher=Barcelona Field Studies Centre|date = 27 September 2009|url = http://geographyfieldwork.com/DemographicTransition.htm|accessdate = 28 March 2011}}</ref>。
+[[ファイル:Population_density_of_Germany_2019.svg|サムネイル|2019年における各地域の人口密度]]
+
+=== 主要民族・少数民族 ===
+{{main|ドイツ人|バイエルン人|ソルブ人|フリジア人|ポーランド系ドイツ人}}
+国民の8割は[[ゲルマン系]]の[[ドイツ語]]を[[母語]]とする[[ドイツ人|ドイツ民族]]である。[[ドイツ民族]]は欧州諸民族の例にもれず地域ごとに文化的差異が大きいが、おおむね[[ゲルマン系]]の民族として認識されている。しかし、南部のバイエルン地方については、自己をドイツ民族ではなく[[バイエルン人|バイエルン民族]]と定義する場合も多く、[[エスニックジョーク]]の題材にもされる。厳密にはゲルマン民族の中のバイエルン族（オーストリア人なども含まれる）など複数の支族がドイツ語という共通点によってドイツ民族の名で包括されているのが実態だが、各支族はケルト人や[[スラヴ人]]との結びつきによって差異もあり、同時に支族間のボーダーレスもあって状況は単純ではない。他に北東部の[[ラウジッツ]]地方には[[西スラヴ語群]]系の言語を話す[[ソルブ人]]、[[バルト海]]沿岸部の[[フリースラント]]地方には[[アングロ・フリジア語]]系の言語を話す[[フリジア人]]がそれぞれ存在する。また[[シュレースヴィヒ＝ホルシュタイン州]]には隣接する[[デンマーク王国]]の主要民族である[[デンマーク人]]の居住区が広がるほか、ポーランドと国境を接する歴史から[[ポーランド系ドイツ人]]の定住も長い歴史を持っている。
+
+かつて[[東プロイセン]]を含む東欧や[[ヨーロッパロシア]]の各地に住んでいたドイツ人は、独ソ戦でのドイツ軍敗退に伴う避難や戦後の[[ドイツ人追放]]でドイツに移住し、[[ヴォルガ・ドイツ人]]などのドイツ移住は[[ソビエト連邦の崩壊]]後も見られた。1987年以降は約300万人の、主に東欧や旧ソ連から移民した民族ドイツ人（''Aussiedler''）がドイツに再定住する動きも起きている<ref>{{cite web|url=http://www.migrationinformation.org/Feature/display.cfm?ID=201|title=Fewer Ethnic Germans Immigrating to Ancestral Homeland|publisher=Migration Information Source|date=February 2004|accessdate=28 March 2011}}</ref>。2000年以降、[[亡命]]と移民に対して無制限だった以前の法律が改正された結果、亡命地を求める移民や民族ドイツ人を主張する人々（おもに旧ソ連圏）の移住は減少している<ref>{{cite web|url=http://www.focus-migration.de/Germany.1509.0.html?&L=1|title=Germany|publisher=Focus-Migration|accessdate=28 March 2011}}</ref>。
+
+これら少数民族の権利獲得や[[自治権]]を求める動きは様々な形で実施されており、ドイツ国家からの[[国家の独立|分離独立]]が主張される場合もある。2017年、国内最大の[[日刊紙]]『[[ビルト (新聞)|ビルト]]』とイギリスの調査会社{{仮リンク|YouGov|en|YouGov}}はドイツ全土で「自分が住む州はドイツから独立するべきか」について世論調査を行い、[[バイエルン自由州]]で32%、[[ザールラント州]]・[[テューリンゲン州]]・[[ザクセン州]]・[[メクレンブルク＝フォアポンメルン州]]の6州で20%の州民が「ドイツから独立すべき」と回答した<ref name="nna">「[https://www.nna.jp/news/show/1637010 独バイエルン州、住民の3分の1が独立を志向]」[[NNA (企業)|NNA]]（2017年7月19日）</ref>。
+
+=== 移民・難民 ===
+[[ファイル:Map of the European Migrant Crisis 2015.png|thumb|220px|[[2015年欧州難民危機|欧州難民危機]]における難民申請数]]
+{{main|{{仮リンク|ドイツの移民|de|Immigration nach Deutschland
+}}}}
+{{仮リンク|ドイツ連邦統計局|de|Statistisches Bundesamt }}は、移民としての背景を持つ者の定義を「1949年以降にドイツ連邦共和国の領域に移民した者」「国内で出生した外国国籍者」「少なくとも一方の親が移民または国内で生まれた外国国籍者で、国籍保持者として生まれた者」としている。
+
+2009年時点で連邦政府に登録されている外国人居住者は約700万人で、国内居住者の19%が外国人または両親の一方が外国人（送還された民族ドイツ人を含む）であり、これらの96%が西ドイツまたはベルリンに居住している<ref>{{cite book|title=Bevölkerung und Erwerbstätigkeit:Bevölkerung mit Migrationshintergrund – Ergebnisse des Mikrozensus 2009|trans-title = Population and employment:Population with migrant background – Results of the 2009 microcensus|url = http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Publikationen/Fachveroeffentlichungen/Bevoelkerung/MigrationIntegration/Migrationshintergrund2010220097004,property=file.pdf|format = PDF|accessdate = 7 May 2011|series = Fachserie 1 Reihe 2.2|date=14 July 2010|publisher = Statistisches Bundesamt|language = German|id = Artikelnummer:2010220097004|pages = 6–8}}</ref>。ドイツへの{{仮リンク|ドイツへの移民|label=移民者|de|Immigration nach Deutschland}}は、戦後復興期の西ドイツにおける外国人労働者の受け入れに始まり、[[ドイツ再統一]]、欧州連合の[[シェンゲン条約]]、[[2015年欧州難民危機|欧州難民危機]]なども影響して2010年代も増加が続いている。近年では移民の総数はドイツ国民の約2割に達しつつあり、1945年以降で移民の割合が最も高くなっている<ref>{{Cite news|title=20% of Germans have immigrant roots|newspaper=Burlington Free Press|page= 4A|date=15 July 2010 }}</ref>。2012年の時点では、OECD加盟国中、ドイツは米国に次いで2番目の移民大国となっている<ref>{{cite web|title=Germany Top Migration Land After U.S. in New OECD Ranking|url=http://www.bloomberg.com/news/2014-05-20/immigration-boom-propels-germany-past-u-k-in-new-oecd-ranking.html|publisher=Bloomberg|date=20 May 2014|accessdate=29 August 2014}}</ref>。[[国際連合人口基金]]の統計によれば、ドイツは全世界の1億9100万人の移民人口のうち、約5%に相当する1000万人を受け入れており、移民受け入れ数では世界第3位である<ref>{{cite web|url=http://www.un.org/esa/population/publications/2006Migration_Chart/Migration2006.pdf|title=International Migration 2006|publisher =UN Department of Economic and Social Affairs|accessdate=18 March 2011}}</ref>。
+
+移民集団の規模は統計データによって異なるが、最大の移民集団は[[ロシア人]]（350万人）であり<ref>{{cite web|url=http://archive.mid.ru//bdomp/brp_4.nsf/e78a48070f128a7b43256999005bcbb3/55cec39404735aadc32572ea005b9953!OpenDocument |title=Regarding Upcoming Conference on Status of Russian Language Abroad |publisher=Russian Ministry of Foreign Affairs |date= |accessdate=2014-06-24}}</ref>、[[ポーランド人]]（285万人）<ref>{{cite web|url=http://www.zeit.de/politik/deutschland/2016-06/polen-deutschland-einwanderung-integration|title=Polen in Deutschland: Verstecken war gestern|first=Christoph|last=Herwartz|accessdate=4 April 2017|date=16 June 2016|publisher=|via=Die Zeit}}</ref>、[[トルコ人]]（280万人）<ref>{{Cite web |url=http://www.bib-demografie.de/SharedDocs/Glossareintraege/DE/B/bevoelkerung_migrationshintergrund.html |title=Bevölkerung mit Migrationshintergrund |access-date=2023-04-29 |publisher=連邦人口研究所(Bundesinstitut für Bevölkerungsforschung) |language=de |archive-url=https://web.archive.org/web/20171109030200/http://www.bib-demografie.de/SharedDocs/Glossareintraege/DE/B/bevoelkerung_migrationshintergrund.html |archive-date=2017-11-09}}</ref><ref name=census2011>{{cite web|url=https://ergebnisse.zensus2011.de/#dynTable:statUnit=PERSON;absRel=ANZAHL;ags=00,02,01,13,03,05,09,14,16,08,15,12,11,10,07,06,04;agsAxis=X;yAxis=MHGLAND_HLND|title=Zensusdatenbank - Ergebnisse des Zensus 2011|publisher=|accessdate=25 April 2015}}</ref>、[[アラブ人]]（100万人）<ref>{{Cite web|和書|url=http://www.cz-herborn.de/arabische/ |title=アーカイブされたコピー |accessdate=2014-09-27 |archiveurl=https://web.archive.org/web/20131230235841/http://www.cz-herborn.de/arabische/ |archivedate=2013-12-30 |url-status=dead|url-status-date=2017-09}}</ref> がこれに続いている。100万人以下の移民集団としては[[イタリア人]]（83万人）<ref>{{cite web|url=http://www.spiegel.de/fotostrecke/grafiken-zur-migration-in-deutschland-wer-kommt-wer-geht-der-faktencheck-fotostrecke-60502-3.html|title=Grafiken zur Migration in Deutschland: Wer kommt, wer geht – der Faktencheck|work=SPIEGEL ONLINE|accessdate= 4 April 2017}}</ref>、[[ルーマニア人]]（48万9000人）<ref>{{cite web|url=https://www.destatis.de/DE/Publikationen/Thematisch/Bevoelkerung/MigrationIntegration/Migrationshintergrund2010220157004.html|title=Publikation - Bevölkerung - Bevölkerung mit Migrationshintergrund - Ergebnisse des Mikrozensus - Fachserie 1 Reihe 2.2 - 2015 - Statistisches Bundesamt (Destatis)|accessdate=4 April 2017|publisher=}}</ref>、[[ギリシャ人]]（28万3684人） <ref>{{cite web|title=Statistical Yearbook Germany Extract Chapter 2: Population, Families and Living Arrangements in Germany|work={{仮リンク|ドイツ連邦統計局|en|Federal Statistical Office of Germany}}]|page=21|accessdate=4 April 2017|date=14 March 2013|url=https://www.destatis.de/EN/Publications/Specialized/Population/StatYearbook_Chapter2_5011001129004.html}}</ref>、[[オランダ人]]（35万人）<ref>[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/Content/Statistics/Bevoelkerung/AuslaendischeBevoelkerung/Tabellen/Content50/TOP10Liste,templateId=renderPrint.psml Federal Statistics Office - Foreign population] {{webarchive|url=https://web.archive.org/web/20120212235553/http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/Content/Statistics/Bevoelkerung/AuslaendischeBevoelkerung/Tabellen/Content50/TOP10Liste%2CtemplateId%3DrenderPrint.psml |date=2012年2月12日 }}</ref>などがある。
+
+ロシア系移民は大部分が旧東ドイツ領に相当する東部ドイツに定住しており、ドイツ再統一と[[ソヴィエト連邦の崩壊]]という冷戦終結に伴う混乱が重なったことによって大量に増加した。また、同じく旧東側諸国からの移民としてポーランド系移民も冷戦後に急増したが、こちらは東部ドイツに限らず南部や西部にも移り住んでいる。かつては最大の移民集団であったトルコ系移民（[[クルド人]]と自認する者も含む）は、1960年代の西ドイツが労働力不足を補うためにトルコ共和国と移民協定を結んだことで流入し、現在でも第3位の規模を持つ移民集団を形成している。2010年代には[[シリア内戦]]など中東の政情不安によってドイツへの難民申請が続き、[[シリア人]]を筆頭とする[[アラブ人|アラブ系]]移民が100万人以上に膨れ上がっている。
+
+東欧やトルコからの安価な労働力の流入がドイツ人の雇用悪化を招き、失業者の中には暴動に走る者も現れ、[[ネオナチ]]などの移民排斥運動に賛同して外国人を襲撃するなど深刻な問題となっている。[[2015年欧州難民危機|欧州難民危機]]以後は中東からの難民にも警戒感が広がり、[[西洋のイスラム化に反対する欧州愛国者]]（PEGIDA）や[[ドイツのための選択肢]]などネオナチとは違った新たな移民抑制運動が勢力を拡大している。
+
+ドイツの難民・庇護申請者は他国同様に精神的健康問題や生活上の困難に直面していて、不確実な庇護状況や収容環境、家族分離、言語・統合の困難、差別などが精神的負荷を高め、抑うつやPTSDの有病率が一般人口より高いことを示しているが<ref>{{Cite journal|last=Hajak|first=Vivien L.|last2=Sardana|first2=Srishti|last3=Verdeli|first3=Helen|last4=Grimm|first4=Simone|date=2021-03-18|title=A Systematic Review of Factors Affecting Mental Health and Well-Being of Asylum Seekers and Refugees in Germany|url=https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.643704/full|journal=Frontiers in Psychiatry|volume=12|language=English|doi=10.3389/fpsyt.2021.643704|issn=1664-0640}}</ref><ref>{{Cite journal|last=Hoell|first=Andreas|last2=Kourmpeli|first2=Eirini|last3=Salize|first3=Hans Joachim|last4=Heinz|first4=Andreas|last5=Padberg|first5=Frank|last6=Habel|first6=Ute|last7=Kamp-Becker|first7=Inge|last8=Höhne|first8=Edgar|last9=Böge|first9=Kerem|date=2021-05|title=Prevalence of depressive symptoms and symptoms of post-traumatic stress disorder among newly arrived refugees and asylum seekers in Germany: systematic review and meta-analysis|url=https://www.cambridge.org/core/product/identifier/S2056472421000545/type/journal_article|journal=BJPsych Open|volume=7|issue=3|language=en|doi=10.1192/bjo.2021.54|issn=2056-4724|pmc=8142547|pmid=33938425}}</ref>、比較研究は[[オーストリア]]や[[デンマーク]]と比べてドイツの制度が難民の職業統合を支える枠組みを比較的よく整えていることを示している<ref>{{Cite journal|last=Jørgensen, Christian Helms|last2=Hautz, Hannes|last3=Li, Junmin|date=2021-12-22|title=The role of vocational education and training in the integration of refugees in Austria, Denmark and Germany|url=https://www.pedocs.de/frontdoor.php?source_opus=23753|language=en|doi=10.25656/01:23753}}</ref>。
+
+2022年ロシア・ウクライナ戦争の勃発により100万人を超える難民をウクライナから受け入れた<ref>{{Cite web|title=ロシアのウクライナ侵攻を受けて苦悩するドイツ|url=https://www.kasumigasekikai.or.jp/%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E4%BE%B5%E6%94%BB%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E8%8B%A6%E6%82%A9%E3%81%99%E3%82%8B%E3%83%89%E3%82%A4%E3%83%84/|access-date=2026年5月28日}}</ref>。
+
+[[2023年パレスチナ・イスラエル戦争]]が発生すると、ドイツ国内に暮らすアラブ系の移民らの一部が街に繰り出し、[[ハマース]]によるイスラエル襲撃を祝福。[[パレスチナ]]を擁護するデモが発生した。ショルツ首相は「ドイツ人は[[反ユダヤ主義]]は許さない」とアピールしたが、[[シナゴーグ]]などユダヤ人関係施設への警備強化を余儀なくされた<ref>{{Cite web |url=https://president.jp/articles/-/75476 |title=ユダヤ批判は絶対に許せない立場だが…アラブ系移民の｢反イスラエルデモ｣に手を焼くドイツの苦悩 |publisher=president |date=2023-11-07 |accessdate=2023-11-09}}</ref>。
+
+2024年にはドイツ国籍法が大規模に見直され、二重国籍が広く認められるようになり、通常の帰化要件は5年に短縮された<ref>{{Cite web|title=The new nationality law as of 27 June 2024|url=https://www.auswaertiges-amt.de/en/2664476-2664476|website=German Federal Foreign Office|access-date=2025-10-16|language=en|first=Auswärtiges|last=Amt}}</ref>。
+
+=== 言語 ===
+[[ドイツ語]]は、ドイツの[[公用語]]であり支配的な言語である<ref name="Eurobarometer Languages"/>。ドイツ語は欧州連合の23の公用語の一つであり、[[欧州委員会]]の3つの{{仮リンク|作業言語|de|Arbeitssprache}}の一つである。ドイツで公認されている少数言語は、デンマーク語、[[低地ドイツ語]]、ソルブ語、[[ロマ語]]、そして[[フリジア語]]であり、正式に[[ヨーロッパ地方言語・少数言語憲章]]（ECRML）により保護されている。移民の間で最も使用される言語は[[トルコ語]]、[[クルド語]]、[[ポーランド語]]、[[バルカン半島|バルカン系]]諸言語、および[[ロシア語]]である。ドイツ国民の67%が2つ以上の言語を話し、27%は3つ以上の言語を話す<ref name="Eurobarometer Languages">{{cite web|title=Special Eurobarometer 243:Europeans and their Languages (Survey)|publisher=[[:en:Europa (web portal)|Europa (web portal)]]|author=European Commission|authorlink=:en:European Commission|year=2006|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_en.pdf|accessdate= 6 September 2012}}<br>{{cite web|title=Special Eurobarometer 243:Europeans and their Languages (Executive Summary)|publisher=[[:en:Europa (web portal)|Europa (web portal)]]|author=European Commission|authorlink=:en:European Commission|year=2006|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_sum_en.pdf|accessdate= 6 September 2012}}</ref>。
+
+標準ドイツ語は[[西ゲルマン語群]]であり、[[英語]]、[[低地ドイツ語]]、[[オランダ語]]、そして[[フリジア語]]と密接に関連し、分類されている。低い割合ではあるが、[[東ゲルマン語群]]（死語）と[[北ゲルマン語群]]とも関係する。ほとんどのドイツ語の語彙は、[[インド・ヨーロッパ語族]]のゲルマン分岐から派生している<ref>{{cite web|title=Many tongues, one family. Languages in the European Union|publisher=[[:en:Europa (web portal)|Europa (web portal)]]|author=European Commission|authorlink=:en:European Commission|year=2004|url=http://ec.europa.eu/publications/booklets/move/45/en.pdf|accessdate=28 March 2011}}</ref>。
+
+単語の相当数が[[ラテン語]]や[[ギリシャ語]]からの派生であり、また[[フランス語]]そして最近の英語（[[デングリッシュ]]として知られる）からも含まれる。ドイツ語は[[ラテン文字]]のアルファベットを使用して書かれる。ドイツ語[[方言]]（ゲルマン諸民族の伝統的な地方亜種にまで遡る）はその[[語彙]]、[[音韻論|音韻]]や[[統語論|文法規則]]で標準ドイツ語からの[[言語変種]]に分類される<ref>{{cite news|title=Sprechen Sie Deutsch?|url=http://www.economist.com/node/15731354|accessdate=16 April 2011|newspaper=The Economist|date=18 March 2010}}</ref>。
+
+また、2011年時点、少数言語の研究団体[[エスノローグ]]はドイツ連邦共和国内に以下を含む28言語の存在を認めている<ref>{{cite web|title=Ethnologue report for Germany|publisher=Ethnologue|year=|url=http://www.ethnologue.com/show_country.asp?name=DE|accessdate=2011年7月11日}}</ref>。
+*ドイツ語（国家公用語）
+*低ザクセン語（{{仮リンク|北ドイツ|de|Norddeutschland}}）
+*[[上ザクセン語]]（[[ザクセン州]]）
+*[[アレマン語]]（バーデン＝ヴュルテンベルク州）
+*[[バイエルン語]]（バイエルン州）
+*[[リンブルフ語]]（ノルトライン＝ヴェストファーレン州の一部）
+*{{仮リンク|マインツ語|de|Mainzer Dialekt}}（[[マインツ市]]）
+
+=== 人名・婚姻 ===
+18世紀ドイツにおいては、キリスト教の[[洗礼]]に際して[[ミドルネーム]]が与えられることがあった。また、女性のファミリーネームを記録する際には元の名前の最後に{{lang|de|-in}}を付す習慣があった（たとえば「{{lang|de|Hahn}}」が「{{lang|de|Hahnin}}」と書かれる）。また、一家で最初に生まれた男の子には父方の祖父の名を、一家で最初に生まれた女の子には母方の祖母の名をつけることがしばしば見られた。
+
+また、伝統的には夫婦は同姓が原則で、日本の夫婦同姓のお手本になったとされる（1957年までのドイツの条文は、妻は夫の氏を称するとされており、日本の[[明治]][[民法 (日本)|民法]]案（明治31年制定、それまでは日本は[[夫婦別姓]]）はそれとまったく同じ）。しかし、1957年、妻が出生氏を二重氏として付加できるとする改正が行われた。さらに、1976年の改正で、婚氏選択制を導入し、婚氏として妻の氏を選択する可能性を認め、決定されない場合は夫の氏を婚氏とするとされた。しかし、連邦憲法裁判所1991年3月5日決定が両性の平等違反としてこの条文も無効とし、人間の出生氏が個性または同一性の現れとして尊重され保護されるべきことを明言した。その結果、1993年の民法改正で<ref>富田哲『夫婦別姓の法的変遷 ドイツにおける立法化』八朔社</ref>、夫婦の姓を定めない場合は別姓になるという形で、現在は完全な選択的[[夫婦別姓]]制度を実現している（[http://dejure.org/gesetze/BGB/1355.html ドイツ民法1355条]）。
+
+2001年に[[シビル・ユニオン|同性間パートナーシップ]]制度が発足し、2013年には同性カップルも異性カップルと同等の税優遇が認められた<ref>{{Cite news|title=Germany to grant same-sex couples tax equality|newspaper=DW|publisher=Deutsche Welle|date=2013-06-27|first=Anna|last=Peters|url=https://p.dw.com/p/18xA7|language=English|accessdate=2021-10-17}}</ref>。2017年6月、連邦議会が[[同性結婚]]を合法化する法案を可決し、異性結婚と平等に扱われるようになった（[[民法典 (ドイツ)|民法]]第1353条）<ref>{{Cite news|和書|title=ドイツ連邦議会、同性婚の合法化を可決|newspaper=BBC News|date=2017-06-30|url=https://www.bbc.com/japanese/40455100|accessdate=2021-10-17}}</ref><ref>{{cite web|url=https://www.loc.gov/item/global-legal-monitor/2017-07-05/germany-parliament-votes-to-allow-same-sex-marriage/|title=Germany: Parliament Votes to Allow Same-Sex Marriage|publisher=Library of Congress|accessdate=2021-10-17|date=2017-07-05|language=English}}</ref>。
+
+=== 宗教 ===
+[[File:Colognecathedralatnight.JPG|thumb|upright|[[ライン川]]沿いにある[[ケルン大聖堂]]は[[世界遺産|ユネスコ世界遺産]]である]]
+{{main|ドイツの宗教}}
+ドイツにおける最大の宗教はキリスト教で2008年現在で信者数5150万人（62.8%）である <ref name="ekd">{{Cite web|url=http://www.ekd.de/statistik/mitglieder.html|title=EKD-Statistik:Christen in Deutschland 2007|publisher=Evangelische Kirche in Deutschland|accessdate=2011-03-28|language=German|archiveurl=https://web.archive.org/web/20110430195847/http://www.ekd.de/statistik/mitglieder.html|archivedate=2011-04-30|url-status=dead|url-status-date=2017-09}}</ref>。このうち30%が[[カトリック教会|カトリック]]、29.9%が[[ドイツ福音主義教会]]（EKD）に属する[[福音主義#ドイツ語圏における「evangelisch」|福音主義]]信徒である。ドイツ福音主義教会には20の州教会が加盟しており、常議員会議長がドイツ福音主義教会（EKD）を代表する。その他は小宗派（各々0.5%以下）である<ref name="fowid">{{Cite web|url=http://fowid.de/fileadmin/datenarchiv/Religionszugehoerigkeit_Bevoelkerung__1950-2008.pdf|title=Konfessionen in Deutschland|language=German|publisher=Fowid|date=2009-09-09|accessdate=2011-03-28|archiveurl=https://web.archive.org/web/20110303201534/http://fowid.de/fileadmin/datenarchiv/Religionszugehoerigkeit_Bevoelkerung__1950-2008.pdf|archivedate=2011-03-03|url-status=dead|url-status-date=2017-09}}</ref>。福音主義教会信徒は北部と東部、ローマ・カトリック教会信徒は南部と西部に多い。南部であっても、[[バイエルン州]]北部[[ニュルンベルク]]とその周辺や[[バーデン＝ヴュルテンベルク州]]北部[[シュトゥットガルト]]とその周辺では福音主義教会信徒も多い。また、1.6%は[[正教会]]である<ref name="ekd"/>。
+
+2番目に大きな宗教が[[イスラム教]]で、およそ380万 - 430万人（4.6 - 5.2%）<ref name="MLD"/>、次いで仏教徒が25万人、ユダヤ教が約20万人（0.3%）、[[ヒンドゥー教|ヒンドゥー教徒]]が9万人（0.1%）である。これ以外の宗教の信者は5万人以下である<ref>{{cite web|language=German|url=http://www.remid.de/remid_info_zahlen.htm|title=Religionen in Deutschland:Mitgliederzahlen|publisher=Religionswissenschaftlicher Medien- und Informationsdienst|date=31 October 2009|accessdate=28 March 2011}}</ref>。400万人のイスラム教徒のほとんどはトルコからの[[スンニ派]]または[[アレヴィー派]]であるが、少数の[[シーア派]]や小分派も存在する<ref name="MLD">{{Cite book|title = Muslimisches Leben in Deutschland|url = http://www.bmi.bund.de/cae/servlet/contentblob/566008/publicationFile/31710/vollversion_studie_muslim_leben_deutschland_.pdf;jsessionid=6B8CD26E2AC179111AF4F75650B84B1A|format = PDF|accessdate = 28 March 2011|date = June 2009|publisher=Bundesamt für Migration und Flüchtlinge|language = German|isbn =978-3-9812115-1-1|pages = 80, 97|chapter = Chapter 2:Wie viele Muslime leben in Deutschland?}}</ref>。ドイツのユダヤ人人口はフランス、イギリスに次いでヨーロッパで3番目である<ref>{{cite news|author = Blake, Mariah|url = http://www.csmonitor.com/2006/1110/p25s02-woeu.html|title = In Nazi cradle, Germany marks Jewish renaissance|newspaper = [[:en:Christian Science Monitor]]|date = 10 November 2006|accessdate = 28 March 2011}}</ref>。仏教徒の50%はアジアからの移民である<ref>{{cite news|author=Schnabel, U.|date=15 March 2007|url=http://www.zeit.de/2007/12/Buddhismus|title= Buddhismus Eine Religion ohne Gott|newspaper=[[:en:Die Zeit]]|location =Hamburg|accessdate=19 March 2011|language=German}}</ref>。34.1%が[[無宗教]]であり、旧[[ドイツ民主共和国|東ドイツ]]地域と大都市圏に多い<ref name="fowid"/>。
+
+宗教的多様性と国家干渉主義の両方の伝統を持つ中央ヨーロッパ、とりわけ旧東ドイツの各州においてゼクト（カルト）団体が増加しているドイツでは、予防啓発とゼクト脱退者保護の政策が地方レベルで実施され、ゼクト担当委員のポストが各州に創設された。中央レベルでは、教会法人格の取得に関する認証基準が定められた。情報交換を目的とした作業会議が州職員と州代表者の間で何度も開かれた。とはいえ市民社会には秩序があり、国家宗教は揺らいでいないため、この問題への関心は限定的である。現在のところ、禁止されたゼクトはない。そのうえ、国家権力の行動の幅は狭くなっている<ref>{{Cite wikisource|title=MIVILUDES2004年度報告書|author=2004年度Miviludes報告書日本語訳|wslanguage=ja}}より抜粋、一部変更。</ref>。
+
+=== 教育 ===
+[[ファイル:Heidelberg Universitätsbibliothek 2003.jpg|thumb|200px|[[ハイデルベルク大学]]]]
+{{Main|ドイツの教育}}
+教育課程は[[初等教育]]4年、[[中等教育]]以降は職業人向けと高等教育進学向けの学校とに厳格に分けられている。前者の進路がいわゆる「[[マイスター制]]」である。12歳までは[[基礎学校]]（[[義務教育]]）で、子供の能力の見極めが重要になる。13歳から15歳では、就職のための専門的な[[職業教育]]が行われる。大学への進学を希望する場合は[[ギムナジウム]]という進学校に進学し、大学進学に必要な[[アビトゥア資格]]の取得を目指す。
+
+日本においては、俗に「ドイツでは工業職人がマイスターと呼ばれ、尊敬を受けている」という話がまことしやかに語られているが、正確ではない。第二次世界大戦後の高度成長の過程においては確かに事実であったが、近年では多くの子どもたちがギムナジウムに進学する傾向が見られ、これがドイツの財政（教育費）を圧迫する原因にもなっている。また、工業職人のイメージが強いマイスター制度だが、これも近年ではコンピュータ技術者といった従来のイメージとは異なる職種の学校が増えつつある。近年、国際化によりマイスター制度が先進工業の発展に寄与しなくなったことや、12歳で人生が決まってしまう学校制度に疑問が上がり、近年は義務教育からアビトゥア資格取得まで一貫した中等教育を行う[[シュタイナー教育|シュタイナー学校]]や[[総合学校]]が広まっている。
+
+[[大学]]においても近年変革の時期を迎えている。ドイツの大学はほぼすべてが[[州立大学]]で、基本的に学費は納める必要がない（ただし、州により学費徴収を行うケースもある）。
+
+しかし、近年の不況の影響を受け、大学は授業料を徴収するかどうか、検討を始めている。また、かつてのドイツは大学卒業した者はエリートコースを歩み、大学卒業資格は社会で相当に高い評価を得ていたといえる。しかし、近年における財政界からは、もっと柔軟な思考ができる学生が欲しいとの声が強まり、大学のカリキュラムも変革の時期を迎えている。
+
+=== 保健 ===
+{{main|{{仮リンク|ドイツの保健|en|Health in Germany}}}}
+{{節スタブ}}
+
+==== 医療 ====
+{{main|ドイツの医療}}
+{{節スタブ}}
+===== 社会保障 =====
+[[ドイツの医療]]は世界で初めて公的年金、公的[[医療保険]]制度を導入した。日本を含む多くの諸外国がこれを取り入れている。1883年に[[オットー・フォン・ビスマルク]]が成立させた{{仮リンク|疾病保険法|de|Gesetz, betreffend die Krankenversicherung der Arbeiter}}にさかのぼる世界最古の[[国民皆保険]]制度を有している<ref>{{cite book|title= Health Care Systems in Transition:Germany|url = http://www.euro.who.int/__data/assets/pdf_file/0010/80776/E68952.pdf|accessdate =15 April 2011|year =2000|publisher =European Observatory on Health Care Systems|id = AMS 5012667 (DEU)|page = 8 }}</ref>。現在、全住民には国家によって提供される基礎健康保険が適用され、保険者は公的・私的の中から自由に選択できる。[[世界保健機関]]によれば、2015年のドイツ[[医療費|国民医療費]]は84.5%が公費負担、15.5%が私費負担である<ref name="health">{{Cite web|和書|url=http://www.who.int/gho/en/|title=世界保健観測所（GHO）のデータ|publisher=[[WHO]] |date=2018|accessdate=2019-06-08}}</ref>。GDPに占める医療費は11.2%であった。[[平均寿命]]は2016年時点で、男性が78.7歳、女性が83.3歳で男性は世界第24位、女性は世界第23位であった<ref name="health"/>。[[乳児死亡率]]は2018年時点で、出生児1000人あたり3.4人（男児：3.7人、女児：3.1人）と非常に低い数値である<ref name="CIA"/>。
+
+2009年現在のおもな死亡原因は心血管疾患の42%、続いて悪性腫瘍の25%だった<ref>{{cite web|url=http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pm/2010/10/PD10__371__232,templateId=renderPrint.psml|language=German|title=Statistisches Bundesamt Deutschland – Herz-/Kreislauferkrankungen nach wie vor häufigste Todesursache|publisher=Destatis.de|accessdate=2011-06-07}}</ref>。2008年現在、8万2000人がHIV/AIDSに感染しており、1982年以降、合計2万6000人がこの病気で死亡している<ref name="cp">{{cite web|url = http://lcweb2.loc.gov/frd/cs/profiles/Germany.pdf|title = Country Profile Germany|month = April|year = 2008|publisher = [[:en:Library of Congress]] [[:en:Federal Research Division]]|format = PDF|accessdate = 2011-05-07}}<br> この記事はパブリックドメンインである上記の資料のテキストを組み込んでいる。</ref>。2005年の統計では成人の27%が喫煙者である<ref name="cp"/>。2007年の調査によれば、ドイツは肥満した人の数がヨーロッパで最大である<ref>{{Cite news|title=Topping the EU Fat Stats, Germany Plans Anti-Obesity Drive|url=http://www.dw-world.de/dw/article/0,,2449356,00.html|publisher=Deutsche Welle|date=20 April 2007|accessdate=28 March 2011}}</ref><ref>{{Cite news|title=Germany launches obesity campaign|url=http://news.bbc.co.uk/2/hi/health/6639227.stm|publisher=BBC|date=9 May 2007|accessdate =28 March 2011}}</ref>。
+
+現在の[[年金]]制度は、{{仮リンク|連邦労働社会省|de|Bundesministerium für Arbeit und Soziales}}が所管している。強制加入の国営年金保険と、任意の企業年金、私的年金の3つにて構成される。国営年金は雇用主と雇用者が折半して拠出し、2015年の保険料は18.7%であり、低所得者への減額制度がある<ref name="gr">{{Cite report|publisher=厚生労働省 |author=年金局数理課|title=ドイツ公的年金の財政検証について |date=August 2016 |url=https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/nenkin/nenkin/zaisei/index.html}}</ref>。さらに、2024年6月26日以降にドイツ国籍を取得しようとする移民の立場からすれば、将来を見据え、老後のためにきちんとした年金を払い続け、生活保護に依存しないことが求められる<ref name=":0">{{Cite web |title=Einbürgerung in Deutschland {{!}} Kanzlei RT & Partner |url=https://www.rtpartner.de/immigration/einbuergerung/ |website=www.rtpartner.de |date=2022-06-30 |access-date=2024-06-02 |language=de-DE}}</ref>。
+{{Main|年金#ドイツ}}
+
+== 治安 ==
+{{Main|{{仮リンク|ドイツにおける犯罪|de|Kriminalität in Deutschland}}|ドイツの警察}}
+ドイツは2025年の[[世界平和度指数]]で20位、日本は12位である<ref name=":9" />。同連邦国警察の発表によれば、2019年のドイツ国内全体の[[犯罪]]発生件数は約544万件であり、人口10万人当たりの犯罪発生件数は日本の約10倍に上っている。犯罪種別は、[[スリ]]や[[ひったくり]]などの[[窃盗]]、[[強盗]]や[[詐欺]]などといった[[金銭]]ならび[[財産]]に関わる犯罪が殆どであるが、[[傷害]]や[[暴行]]（婦女暴行を含む）といった身体の安全に関わる犯罪も発生している。
+
+特に、[[観光客]]が多く訪れる首都ベルリンを始めとする大都市や観光地は、外国人犯罪グループの流入、[[麻薬]]の蔓延などの様々な要因から犯罪発生率が高くなっている現状がある。一般に、ヨーロッパの大都市は治安が悪く<ref name=":3">{{Cite web |title=Fler upplever brottslighet och vandalisering i sitt bostadsområde |url=http://www.scb.se/hitta-statistik/artiklar/2019/fler-upplever-brottslighet-och-vandalisering-i-sitt-bostadsomrade/ |website=Statistiska Centralbyrån |accessdate=2022-02-10 |language=sv}}</ref>、ベルリンの「積極的平和指数」と「一般的平和指数」はともにドイツで最低であった。ワースト3は[[ベルリン]]、[[ブレーメン]]、[[ハンブルク]]である<ref name=":5">{{Cite web |url=https://www.visionofhumanity.org/wp-content/uploads/2020/10/DPI-2020-web-1.pdf |title=GERMAN PEACE INDEX 2020 MEASURING THE DYNAMICS OF PEACE |access-date=2024-06-01}}</ref>。
+
+さらに一定規模以上の都市には、特定の国・地域出身の外国人が多く定住する区域が存在しており、これらの場所はその国・地域の文化が根付いており、日中は活気がある反面、夜間の治安は一般的にあまり良くない傾向にある。このほかにも都市によっては、麻薬や犯罪の巣窟となっている危険地域（No-Go-Areas）が存在する為、それらの地域には絶対に近付かないよう現在も警告がされている。
+
+一方でドイツは難民受け入れに積極的な政策をとっており、2015年以降これまでに180万人以上の難民が[[シリア]]や[[イラク]]などからドイツに入国して来ている。こうした中、反移民・難民を標榜する[[デモ]]が大都市を中心に同連邦国内で断続的に発生し、一部が暴徒化するケースも見受けられる。逆に反移民・難民の機運に対する不満と移民や難民に紛れ込んだテロリストが潜伏している危険性が高いため、滞在時の外出や散策は安易に行わないよう注意が必要となって来る<ref>{{Cite web|和書|url=https://www.anzen.mofa.go.jp/info/pcsafetymeasure_165.html|title=ドイツ 安全対策基礎データ|accessdate=2021-10-10|publisher=外務省}}</ref>。
+=== 治安維持 ===
+治安維持については他国と同じく、基本的には[[警察]]（{{lang|de|Polizei}}）によって行われる。その警察組織はナチスドイツ時代に設置されていた集権的な[[秩序警察]]（{{lang|de|Ordnungspolizei}}）を廃止し、それぞれの州政府によって[[地方警察 (ドイツ)|地方警察]] （{{lang|de|Landespolizei}}）が運営され、警察とは別に都市や地区レベルの治安組織もある。連邦全体の組織としては[[連邦刑事局 (ドイツ)|連邦刑事局]]（{{lang|de|BKA}}）および[[連邦警察局]]（{{lang|de|BPOL}}）があり、前者は複数の州や他国が関係する事件に介入して調整を行い、後者は国境警備や[[カウンターテロリズム]]を担当する。世界的に知られる[[特殊部隊]]である[[GSG-9]]は{{lang|de|BPOL}}の指揮下にある。集団警備が必要な場合は[[機動隊 (ドイツ)|機動隊]]（{{lang|de|Bereitschaftspolizei}}）が動員されるが、これについては{{lang|de|BPOL}}と地方警察がそれぞれ部隊を持ち、[[内務省]]が全体を管轄している。
+{{also|ドイツの警察}}
+
+ほかに警察組織以外の特殊な治安機関としては内務省直属の[[連邦憲法擁護庁]]（{{lang|de|BfV}}）が存在し、政府直属の[[連邦情報局]]（{{lang|de|BND}}）、軍直属の[[軍事保安局 (ドイツ)|軍事保安局]]（{{lang|de|MAD}}）と並んで[[諜報機関]]としても機能している。
+
+=== 人権 ===
+{{main|{{仮リンク|ドイツにおける人権|en|Human rights in Germany}}}}ドイツは、他者の人権の受容、汚職の少なさ、情報の自由な流れ、良好なビジネス環境、高い人的資本、資源の公正な配分、よく機能する政府、近隣諸国との良好な関係によって決定される2024年積極的平和指数で世界11位である<ref name=":02">{{Cite web|和書 |title=経済平和研究所 |url=https://www.rotary.org/ja/institute-economics-and-peace |website=www.rotary.org |accessdate=2021-11-10 |language=ja}}</ref><ref name=":8" />。さらにメタ分析論文によれば、2019年、ドイツはスウェーデン、オランダ、ノルウェーを含む調査対象国の中で、有色人種に対する雇用差別が最も低い<ref>{{Cite journal|author=Lincoln Quillian, Anthony Heath, Devah Pager, Arnfinn H. Midtbøen, Fenella Fleischmann, Ole Hexel|year=2019|title=Do Some Countries Discriminate More than Others? Evidence from 97 Field Experiments of Racial Discrimination in Hiring|journal=Sociological Science}}</ref>。ドイツでは、男女平等を無視し<ref name=":4">{{Cite web|title=Einbürgerungsrecht mit doppelter Staatsbürgerschaft in 2024|url=https://www.rtpartner.de/immigration/einbuergerung-wichtige-aenderungen/|website=www.rtpartner.de|access-date=2024-06-01|language=de-DE}}</ref>、差別や外国人排斥を行った場合<ref>{{Cite web |title=New German Citizenship Law 2024: What You Need to Know |url=https://se-legal.de/german-citizenship-bill-2023-what-you-need-to-know/?lang=en |website=Schlun & Elseven |date=2024-01-19 |access-date=2024-06-02 |language=en |first=Aykut |last=Elseven}}</ref>、あるいはそれ以外で3カ月以上の禁固刑や日額90の罰金刑を受けた場合は、ドイツ国籍を申請することができない<ref name=":0" />。
+
+== マスコミ ==
+{{main|{{仮リンク|ドイツのメディア|de|Medien in Deutschland}}}}
+2024年の経済平和研究所によれば、ドイツは情報の自由度において世界第10位である<ref name=":8" />。{{節スタブ}}
+{{also|{{仮リンク|ドイツの通信|en|Telecommunications in Germany}}}}
+
+== 文化 ==
+[[ファイル:Berlin Skyline voll.jpg|thumb|upright=1.8|[[ベルリン]]、芸術の中心]]
+{{main|ドイツの文化}}
+[[ファイル:Tübingen - Altstadt - Neckarfront - Ansicht von Neckarinsel mit Stocherkahn.jpg|サムネイル|ドイツで最も活動的で平和な都市<ref name=":5" />。]]
+歴史的にドイツは「詩人と思想家の国（''Das Land der Dichter und Denker''）」と呼ばれてきた<ref>{{cite news|author=Wasser, Jeremy|url=http://www.spiegel.de/international/0,1518,410135,00.html|title=Spätzle Westerns|newspaper=Spiegel Online International|date=6 April 2006|accessdate=28 March 2011}}</ref>。連邦各州が文化施設を担当しており、ドイツには助成を受けた240の劇場、数百の[[オーケストラ|交響楽団]]、数千の博物館。そして2万5000以上の図書館がある。これらの文化施設は多くの人々に利用されており、毎年延べ9100万人のドイツ人が博物館を訪れ、20万人が劇場やオペラ、3600万人が交響楽団を鑑賞している<ref>{{cite news|url=http://www.dw-world.de/dw/0,,8009,00.html|title=Unbelievable Multitude|newspaper=Deutsche Welle|accessdate=28 March 2011}}</ref>。[[国際連合教育科学文化機関]]は、ドイツでは36件を世界遺産リストに登録している<ref>{{Cite web|url=http://www.worldheritagesite.org/countries/germany.html|title=World Heritage Sites in Germany|publisher=UNESCO|accessdate=2010-10-03|archiveurl=https://web.archive.org/web/20100512172012/http://www.worldheritagesite.org/countries/germany.html|archivedate=2010-05-12|url-status=dead|url-status-date=2017-09}}</ref>。
+
+ドイツは高いレベルの[[男女平等]]<ref name=":4" /><ref>{{cite web|url = http://hdr.undp.org/en/media/HDR_2010_EN_Tables_reprint.pdf|title = Human Development Report 2010 Table 4 Gender Inequality Index|pages = 156–160|publisher= United Nations Development Programme|accessdate = 20 April 2011}}</ref>、障害者の権利促進、同性愛者に対する法的社会的寛容を確立している。ゲイとレズビアンはパートナーの遺伝的子供を養子とすることができ、2001年以降には[[シビル・ユニオン]]（結婚に準じる権利）<ref>訳語は{{Cite web|和書|url = https://www.weblio.jp/content/%E3%82%B7%E3%83%93%E3%83%AB%E3%83%BB%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3%E6%B3%95|title = シビル・ユニオン法とは - 人権啓発用語|publisher= Weblio辞書|accessdate = 2011-07-14}}より。</ref> が認められた<ref>{{cite news|url=http://www.news24.com/World/News/Germany-extends-gay-rights-20041029|title=Germany extends gay rights|publisher=News24|date=29 October 2004|accessdate=19 March 2011}}</ref>。1990年代半ば以降、ドイツは移民に対する態度を変えており、ドイツ政府とドイツ人の過半数が移民の管理は資格基準に基づいて許可されねばならないと認識するようになった<ref>{{Cite book|first = Friedrich|last = Heckmann|title = The Integration of Immigrants in European Societies:national differences and trends of convergence|publisher=Lucius & Lucius|pages = 51 ff|year = 2003|isbn = 978-3-8282-0181-1}}</ref>。ドイツは、北欧諸国やオランダと同様、プロテスタントの文化圏であり<ref name=":7">{{Cite web |title=WVS Database |url=https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=findings&CMSID=findings |website=www.worldvaluessurvey.org |access-date=2024-06-02}}</ref>、宗教改革以来、ドイツ、オランダ、北欧の合理主義のおかげで、社会は福祉を重視してきた<ref name=":8" /><ref name=":7" />。ドイツは第二次世界大戦中の歴史的要因による罪を償い、イスラエルをほぼ無条件で支持している<ref>{{Cite web |url=https://www.bundesregierung.de/resource/blob/998352/2272948/06ad137c418d575e4aedc8435a002cef/2024-04-14-g7-statement-zum-angriff-iran-gegen-israel-en-data.pdf?download=1 |title=G7 LEADERS’ STATEMENT ON IRAN’S ATTACK AGAINST ISRAEL |access-date=2024-06-02}}</ref>。また、二重国籍が解禁され、ドイツ国籍の申請要件が比較的緩和されたことは、二重国籍を認めていない日本では基本的に享受できない<ref name=":4" />。
+
+ドイツは2010年に世界でもっとも賞賛される国の統計で50か国中第2位に挙げられた<ref>{{Cite press release|title = 2010 Anholt-GfK Roper Nation Brands Index|publisher=[[:en:GfK]]|date = 12 October 2010|url = http://www.gfk.com/group/press_information/press_releases/006688/index.en.html|accessdate = 28 March 2011}}</ref>。2013年の[[英国放送協会|BBC]]の世論調査によれば、ドイツは世界でもっとも肯定的な影響を与えている国と認められている<ref>{{Cite news|url = http://news.bbcimg.co.uk/media/images/67748000/jpg/_67748860_67748859.jpg|title = Views of US Continue to Improve in 2013 BBC Country Rating Poll|work=Worldpublicopinion.org|date = 23 May 2013|accessdate = 23 May 2013}}</ref>。同様に、2018年に欧州委員会が実施した欧州連合加盟国の世界の主要経済国に対する好感度調査では、ドイツはフランスと日本を僅差で上回った<ref name=":6" />。
+
+[[ドイツの祝日]]は[[啓蒙思想]]の犠牲となった歴史をもち、ドイツ連邦制を象徴する文化である。ドイツはカトリック・プロテスタントが混在しているため、[[元日]]や[[ドイツ統一の日]]のようにドイツ全土で祝日とされている日のほかに、カトリック信者の多い州だけ、あるいはプロテスタント信者の多い州だけ祝われる日が存在するため、州によって祝日は異なっている。
+
+=== 食文化 ===
+[[ファイル:Choucroute.jpg|thumb|200px|[[ザワークラウト]]とヴルストを中心としたドイツ料理]]
+{{Main|ドイツ料理}}
+ドイツ料理は地域ごとに特色があり、バイエルンやシュバーヴェンといった南部はスイスやオーストリアと食文化が共通している。すべての地域で肉はしばしばソーセージにして食べられる<ref>{{cite web|url = http://www.foodfromgermany.org/consumer/facts/guidetosausages.cfm|title = Guide to German Sausages & Meat Products|publisher = German Foods North America|accessdate = 11 May 2011}}</ref>。料理は火を使わずに用意できるカルテス・エッセン（{{lang|de|kaltes Essen}}、冷たい食事）と、調理してから出されるヴァルメス・エッセン（{{lang|de|warmes Essen}}、温かい食事）とに大別される。よく知られているものとしては、前者に[[ソーセージ]]（''Wurst''）、[[ハム]]（''Schinken''）、[[チーズ]]（''Käse''）などの冷製食品、後者に塩漬け肉[[アイスバイン]]（''Eisbein''）、キャベツの塩漬け[[ザワークラウト]]（''Sauerkraut''）、肉や魚の団子[[クネーデル]]（''Knödel''）などがある。
+
+[[有機農産物]]が市場の約2%を占めており、今後も増加する見込みである<ref>{{cite web|url = http://www.fao.org/organicag/display/work/display_2.asp?country=DEU&lang=en&disp=summaries|title =Germany Country Profiles for Organic Agriculture|publisher= Food and Agriculture Organization|accessdate = 6 May 2011}}</ref>。ドイツの多くの部分でワインが親しまれているが、国民的酒類はビールである。ドイツ人のビール消費量は減少傾向にあるが、依然として年間1人あたり116リットルが消費されており、世界最大である<ref>{{Cite web|url=http://www.royalunibrew.com/Default.aspx?ID=266|title=Europe's largest beer market 2006|publisher=Royal Unibrew|accessdate=2011-03-28|archiveurl=https://web.archive.org/web/20111107210711/http://www.royalunibrew.com/Default.aspx?ID=266|archivedate=2011-11-07|url-status=dead|url-status-date=2017-09}}</ref>。また、ビールの醸造では世界最古の[[:en:Bayerische Staatsbrauerei Weihenstephan|ヴァイエンシュテファン醸造所]]がミュンヘンから北東のフライジングにある。
+
+[[ミシュランガイド]]は9件のレストランに三つ星を、15件に二つ星をつけている<ref>{{cite news|url = http://www.dw-world.de/dw/article/0,2144,2914502,00.html|title = Schnitzel Outcooks Spaghetti in Michelin Guide|work = Deutsche Welle|location = Bonn|accessdate = 28 March 2011|date = 15 November 2007}}</ref>。ドイツのレストランはフランスに次いで世界で2番目に賞を受けている<ref>{{cite news|url = http://in.reuters.com/article/2007/11/14/us-germany-food-idINL1447732320071114|title = German cuisine beats Italy, Spain in gourmet stars|work = Reuters|accessdate = 19 March 2011|date = 28 March 2011}}</ref>。
+
+==== 飲料 ====
+===== 代用コーヒー =====
+[[フリードリヒ2世 (プロイセン王)|フリードリヒ2世]]が[[1777年]]に[[コーヒー]]の禁止令を布告して以降、ドイツでは[[どんぐりコーヒー]]などの[[代用コーヒー]]産業が発展した。いうまでもなく現在のドイツではコーヒーは禁止されていない。
+
+===== ビール =====
+{{main|ドイツのビール}}
+[[ビール]]は16歳以上（保護者同伴ならば14歳から）の国民が飲める[[アルコール飲料]]である（ただし、フランクフルトなど地方によっては[[リンゴワイン|リンゴのワイン]]の方が人気）。ミュンヘンの[[オクトーバー・フェスト]]は世界最大のビール祭りといわれる。[[ドイツのワイン]]は[[白ワイン]]が主体。かつてはリースリング種を使った甘口のワインが多かったが、食生活の変化に伴い辛口の白ワインや赤ワインが生産・消費ともに増加している。[[蒸留酒]]は18歳以上の国民が飲むことができる。
+
+=== 文学 ===
+{{Main|ドイツ文学}}
+[[ドイツ文学]]は中世の[[ヴァルター・フォン・デア・フォーゲルヴァイデ]]や[[ヴォルフラム・フォン・エッシェンバッハ]]の作品にまでさかのぼることができる。著名なドイツ人作家には、かの文豪[[ヨハン・ヴォルフガング・フォン・ゲーテ]]や[[フリードリヒ・フォン・シラー]]、[[ハインリヒ・ハイネ]]がいる。[[グリム兄弟]]によって編纂出版された民話集はドイツ民話を国際レベルにまで知らしめた。20世紀の有力作家には[[トーマス・マン]]、[[ベルトルト・ブレヒト]]、[[ヘルマン・ヘッセ]]、[[ハインリヒ・ベル]]、[[ギュンター・グラス]]がいる<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/literature/articles/espmark/index.html|title=The Nobel Prize in Literature|publisher=Nobelprize.org|date=3 December 1999|author=[[:en:Kjell Espmark|Espmark, Kjell]]|accessdate= 28 March 2011}}</ref>。[[ノーベル文学賞]]には[[テオドール・モムゼン]]（1902年）、[[ルドルフ・クリストフ・オイケン]] （1908年）、[[パウル・フォン・ハイゼ]] （1910年）、[[ゲアハルト・ハウプトマン]]（1912年）、[[トーマス・マン]] （1929年）、ヘルマン・ヘッセ（1946年）、ハインリヒ・ベル（1972年）、ギュンター・グラス（1999年）、[[ヘルタ・ミュラー]] （2009年）が選ばれている。[[エーリッヒ・ケストナー]]、[[オトフリート・プロイスラー]]、[[ミヒャエル・エンデ]]など[[児童文学]]界に影響を与えた人も多い。
+
+ドイツ語圏の出版社は年間7億部を発行しており、出版タイトルは約8万で、そのうち6万が新刊である。ドイツ語書籍は英語圏市場や中国に次ぐ第3位の市場規模を誇っている<ref>{{cite web|url=http://land-der-ideen.matrix.de/CDA/facts_printing,4563,0,,en.html|title=Land of ideas|publisher=Land-der-ideen.matrix.de|accessdate=19 March 2011}}</ref>。500年に及ぶ伝統を持つ[[フランクフルト・ブックフェア]]は国際取引市場でもっとも重要な書籍見本市である<ref>{{cite web|url = http://www.buyusa.gov/germany/en/bookfair2011.html|title = Frankfurt Book Fair 2011|publisher= U.S. Commercial Service Germany|accessdate = 13 April 2011}}</ref>。ドイツは人口10万人あたりの図書館数がG7で一番多く、10万人あたり14.78館が存在する<ref>{{Cite web|和書|url = http://www.yomiuri.co.jp/kyoiku/renai/20050923us41.htm|title = 生かす図書館の力 (3) 良い司書招き館長に|publisher = YOMIURI ONLINE（読売新聞）|accessdate = 2011-07-30|archiveurl = https://web.archive.org/web/20060103054907/http://www.yomiuri.co.jp/kyoiku/renai/20050923us41.htm|archivedate = 2006-01-03|url-status=dead|url-status-date=2017-09}}</ref>。2005年にはドイツ語長編小説を対象とする[[ドイツ書籍賞]]が創設された。
+{| class="wikitable" style="text-align:center"
+|-
+!ヨハン・{{wrapj}}ヴォルフガング・{{wrapj}}フォン・{{wrapj}}ゲーテ<br>{{smaller|(1749&ndash;1832)}}
+!フリードリヒ・{{wrapj}}フォン・{{wrapj}}シラー<br>{{smaller|(1759&ndash;1805)}}
+!グリム兄弟<br>{{smaller|(1785&ndash;1863)}}
+!トーマス・{{wrapj}}マン<br>{{smaller|(1875&ndash;1955)}}
+!ヘルマン・{{wrapj}}ヘッセ<br>{{smaller|(1877&ndash;1962)}}
+!ベルトルト・{{wrapj}}ブレヒト<br>{{smaller|(1898&ndash;1956)}}
+|-
+|[[ファイル:Johann Heinrich Wilhelm Tischbein - Goethe in der roemischen Campagna.jpg|175ピクセル]]
+|[[ファイル:Friedrich Schiller by Ludovike Simanowiz.jpg|100ピクセル]]
+|[[ファイル:Grimm1.jpg|115ピクセル]]
+|[[ファイル:Thomas Mann 1929.jpg|98ピクセル]]
+|[[ファイル:Hermann Hesse 1927 Photo Gret Widmann.jpg|100ピクセル]]
+|[[ファイル:Bundesarchiv Bild 183-W0409-300, Bertolt Brecht.jpg|100ピクセル]]
+|}
+
+=== 哲学 ===
+[[ファイル:Deutscher Idealismus.jpg|thumb|230px|ドイツ観念論の哲学者たち。カント（左上）、フィヒテ（右上）、シェリング（左下）、ヘーゲル（右下）]]
+{{main|ドイツの哲学}}
+ドイツ哲学は歴史的に重要である。とりわけ影響力があったものには[[合理主義哲学]]に対するゴットフリート・ライプニッツの貢献、[[イマヌエル・カント]]、[[ヨハン・ゴットリープ・フィヒテ]]、[[ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル]]、[[フリードリヒ・シェリング]]による古典的[[ドイツ観念論]]の確立、[[アルトゥル・ショーペンハウアー]]の形而上学的厭世論の著作、[[カール・マルクス]]と[[フリードリヒ・エンゲルス]]による[[共産主義思想]]の理論化、[[フリードリヒ・ニーチェ]]による[[観点主義|遠近法主義]]の展開、[[分析哲学]]黎明期における[[ゴットロープ・フレーゲ]]の功績、存在（Being）に関する[[マルティン・ハイデッガー]]の著作そして[[マックス・ホルクハイマー]]、[[テオドール・アドルノ]]、[[ヘルベルト・マルクーゼ]]、[[ユルゲン・ハーバーマス]]による[[フランクフルト学派]]の発展がある。21世紀においてドイツはフランス、オーストリア、スイスそしてスカンジナビア諸国とともにヨーロッパ大陸における現代分析哲学の発達に貢献してきた<ref>{{cite book|author=Searle, John|year=1987|title=The Blackwell Companion to Philosophy|chapter=Introduction|publisher=Wiley-Blackwell}}</ref>。
+
+=== 音楽 ===
+[[ファイル:Beethoven.jpg|thumb|200px|[[ルートヴィヒ・ヴァン・ベートーヴェン|ベートーヴェン]]]]
+{{main|{{仮リンク|ドイツの音楽|de|Musik in Deutschland}}}}
+ドイツは、18世紀後半以降の音楽史で、同系国家であるオーストリア（1866年までは[[ドイツ連邦]]議長国）とともに独占的ともいえる地位を築き、今もヨーロッパの歌劇場（オペラハウス）の過半数<ref>吉田秀和「ヨーロッパの響 ヨーロッパの姿」中公文庫</ref>、全世界のオーケストラの4分の1以上<ref>「音楽の友」2010年11月号</ref> がドイツにあるといわれる。
+
+現在のドイツ連邦共和国の領域に限っても[[ヨハン・ゼバスティアン・バッハ]]、[[ルートヴィヒ・ヴァン・ベートーヴェン]]、[[ヨハネス・ブラームス]]の「ドイツ三大B」をはじめとして、[[ロベルト・シューマン]]、[[フェリックス・メンデルスゾーン]]、[[リヒャルト・ワーグナー]]、[[リヒャルト・シュトラウス]]などクラシック音楽史上に名を残す作曲家や演奏家を多数輩出した。今日の[[ベルリン・フィルハーモニー管弦楽団]]をはじめとする世界クラスの[[オーケストラ]]や[[音楽祭]]も多い。オーストリアからは[[フランツ・ヨーゼフ・ハイドン]]、[[ヴォルフガング・アマデウス・モーツァルト]]、[[フランツ・シューベルト]]、[[アントン・ブルックナー]]、[[グスタフ・マーラー]]らが有名だが、マーラーを除いては完全にドイツの一部(というよりもドイツ人全体の政治的盟主、文化的中心地)とみなされていた時代の出身であり、文学と同じく同言語圏を一括りにして語られることが多い（相互の移動や各時代における国民意識など分離して考えることが困難なため、ベートーヴェンがドイツ音楽でブルックナーはオーストリア音楽というような分け方はほとんどされない。[[フランツ・リスト]]ら東欧植民ドイツ人から帰還活躍しドイツ楽派と呼ばれる存在もいる）。世界最大の[[クラシック音楽]]大国とされている。[[指揮者]]も同様に著名な人物を多数輩出している。
+
+[[File:Erneuerte Fassadenbeleuchtung des Nationaltheaters München 2017.jpg|thumb|300px|[[バイエルン国立歌劇場]]]]
+[[オペラ]]、[[演奏会|コンサート]]、[[演劇]]への関心も強く、ある程度の規模の街には州立（国立と呼ばれる場合もある）ないし市立の歌劇場、オーケストラがある。[[ドイツ公共放送連盟]]加盟の各地の放送局が所有している[[放送オーケストラ]]（[[バイエルン放送交響楽団]]・[[NDRエルプフィルハーモニー管弦楽団]]など）も総じてレベルが高い。オペラは、年間上演数がオーストリアとスイスのドイツ語圏をあわせるとイタリアの4倍近く、世界でも群を抜くオペラの中心国であり、諸外国からドイツ語を学んだ歌手が多く集まっている。逆にいえばドイツ人だけでは陣容を維持できない規模になっているともいえ、ポピュラー系のショービジネスや野球におけるアメリカに似た地位にある。そのほか、オペレッタ、ミュージカル、バレエ、ストレートプレイの上演も盛んである。特にストレートプレイについては、資本主義国では希少な公務員並の待遇の俳優が多数存在する国であり（他にオーストリアなど）、自国語を捨ててでも安定した身分で演劇に専心できる生活を目指して入国してくる外国人も少なくない。[[バレエ]]も、オーストリアを含めてもめぼしい歴史的作品を生んでいないにもかかわらず、上演活動に関してはロシアと並ぶ2大国の座を占めている。
+
+[[ポピュラー音楽]]については、[[1979年]]、[[ジンギスカン (グループ)|ジンギスカン]]の『[[ジンギスカン (曲)|ジンギスカン]]（Dschinghis Khan）』『[[めざせモスクワ]]（Moskau）』や、1980年代に[[ネーナ]]がアメリカなどでもヒットさせた『[[ロックバルーンは99]]（99 Luftballons）』などが知られている。
+
+[[ファイル:Rammstein and Apocalyptica concert - 2005.jpg|thumb|220px|[[2005年]]、[[ミラノ]]での[[ラムシュタイン]]と[[アポカリプティカ]]の[[演奏会|ライブ]]]]
+
+また最近では、旧・東ドイツの都市[[ライプツィヒ]]の聖トーマス教会の少年合唱団出身者などにより結成された[[ディー・プリンツェン]]が、[[2002年]]の[[サッカー]][[2002 FIFAワールドカップ|FIFAワールドカップ日韓大会]]で活躍し、最優秀選手に選出されたドイツ代表のゴールキーパーである[[オリバー・カーン]]をモチーフにした曲『OLLI KAHN』が話題を呼んだ。
+
+[[ロック (音楽)|ロック音楽]]では、おもなミュージシャンとして[[プログレッシヴ・ロック]]の[[タンジェリン・ドリーム]]、[[テクノ]]の元祖[[クラフトワーク|クラフトヴェルク]]、[[ハード・ロック]]の[[スコーピオンズ]]、[[マイケル・シェンカー・グループ]]、[[フェア・ウォーニング (バンド)|フェア・ウォーニング]]、[[ヘヴィ・メタル]]の[[アクセプト (バンド)|アクセプト]]、[[ハロウィン (ドイツのバンド)|ハロウィン]]、[[ガンマ・レイ]]、[[ブラインド・ガーディアン]]、[[エドガイ]]、[[レイジ (バンド)|レイジ]]、[[プライマル・フィア]]、[[ラムシュタイン]]、[[U.D.O.]]などの名が挙げられる。
+
+テクノや[[トランス (音楽)|トランス]]などのクラブ系は、野外[[レイブ (音楽)|レイヴ]]「[[ラブパレード]]」や屋内レイヴ「[[メイデイ (音楽イベント)|メーデー]]」が開催されるなど、ドイツ国内に広く普及している。テクノではベルリンの[[トレゾア]]やケルンの[[コンパクト (レコードレーベル)|コンパクト]]などのレーベルから世界中のアーティストが曲をリリースしている。トランスの分野では、東ベルリン出身のDJ・[[ポール・ヴァン・ダイク]]が『DJ Magazine』誌の人気投票で1位を獲得している。[[電子音楽]]、[[エレクトロニカ]]、[[サウンドアート]]なども盛んであり、[[坂本龍一]]とのコラボレーションでも知られる[[アルヴァ・ノト]]が主催するレーベル[[:de:Raster-Noton|Raster-Noton]]など注目度が高い。
+
+=== 美術 ===
+[[ファイル:Lucas Cranach d. Ä. - The Lamentation of Christ - The Schleißheim Crucifixion - Alte Pinakothek.jpg|thumb|210px|『Kreuzigung Christi（磔のキリスト）』（[[ルーカス・クラナッハ]]、1503年）]]
+{{main|{{仮リンク|ドイツの芸術|en|en:German art}}}}
+
+'''[[ロマン主義|ドイツ・ロマン派]]'''の[[カスパー・ダーヴィト・フリードリヒ]]、[[フィリップ・オットー・ルンゲ]]などの画家名や[[ドイツ表現主義]]などの項目を参照。
+
+第一次世界大戦中から戦後、ドイツは'''[[表現主義]]'''や[[新即物主義]]を生み出し、[[デザイン]]や[[建築]]でも'''[[バウハウス]]'''を中心に革新的な動きを起こした。バウハウスに集った[[ヴァルター・グロピウス]]、[[ハンネス・マイヤー]]、[[ミース・ファン・デル・ローエ]]、[[ヨハネス・イッテン]]、[[ピエト・モンドリアン]]、[[ワシリー・カンディンスキー|ヴァシリー・カンディンスキー]]、[[モホリ＝ナジ・ラースロー|モホリ・ナギ]]といった美術家・建築家らは、合理主義・表現主義・[[構成主義]]といった美術観・建築観に基づくデザインを生み出し、今日のデザイン分野への影響は甚大である。
+
+しかし既存のロマン派的流れを汲む美術団体との軋轢、およびナチスの「[[退廃芸術]]」排除の政策から、主だった美術家・建築家はアメリカなどに移民し、ドイツの芸術は壊滅的打撃を受けた。
+
+1960年代以降、[[フルクサス]]や[[ヨーゼフ・ボイス]]、[[アンゼルム・キーファー]]、[[ゲルハルト・リヒター]]など、世界に影響を与える芸術家が多数登場し、ドイツの美術・建築・デザインは再び世界的存在感を高めている。
+
+=== 映画とテレビ ===
+[[File:Berlinale2007.jpg|thumb|300px|ベルリン国際映画祭（2007年）]]
+{{Main|ドイツの映画|{{仮リンク|ドイツのテレビ|de|Fernsehen in Deutschland}}}}
+[[ドイツの映画|ドイツ映画]]は草創期の{{仮リンク|マックス・スクラダノフスキー|de|Max Skladanowsky}}にさかのぼり<ref>{{Cite web|和書|url=http://100.yahoo.co.jp/detail/%E3%83%89%E3%82%A4%E3%83%84%E6%98%A0%E7%94%BB/|title=ドイツ映画|publisher=日本大百科全書（小学館）|accessdate=2011-07-14}}{{リンク切れ|date=2013年12月}}</ref>、[[ロベルト・ヴィーネ]]や[[F・W・ムルナウ|フリードリヒ・ヴィルヘルム・ムルナウ]]といった[[ドイツ表現主義|ドイツ表現主義映画]]が影響力を持っていた<ref>{{Cite web|和書|url=http://100.yahoo.co.jp/detail/%E3%83%89%E3%82%A4%E3%83%84%E6%98%A0%E7%94%BB/%E3%83%AF%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%AB%E5%85%B1%E5%92%8C%E5%9B%BD%E6%99%82%E4%BB%A3//|title=ドイツ映画 - ワイマール共和国時代|publisher=日本大百科全書（小学館）|accessdate=2011-07-14}}{{リンク切れ|date=2013年12月}}</ref>。1927年には[[フリッツ・ラング]]監督によるSF映画の先駆たる大作『[[メトロポリス (1927年の映画)|メトロポリス]]』が公開された<ref>池内(1992),pp.263-264.</ref>。1930年に公開されたオーストリア系アメリカ人の[[ジョセフ・フォン・スタンバーグ]]監督『[[嘆きの天使]]』がドイツ初の大作[[トーキー|トーキー映画]]である<ref>{{Cite book|last= Bordwell|first= David|authorlink=:en:David Bordwell|coauthors= Thompson, Kristin|title= Film History:An Introduction|origyear= 1994|edition= 2nd|year= 2003|publisher=McGraw-Hill|isbn= 978-0-07-115141-2|page= 204|chapter= The Introduction of Sound}}</ref>。戦後はユダヤ系、反ナチ系の才能が多く流出したことや、巨大なウーファ撮影所が東ドイツの所属となったこともあり低迷し、日本で紹介されるのもポルノ映画やB級西部劇ばかりという状態が続いた。1970年代から80年代にかけて、[[フォルカー・シュレンドルフ]]、[[ヴェルナー・ヘルツォーク]]、[[ヴィム・ヴェンダース]]、[[ライナー・ヴェルナー・ファスビンダー]]といった[[ニュー・ジャーマン・シネマ]]監督たちが西ドイツ映画を国際的な舞台へと押し上げた<ref>{{Cite web|url=http://www.fassbinderfoundation.de/node.php/en/home|title=Rainer Werner Fassbinder|publisher=Fassbinder Foundation|accessdate=2011-03-28|archiveurl=https://web.archive.org/web/20111026222235/http://www.fassbinderfoundation.de/node.php/en/home|archivedate=2011-10-26|url-status=dead|url-status-date=2017-09}}</ref>。毎年の[[ヨーロッパ映画賞]]は隔年で{{仮リンク|ヨーロピアン・フィルム・アカデミー|de|Europäische Filmakademie}}（EFA）の本部のあるドイツで開催される。1951年以来、毎年開催される[[ベルリン国際映画祭]]は世界でもっとも重要な映画祭のひとつである<ref>{{cite web|url=http://www.fiapf.org/pdf/2006accreditedFestivalsDirectory.pdf|title=2006 FIAPF accredited Festivals Directory|publisher=International Federation of Film Producers Associations|accessdate=28 March 2011}}</ref>。
+
+近年では『[[グッバイ、レーニン!]]』（''Good Bye, Lenin!'';2003年）、『[[愛より強く]]』（''Gegen die Wand'';2004年）、『[[ヒトラー 〜最期の12日間〜]]』（''Der Untergang'';2004年）、『[[バーダー・マインホフ 理想の果てに]]』（''Der Baader Meinhof Komplex'';2008年）が国際的な成功を収めている。ニュージャーマンシネマ勃興期と比べると、平明なエンタテインメント映画も豊富になってきた。また、1979年に『[[ブリキの太鼓]]』（''Die Blechtrommel''）、2002年に『[[名もなきアフリカの地で]]』（''Nirgendwo in Afrika''）、2007年に『[[善き人のためのソナタ]]』（''Das Leben der Anderen''）が[[アカデミー外国語映画賞]]を受賞している<ref>{{cite web|url=https://www.imdb.com/title/tt0405094/awards/|title=Awards:Das Leben der Anderen|publisher=IMDb|accessdate=28 March 2011}}</ref>。
+
+3400万世帯のドイツのテレビ市場はヨーロッパ最大であり、ドイツ世帯の90%が[[ケーブルテレビ]]または[[衛星放送]]を視聴している<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/country_profiles/1047864.stm|title=Country profile:Germany|work=BBC News|accessdate=28 March 2011}}</ref>。放送局は[[ドイツ公共放送連盟]]（ARD）加盟の各地の[[公共放送]]局、第2の公共放送ネットワークである[[第2ドイツテレビ]]（ZDF）などがある。
+
+=== 被服・ファッション ===
+[[File:BerlinFashionWeek2013.jpg|300px|thumb|{{仮リンク|ベルリン・ファッション・ウィーク|de|Berlin Fashion Week}}（2013年）]]
+{{main|ドイツの伝統衣装|{{仮リンク|ドイツのファッション|en|German fashion}}}}
+ドイツの伝統衣装は州によってその色合いが異なっている特徴を持つ。基本となるのは{{仮リンク|トラハト (衣服)|label=トラハト|de|Tracht (Kleidung)|en|Tracht|ru|Трахт}}と呼ばれる衣装であり、ドイツ周辺地域の被服文化にも多大な影響を及ぼしていたものとして現代でも認知されている。ドイツ国内では19世紀まで厳格な[[服装規定]]により、田舎地域の衣装の自由な発展が妨げられていた。これは当時の統治者たちが、自分の臣下が見栄を張って借金をするのを防止する為の策として華美な服装を規制していたことが大きな要因であった<ref>{{cite web2|df=ja|title=Bedeutung und Wirkung der schwarzen Bekleidungsfarbe in Deutschland zur Zeit des 16. Jahrhunderts|periodical=|publisher=Universität Bremen|url=https://elib.suub.uni-bremen.de/diss/docs/E-Diss1214_Burde.pdf|url-status=|format=PDF|access-date=2018-02-18|archive-url=|archive-date=|last=Christina Burde|date=|year=|language=de|pages=|quote=}}</ref>。
+{{also|{{仮リンク|バイエルンの民族衣装|de|Bayerische Tracht|ru|Баварский национальный костюм}}|{{仮リンク|ルザチアンの民族衣装|ru|Народный костюм лужичан}}}}
+
+現代においてドイツは、フランス、イギリス、[[アメリカ合衆国|アメリカ]]、イタリア、スペイン、[[日本]]と並んでファッション産業における重要な役割を果たす国の一つに数え上げられている。同国では{{仮リンク|ベルリン・ファッション・ウィーク|de|Berlin Fashion Week}}と呼ばれる[[ファッション・ウィーク]]のイベントが毎年2回開催されている。
+{{節スタブ}}
+
+=== 建築 ===
+[[File:Einsteinturm 7443.jpg|200px|thumb|[[アインシュタイン塔]] <br> [[ポツダム]]の{{仮リンク|テレグラフェンベルク|de|Telegrafenberg}}に位置する『{{仮リンク|アルベルト＝アインシュタイン研究学園都市|de|Wissenschaftspark Albert Einstein}}』内に建設された[[天文台]]である]]
+[[File:Hufeisensiedlung.jpg|180px|thumb|ベルリン・[[ノイケルン区]]の{{仮リンク|馬蹄形集落|de|Hufeisensiedlung}}<br>]]
+{{main|ドイツの建築}}
+ドイツの建築史は、[[カロリング朝ルネッサンス]]から[[現代建築]]まで、豊か且つ多様な伝統を持つものとなっている。
+
+同国の建築は、領土となる地域が何世紀にも亘って公国、王国、その他の自治領に分割されたため「地域の多様性が大きい」特徴点が顕著に現れている面を持つ。
+{{節スタブ}}
+
+=== 世界遺産 ===
+{{main|ドイツの世界遺産}}
+ドイツ国内には、[[国際連合教育科学文化機関|ユネスコ]]の[[世界遺産]]リストに登録された[[文化遺産 (世界遺産)|文化遺産]]が48件、[[自然遺産 (世界遺産)|自然遺産]]が3件で合計51件の世界遺産が現存する。イタリア・中国に次ぐ3番目の登録件数である。
+<gallery mode="packed">
+Aachen Germany Imperial-Cathedral-01.jpg|[[アーヘン大聖堂]]（1978年、文化遺産）
+2004-06-27-Germany-Wuerzburg-Lutz Marten-Residenz side view 1.jpg|[[ヴュルツブルクのレジデンツ|ヴュルツブルク司教館、その庭園群と広場]]（1981年、文化遺産）
+0 Dom Speyer Suedwest.jpg|[[シュパイアー大聖堂]]（1981年、文化遺産）
+Berlin GS Siemensstadt Panzerkreuzer.jpg|[[ベルリンのモダニズム集合住宅群]]（2008年、文化遺産）
+Grube Messel fg04.jpg|[[メッセル採掘場|メッセル採掘場の化石発掘現場]]（1995年、自然遺産）
+</gallery>
+
+=== 祝祭日 ===
+{{main|ドイツの祝日}}
+連邦法により現在、『ドイツ統一の日』のみが正式な国民の祝日とされている（統一条約、第2条第2項）。
+
+この節では、東西統一以後<ref group="注釈">一般的な解釈では1990年以後とされている。</ref>の同国にて、国家全体の法定休日として確立されている日を延べる。
+
+{| class="wikitable"
+|-
+!日付!!日本語表記!!現地語表記!!備考
+|-
+|[[1月1日]]||[[新年]]||lang=de|Neujahr||
+|-
+|[[復活祭]]2日前||[[聖金曜日]]||lang=de|Karfreitag||復活祭({{lang|de|Ostersonntag}})は基本的に'''[[移動祝日]]'''だが、必ず[[日曜日]]になるので、休日と定められている。 <br> 復活祭の日付については[[コンプトゥス]]を参照。
+|-
+|復活祭翌日||復活祭後の[[月曜日]]||lang=de|Ostermontag||
+|-
+|[[5月1日]]||労働者の日（[[メーデー]]）||lang=de|Tag der Arbeit||
+|-
+|復活祭39日後||[[キリストの昇天#昇天祭|主の昇天（キリスト昇天祭）]]||lang=de|Christi Himmelfahrt||
+|-
+|復活祭50日後||[[ペンテコステ|聖霊降臨]]後の月曜日||lang=de|Pfingstmontag||聖霊降臨({{lang|de|Pfingsten}})も基本的に'''移動祝日'''であるが、必ず日曜日になるので、休日と定められている。
+|-
+|[[10月3日]]||[[ドイツ統一の日]]||lang=de|Tag der Deutschen Einheit||
+|-
+|[[12月25日]]・[[12月26日|26日]]||[[クリスマス]]（降誕祭）||lang=de|Weihnachten||
+|}
+
+=== スポーツ ===
+{{Main|ドイツのスポーツ}}
+[[近代オリンピック|オリンピック]]において歴代ドイツ選手団は優秀な成績を収めており、[[近代オリンピックでの国・地域別メダル総獲得数一覧|獲得メダル数]]は旧東西ドイツ時代を含めるとアメリカ、[[ロシア]]（[[ソビエト連邦|旧ソ連時代]]も含む）に次いで世界第3位となる。[[2016年リオデジャネイロオリンピック|2016年夏季オリンピック]]においてドイツはメダル獲得数第5位<ref>{{cite web|url = http://www.olympic.org/medallists-results?athletename=&category=343488&games=1333952&sport=&event=&mengender=false&womengender=false&mixedgender=false&teamclassification=false&individualclassification=false&continent=&country=&goldmedal=true&silvermedal=true&bronzemedal=true&worldrecord=false&olympicrecord=false&targetresults=true|title = Beijing 2008 Medal Table|publisher=International Olympic Committee|accessdate = 19 March 2011}}</ref>、[[2018年平昌オリンピック|2018年冬季オリンピック]]では第2位であった<ref>{{cite web|url = http://www.olympic.org/medallists-results?athletename=&category=343486&games=1334152&sport=&event=&mengender=false&womengender=false&mixedgender=false&teamclassification=false&individualclassification=false&continent=&country=&goldmedal=true&silvermedal=true&bronzemedal=true&worldrecord=false&olympicrecord=false&targetresults=true&sortorder=medal&sortorder=country|title = Turin 2006 Medal Table|publisher=International Olympic Committee|accessdate = 19 March 2011}}</ref>。ドイツは[[夏季オリンピック]]を[[1936年ベルリンオリンピック|1936年ベルリン大会]]と[[1972年ミュンヘンオリンピック|1972年ミュンヘン大会]]の2度開催しており、[[冬季オリンピック]]は[[1936年ガルミッシュ・パルテンキルヘンオリンピック|1936年ガルミッシュ・パルテンキルヘン大会]]を1度開催している。[[アディダス]]のホルスト・ダスラーは、金権政治でオリンピックを冒涜した。その後、アディダスは[[ベルナール・タピ]]の手に渡った。
+{{See also|オリンピックのドイツ選手団}}
+
+;サッカー
+{{Main|{{仮リンク|ドイツのサッカー|de|Fußball in Deutschland}}}}
+[[File:Germany lifts the 2014 FIFA World Cup.jpg|thumb|[[2014 FIFAワールドカップ|2014年ブラジルW杯]]で優勝し、トロフィーを掲げる[[サッカードイツ代表|ドイツ代表]]の選手]]
+ドイツ国内で[[サッカー]]は圧倒的に1番人気の[[スポーツ]]となっている。通常ドイツのスポーツ競技団体は{{仮リンク|ドイツオリンピックスポーツ連盟|de|Deutscher Olympischer Sportbund}}（DOSB）に加盟しているが、[[ドイツサッカー連盟]]（DFB）は会員数630万人以上を数え、他の団体に比しても規模が大きい事で知られる。[[サッカードイツ代表]]は[[FIFAワールドカップ]]には20回の出場歴があり、4度の優勝と4度の準優勝（西ドイツ時代も含む）を誇り、現在においても安定した強さを持つ欧州屈指の強豪国である。優勝回数4回は、5回の[[サッカーブラジル代表|ブラジル代表]]に次ぎ[[サッカーイタリア代表|イタリア代表]]と並ぶ世界第2位の記録である。
+
+2006年には、1974年の[[1974 FIFAワールドカップ|西ドイツ大会]]以来32年ぶりに[[2006 FIFAワールドカップ|ワールドカップ]]が同国で開催され、3位入賞を果たしている。さらに[[UEFA欧州選手権]]では[[サッカースペイン代表|スペイン代表]]と並ぶ大会最多3度の優勝と、3度の準優勝（西ドイツ時代も含む）を達成している。また、[[サッカードイツ女子代表|サッカー女子代表]]も強豪として知られており、[[FIFA女子ワールドカップ]]では[[2003 FIFA女子ワールドカップ|2003年大会]]と[[2007 FIFA女子ワールドカップ|2007年大会]]で連覇し、[[UEFA欧州女子選手権]]では前人未到の6連覇を成し遂げている。
+
+ドイツは[[ゴールキーパー (サッカー)|ゴールキーパー]]大国としても知られており、[[ゼップ・マイヤー]]から始まり、[[ハラルト・シューマッハー]]、[[アンドレアス・ケプケ]]、[[ボド・イルクナー]]、[[オリバー・カーン]]、[[イェンス・レーマン]]、[[マヌエル・ノイアー]]、[[マルク＝アンドレ・テア・シュテーゲン]]など、どの時代にも名キーパーが多いことから[[PK戦]]時には驚異的な強さを誇る。
+
+;プロリーグ
+{{See also|デア・クラシカー|ルールダービー}}
+[[ファイル:Suedtribuene.jpg|220px|thumb|[[サッカー・ブンデスリーガ (ドイツ)|ブンデスリーガ]]で最も熱狂的な、[[ボルシア・ドルトムント|ドルトムント]]のサポーター]]
+1963年に創設されたプロサッカーリーグの'''[[サッカー・ブンデスリーガ (ドイツ)|ドイツ・ブンデスリーガ]]'''は欧州屈指のレベルにあり、[[FCバイエルン・ミュンヘン|バイエルン・ミュンヘン]]を筆頭に、[[ボルシア・ドルトムント]]や[[RBライプツィヒ]]、[[バイエル・レバークーゼン]]といった強豪クラブがしのぎを削っている。中でもバイエルン・ミュンヘンは、[[UEFAチャンピオンズリーグ]]において歴代3位となる6度の優勝を果たしているなど世界トップレベルのクラブである<ref>{{Cite web|和書|url=https://sport-japanese.com/news/id/32020|title=CL優勝弾アシストのバイエルンMFキミッヒ「キャリア最高の日」|publisher=sport-japanese.com|date=2020-08-24|accessdate=2020-08-24}}</ref>。
+
+なお、日本人選手では1977年の[[奥寺康彦]]の[[1.FCケルン]]移籍をはじめとし<ref>{{Cite news|url=https://www.soccer-king.jp/news/japan/japan_other/20180314/728694.html|title=【Jリーグラボ】日本人初のプロ、奥寺氏が語るブンデス時代「給料は10倍ぐらいになった」|publisher=サッカーキング|date=2018-03-14|accessdate=2020-04-28}}</ref>、[[香川真司]]のドルトムントでのリーグ連覇や、ブンデスリーガにおいて外国人選手としては歴代2位の出場記録保持者の[[長谷部誠]]など、数多くの選手が過去から現在にかけてドイツのチームで活躍している。
+
+;モータースポーツ
+:四輪
+[[ファイル:Michael Schumacher 2010 Malaysia.jpg|thumb|130px|[[ミハエル・シューマッハ]]]]
+ドイツでは、古くから自動車産業が盛んなことから[[モータースポーツ]]の伝統国のひとつとして知られる。特に四輪では、メルセデス・ベンツ、ポルシェ、アウディ、BMWの4社を筆頭に、自動車会社各社が目覚しい記録を残している。戦前の[[F1世界選手権]]が開幕する前のグランプリレース（[[ヨーロッパ・ドライバーズ選手権]]）では、メルセデス・ベンツや[[アウトウニオン]]（アウディの前身）がチャンピオンを獲得した。ナチス・ドイツは、自国のこうした自動車メーカーの勝利を国威高揚のために利用した。
+
+戦後復興したメルセデスはF1と[[ル・マン24時間レース]]に参戦するが、1955年ル・マンで50人以上の観客を死に至らしめる大クラッシュを喫し、1980年代までモータースポーツ活動自体から撤退した。これ代わってポルシェが[[スポーツカーレース]]の世界で類を見ない活躍を見せ、ル・マン24時間レースの最多勝利記録を打ち立てている。アウディは、1980年代に[[世界ラリー選手権|WRC]]でいちはやく[[四輪駆動]]技術を導入し、その後のラリー界に大きな変革をもたらした。またBMWは1960年代から2000年代にかけ[[ヨーロッパツーリングカー選手権]]（ETCC）で最多勝（18勝）を挙げるなど[[ツーリングカー]]の分野において圧倒的な強さを誇った。
+
+21世紀に入るとポルシェに代わってアウディがル・マンの盟主となり、ル・マン優勝記録の2位につけた。また古コンストラクターとして[[メルセデスAMG F1]]が2014年から2020年で7年連続でタイトルを獲得し、[[フェラーリ]]を凌ぐ最強チームとして君臨している。GTでも上記4社が圧倒的な存在感を示している。電気自動車の分野にも積極的であり、[[フォーミュラE]]や[[エクストリームE]]などに4社が電気自動車のレーシングカーを投入している。
+
+ドイツの選手権としては、[[ドイツツーリングカー選手権|DTM]]とADACマスターズが知られ、特に前者は欧州各地を転戦する国際的ツーリングカーシリーズとして君臨していた時期がある。2020年前後に[[カーボンニュートラル]]への対応としてドイツ各社が撤退してしまったが、2023年に[[電気自動車|EV]]レースとしての復活を目論んでいる。[[フォーミュラ1|F1]]ドライバーの'''[[ミハエル・シューマッハ]]'''、[[セバスチャン・ベッテル]]や[[ドイツツーリングカー選手権|DTM]]の[[ベルント・シュナイダー (レーサー)|ベルント・シュナイダー]]を筆頭に優秀な[[レーシングドライバー]]を数多く輩出している国でもある。2010年代はドイツ国籍のF1ドライバーが特に多かった時代で、同様に耐久レースでも多数のドイツ人ドライバーが活躍している。
+
+:二輪
+二輪モータースポーツにおいてもその活動は顕著であり、古くは[[NSU]]や、[[ツェンダップ]]、[[クライドラー]]、旧東ドイツの[[MZモトラッド]]などが世界選手権を席巻した。その時代の代表格ともいえる選手が[[エルンスト・デグナー]]である。近年においては実力のある選手を輩出するものの、ドイツのメーカーがWGPに参戦していない時期が長かった関係から日本製オートバイでの活躍が目立つ。[[WGP]]通算42勝の[[アントン・マンク]]、[[スズキ (企業)|スズキ]]にタイトルをもたらした[[ハンス＝ゲオルグ・アンシャイト]]、[[ダーク・ラウディス]]、[[ステファン・ブラドル]]と[[ヘルムート・ブラドル]]のブラドル親子、タイトルには縁がなかったものの[[マーチン・ウィマー]]や[[ラルフ・ウォルドマン]]、[[ラインハルト・ロス]]、[[スティーブ・イェンクナー]]など、個性派が多い。近年は日伊メーカー勢の支配に甘んじているものの、BMWが[[スーパーバイク世界選手権]]やスーパーストック世界選手権、世界耐久選手権など市販車ベースのレースで存在感を示している。
+
+北コースが世界的難所として知られる[[サーキット]]の[[ニュルブルクリンク]]もあり、世界各国のメーカーがここで車両開発を行っている。各メーカーで新型フラッグシップスポーツカーが出るたび、「ニュル最速」を競ってタイムアタックがされるのも有名である。また、[[トヨタ自動車]]の世界選手権参戦の拠点である[[TGR-E]]（旧トヨタ・モータースポーツGmbH）は、[[ケルン]]にある。
+
+== 著名な出身者 ==
+{{Main|ドイツ人の一覧}}
+
+== 象徴 ==
+{{main|[[ドイツにおける国の象徴]]}}
+ドイツの国家の象徴には[[ブランデンブルク門]]や国章にも用いられている黒鷲が代表される。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Reflist|group="注釈"}}
+=== 出典 ===
+{{Reflist|25em}}
+
+== 参考文献 ==
+*『[https://www.tatsachen-ueber-deutschland.de/ja ドイツの実情 2010/2011]』-ドイツ政府刊行物のオンライン版、編集：Frankfurter Societäts-Medien GmbH, Frankfurt am Main
+*{{Cite book|和書|author=|translator=|editor1=池内紀（監修）|editor-link1=池内紀|year=1992|title=ドイツ|series=読んで旅する世界の歴史と文化|publisher=[[新潮社]]|isbn=978-4106018336|ref=池内(1992)}}
+
+== 関連項目 ==
+{{ウィキプロジェクトリンク|ドイツ}}
+{{ウィキポータルリンク|ドイツ}}
+*[[ドイツ関係記事の一覧]]
+*[[:Category:ドイツ関連一覧|ドイツ関連一覧]]
+*[[ゲルマニア (擬人化)]]
+*[[肥沼信次]]
+
+== 外部リンク ==
+{{Sisterlinks
+| commons = Deutschland
+| voy = ドイツ
+}}
+'''本国政府'''
+* [https://www.bundesregierung.de/ ドイツ連邦共和国政府] {{de icon}}{{en icon}}{{fr icon}}
+** {{Twitter|regsprecher|Steffen Seibert}} {{de icon}}※連邦報道官公式アカウント
+** {{flickr|photos/bundesregierung|Bundesregierung}} {{de icon}}
+** {{YouTube|user=bundesregierung|Bundesregierung}} {{de icon}}
+* [https://www.bundespraesident.de/ ドイツ大統領府] {{de icon}}{{en icon}}
+* [https://www.bundeskanzlerin.de/ ドイツ首相府] {{de icon}}{{en icon}}
+* [https://japan.diplo.de/ja-ja 在日ドイツ大使館] {{ja icon}}
+** {{Facebook|GermanyInJapan|ドイツ連邦共和国大使館・総領事館}} {{ja icon}}
+** {{Twitter|germanyinjapan|ドイツ大使館}} {{ja icon}}
+* [https://www.deutschland.de/en ドイツポータルサイト] - ドイツ連邦外務省と「Societäts-Medien GmbH」の共同制作による情報ポータル<br />※独・英・仏・西・中など9カ国語対応
+** [https://blog.deutschland.de/ Deutschland Blog] {{de icon}}
+** {{Facebook|deutschland.de|Deutschland.de}} {{en icon}}{{de icon}}※使用言語は個々の投稿による（他に動画投稿有）
+** {{Twitter|de_deutschland|DEUTSCHLAND.de}} {{en icon}}{{de icon}}※使用言語は個々の投稿による（他に動画投稿有）
+'''日本政府内'''
+* [https://www.mofa.go.jp/mofaj/area/germany/ 日本外務省 - ドイツ] {{ja icon}}
+* [https://www.de.emb-japan.go.jp/nihongo/ 在ドイツ日本大使館] {{ja icon}}
+'''観光'''
+* [https://www.germany.travel/jp/index.html ドイツ観光局（日本語版サイト）] {{ja icon}}
+** {{Facebook|visitgermany|Visit Germany}} {{en icon}}
+** {{Twitter|GermanyTourism|Germany Tourism}} {{en icon}}
+** {{Instagram|germanytourism|Germany Tourism}} {{en icon}}
+** {{YouTube channel|germanytourism|germanytourism|German National Tourist Board}} {{en icon}}
+'''その他'''
+* [https://www.jetro.go.jp/world/europe/de/ JETRO - ドイツ] {{ja icon}}
+* {{Kotobank}}
+
+{{ドイツの主要項目}}
+{{ヨーロッパ}}
+{{G7}}
+{{G20}}
+{{EU}}
+{{OECD}}
+{{Normdaten}}
+
+{{デフォルトソート:といつ}}
+[[Category:ドイツ|*]]
+[[Category:ヨーロッパの国]]
+[[Category:共和国]]
+[[Category:連邦制国家]]
+[[Category:欧州連合加盟国]]
+[[Category:国際連合加盟国]]
+[[Category:NATO加盟国]]
+[[Category:G7加盟国]]
+[[Category:G8加盟国]]
+[[Category:G20加盟国]]
+[[Category:経済協力開発機構加盟国]]
+[[Category:先進国]]
+[[Category:ドイツ語圏]]
+[[Category:プロテスタント]]
