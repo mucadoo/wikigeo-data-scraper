@@ -19,7 +19,8 @@ function flattenData() {
     'flagUrl', 'description_en', 'description_pt', 'description_fr', 'description_it', 'description_es',
     'capital', 'capitalLat', 'capitalLng', 'largestCity', 'population', 'populationYear', 'areaKm2', 'densityKm2',
     'government', 'governmentLeaders', 'officialLanguage', 'demonym',
-    'gdp', 'gdpPerCapita', 'gdpPpp', 'gdpPerCapitaPpp', 'gdpYear', 'hdi', 'currency',
+    'gdp', 'gdpPerCapita', 'gdpPpp', 'gdpPerCapitaPpp', 'gdpYear', 'hdi',
+    'lifeExpectancy', 'internetUsagePercent', 'unemploymentRate', 'currency',
     'timeZone', 'callingCode', 'internetTld', 'drivingSide', 'motto', 'anthem', 'borders'
   ];
 
@@ -47,6 +48,9 @@ function flattenData() {
       c.gdpPerCapitaPpp?.toString() || '',
       c.gdpYear?.toString() || '',
       c.hdi?.toString() || '',
+      c.lifeExpectancy?.toString() || '',
+      c.internetUsagePercent?.toString() || '',
+      c.unemploymentRate?.toString() || '',
       c.currency?.map(i => i.isoCode || i.name.en).join('|') || '',
       c.timeZone?.map(i => i.name.en).join('|') || '',
       c.callingCode?.join('|') || '',

@@ -5,6 +5,8 @@ import { mergeCountryData } from './utils/merger.js';
 import { parseCountryFromWikitext } from './parsers/wikitext-country-parser.js';
 import { parseDescriptionFromWikitext } from './parsers/wikitext-description.js';
 import { getIsoReference, getBorderingIsoCodes, getCommonName, isValidIso2 } from './utils/iso-reference.js';
+import { fetchWikidataFacts, resolveLabels, resolveIsoCodes } from './utils/wikidata.js';
+import { fetchWorldBankIndicators } from './utils/worldbank.js';
 import Database from 'better-sqlite3';
 import fs from 'fs';
 
@@ -195,6 +197,72 @@ async function run() {
       name: nameByIso[borderIso] || { ...getEmptyLocalizedField(), en: getCommonName(borderIso) },
     }));
     return { ...country, ...ref, borders };
+  });
+
+  // Enrich further from Wikidata (Wikipedia's own structured-data project - a more reliable
+  // source for population year, driving side, and borders than free-text infobox parsing)
+  // and the World Bank (authoritative, versioned GDP/economic indicators, replacing the
+  // fragile wikitext GDP parsing where available).
+  const isoCodeList = countries.map(c => c.isoCode as string);
+  const titleList = countries.map(c => c.name.en as string);
+
+  const [worldBankByIso, wikidataByTitle] = await Promise.all([
+    fetchWorldBankIndicators(isoCodeList),
+    fetchWikidataFacts(titleList),
+  ]);
+
+  const drivingSideQids = Object.values(wikidataByTitle)
+    .map(f => f.drivingSideQid)
+    .filter((v): v is string => !!v);
+  const allBorderQids = Array.from(new Set(Object.values(wikidataByTitle).flatMap(f => f.borderQids)));
+
+  const [drivingSideLabels, borderIsoByQid] = await Promise.all([
+    resolveLabels(drivingSideQids),
+    resolveIsoCodes(allBorderQids),
+  ]);
+
+  countries = countries.map(country => {
+    const title = country.name.en as string;
+    const isoCode = country.isoCode as string;
+    const wikidata = wikidataByTitle[title];
+    const wb = worldBankByIso[isoCode] || {};
+
+    let drivingSide = country.drivingSide;
+    if (!drivingSide && wikidata?.drivingSideQid) {
+      const label = drivingSideLabels[wikidata.drivingSideQid]?.toLowerCase();
+      if (label?.includes('left')) drivingSide = 'left';
+      else if (label?.includes('right')) drivingSide = 'right';
+    }
+
+    const populationYear = country.populationYear || wikidata?.populationYear || null;
+
+    let borders = country.borders;
+    if (wikidata?.borderQids && wikidata.borderQids.length > 0) {
+      const resolvedBorders = Array.from(new Set(
+        wikidata.borderQids.map(qid => borderIsoByQid[qid]).filter((v): v is string => !!v && v !== isoCode)
+      ))
+        .map(borderIso => ({
+          articleId: null,
+          isoCode: borderIso,
+          name: nameByIso[borderIso] || { ...getEmptyLocalizedField(), en: getCommonName(borderIso) },
+        }));
+      if (resolvedBorders.length > 0) borders = resolvedBorders;
+    }
+
+    return {
+      ...country,
+      drivingSide,
+      populationYear,
+      borders,
+      gdp: wb.gdp ? Math.round(wb.gdp.value) : country.gdp,
+      gdpPerCapita: wb.gdpPerCapita ? Math.round(wb.gdpPerCapita.value) : country.gdpPerCapita,
+      gdpPpp: wb.gdpPpp ? Math.round(wb.gdpPpp.value) : country.gdpPpp,
+      gdpPerCapitaPpp: wb.gdpPerCapitaPpp ? Math.round(wb.gdpPerCapitaPpp.value) : country.gdpPerCapitaPpp,
+      gdpYear: wb.gdp ? wb.gdp.year : country.gdpYear,
+      lifeExpectancy: wb.lifeExpectancy ? parseFloat(wb.lifeExpectancy.value.toFixed(1)) : null,
+      internetUsagePercent: wb.internetUsagePercent ? parseFloat(wb.internetUsagePercent.value.toFixed(1)) : null,
+      unemploymentRate: wb.unemploymentRate ? parseFloat(wb.unemploymentRate.value.toFixed(1)) : null,
+    };
   });
 
   const output = {

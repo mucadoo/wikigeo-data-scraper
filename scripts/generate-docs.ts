@@ -49,6 +49,9 @@ This document describes the structure of the sovereign state data provided by th
 | \`gdpPerCapitaPpp\` | number | GDP per capita (PPP) (USD) |
 | \`gdpYear\` | number | Reference year for the GDP figures |
 | \`hdi\` | number | Human Development Index |
+| \`lifeExpectancy\` | number | Life expectancy at birth, in years (World Bank) |
+| \`internetUsagePercent\` | number | Individuals using the Internet, % of population (World Bank) |
+| \`unemploymentRate\` | number | Unemployment rate, % of labor force (World Bank) |
 | \`currency\` | Array | Official currency/ies, including ISO 4217 code where available |
 | \`timeZone\` | Array | Time zones |
 | \`callingCode\` | Array | International dialing codes |
@@ -56,9 +59,23 @@ This document describes the structure of the sovereign state data provided by th
 | \`drivingSide\` | string | \`left\` or \`right\` |
 | \`motto\` | string | National motto (English) |
 | \`anthem\` | string | National anthem name (English) |
-| \`borders\` | Array | Bordering countries. Sourced from a static ISO reference dataset (not scraped), resolved to this dataset's entries where possible |
+| \`borders\` | Array | Bordering countries. Sourced from Wikidata (P47) where available, falling back to a static ISO reference dataset, resolved to this dataset's entries where possible |
 
 *Note: All "Object" fields (e.g., \`name\`, \`description\`) are objects with keys for all supported languages (\`en\`, \`pt\`, \`fr\`, \`it\`, \`es\`). All "Array" fields contain objects with localized names and (where applicable) article identifiers, unless noted otherwise.*
+
+## Data Provenance
+
+Most fields are scraped directly from Wikipedia infoboxes and article text. A few fields are
+sourced elsewhere because Wikipedia's infobox doesn't reliably carry the data in a structured
+form, or because an external source is simply more authoritative:
+- \`isoCode3\`, \`isoNumeric\`, \`continent\`: static ISO 3166-1 reference data.
+- \`borders\`: [Wikidata](https://www.wikidata.org/) (P47 "shares border with"), falling back to
+  a static curated dataset ([mledoze/countries](https://github.com/mledoze/countries)) when
+  Wikidata has no border claims for a country.
+- \`populationYear\` and \`drivingSide\` fall back to Wikidata when the infobox doesn't state them.
+- \`gdp\`, \`gdpPerCapita\`, \`gdpPpp\`, \`gdpPerCapitaPpp\`, \`gdpYear\`, \`lifeExpectancy\`,
+  \`internetUsagePercent\`, \`unemploymentRate\`: [World Bank Open Data](https://data.worldbank.org/)
+  where available (GDP figures fall back to the wikitext-parsed value otherwise).
 `;
 
 fs.writeFileSync(path.join(OUTPUT_DIR, 'DATA_MODEL.md'), mdContent);
