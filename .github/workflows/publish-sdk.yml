@@ -2,10 +2,21 @@ name: Publish SDK
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["CI and Data Publishing"]
+    types:
+      - completed
+    branches:
+      - main
+
+concurrency:
+  group: publish-sdk
+  cancel-in-progress: false
 
 permissions:
   contents: write
   id-token: write
+  actions: read
 
 jobs:
   check-requirements:
@@ -31,8 +42,8 @@ jobs:
         if: github.event_name == 'workflow_run'
         id: run_check
         run: |
-          STATUS=$(cat data_updated.txt | xargs)
-          echo "data_updated=$STATUS" >> $GITHUB_OUTPUT
+          STATUS=$(cat data_updated.txt 2>/dev/null | xargs || true)
+          echo "data_updated=${STATUS:-false}" >> $GITHUB_OUTPUT
 
       - name: Final Decision
         id: decide
@@ -55,15 +66,15 @@ jobs:
 
       - name: Fetch Data from Data Branch
         run: |
-          git fetch origin data
+          git fetch origin data || { echo "::error::'data' branch not found on origin — run the CI and Data Publishing workflow at least once before publishing the SDK."; exit 1; }
           mkdir -p data
-          
+
           # Use 'git show' to get the file content without affecting the git index
           FILES=("sovereign-states.json" "sovereign-states.min.json" "schema.json" "DATA_MODEL.md" "sovereign-states.csv")
-          
+
           for file in "${FILES[@]}"; do
             echo "Extracting $file from data branch..."
-            git show origin/data:"$file" > "data/$file" || echo "Warning: $file not found"
+            git show origin/data:"$file" > "data/$file" || { echo "::error::$file not found on data branch — refusing to publish an incomplete package."; exit 1; }
           done
 
       - name: Set up Node.js
@@ -78,7 +89,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build SDK
         run: npm run build:sdk
@@ -91,10 +102,20 @@ jobs:
 
       - name: Publish to NPM
         run: |
-          npm publish --access public
+          npm publish --access public --provenance
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Push Version Change
         run: |
-          git push --follow-tags
+          for attempt in 1 2 3; do
+            if git push --follow-tags; then
+              exit 0
+            fi
+            echo "Push rejected (probably main moved on) — rebasing and retrying ($attempt/3)..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 3
+          done
+          echo "::error::Failed to push version bump after publishing to NPM. Package was published — push the tag manually."
+          exit 1
