@@ -226,6 +226,16 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     result.gdp = parseNumericValue(rawGdp);
   }
 
+  const rawCallingCode = getField(FIELD_MAP.callingCode);
+  if (rawCallingCode) {
+    result.callingCode = parseWikilinks(rawCallingCode).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
+  }
+
+  const rawTld = getField(FIELD_MAP.internetTld);
+  if (rawTld) {
+    result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
+  }
+
   let rawIso = getField(FIELD_MAP.isoCode);
   if (!rawIso) {
     const coordinates = fields['coordinates'] || fields['coord'];
@@ -234,6 +244,15 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
       if (regionMatch) {
         rawIso = regionMatch[1];
       }
+    }
+  }
+
+  // Prefer the country-code TLD over currency code: shared currencies (EUR, XCD, XOF, ...)
+  // do not share a prefix with the ISO 3166-1 code, but ccTLDs almost always do.
+  if (!rawIso && result.internetTld && result.internetTld.length > 0) {
+    const tld = result.internetTld[0].replace(/\[\[|\]\]/g, '').trim().toLowerCase();
+    if (tld.startsWith('.') && tld.length === 3) {
+      rawIso = tld.substring(1);
     }
   }
 
@@ -258,25 +277,9 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     if (match) result.isoCode = match[0].toUpperCase();
   }
 
-  const rawCallingCode = getField(FIELD_MAP.callingCode);
-  if (rawCallingCode) {
-    result.callingCode = parseWikilinks(rawCallingCode).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
-  }
-
-  const rawTld = getField(FIELD_MAP.internetTld);
-  if (rawTld) {
-    result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
-  }
-
-  if (!result.isoCode && result.internetTld && result.internetTld.length > 0) {
-    let tld = result.internetTld[0].replace(/\[\[|\]\]/g, '').trim().toLowerCase();
-    if (tld.startsWith('.') && tld.length === 3) {
-      result.isoCode = tld.substring(1).toUpperCase();
-      // Handle known exceptions
-      if (result.isoCode === 'UK') result.isoCode = 'GB';
-      if (result.isoCode === 'EL') result.isoCode = 'GR';
-    }
-  }
+  // Handle known TLD/ISO exceptions
+  if (result.isoCode === 'UK') result.isoCode = 'GB';
+  if (result.isoCode === 'EL') result.isoCode = 'GR';
 
   const rawFlag = getField(FIELD_MAP.flagUrl);
   if (rawFlag) {

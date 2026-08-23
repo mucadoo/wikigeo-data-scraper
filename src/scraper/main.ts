@@ -32,6 +32,10 @@ async function run() {
   
   let titles = await WikipediaAPI.fetchCategoryMembers('Category:Member_states_of_the_United_Nations');
   titles = titles.filter(t => !t.startsWith('Category:') && t !== 'Member states of the United Nations');
+  // "Kingdom of the Netherlands" and "Netherlands" both carry ISO code NL and would otherwise
+  // produce two colliding entries; keep only "Netherlands" to match the rest of the dataset's
+  // common-name convention.
+  titles = titles.filter(t => t !== 'Kingdom of the Netherlands');
   if (limit) titles = titles.slice(0, limit);
 
   // 2. TRANSLATION PREFETCH

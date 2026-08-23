@@ -36,8 +36,6 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
   (['capital', 'largestCity', 'officialLanguage', 'demonym', 'currency', 'government', 'timeZone'] as LocalizedArrayFieldKey[]).forEach(field => {
     const newVal = (newData[field] || []) as (MultiLangLink & { isoCode?: string | null })[];
     const currentVal = (country[field] || []) as (MultiLangLink & { isoCode?: string | null })[];
-    
-    console.log(`[DEBUG] Merging field: ${field}, new items: ${newVal.length}, existing: ${currentVal.length}`);
 
     const mergedMap = new Map<string, MultiLangLink & { isoCode?: string | null }>();
     
@@ -53,7 +51,6 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
     // Merge and normalize new
     newVal.forEach(newItem => {
       const key = newItem.articleId ? `id:${newItem.articleId}` : `text:${newItem.name.en}`;
-      console.log(`[DEBUG] Adding/Merging item: ${key}, name: ${JSON.stringify(newItem.name)}`);
       const existingItem = mergedMap.get(key);
       if (existingItem) {
         existingItem.name = { ...existingItem.name, ...newItem.name };
@@ -68,8 +65,6 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
     
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     country[field] = Array.from(mergedMap.values()) as any;
-    const fieldVal = country[field] || [];
-    console.log(`[DEBUG] Field ${field} now has ${fieldVal.length} items`);
   });
 
   // 3. Keep/Reset root fields (only overwrite if newData has a non-null value)
