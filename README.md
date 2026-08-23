@@ -4,7 +4,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@mucadoo/wiki-geo-data)](https://www.npmjs.com/package/@mucadoo/wiki-geo-data)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated, daily-updated geographical dataset of sovereign states, scraped from Wikipedia across 5 languages (**English, Portuguese, French, Italian, Spanish**).
+An automated, daily-updated geographical dataset of sovereign states, scraped from Wikipedia across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
 
 ## 🚀 Consumption Options
 
