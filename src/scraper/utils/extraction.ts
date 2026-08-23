@@ -74,6 +74,46 @@ export class ExtractionUtils {
     return '';
   }
 
+  /**
+   * Extracts a GDP-style figure (e.g. "$3.596 trillion", "$1,234,567,890") and normalizes
+   * it to millions of USD, matching the unit the rest of the dataset stores GDP totals in.
+   */
+  static extractGdpMillions(text: string): number | null {
+    if (!text) return null;
+
+    let clean = this.stripAllTemplates(text)
+      .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '')
+      .replace(/&nbsp;/gi, ' ')
+      .replace(/[\u00A0\u200B-\u200F\uFEFF]/g, ' ');
+
+    const multiplierMatch = clean.match(/([0-9][0-9,.]*)\s*(trillion|billion|million)/i);
+    if (multiplierMatch) {
+      const rawNum = multiplierMatch[1];
+      let val = parseFloat(rawNum.replace(/,/g, ''));
+      if (isNaN(val)) return null;
+      // Guard against source typos like "$113,494 billion" (a comma meant as a decimal point,
+      // implying an economy bigger than the entire world) - reinterpret the comma as decimal.
+      if (val > 50_000 && rawNum.includes(',') && !rawNum.includes('.')) {
+        const asDecimal = parseFloat(rawNum.replace(',', '.'));
+        if (!isNaN(asDecimal)) val = asDecimal;
+      }
+      const multiplier = multiplierMatch[2].toLowerCase();
+      if (multiplier === 'trillion') return val * 1_000_000;
+      if (multiplier === 'billion') return val * 1_000;
+      return val;
+    }
+
+    const numMatch = clean.match(/([0-9][0-9,]*(?:\.[0-9]+)?)/);
+    if (numMatch) {
+      const val = parseFloat(numMatch[1].replace(/,/g, ''));
+      if (isNaN(val)) return null;
+      // No word multiplier: treat a plain formatted number as a full USD total.
+      return val / 1_000_000;
+    }
+
+    return null;
+  }
+
   static extractDensity(text: string): string {
     if (!text) return '';
     
@@ -105,6 +145,25 @@ export class ExtractionUtils {
     if (matchAnyNum) return matchAnyNum[1].replace(/,/g, '');
     
     return '';
+  }
+
+  /**
+   * Reduces a wikitext fragment (templates, wikilinks, formatting markup) down to readable
+   * plain text. Used for free-text fields like motto/anthem/leader titles that aren't
+   * wiki-linked entities in their own right.
+   */
+  static cleanWikitextToPlainText(text: string): string {
+    if (!text) return '';
+    const clean = this.stripAllTemplates(text)
+      .replace(/<br\s*\/?>/gi, ' / ')
+      .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '$2')
+      .replace(/\[\[([^\]]+)\]\]/g, '$1')
+      .replace(/'''|''/g, '')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\n+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return clean;
   }
 
   static normalizeFlagUrl(url: string): string {

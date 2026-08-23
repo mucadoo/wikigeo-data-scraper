@@ -71,12 +71,22 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
   if (newData.isoCode) country.isoCode = newData.isoCode;
   if (newData.flagUrl) country.flagUrl = newData.flagUrl;
   if (newData.population) country.population = newData.population;
+  if (newData.populationYear) country.populationYear = newData.populationYear;
   if (newData.areaKm2) country.areaKm2 = newData.areaKm2;
   if (newData.densityKm2) country.densityKm2 = newData.densityKm2;
   if (newData.gdp) country.gdp = newData.gdp;
+  if (newData.gdpPpp) country.gdpPpp = newData.gdpPpp;
+  if (newData.gdpPerCapita) country.gdpPerCapita = newData.gdpPerCapita;
+  if (newData.gdpPerCapitaPpp) country.gdpPerCapitaPpp = newData.gdpPerCapitaPpp;
+  if (newData.gdpYear) country.gdpYear = newData.gdpYear;
   if (newData.hdi) country.hdi = newData.hdi;
   if (newData.callingCode && newData.callingCode.length > 0) country.callingCode = newData.callingCode;
   if (newData.internetTld && newData.internetTld.length > 0) country.internetTld = newData.internetTld;
+  if (newData.drivingSide) country.drivingSide = newData.drivingSide;
+  if (newData.motto) country.motto = newData.motto;
+  if (newData.anthem) country.anthem = newData.anthem;
+  if (newData.capitalCoordinates) country.capitalCoordinates = newData.capitalCoordinates;
+  if (newData.governmentLeaders && newData.governmentLeaders.length > 0) country.governmentLeaders = newData.governmentLeaders;
 
   return country;
 };

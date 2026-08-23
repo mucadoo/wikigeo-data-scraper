@@ -48,13 +48,21 @@ The `Country` object includes the following primary fields:
 | Field | Type | Description |
 | :--- | :--- | :--- |
 | `isoCode` | `string` | ISO 3166-1 alpha-2 code. |
+| `isoCode3` / `isoNumeric` | `string` | ISO 3166-1 alpha-3 / numeric codes (static reference data). |
+| `continent` | `string` | Continent (static reference data). |
 | `name` | `LocalizedField` | Localized name (`en`, `pt`, `fr`, `it`, `es`). |
 | `flagUrl` | `string` | URL to the national flag image. |
 | `description`| `LocalizedField` | Localized descriptive summary. |
 | `population` | `number` | Total population count. |
 | `areaKm2` | `number` | Area in km². |
 | `capital` | `LinkedArrayField` | Capital cities with localized names. |
-| `currency` | `Array` | Official currencies with ISO codes. |
+| `currency` | `Array` | Official currencies, including ISO 4217 code where available. |
+| `gdp` / `gdpPpp` | `number` | Nominal / PPP GDP (millions USD). |
+| `gdpPerCapita` / `gdpPerCapitaPpp` | `number` | Nominal / PPP GDP per capita (USD). |
+| `governmentLeaders` | `Array` | Heads of state/government and other listed leaders (English). |
+| `borders` | `Array` | Bordering countries. Sourced from a static ISO reference dataset, resolved against this dataset's entries where possible. |
+
+See [`data/DATA_MODEL.md`](data/DATA_MODEL.md) for the complete field list.
 
 *Note: Fields like `name`, `capital`, `officialLanguage`, and `description` use `LocalizedField`, an object containing versions for `en`, `pt`, `fr`, `it`, and `es`.*
 

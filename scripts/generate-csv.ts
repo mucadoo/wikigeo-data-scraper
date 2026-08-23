@@ -14,33 +14,47 @@ function flattenData() {
   const countries = json.data as Country[];
 
   const headers = [
-    'isoCode', 'name_en', 'name_pt', 'name_fr', 'name_it', 'name_es',
+    'isoCode', 'isoCode3', 'isoNumeric', 'continent',
+    'name_en', 'name_pt', 'name_fr', 'name_it', 'name_es',
     'flagUrl', 'description_en', 'description_pt', 'description_fr', 'description_it', 'description_es',
-    'capital', 'largestCity', 'population', 'areaKm2', 'densityKm2',
-    'government', 'officialLanguage', 'demonym', 'gdp', 'hdi', 'currency',
-    'timeZone', 'callingCode', 'internetTld'
+    'capital', 'capitalLat', 'capitalLng', 'largestCity', 'population', 'populationYear', 'areaKm2', 'densityKm2',
+    'government', 'governmentLeaders', 'officialLanguage', 'demonym',
+    'gdp', 'gdpPerCapita', 'gdpPpp', 'gdpPerCapitaPpp', 'gdpYear', 'hdi', 'currency',
+    'timeZone', 'callingCode', 'internetTld', 'drivingSide', 'motto', 'anthem', 'borders'
   ];
 
   const rows = countries.map(c => {
     return [
-      c.isoCode || '',
+      c.isoCode || '', c.isoCode3 || '', c.isoNumeric || '', c.continent || '',
       c.name.en || '', c.name.pt || '', c.name.fr || '', c.name.it || '', c.name.es || '',
       c.flagUrl || '',
       c.description.en || '', c.description.pt || '', c.description.fr || '', c.description.it || '', c.description.es || '',
       c.capital?.map(i => i.name.en).join('|') || '',
+      c.capitalCoordinates?.lat?.toString() || '',
+      c.capitalCoordinates?.lng?.toString() || '',
       c.largestCity?.map(i => i.name.en).join('|') || '',
       c.population?.toString() || '',
+      c.populationYear?.toString() || '',
       c.areaKm2?.toString() || '',
       c.densityKm2?.toString() || '',
       c.government?.map(i => i.name.en).join('|') || '',
+      c.governmentLeaders?.map(l => `${l.title}: ${l.name}`).join('|') || '',
       c.officialLanguage?.map(i => i.name.en).join('|') || '',
       c.demonym?.map(i => i.name.en).join('|') || '',
       c.gdp?.toString() || '',
+      c.gdpPerCapita?.toString() || '',
+      c.gdpPpp?.toString() || '',
+      c.gdpPerCapitaPpp?.toString() || '',
+      c.gdpYear?.toString() || '',
       c.hdi?.toString() || '',
-      c.currency?.map(i => i.name.en).join('|') || '',
+      c.currency?.map(i => i.isoCode || i.name.en).join('|') || '',
       c.timeZone?.map(i => i.name.en).join('|') || '',
       c.callingCode?.join('|') || '',
-      c.internetTld?.join('|') || ''
+      c.internetTld?.join('|') || '',
+      c.drivingSide || '',
+      c.motto || '',
+      c.anthem || '',
+      c.borders?.map(b => b.isoCode || b.name.en).join('|') || ''
     ].map(val => `"${val.replace(/"/g, '""')}"`).join(',');
   });
 

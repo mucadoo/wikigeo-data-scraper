@@ -4,6 +4,7 @@ import { WikipediaAPI } from './utils/wikipedia-api.js';
 import { mergeCountryData } from './utils/merger.js';
 import { parseCountryFromWikitext } from './parsers/wikitext-country-parser.js';
 import { parseDescriptionFromWikitext } from './parsers/wikitext-description.js';
+import { getIsoReference, getBorderingIsoCodes, getCommonName, isValidIso2 } from './utils/iso-reference.js';
 import Database from 'better-sqlite3';
 import fs from 'fs';
 
@@ -146,7 +147,7 @@ async function run() {
   const rawCountries = (db.prepare('SELECT data FROM countries').all() as { data: string }[]).map(row => JSON.parse(row.data) as Country);
   const pkg = JSON.parse(fs.readFileSync('package.json', 'utf8'));
 
-  const countries = rawCountries
+  let countries = rawCountries
     .sort((a, b) => (a.isoCode || '').localeCompare(b.isoCode || ''))
     .map(country => {
       const normalized = { ...getEmptyCountry(), ...country };
@@ -161,6 +162,40 @@ async function run() {
       }
     })
     .filter(c => c !== null) as Country[];
+
+  // Quality gate: every isoCode must be a real, unique ISO 3166-1 alpha-2 code. A bad
+  // extraction (e.g. a shared-currency code mistaken for the country code) or a duplicate
+  // Wikipedia article resolving to the same code would otherwise ship silently.
+  const seenIsoCodes = new Set<string>();
+  countries = countries.filter(country => {
+    if (!isValidIso2(country.isoCode)) {
+      console.error(`Dropping ${country.name.en}: invalid ISO code '${country.isoCode}'`);
+      return false;
+    }
+    if (seenIsoCodes.has(country.isoCode as string)) {
+      console.error(`Dropping ${country.name.en}: duplicate ISO code '${country.isoCode}'`);
+      return false;
+    }
+    seenIsoCodes.add(country.isoCode as string);
+    return true;
+  });
+
+  // Enrich with static reference data (alpha-3/numeric codes, continent) and resolve borders
+  // against the countries we actually scraped, falling back to a curated common name for
+  // neighbors outside this dataset (e.g. non-UN territories).
+  const nameByIso: Record<string, Country['name']> = Object.fromEntries(
+    countries.map(c => [c.isoCode as string, c.name])
+  );
+  countries = countries.map(country => {
+    const isoCode = country.isoCode as string;
+    const ref = getIsoReference(isoCode);
+    const borders = getBorderingIsoCodes(isoCode).map(borderIso => ({
+      articleId: null,
+      isoCode: borderIso,
+      name: nameByIso[borderIso] || { ...getEmptyLocalizedField(), en: getCommonName(borderIso) },
+    }));
+    return { ...country, ...ref, borders };
+  });
 
   const output = {
     metadata: {

@@ -59,6 +59,58 @@ export function parseWikilinks(raw: string): Array<{ articleId: string | null, t
   });
 }
 
+/**
+ * Currency fields mix the currency name with helper annotations (symbol, ISO 4217 code) in the
+ * same segment, e.g. "[[Euro]] ([[Euro sign|€]]) ([[ISO 4217|EUR]])" or "[[CFP franc]] (XPF)".
+ * Unlike other linked fields, each segment is exactly one currency: take its first wikilink as
+ * the name, and scan the rest of the segment for a 3-letter ISO 4217 code instead of treating
+ * every link/parenthetical as a separate entry.
+ */
+export function parseCurrencyField(raw: string, fallbackIsoCode: string | null): Array<{ articleId: string | null; name: ReturnType<typeof getEmptyLocalizedField>; isoCode: string | null }> {
+  const cleaned = ExtractionUtils.stripAllTemplates(raw);
+  const segments = cleaned.split(/<br\s*\/?>|\n|\*/).map(s => s.trim()).filter(Boolean);
+
+  const results: Array<{ articleId: string | null; name: ReturnType<typeof getEmptyLocalizedField>; isoCode: string | null }> = [];
+  const linkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+
+  segments.forEach(segment => {
+    let first: { articleId: string; text: string } | null = null;
+    let isoCode: string | null = null;
+    let match;
+    linkRegex.lastIndex = 0;
+    while ((match = linkRegex.exec(segment)) !== null) {
+      const articleId = match[1];
+      const text = (match[2] || match[1]).replace(/'''|''/g, '').trim();
+      if (!first) {
+        first = { articleId, text };
+        continue;
+      }
+      if (articleId.toLowerCase() === 'iso 4217' || /^[A-Z]{3}$/.test(text)) {
+        const codeMatch = text.match(/\b[A-Z]{3}\b/);
+        if (codeMatch) isoCode = codeMatch[0];
+      }
+    }
+    if (!isoCode) {
+      const bareCode = segment.match(/\(([A-Z]{3})\)/);
+      if (bareCode) isoCode = bareCode[1];
+    }
+    if (first && first.text.length > 1 && !/^[()[\],;]+$/.test(first.text)) {
+      results.push({
+        articleId: first.articleId,
+        name: { ...getEmptyLocalizedField(), en: first.text },
+        isoCode: isoCode || (results.length === 0 ? fallbackIsoCode : null),
+      });
+    }
+  });
+
+  if (results.length === 0 && fallbackIsoCode) {
+    const plainText = ExtractionUtils.cleanWikitextToPlainText(raw);
+    if (plainText) results.push({ articleId: null, name: { ...getEmptyLocalizedField(), en: plainText }, isoCode: fallbackIsoCode });
+  }
+
+  return results;
+}
+
 /* eslint-disable @typescript-eslint/no-unused-vars */
 export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Partial<Country> {
   const infoboxBody = extractInfoboxBody(wikitext);
@@ -88,9 +140,17 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     internetTld: ['cctld', 'domaine_internet', 'tld', 'internet_tld'],
     hdi: ['hdi', 'idh'],
     gdp: ['gdp_nominal', 'pib'],
+    gdpYear: ['gdp_nominal_year'],
+    gdpPerCapita: ['gdp_nominal_per_capita'],
+    gdpPpp: ['gdp_ppp'],
+    gdpPerCapitaPpp: ['gdp_ppp_per_capita'],
+    populationYear: ['population_estimate_year', 'population_census_year'],
     flagUrl: ['image_flag', 'flag_image', 'flag', 'image_drapeau'],
     isoCode: ['iso3166code', 'iso3166-1', 'iso3166_1', 'iso_3166-1', 'iso3166-1_alpha-2', 'iso3166-1_alpha_2'],
     demonym: ['demonym', 'nom_des_habitants'],
+    drivingSide: ['drives_on'],
+    motto: ['national_motto', 'motto'],
+    anthem: ['national_anthem', 'anthem'],
   };
 
   const getField = (keys: string[]) => {
@@ -211,7 +271,15 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
   }
   result.officialLanguage = getLinkedField(FIELD_MAP.officialLanguage);
   result.government = getLinkedField(FIELD_MAP.government);
-  result.currency = getLinkedField(FIELD_MAP.currency).map(c => ({...c, isoCode: null})); // TODO: extract isoCode
+
+  const currencyCodeField = getField(['currency_code']);
+  const currencyCodeMatch = currencyCodeField
+    ? ExtractionUtils.stripAllTemplates(currencyCodeField).toUpperCase().match(/\b[A-Z]{3}\b/)
+    : null;
+  const primaryCurrencyIso = currencyCodeMatch ? currencyCodeMatch[0] : null;
+
+  const rawCurrency = getField(['currency', 'monnaie']);
+  result.currency = rawCurrency ? parseCurrencyField(rawCurrency, primaryCurrencyIso) : [];
   result.timeZone = getLinkedField(FIELD_MAP.timeZone);
   result.demonym = getLinkedField(FIELD_MAP.demonym);
 
@@ -223,7 +291,84 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
 
   const rawGdp = getField(FIELD_MAP.gdp);
   if (rawGdp) {
-    result.gdp = parseNumericValue(rawGdp);
+    result.gdp = ExtractionUtils.extractGdpMillions(rawGdp);
+  }
+
+  const rawGdpPpp = getField(FIELD_MAP.gdpPpp);
+  if (rawGdpPpp) {
+    result.gdpPpp = ExtractionUtils.extractGdpMillions(rawGdpPpp);
+  }
+
+  const rawGdpPerCapita = getField(FIELD_MAP.gdpPerCapita);
+  if (rawGdpPerCapita) {
+    result.gdpPerCapita = parseNumericValue(rawGdpPerCapita);
+  }
+
+  const rawGdpPerCapitaPpp = getField(FIELD_MAP.gdpPerCapitaPpp);
+  if (rawGdpPerCapitaPpp) {
+    result.gdpPerCapitaPpp = parseNumericValue(rawGdpPerCapitaPpp);
+  }
+
+  const rawGdpYear = getField(FIELD_MAP.gdpYear);
+  if (rawGdpYear) {
+    const match = rawGdpYear.match(/(19|20)\d{2}/);
+    if (match) result.gdpYear = parseInt(match[0], 10);
+  }
+
+  const rawPopulationYear = getField(FIELD_MAP.populationYear);
+  if (rawPopulationYear) {
+    const match = rawPopulationYear.match(/(19|20)\d{2}/);
+    if (match) result.populationYear = parseInt(match[0], 10);
+  }
+
+  const rawDrivingSide = getField(FIELD_MAP.drivingSide);
+  if (rawDrivingSide) {
+    const clean = ExtractionUtils.stripAllTemplates(rawDrivingSide).toLowerCase();
+    if (clean.includes('left')) result.drivingSide = 'left';
+    else if (clean.includes('right')) result.drivingSide = 'right';
+  }
+
+  const rawMotto = getField(FIELD_MAP.motto);
+  if (rawMotto) {
+    const clean = ExtractionUtils.cleanWikitextToPlainText(rawMotto);
+    if (clean) result.motto = clean;
+  }
+
+  const rawAnthem = getField(FIELD_MAP.anthem);
+  if (rawAnthem) {
+    const clean = ExtractionUtils.cleanWikitextToPlainText(rawAnthem);
+    if (clean) result.anthem = clean;
+  }
+
+  const leaders: { title: string; name: string; articleId: string | null }[] = [];
+  for (let i = 1; i <= 6; i++) {
+    const rawTitle = fields[`leader_title${i}`];
+    const rawName = fields[`leader_name${i}`];
+    if (!rawTitle || !rawName) continue;
+    const title = ExtractionUtils.cleanWikitextToPlainText(rawTitle);
+    const nameLinks = parseWikilinks(rawName);
+    // A single leader_title slot occasionally lists multiple office holders (e.g. a
+    // collegial body like Switzerland's Federal Council); join with a clear separator
+    // rather than a bare space so the names stay distinguishable.
+    const name = nameLinks.map(l => l.text).join('; ').trim() || ExtractionUtils.cleanWikitextToPlainText(rawName);
+    const articleId = nameLinks.find(l => l.articleId)?.articleId || null;
+    if (title && name) leaders.push({ title, name, articleId });
+  }
+  result.governmentLeaders = leaders;
+
+  const rawCoordinates = fields['coordinates'] || fields['coord'];
+  if (rawCoordinates) {
+    const coordMatch = rawCoordinates.match(/\{\{[Cc]oord\|(-?\d+(?:\.\d+)?)\|(?:(-?\d+(?:\.\d+)?)\|)?(?:(-?\d+(?:\.\d+)?)\|)?(N|S)\|(-?\d+(?:\.\d+)?)\|(?:(-?\d+(?:\.\d+)?)\|)?(?:(-?\d+(?:\.\d+)?)\|)?(E|W)/i);
+    if (coordMatch) {
+      const toDecimal = (d: string, m: string | undefined, s: string | undefined, hemi: string) => {
+        let val = parseFloat(d) + (m ? parseFloat(m) / 60 : 0) + (s ? parseFloat(s) / 3600 : 0);
+        if (/[SW]/i.test(hemi)) val = -val;
+        return val;
+      };
+      const lat = toDecimal(coordMatch[1], coordMatch[2], coordMatch[3], coordMatch[4]);
+      const lng = toDecimal(coordMatch[5], coordMatch[6], coordMatch[7], coordMatch[8]);
+      result.capitalCoordinates = { lat: parseFloat(lat.toFixed(4)), lng: parseFloat(lng.toFixed(4)) };
+    }
   }
 
   const rawCallingCode = getField(FIELD_MAP.callingCode);
@@ -236,45 +381,43 @@ export function parseInfoboxFromWikitext(wikitext: string, _lang: string): Parti
     result.internetTld = parseWikilinks(rawTld).map(link => link.text).map(s => s.trim()).filter(s => s.length > 0);
   }
 
-  let rawIso = getField(FIELD_MAP.isoCode);
-  if (!rawIso) {
-    const coordinates = fields['coordinates'] || fields['coord'];
-    if (coordinates) {
-      const regionMatch = coordinates.match(/region:([a-zA-Z]{2})/);
-      if (regionMatch) {
-        rawIso = regionMatch[1];
-      }
-    }
-  }
+  // Try each candidate source in priority order, falling through if a candidate exists but
+  // doesn't actually clean down to a valid 2-letter code (e.g. `iso3166code = {{ISO 3166-1|MM}}`,
+  // where the whole template - args included - is opaque to stripAllTemplates).
+  const isoCandidates: (string | undefined)[] = [];
+  isoCandidates.push(getField(FIELD_MAP.isoCode));
+
+  const isoTemplateMatch = getField(FIELD_MAP.isoCode)?.match(/\{\{ISO 3166-1\|([a-zA-Z]{2})/i);
+  if (isoTemplateMatch) isoCandidates.push(isoTemplateMatch[1]);
+
+  const coordinates = fields['coordinates'] || fields['coord'];
+  const regionMatch = coordinates?.match(/region:([a-zA-Z]{2})/);
+  if (regionMatch) isoCandidates.push(regionMatch[1]);
 
   // Prefer the country-code TLD over currency code: shared currencies (EUR, XCD, XOF, ...)
   // do not share a prefix with the ISO 3166-1 code, but ccTLDs almost always do.
-  if (!rawIso && result.internetTld && result.internetTld.length > 0) {
+  if (result.internetTld && result.internetTld.length > 0) {
     const tld = result.internetTld[0].replace(/\[\[|\]\]/g, '').trim().toLowerCase();
-    if (tld.startsWith('.') && tld.length === 3) {
-      rawIso = tld.substring(1);
-    }
+    if (tld.startsWith('.') && tld.length === 3) isoCandidates.push(tld.substring(1));
   }
 
-  if (!rawIso) {
-      const currencyCode = getField(['currency_code']);
-      if (currencyCode && currencyCode.length >= 2) {
-          rawIso = currencyCode.substring(0, 2);
-      }
-  }
+  const currencyCode = getField(['currency_code']);
+  if (currencyCode && currencyCode.length >= 2) isoCandidates.push(currencyCode.substring(0, 2));
 
-  if (!rawIso) {
-      const callingCode = getField(FIELD_MAP.callingCode);
-      if (callingCode && callingCode.includes('375')) rawIso = 'BY'; // Specific for Belarus if still failing
-  }
+  const callingCode = getField(FIELD_MAP.callingCode);
+  if (callingCode && callingCode.includes('375')) isoCandidates.push('BY'); // Specific for Belarus if still failing
 
-  if (rawIso) {
-    const cleanIso = ExtractionUtils.stripAllTemplates(rawIso)
+  for (const candidate of isoCandidates) {
+    if (!candidate) continue;
+    const cleanIso = ExtractionUtils.stripAllTemplates(candidate)
       .replace(/\[\[[^\]]*\]\]/g, '')
       .replace(/<[^>]*>/g, '')
       .replace(/[^a-zA-Z]/g, '');
     const match = cleanIso.match(/\b[a-zA-Z]{2}\b/);
-    if (match) result.isoCode = match[0].toUpperCase();
+    if (match) {
+      result.isoCode = match[0].toUpperCase();
+      break;
+    }
   }
 
   // Handle known TLD/ISO exceptions
