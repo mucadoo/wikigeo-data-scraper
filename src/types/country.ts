@@ -38,6 +38,7 @@ export const Coordinates = z.object({
   lat: z.number(),
   lng: z.number(),
 });
+export type Coord = z.infer<typeof Coordinates>;
 
 export const GovernmentLeader = z.object({
   title: z.string().describe("Leadership title as listed in the infobox, e.g. 'President'"),

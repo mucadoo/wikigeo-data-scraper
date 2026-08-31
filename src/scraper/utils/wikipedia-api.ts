@@ -27,6 +27,7 @@ interface WikipediaQueryResponse {
   query?: {
     pages?: Record<string, WikipediaPage>;
     redirects?: WikipediaRedirect[];
+    normalized?: WikipediaRedirect[];
   };
 }
 
@@ -131,6 +132,63 @@ export class WikipediaAPI {
     }
 
     return wikitext;
+  }
+
+  /**
+   * Fetches wikitext for many article titles in one language, batched 50 titles per request
+   * (the MediaWiki API's per-request page cap). Returns a map keyed by both the requested
+   * title and the resolved (normalized / redirected) title. Used for subdivision descriptions,
+   * where thousands of short intro paragraphs are needed across nine languages.
+   */
+  static async fetchWikitextBatch(titles: string[], lang: string = 'en'): Promise<Record<string, string>> {
+    const out: Record<string, string> = {};
+    const pending: string[] = [];
+
+    for (const title of titles) {
+      if (this.isSnapshotMode) {
+        const filePath = `tests/snapshots/wikitext/${lang}/${this.sanitize(title)}.txt`;
+        if (fs.existsSync(filePath)) {
+          out[title] = fs.readFileSync(filePath, 'utf-8');
+          continue;
+        }
+        // In snapshot mode, silently skip titles with no fixture.
+        continue;
+      }
+      pending.push(title);
+    }
+
+    for (let i = 0; i < pending.length; i += 50) {
+      const chunk = pending.slice(i, i + 50);
+      const url = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&redirects=1&titles=${chunk.map(encodeURIComponent).join('|')}`;
+
+      try {
+        const data = await this.request(url) as WikipediaQueryResponse;
+        const query = data?.query;
+        if (!query?.pages) continue;
+
+        // Map resolved titles back to the originally requested ones.
+        const backMap: Record<string, string> = {};
+        [...(query.normalized || []), ...(query.redirects || [])].forEach(r => { backMap[r.to] = backMap[r.from] || r.from; });
+        const resolveOriginal = (t: string): string => {
+          let cur = t;
+          for (let hops = 0; hops < 4 && backMap[cur]; hops++) cur = backMap[cur];
+          return cur;
+        };
+
+        Object.values(query.pages).forEach(page => {
+          const wikitext = page?.revisions?.[0]?.slots?.main?.['*'];
+          if (typeof wikitext !== 'string') return;
+          out[page.title] = wikitext;
+          const original = resolveOriginal(page.title);
+          if (original) out[original] = wikitext;
+        });
+      } catch (error: unknown) {
+        const message = error instanceof Error ? error.message : String(error);
+        console.error(`Failed to fetch wikitext batch (${lang}): ${message}`);
+      }
+    }
+
+    return out;
   }
 
   /**

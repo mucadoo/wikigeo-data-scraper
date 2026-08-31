@@ -1,0 +1,153 @@
+import Database from 'better-sqlite3';
+import { Subdivision, getEmptySubdivision } from '../types/subdivision.js';
+import { Country, LANGUAGES, getEmptyLocalizedField } from '../types/country.js';
+import { isValidIso2 } from './utils/iso-reference.js';
+import { enumerateSubdivisions } from './utils/wikidata-sparql.js';
+import { fetchSubdivisionFacts, resolveEntities } from './utils/subdivision-enrich.js';
+import { mergeSubdivisionData } from './utils/subdivision-merger.js';
+import { WikipediaAPI } from './utils/wikipedia-api.js';
+import { parseDescriptionFromWikitext } from './parsers/wikitext-description.js';
+import { writeSubdivisionOutputs } from './utils/subdivision-output.js';
+
+const db = new Database('scraper.db');
+
+db.exec(`
+  CREATE TABLE IF NOT EXISTS subdivisions (
+    code TEXT PRIMARY KEY,
+    data TEXT
+  )
+`);
+
+const upsert = db.prepare('INSERT OR REPLACE INTO subdivisions (code, data) VALUES (?, ?)');
+const getRow = db.prepare('SELECT data FROM subdivisions WHERE code = ?');
+
+const TRANSLATION_LANGS = LANGUAGES.filter(l => l !== 'en');
+
+function countryIsoCodes(): string[] {
+  let rows: { data: string }[];
+  try {
+    rows = db.prepare('SELECT data FROM countries').all() as { data: string }[];
+  } catch {
+    console.error('No `countries` table found - run the country scraper first.');
+    return [];
+  }
+  const codes = new Set<string>();
+  for (const row of rows) {
+    try {
+      const country = JSON.parse(row.data) as Country;
+      if (isValidIso2(country.isoCode)) codes.add(country.isoCode);
+    } catch { /* skip unparseable row */ }
+  }
+  return Array.from(codes).sort();
+}
+
+async function run() {
+  const limitArg = process.argv.find(a => a.startsWith('--limit='));
+  const limit = limitArg ? parseInt(limitArg.split('=')[1], 10) : undefined;
+
+  // 1. DISCOVERY
+  const isoCodes = countryIsoCodes();
+  if (isoCodes.length === 0) {
+    console.error('No countries to enumerate subdivisions for. Aborting.');
+    process.exit(1);
+  }
+  let refs = await enumerateSubdivisions(isoCodes);
+  console.log(`Discovered ${refs.length} first-level subdivisions across ${isoCodes.length} countries.`);
+  if (limit) refs = refs.slice(0, limit);
+
+  // 2. STRUCTURED FACTS (Wikidata)
+  const facts = await fetchSubdivisionFacts(refs.map(r => r.wikidataId));
+
+  const typeQids = new Set<string>();
+  const capitalQids = new Set<string>();
+  for (const f of Object.values(facts)) {
+    if (f.typeQid) typeQids.add(f.typeQid);
+    if (f.capitalQid) capitalQids.add(f.capitalQid);
+  }
+  const resolved = await resolveEntities([...typeQids, ...capitalQids]);
+
+  // 3. DESCRIPTIONS (Wikipedia article intros, per language)
+  const descriptionsByLang: Record<string, Record<string, string>> = {};
+  for (const lang of LANGUAGES) {
+    const titles = Array.from(new Set(
+      refs.map(r => facts[r.wikidataId]?.sitelinks?.[lang]).filter((t): t is string => !!t),
+    ));
+    if (titles.length === 0) continue;
+    const wikitextByTitle = await WikipediaAPI.fetchWikitextBatch(titles, lang);
+    descriptionsByLang[lang] = {};
+    for (const [title, wikitext] of Object.entries(wikitextByTitle)) {
+      try {
+        descriptionsByLang[lang][title] = parseDescriptionFromWikitext(wikitext);
+      } catch { /* leave undefined */ }
+    }
+  }
+
+  // 4. ASSEMBLE + PERSIST
+  for (const ref of refs) {
+    const f = facts[ref.wikidataId];
+    const sub: Subdivision = { ...getEmptySubdivision(), code: ref.code, wikidataId: ref.wikidataId, countryIsoCode: ref.countryIsoCode };
+
+    if (f) {
+      // Name
+      const name = getEmptyLocalizedField();
+      for (const lang of LANGUAGES) name[lang] = f.name[lang] || null;
+      name.en = name.en || f.sitelinks.en || ref.code;
+      for (const lang of TRANSLATION_LANGS) name[lang] = name[lang] || name.en;
+      sub.name = name;
+
+      // Type
+      const typeEntity = f.typeQid ? resolved[f.typeQid] : undefined;
+      if (typeEntity) {
+        const type = getEmptyLocalizedField();
+        for (const lang of LANGUAGES) type[lang] = typeEntity.name[lang] || null;
+        type.en = type.en || null;
+        for (const lang of TRANSLATION_LANGS) type[lang] = type[lang] || type.en;
+        sub.type = type;
+        sub.typeEn = typeEntity.name.en || null;
+      }
+
+      // Capital
+      const capitalEntity = f.capitalQid ? resolved[f.capitalQid] : undefined;
+      if (capitalEntity) {
+        const capName = getEmptyLocalizedField();
+        for (const lang of LANGUAGES) capName[lang] = capitalEntity.name[lang] || capitalEntity.name.en || null;
+        sub.capital = [{ articleId: f.capitalQid, name: capName }];
+        sub.capitalCoordinates = capitalEntity.coordinates;
+      }
+
+      sub.flagUrl = f.flagUrl;
+      sub.coordinates = f.coordinates;
+      sub.population = f.population;
+      sub.populationYear = f.populationYear;
+      sub.areaKm2 = f.areaKm2;
+      if (sub.population && sub.areaKm2 && sub.areaKm2 > 0) {
+        sub.densityKm2 = parseFloat((sub.population / sub.areaKm2).toFixed(2));
+      }
+
+      // Description
+      const description = getEmptyLocalizedField();
+      for (const lang of LANGUAGES) {
+        const title = f.sitelinks[lang];
+        const text = title ? descriptionsByLang[lang]?.[title] : undefined;
+        if (text) description[lang] = text;
+      }
+      for (const lang of TRANSLATION_LANGS) description[lang] = description[lang] || description.en;
+      sub.description = description;
+    }
+
+    const existing = getRow.get(ref.code) as { data: string } | undefined;
+    const merged = mergeSubdivisionData(existing?.data || null, sub);
+    upsert.run(ref.code, JSON.stringify(merged));
+  }
+
+  // 5. WRITE OUTPUT FILES
+  const all = (db.prepare('SELECT data FROM subdivisions').all() as { data: string }[])
+    .map(r => JSON.parse(r.data) as Subdivision);
+  writeSubdivisionOutputs(all);
+}
+
+run().catch(err => {
+  console.error('Subdivision scraper failed completely:', err.message);
+  if (err.stack) console.error(err.stack);
+  process.exit(1);
+});

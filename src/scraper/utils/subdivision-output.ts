@@ -1,0 +1,99 @@
+import fs from 'fs';
+import { Subdivision, SubdivisionSchema, getEmptySubdivision } from '../../types/subdivision.js';
+import { LANGUAGES } from '../../types/country.js';
+import { isValidIso2 } from './iso-reference.js';
+
+const DATA_DIR = 'data';
+const API_DIR = 'data/api/v1';
+const SUBDIVISION_API_DIR = `${API_DIR}/subdivisions`;
+const COUNTRY_API_DIR = `${API_DIR}/countries`;
+
+/**
+ * A subdivision ships only if it has a well-formed ISO 3166-2 code, a known parent country,
+ * a name + English description, and at least one of population / area. Missing "nice to have"
+ * fields (capital, coordinates, flag, density) never drop a row.
+ */
+export function isPublishable(sub: Subdivision): boolean {
+  const parse = SubdivisionSchema.safeParse(sub);
+  if (!parse.success) return false;
+  const s = parse.data;
+  if (!/^[A-Z]{2}-[A-Z0-9]{1,3}$/.test(s.code)) return false;
+  if (!isValidIso2(s.countryIsoCode) || !s.code.startsWith(`${s.countryIsoCode}-`)) return false;
+  if (!s.name.en) return false;
+  if (!s.description.en) return false;
+  if (!s.population && !s.areaKm2) return false;
+  return true;
+}
+
+function normalize(sub: Subdivision): Subdivision {
+  const s: Subdivision = { ...getEmptySubdivision(), ...sub };
+  // Guarantee every localized field is filled in every language (English fallback).
+  for (const field of ['name', 'type', 'description'] as const) {
+    const loc = { ...s[field] };
+    for (const lang of LANGUAGES) loc[lang] = loc[lang] || loc.en || null;
+    s[field] = loc;
+  }
+  if (s.population && s.areaKm2 && s.areaKm2 > 0 && !s.densityKm2) {
+    s.densityKm2 = parseFloat((s.population / s.areaKm2).toFixed(2));
+  }
+  return s;
+}
+
+export function writeSubdivisionOutputs(raw: Subdivision[]): void {
+  const pkg = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+
+  const subdivisions = raw
+    .map(normalize)
+    .filter(s => {
+      if (isPublishable(s)) return true;
+      console.error(`Dropping subdivision ${s.code || '(no code)'} (${s.name?.en || 'Unknown'}): failed publish gate`);
+      return false;
+    })
+    .sort((a, b) => a.code.localeCompare(b.code));
+
+  console.log(`Publishing ${subdivisions.length} subdivisions.`);
+
+  const output = {
+    metadata: {
+      generatedAt: new Date().toISOString(),
+      version: pkg.version,
+      license: pkg.license,
+      source: 'Wikidata + Wikipedia',
+      count: subdivisions.length,
+    },
+    data: subdivisions,
+  };
+
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.writeFileSync(`${DATA_DIR}/subdivisions.json`, JSON.stringify(output, null, 2));
+  fs.writeFileSync(`${DATA_DIR}/subdivisions.min.json`, JSON.stringify(output));
+
+  fs.mkdirSync(SUBDIVISION_API_DIR, { recursive: true });
+  const index = subdivisions.map(({ code, countryIsoCode, name, flagUrl }) => ({ code, countryIsoCode, name, flagUrl }));
+  fs.writeFileSync(`${SUBDIVISION_API_DIR}/index.json`, JSON.stringify(index, null, 2));
+  fs.writeFileSync(`${SUBDIVISION_API_DIR}/all.json`, JSON.stringify(subdivisions, null, 2));
+  for (const sub of subdivisions) {
+    fs.writeFileSync(`${SUBDIVISION_API_DIR}/${sub.code}.json`, JSON.stringify(sub, null, 2));
+  }
+
+  // Per-country rollup: api/v1/countries/{ISO}/subdivisions.json
+  const byCountry: Record<string, Subdivision[]> = {};
+  for (const sub of subdivisions) {
+    (byCountry[sub.countryIsoCode] ||= []).push(sub);
+  }
+  for (const [iso, subs] of Object.entries(byCountry)) {
+    fs.mkdirSync(`${COUNTRY_API_DIR}/${iso}`, { recursive: true });
+    fs.writeFileSync(`${COUNTRY_API_DIR}/${iso}/subdivisions.json`, JSON.stringify(subs, null, 2));
+  }
+}
+
+/** ISO 3166-2 codes grouped by parent country ISO 3166-1 alpha-2 code. */
+export function subdivisionCodesByCountry(raw: Subdivision[]): Record<string, string[]> {
+  const map: Record<string, string[]> = {};
+  for (const sub of raw.map(normalize)) {
+    if (!isPublishable(sub)) continue;
+    (map[sub.countryIsoCode] ||= []).push(sub.code);
+  }
+  for (const iso of Object.keys(map)) map[iso].sort();
+  return map;
+}
