@@ -3,6 +3,7 @@ import Database from 'better-sqlite3';
 import fs from 'fs';
 import { Country, getEmptyCountry } from '../src/types/country.js';
 import { DataValidator } from '../src/scraper/utils/validator.js';
+import { readSubdivisionCodesByCountry } from '../src/scraper/utils/subdivision-codes.js';
 
 const db = new Database('scraper.db');
 const rawCountries = (db.prepare('SELECT data FROM countries').all() as { data: string }[]).map(row => JSON.parse(row.data) as Country);
@@ -28,6 +29,11 @@ const countries = rawCountries
   .filter(c => c !== null) as Country[];
 
 console.log(`Successfully validated ${countries.length} countries.`);
+
+const subdivisionCodesByCountry = readSubdivisionCodesByCountry(db);
+for (const country of countries) {
+  country.subdivisionCodes = subdivisionCodesByCountry[country.isoCode as string] || [];
+}
 
 const output = {
   metadata: {

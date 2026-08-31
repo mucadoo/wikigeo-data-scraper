@@ -1,6 +1,14 @@
 import { z } from 'zod';
 import { CountrySchema, Country } from '../types/country.js';
-import { WikiGeoOptions, CountryIndexSchema, WikiGeoResponse, CountryIndex } from './types.js';
+import { SubdivisionSchema, Subdivision } from '../types/subdivision.js';
+import {
+    WikiGeoOptions,
+    CountryIndexSchema,
+    WikiGeoResponse,
+    CountryIndex,
+    SubdivisionIndexSchema,
+    SubdivisionIndex,
+} from './types.js';
 
 export * from './types.js';
 
@@ -8,17 +16,24 @@ export class WikiGeoClient {
     private dataSource: 'local' | 'remote';
     private baseUrl: string;
     private localData?: Country[];
+    private localSubdivisions?: Subdivision[];
 
     constructor(options: WikiGeoOptions = {}) {
         this.dataSource = options.dataSource || 'local';
         this.baseUrl = options.baseUrl || 'https://mucadoo.github.io/wikigeo-data-scraper/';
         this.localData = options.localData;
+        this.localSubdivisions = options.localSubdivisions;
         if (!this.baseUrl.endsWith('/')) this.baseUrl += '/';
     }
 
     private async getLocalData(): Promise<Country[]> {
         if (this.localData) return this.localData;
         throw new Error(`Local data not found. Please provide 'localData' in constructor.`);
+    }
+
+    private async getLocalSubdivisions(): Promise<Subdivision[]> {
+        if (this.localSubdivisions) return this.localSubdivisions;
+        throw new Error(`Local subdivisions not found. Please provide 'localSubdivisions' in constructor.`);
     }
 
     async getFullDatabase(): Promise<WikiGeoResponse<Country[]>> {
@@ -80,6 +95,74 @@ export class WikiGeoClient {
         const jsonData = await response.json();
         return {
             data: CountrySchema.parse(jsonData),
+            source: 'remote',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    async getFullSubdivisions(): Promise<WikiGeoResponse<Subdivision[]>> {
+        if (this.dataSource === 'local') {
+            return {
+                data: await this.getLocalSubdivisions(),
+                source: 'local',
+                timestamp: new Date().toISOString()
+            };
+        }
+
+        const response = await fetch(`${this.baseUrl}api/v1/subdivisions/all.json`);
+        if (!response.ok) throw new Error(`Failed to fetch subdivisions: ${response.statusText}`);
+
+        const data = await response.json();
+        return {
+            data: z.array(SubdivisionSchema).parse(data),
+            source: 'remote',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    async listSubdivisions(countryIsoCode?: string): Promise<WikiGeoResponse<SubdivisionIndex>> {
+        const filter = (list: SubdivisionIndex): SubdivisionIndex =>
+            countryIsoCode ? list.filter(s => s.countryIsoCode === countryIsoCode.toUpperCase()) : list;
+
+        if (this.dataSource === 'local') {
+            const data = await this.getLocalSubdivisions();
+            return {
+                data: filter(SubdivisionIndexSchema.parse(data)),
+                source: 'local',
+                timestamp: new Date().toISOString()
+            };
+        }
+
+        const response = await fetch(`${this.baseUrl}api/v1/subdivisions/index.json`);
+        if (!response.ok) throw new Error(`Failed to fetch subdivision list: ${response.statusText}`);
+
+        const jsonData = await response.json();
+        return {
+            data: filter(SubdivisionIndexSchema.parse(jsonData)),
+            source: 'remote',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    async getSubdivision(code: string): Promise<WikiGeoResponse<Subdivision>> {
+        const normalized = code.toUpperCase();
+        if (this.dataSource === 'local') {
+            const data = await this.getLocalSubdivisions();
+            const subdivision = data.find(s => s.code === normalized);
+            if (!subdivision) throw new Error(`Subdivision ${code} not found in local data`);
+            return {
+                data: SubdivisionSchema.parse(subdivision),
+                source: 'local',
+                timestamp: new Date().toISOString()
+            };
+        }
+
+        const response = await fetch(`${this.baseUrl}api/v1/subdivisions/${normalized}.json`);
+        if (!response.ok) throw new Error(`Failed to fetch subdivision ${code}: ${response.statusText}`);
+
+        const jsonData = await response.json();
+        return {
+            data: SubdivisionSchema.parse(jsonData),
             source: 'remote',
             timestamp: new Date().toISOString()
         };

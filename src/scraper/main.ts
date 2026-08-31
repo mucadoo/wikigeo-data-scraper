@@ -7,6 +7,7 @@ import { parseDescriptionFromWikitext } from './parsers/wikitext-description.js'
 import { getIsoReference, getBorderingIsoCodes, getCommonName, isValidIso2 } from './utils/iso-reference.js';
 import { fetchWikidataFacts, resolveLabels, resolveIsoCodes } from './utils/wikidata.js';
 import { fetchWorldBankIndicators } from './utils/worldbank.js';
+import { readSubdivisionCodesByCountry } from './utils/subdivision-codes.js';
 import Database from 'better-sqlite3';
 import fs from 'fs';
 
@@ -279,6 +280,14 @@ async function run() {
       unemploymentRate: wb.unemploymentRate ? parseFloat(wb.unemploymentRate.value.toFixed(1)) : null,
     };
   });
+
+  // Stamp each country with the ISO 3166-2 codes of its first-level subdivisions, if the
+  // subdivision scraper has already populated the `subdivisions` table in this database.
+  const subdivisionCodesByCountry = readSubdivisionCodesByCountry(db);
+  countries = countries.map(country => ({
+    ...country,
+    subdivisionCodes: subdivisionCodesByCountry[country.isoCode as string] || [],
+  }));
 
   const output = {
     metadata: {
