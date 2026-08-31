@@ -85,6 +85,7 @@ export const CountrySchema = z.object({
   borders: z.array(MultiLangLinkField.extend({
     isoCode: z.string().nullable().describe("ISO 3166-1 alpha-2 code of the bordering country, resolved after the full dataset is built"),
   })).describe("Bordering/neighboring countries"),
+  subdivisionCodes: z.array(z.string()).default([]).describe("ISO 3166-2 codes of this country's first-level administrative subdivisions (see the separate subdivisions dataset)"),
 });
 
 export type Country = z.infer<typeof CountrySchema>;
@@ -125,4 +126,5 @@ export const getEmptyCountry = (): Country => ({
   motto: null,
   anthem: null,
   borders: [],
+  subdivisionCodes: [],
 });
