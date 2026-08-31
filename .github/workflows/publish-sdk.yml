@@ -70,7 +70,7 @@ jobs:
           mkdir -p data
 
           # Use 'git show' to get the file content without affecting the git index
-          FILES=("sovereign-states.json" "sovereign-states.min.json" "schema.json" "DATA_MODEL.md" "sovereign-states.csv")
+          FILES=("sovereign-states.json" "sovereign-states.min.json" "schema.json" "DATA_MODEL.md" "sovereign-states.csv" "subdivisions.json" "subdivisions.min.json" "subdivisions.csv" "subdivision.schema.json")
 
           for file in "${FILES[@]}"; do
             echo "Extracting $file from data branch..."

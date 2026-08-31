@@ -16,7 +16,11 @@
     "data/sovereign-states.json",
     "data/sovereign-states.min.json",
     "data/sovereign-states.csv",
+    "data/subdivisions.json",
+    "data/subdivisions.min.json",
+    "data/subdivisions.csv",
     "data/schema.json",
+    "data/subdivision.schema.json",
     "data/DATA_MODEL.md",
     "README.md"
   ],

@@ -75,3 +75,37 @@ if (issues.length > 0) {
 } else {
   console.log('No data issues found.');
 }
+
+// --- Subdivisions ---
+const SUBDIVISION_PATH = path.join(process.cwd(), 'data/subdivisions.json');
+if (fs.existsSync(SUBDIVISION_PATH)) {
+  const rawSub = JSON.parse(fs.readFileSync(SUBDIVISION_PATH, 'utf-8'));
+  const subs = (Array.isArray(rawSub) ? rawSub : rawSub.data) as Record<string, unknown>[];
+  const subIssues: Issue[] = [];
+
+  const scanBrackets = (name: string | undefined, obj: unknown, pathStr: string) => {
+    if (typeof obj === 'string') {
+      if (obj.includes('[[') || obj.includes(']]') || obj.includes('<ref')) {
+        subIssues.push({ name, field: pathStr, error: 'Contains markup', value: obj });
+      }
+    } else if (Array.isArray(obj)) {
+      obj.forEach((item, i) => scanBrackets(name, item, `${pathStr}[${i}]`));
+    } else if (obj && typeof obj === 'object') {
+      Object.entries(obj as Record<string, unknown>).forEach(([k, v]) => scanBrackets(name, v, `${pathStr}.${k}`));
+    }
+  };
+
+  for (const sub of subs) {
+    const name = (sub.name as { en?: string } | undefined)?.en;
+    for (const field of ['name', 'type', 'description', 'capital']) scanBrackets(name, sub[field], field);
+    for (const field of ['population', 'areaKm2', 'densityKm2']) {
+      const value = sub[field];
+      if (typeof value === 'number' && (isNaN(value) || value < 0)) {
+        subIssues.push({ name, field, error: 'NaN or negative', value });
+      }
+    }
+  }
+
+  console.log(`\n--- Subdivisions (${subs.length}) ---`);
+  console.log(subIssues.length > 0 ? JSON.stringify(subIssues, null, 2) : 'No subdivision data issues found.');
+}

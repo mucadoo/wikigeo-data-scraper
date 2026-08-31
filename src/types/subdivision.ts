@@ -6,9 +6,6 @@ import {
   Coordinates,
 } from './country.js';
 
-export { LANGUAGES } from './country.js';
-export type { Language } from './country.js';
-
 /**
  * A first-level administrative subdivision of a country: a state, province, region,
  * oblast, canton, department, and so on. Enumerated from Wikidata's ISO 3166-2 code

@@ -41,6 +41,9 @@ jobs:
         run: |
           rm -f scraper.db
           npm run scrape
+          npm run scrape:subdivisions
+          # Re-emit the country files so each country picks up its subdivisionCodes.
+          npm run post-process
           sqlite3 scraper.db "VACUUM;"
           mv scraper.db sovereign-states.db
 
@@ -82,23 +85,26 @@ jobs:
           else
             echo "No previous data found on branch."
           fi
-
-          # 4. Normalize new data for comparison
-          jq -S . data/sovereign-states.json > data/countries_normalized.json
-
-          # 5. Compare
-          if [ -f countries_old.json ]; then
-            if git diff --no-index --exit-code countries_old.json data/countries_normalized.json > /dev/null; then
-              echo "data_changed=false" >> $GITHUB_OUTPUT
-              echo "data_updated=false" >> $GITHUB_OUTPUT
-            else
-              echo "data_changed=true" >> $GITHUB_OUTPUT
-              echo "data_updated=true" >> $GITHUB_OUTPUT
-            fi
+          if git show data:subdivisions.json > subdivisions_old_raw.json 2>/dev/null; then
+            jq -S . subdivisions_old_raw.json > subdivisions_old.json
           else
-            echo "data_changed=true" >> $GITHUB_OUTPUT
-            echo "data_updated=true" >> $GITHUB_OUTPUT
+            echo "No previous subdivision data found on branch."
           fi
+
+          # 4. Normalize new data for comparison (kept out of data/ so it isn't published)
+          jq -S . data/sovereign-states.json > countries_normalized.json
+          jq -S . data/subdivisions.json > subdivisions_normalized.json
+
+          # 5. Compare - a change in either dataset triggers a publish
+          CHANGED=false
+          if [ ! -f countries_old.json ] || [ ! -f subdivisions_old.json ]; then
+            CHANGED=true
+          else
+            git diff --no-index --exit-code countries_old.json countries_normalized.json > /dev/null || CHANGED=true
+            git diff --no-index --exit-code subdivisions_old.json subdivisions_normalized.json > /dev/null || CHANGED=true
+          fi
+          echo "data_changed=$CHANGED" >> $GITHUB_OUTPUT
+          echo "data_updated=$CHANGED" >> $GITHUB_OUTPUT
 
       - name: Create data-status artifact
         if: github.event_name != 'pull_request'
@@ -172,8 +178,13 @@ jobs:
           cp ../data/schema.json .
           cp ../data/DATA_MODEL.md .
           cp ../data/sovereign-states.csv .
+          cp ../data/subdivisions.json .
+          cp ../data/subdivisions.min.json .
+          cp ../data/subdivisions.csv .
+          cp ../data/subdivision.schema.json .
 
-          git add sovereign-states.json sovereign-states.min.json schema.json DATA_MODEL.md sovereign-states.csv
+          git add sovereign-states.json sovereign-states.min.json schema.json DATA_MODEL.md sovereign-states.csv \
+                  subdivisions.json subdivisions.min.json subdivisions.csv subdivision.schema.json
           git commit -m "Data update: $(date -u)" || exit 0
           git push origin data
           echo "new_sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
@@ -191,22 +202,26 @@ jobs:
             data/schema.json
             data/DATA_MODEL.md
             data/sovereign-states.csv
+            data/subdivisions.json
+            data/subdivisions.min.json
+            data/subdivisions.csv
+            data/subdivision.schema.json
             sovereign-states.db
           body: |
             ### 🌍 Multilingual Data Snapshot
-            
-            Automated geographical data snapshot extracted from Wikipedia (EN, PT, FR, IT, ES, DE, JA, RU, ZH).
-            
+
+            Automated geographical data snapshot extracted from Wikipedia + Wikidata (EN, PT, FR, IT, ES, DE, JA, RU, ZH).
+
             #### 🔍 Data Changes
             ${{ steps.check_changes.outputs.last_tag != '' && format('[View comparison with previous version ({0})](https://github.com/{1}/compare/{0}...data-{2})', steps.check_changes.outputs.last_tag, github.repository, steps.date.outputs.tag_date) || '🆕 _Initial data release_' }}
-            
+
             #### 🗄️ Formats
-            - **JSON:** Ideal for web apps.
-            - **SQLite:** `sovereign-states.db` for SQL queries.
-            - **CSV:** `sovereign-states.csv` for Excel/Data Science.
-            
+            - **JSON:** `sovereign-states.json` (countries) + `subdivisions.json` (states/provinces/regions).
+            - **SQLite:** `sovereign-states.db` (`countries` and `subdivisions` tables) for SQL queries.
+            - **CSV:** `sovereign-states.csv` / `subdivisions.csv` for Excel/Data Science.
+
             #### 📜 Documentation
-            - [Schema JSON](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/schema.json)
+            - [Schema JSON](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/schema.json) · [Subdivision Schema](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/subdivision.schema.json)
             - [Data Model Docs](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/DATA_MODEL.md)
 
             ---

@@ -4,7 +4,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@mucadoo/wiki-geo-data)](https://www.npmjs.com/package/@mucadoo/wiki-geo-data)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated, daily-updated geographical dataset of sovereign states, scraped from Wikipedia across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
+An automated, daily-updated geographical dataset of sovereign states **and their first-level administrative subdivisions** (states, provinces, regions, …), built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
 
 ## 🚀 Consumption Options
 
@@ -40,6 +40,9 @@ new WikiGeoClient(options?: WikiGeoOptions)
 - `listCountries()`: Returns a summary list of all countries (ISO code, name, flag URL).
 - `getCountry(isoCode: string)`: Fetches full details for a specific country by ISO 3166-1 alpha-2 code.
 - `getFullDatabase()`: Returns the complete dataset for all countries.
+- `listSubdivisions(countryIsoCode?: string)`: Returns a summary list of first-level subdivisions (ISO 3166-2 code, parent country, name, flag), optionally filtered to one country.
+- `getSubdivision(code: string)`: Fetches full details for a subdivision by its ISO 3166-2 code (e.g. `US-CA`, `FR-IDF`).
+- `getFullSubdivisions()`: Returns the complete subdivisions dataset.
 
 #### Country Data Structure
 
@@ -81,7 +84,33 @@ console.log(france.capital[0].name.en); // "Paris"
 
 // 3. Bulk Export: Get the entire database in one request
 const allData = await client.getFullDatabase();
+
+// 4. Subdivisions (states / provinces / regions)
+const frenchRegions = await client.listSubdivisions('FR');
+const california = await client.getSubdivision('US-CA');
+console.log(california.data.type.en);        // "state"
+console.log(california.data.capital[0].name.en); // "Sacramento"
 ```
+
+#### Subdivision Data Structure
+
+Each `Subdivision` object carries:
+
+| Field | Type | Description |
+| :--- | :--- | :--- |
+| `code` | `string` | ISO 3166-2 code (e.g. `US-CA`). |
+| `wikidataId` | `string` | Wikidata item id (QID). |
+| `countryIsoCode` | `string` | ISO 3166-1 alpha-2 code of the parent country. |
+| `name` / `type` | `LocalizedField` | Localized name and subdivision type (`state`, `province`, `region`, …). |
+| `typeEn` | `string` | Canonical English subdivision type, for filtering. |
+| `description` | `LocalizedField` | Localized descriptive summary. |
+| `capital` | `LinkedArrayField` | Administrative seat / capital. |
+| `capitalCoordinates` / `coordinates` | `{ lat, lng }` | Capital location / subdivision centre point. |
+| `population` / `populationYear` | `number` | Population and its reference year. |
+| `areaKm2` / `densityKm2` | `number` | Area in km² and derived population density. |
+| `flagUrl` | `string` | URL to the subdivision flag image. |
+
+Countries additionally expose `subdivisionCodes: string[]` — the ISO 3166-2 codes of their first-level subdivisions.
 
 #### Data Sources
 
@@ -97,21 +126,24 @@ Perfect for mobile apps or simple fetch calls.
 - **Index:** `https://mucadoo.github.io/wikigeo-data-scraper/api/v1/index.json`
 - **Bulk Export:** `https://mucadoo.github.io/wikigeo-data-scraper/api/v1/all.json`
 - **Country Detail:** `https://mucadoo.github.io/wikigeo-data-scraper/api/v1/countries/{ISO_CODE}.json` (e.g., `BR.json`, `US.json`)
+- **Subdivisions Index / Bulk:** `.../api/v1/subdivisions/index.json` · `.../api/v1/subdivisions/all.json`
+- **Subdivision Detail:** `.../api/v1/subdivisions/{ISO_3166_2}.json` (e.g. `US-CA.json`)
+- **A Country's Subdivisions:** `.../api/v1/countries/{ISO_CODE}/subdivisions.json`
 
 ### 3. Bulk Data Files
 
 For data science, analytics, or spreadsheet use:
 
-- **JSON (Full):** `sovereign-states.json` (Includes metadata)
-- **JSON (Minified):** `sovereign-states.min.json`
-- **CSV:** `sovereign-states.csv` (Ideal for Excel/Pandas)
+- **JSON (Full):** `sovereign-states.json` / `subdivisions.json` (Includes metadata)
+- **JSON (Minified):** `sovereign-states.min.json` / `subdivisions.min.json`
+- **CSV:** `sovereign-states.csv` / `subdivisions.csv` (Ideal for Excel/Pandas)
 
 ## 🛠 Data Contract & Documentation
 
 We use Zod to enforce a strict data contract.
 
-  - 📖 [Data Model Dictionary](data/DATA_MODEL.md) - Explanations for every field.
-  - 📜 [JSON Schema](data/schema.json) - For technical validation.
+  - 📖 [Data Model Dictionary](data/DATA_MODEL.md) - Explanations for every field (countries and subdivisions).
+  - 📜 [Country JSON Schema](data/schema.json) · [Subdivision JSON Schema](data/subdivision.schema.json) - For technical validation.
 
 ## 🔄 Versioning Strategy
 

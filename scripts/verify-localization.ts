@@ -1,9 +1,10 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { Country, LANGUAGES } from '../src/types/country.js';
+import { LANGUAGES } from '../src/types/country.js';
 
 const DATA_PATH = path.join(process.cwd(), 'data/sovereign-states.json');
+const SUBDIVISION_PATH = path.join(process.cwd(), 'data/subdivisions.json');
 const LOCALIZED_FIELDS = [
   'name',
   'description',
@@ -15,66 +16,69 @@ const LOCALIZED_FIELDS = [
   'demonym',
   'timeZone'
 ];
+const SUBDIVISION_LOCALIZED_FIELDS = ['name', 'type', 'description', 'capital'];
 
 interface CountryIssue {
   country: string | null | undefined;
   missing_translations: Record<string, string[]>;
 }
 
-async function main() {
-  if (!fs.existsSync(DATA_PATH)) {
-    console.error(`File not found: ${DATA_PATH}`);
-    process.exit(1);
+function checkFile(label: string, filePath: string, fields: string[], required: boolean): void {
+  if (!fs.existsSync(filePath)) {
+    if (required) {
+      console.error(`File not found: ${filePath}`);
+      process.exit(1);
+    }
+    console.log(`\n[${label}] ${filePath} not found - skipping.`);
+    return;
   }
 
-  const rawData = JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'));
-  const data = (Array.isArray(rawData) ? rawData : rawData.data) as Country[];
+  const rawData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+  const data = (Array.isArray(rawData) ? rawData : rawData.data) as Record<string, unknown>[];
   const issues: CountryIssue[] = [];
   const fieldIssuesCount: Record<string, number> = {};
 
-  for (const country of data) {
-    const countryIssues: CountryIssue = {
-      country: country.name.en,
-      missing_translations: {}
-    };
-
+  for (const entity of data) {
+    const name = (entity.name as { en?: string } | undefined)?.en;
+    const entityIssues: CountryIssue = { country: name, missing_translations: {} };
     let hasIssue = false;
 
-    for (const field of LOCALIZED_FIELDS) {
-      const fieldData = (country as unknown as Record<string, unknown>)[field];
+    for (const field of fields) {
+      const fieldData = entity[field];
       if (!fieldData) continue;
 
       const missingLangs = LANGUAGES.filter(lang => {
         if (Array.isArray(fieldData)) {
-          // New structure: array of objects with name: LocalizedField
           if (fieldData.length === 0) return true;
           return fieldData.some(item => !item.name[lang] || item.name[lang].trim() === '');
-        } else {
-          // Old/Localized structure: record of lang to value
-          const langData = (fieldData as Record<string, unknown>)[lang];
-          if (langData === undefined) return true;
-          if (typeof langData === 'string' && langData.trim() === '') return true;
-          return false;
         }
+        const langData = (fieldData as Record<string, unknown>)[lang];
+        if (langData === undefined) return true;
+        if (typeof langData === 'string' && langData.trim() === '') return true;
+        return false;
       });
 
       if (missingLangs.length > 0 && missingLangs.length < LANGUAGES.length) {
-        countryIssues.missing_translations[field] = missingLangs;
+        entityIssues.missing_translations[field] = missingLangs;
         hasIssue = true;
         fieldIssuesCount[field] = (fieldIssuesCount[field] || 0) + 1;
       }
     }
 
-    if (hasIssue) {
-      issues.push(countryIssues);
-    }
+    if (hasIssue) issues.push(entityIssues);
   }
 
+  console.log(`\n=== ${label} ===`);
   console.log("Summary of missing translations by field:");
   console.log(JSON.stringify(fieldIssuesCount, null, 2));
-  console.log("\nSample countries with issues:");
+  console.log("Sample entries with issues:");
   console.log(JSON.stringify(issues.slice(0, 5), null, 2));
-  console.log(`\nTotal countries with localization issues: ${issues.length} / ${data.length}`);
+  console.log(`Total entries with localization issues: ${issues.length} / ${data.length}`);
+}
+
+async function main() {
+  checkFile('Countries', DATA_PATH, LOCALIZED_FIELDS, true);
+  checkFile('Subdivisions', SUBDIVISION_PATH, SUBDIVISION_LOCALIZED_FIELDS, false);
 }
 
 main().catch(console.error);
