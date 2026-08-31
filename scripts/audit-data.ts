@@ -109,3 +109,40 @@ if (fs.existsSync(SUBDIVISION_PATH)) {
   console.log(`\n--- Subdivisions (${subs.length}) ---`);
   console.log(subIssues.length > 0 ? JSON.stringify(subIssues, null, 2) : 'No subdivision data issues found.');
 }
+
+// --- Continents ---
+const CONTINENT_PATH = path.join(process.cwd(), 'data/continents.json');
+if (fs.existsSync(CONTINENT_PATH)) {
+  const rawCont = JSON.parse(fs.readFileSync(CONTINENT_PATH, 'utf-8'));
+  const continents = (Array.isArray(rawCont) ? rawCont : rawCont.data) as Record<string, unknown>[];
+  const contIssues: Issue[] = [];
+
+  const scanMarkup = (name: string | undefined, obj: unknown, pathStr: string) => {
+    if (typeof obj === 'string') {
+      if (obj.includes('[[') || obj.includes(']]') || obj.includes('<ref')) {
+        contIssues.push({ name, field: pathStr, error: 'Contains markup', value: obj });
+      }
+    } else if (Array.isArray(obj)) {
+      obj.forEach((item, i) => scanMarkup(name, item, `${pathStr}[${i}]`));
+    } else if (obj && typeof obj === 'object') {
+      Object.entries(obj as Record<string, unknown>).forEach(([k, v]) => scanMarkup(name, v, `${pathStr}.${k}`));
+    }
+  };
+
+  for (const continent of continents) {
+    const name = (continent.name as { en?: string } | undefined)?.en;
+    for (const field of ['name', 'description']) scanMarkup(name, continent[field], field);
+    for (const field of ['population', 'areaKm2', 'densityKm2']) {
+      const value = continent[field];
+      if (typeof value === 'number' && (isNaN(value) || value < 0)) {
+        contIssues.push({ name, field, error: 'NaN or negative', value });
+      }
+    }
+    if (!Array.isArray(continent.countryIsoCodes) || (continent.countryIsoCodes as unknown[]).length === 0) {
+      contIssues.push({ name, field: 'countryIsoCodes', error: 'Empty', value: continent.countryIsoCodes });
+    }
+  }
+
+  console.log(`\n--- Continents (${continents.length}) ---`);
+  console.log(contIssues.length > 0 ? JSON.stringify(contIssues, null, 2) : 'No continent data issues found.');
+}

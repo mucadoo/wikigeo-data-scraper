@@ -4,7 +4,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@mucadoo/wiki-geo-data)](https://www.npmjs.com/package/@mucadoo/wiki-geo-data)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated, daily-updated geographical dataset of sovereign states **and their first-level administrative subdivisions** (states, provinces, regions, …), built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
+An automated, daily-updated geographical dataset of sovereign states, **their first-level administrative subdivisions** (states, provinces, regions, …) **and the six continents**, built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
 
 ## 🚀 Consumption Options
 
@@ -43,6 +43,9 @@ new WikiGeoClient(options?: WikiGeoOptions)
 - `listSubdivisions(countryIsoCode?: string)`: Returns a summary list of first-level subdivisions (ISO 3166-2 code, parent country, name, flag), optionally filtered to one country.
 - `getSubdivision(code: string)`: Fetches full details for a subdivision by its ISO 3166-2 code (e.g. `US-CA`, `FR-IDF`).
 - `getFullSubdivisions()`: Returns the complete subdivisions dataset.
+- `listContinents()`: Returns a summary list of the six continents (code, localized name, member-country count).
+- `getContinent(code: string)`: Fetches full details for a continent by its two-letter code (`AF`, `AS`, `EU`, `NA`, `SA`, `OC`).
+- `getFullContinents()`: Returns the complete continents dataset.
 
 #### Country Data Structure
 
@@ -52,7 +55,8 @@ The `Country` object includes the following primary fields:
 | :--- | :--- | :--- |
 | `isoCode` | `string` | ISO 3166-1 alpha-2 code. |
 | `isoCode3` / `isoNumeric` | `string` | ISO 3166-1 alpha-3 / numeric codes (static reference data). |
-| `continent` | `string` | Continent (static reference data). |
+| `continent` | `string` | Continent name (static reference data). |
+| `continentCode` | `string` | Two-letter continent code `AF/AS/EU/NA/SA/OC` (see the continents dataset). |
 | `name` | `LocalizedField` | Localized name (`en`, `pt`, `fr`, `it`, `es`). |
 | `flagUrl` | `string` | URL to the national flag image. |
 | `description`| `LocalizedField` | Localized descriptive summary. |
@@ -112,6 +116,24 @@ Each `Subdivision` object carries:
 
 Countries additionally expose `subdivisionCodes: string[]` — the ISO 3166-2 codes of their first-level subdivisions.
 
+#### Continent Data Structure
+
+Each `Continent` object carries:
+
+| Field | Type | Description |
+| :--- | :--- | :--- |
+| `code` | `string` | Two-letter continent code (`AF`, `AS`, `EU`, `NA`, `SA`, `OC`). |
+| `wikidataId` | `string` | Wikidata item id (QID). |
+| `name` / `description` | `LocalizedField` | Localized name and descriptive summary. |
+| `coordinates` | `{ lat, lng }` | Approximate centre point. |
+| `population` / `populationYear` | `number` | Population and its reference year. |
+| `populationSource` / `areaSource` | `string` | `wikidata`, or `aggregate` when summed from member countries. |
+| `areaKm2` / `densityKm2` | `number` | Land area in km² and derived population density. |
+| `countryCount` | `number` | Number of this dataset's sovereign states on the continent. |
+| `countryIsoCodes` | `string[]` | ISO 3166-1 alpha-2 codes of those sovereign states. |
+
+Countries carry the reverse pointer as `continentCode`.
+
 #### Data Sources
 
 | Mode | Description | Reliability |
@@ -129,21 +151,24 @@ Perfect for mobile apps or simple fetch calls.
 - **Subdivisions Index / Bulk:** `.../api/v1/subdivisions/index.json` · `.../api/v1/subdivisions/all.json`
 - **Subdivision Detail:** `.../api/v1/subdivisions/{ISO_3166_2}.json` (e.g. `US-CA.json`)
 - **A Country's Subdivisions:** `.../api/v1/countries/{ISO_CODE}/subdivisions.json`
+- **Continents Index / Bulk:** `.../api/v1/continents/index.json` · `.../api/v1/continents/all.json`
+- **Continent Detail:** `.../api/v1/continents/{CODE}.json` (e.g. `EU.json`)
+- **A Country's Continent:** `.../api/v1/countries/{ISO_CODE}/continent.json`
 
 ### 3. Bulk Data Files
 
 For data science, analytics, or spreadsheet use:
 
-- **JSON (Full):** `sovereign-states.json` / `subdivisions.json` (Includes metadata)
-- **JSON (Minified):** `sovereign-states.min.json` / `subdivisions.min.json`
-- **CSV:** `sovereign-states.csv` / `subdivisions.csv` (Ideal for Excel/Pandas)
+- **JSON (Full):** `sovereign-states.json` / `subdivisions.json` / `continents.json` (Includes metadata)
+- **JSON (Minified):** `sovereign-states.min.json` / `subdivisions.min.json` / `continents.min.json`
+- **CSV:** `sovereign-states.csv` / `subdivisions.csv` / `continents.csv` (Ideal for Excel/Pandas)
 
 ## 🛠 Data Contract & Documentation
 
 We use Zod to enforce a strict data contract.
 
-  - 📖 [Data Model Dictionary](data/DATA_MODEL.md) - Explanations for every field (countries and subdivisions).
-  - 📜 [Country JSON Schema](data/schema.json) · [Subdivision JSON Schema](data/subdivision.schema.json) - For technical validation.
+  - 📖 [Data Model Dictionary](data/DATA_MODEL.md) - Explanations for every field (countries, subdivisions and continents).
+  - 📜 [Country JSON Schema](data/schema.json) · [Subdivision JSON Schema](data/subdivision.schema.json) · [Continent JSON Schema](data/continent.schema.json) - For technical validation.
 
 ## 🔄 Versioning Strategy
 

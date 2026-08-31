@@ -44,6 +44,8 @@ jobs:
           # Enumerates + enriches subdivisions and stamps subdivisionCodes onto the
           # already-generated (enriched) country output files.
           npm run scrape:subdivisions
+          # Enriches the six continents and stamps continentCode onto the country files.
+          npm run scrape:continents
           sqlite3 scraper.db "VACUUM;"
           mv scraper.db sovereign-states.db
 
@@ -90,18 +92,25 @@ jobs:
           else
             echo "No previous subdivision data found on branch."
           fi
+          if git show data:continents.json > continents_old_raw.json 2>/dev/null; then
+            jq -S . continents_old_raw.json > continents_old.json
+          else
+            echo "No previous continent data found on branch."
+          fi
 
           # 4. Normalize new data for comparison (kept out of data/ so it isn't published)
           jq -S . data/sovereign-states.json > countries_normalized.json
           jq -S . data/subdivisions.json > subdivisions_normalized.json
+          jq -S . data/continents.json > continents_normalized.json
 
-          # 5. Compare - a change in either dataset triggers a publish
+          # 5. Compare - a change in any dataset triggers a publish
           CHANGED=false
-          if [ ! -f countries_old.json ] || [ ! -f subdivisions_old.json ]; then
+          if [ ! -f countries_old.json ] || [ ! -f subdivisions_old.json ] || [ ! -f continents_old.json ]; then
             CHANGED=true
           else
             git diff --no-index --exit-code countries_old.json countries_normalized.json > /dev/null || CHANGED=true
             git diff --no-index --exit-code subdivisions_old.json subdivisions_normalized.json > /dev/null || CHANGED=true
+            git diff --no-index --exit-code continents_old.json continents_normalized.json > /dev/null || CHANGED=true
           fi
           echo "data_changed=$CHANGED" >> $GITHUB_OUTPUT
           echo "data_updated=$CHANGED" >> $GITHUB_OUTPUT
@@ -182,9 +191,14 @@ jobs:
           cp ../data/subdivisions.min.json .
           cp ../data/subdivisions.csv .
           cp ../data/subdivision.schema.json .
+          cp ../data/continents.json .
+          cp ../data/continents.min.json .
+          cp ../data/continents.csv .
+          cp ../data/continent.schema.json .
 
           git add sovereign-states.json sovereign-states.min.json schema.json DATA_MODEL.md sovereign-states.csv \
-                  subdivisions.json subdivisions.min.json subdivisions.csv subdivision.schema.json
+                  subdivisions.json subdivisions.min.json subdivisions.csv subdivision.schema.json \
+                  continents.json continents.min.json continents.csv continent.schema.json
           git commit -m "Data update: $(date -u)" || exit 0
           git push origin data
           echo "new_sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
@@ -206,6 +220,10 @@ jobs:
             data/subdivisions.min.json
             data/subdivisions.csv
             data/subdivision.schema.json
+            data/continents.json
+            data/continents.min.json
+            data/continents.csv
+            data/continent.schema.json
             sovereign-states.db
           body: |
             ### 🌍 Multilingual Data Snapshot
@@ -216,12 +234,12 @@ jobs:
             ${{ steps.check_changes.outputs.last_tag != '' && format('[View comparison with previous version ({0})](https://github.com/{1}/compare/{0}...data-{2})', steps.check_changes.outputs.last_tag, github.repository, steps.date.outputs.tag_date) || '🆕 _Initial data release_' }}
 
             #### 🗄️ Formats
-            - **JSON:** `sovereign-states.json` (countries) + `subdivisions.json` (states/provinces/regions).
-            - **SQLite:** `sovereign-states.db` (`countries` and `subdivisions` tables) for SQL queries.
-            - **CSV:** `sovereign-states.csv` / `subdivisions.csv` for Excel/Data Science.
+            - **JSON:** `sovereign-states.json` (countries) + `subdivisions.json` (states/provinces/regions) + `continents.json`.
+            - **SQLite:** `sovereign-states.db` (`countries`, `subdivisions` and `continents` tables) for SQL queries.
+            - **CSV:** `sovereign-states.csv` / `subdivisions.csv` / `continents.csv` for Excel/Data Science.
 
             #### 📜 Documentation
-            - [Schema JSON](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/schema.json) · [Subdivision Schema](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/subdivision.schema.json)
+            - [Schema JSON](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/schema.json) · [Subdivision Schema](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/subdivision.schema.json) · [Continent Schema](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/continent.schema.json)
             - [Data Model Docs](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/DATA_MODEL.md)
 
             ---

@@ -1,6 +1,7 @@
 import { z } from 'zod';
 import { CountrySchema, Country } from '../types/country.js';
 import { SubdivisionSchema, Subdivision } from '../types/subdivision.js';
+import { ContinentSchema, Continent } from '../types/continent.js';
 import {
     WikiGeoOptions,
     CountryIndexSchema,
@@ -8,6 +9,8 @@ import {
     CountryIndex,
     SubdivisionIndexSchema,
     SubdivisionIndex,
+    ContinentIndexSchema,
+    ContinentIndex,
 } from './types.js';
 
 export * from './types.js';
@@ -17,12 +20,14 @@ export class WikiGeoClient {
     private baseUrl: string;
     private localData?: Country[];
     private localSubdivisions?: Subdivision[];
+    private localContinents?: Continent[];
 
     constructor(options: WikiGeoOptions = {}) {
         this.dataSource = options.dataSource || 'local';
         this.baseUrl = options.baseUrl || 'https://mucadoo.github.io/wikigeo-data-scraper/';
         this.localData = options.localData;
         this.localSubdivisions = options.localSubdivisions;
+        this.localContinents = options.localContinents;
         if (!this.baseUrl.endsWith('/')) this.baseUrl += '/';
     }
 
@@ -34,6 +39,11 @@ export class WikiGeoClient {
     private async getLocalSubdivisions(): Promise<Subdivision[]> {
         if (this.localSubdivisions) return this.localSubdivisions;
         throw new Error(`Local subdivisions not found. Please provide 'localSubdivisions' in constructor.`);
+    }
+
+    private async getLocalContinents(): Promise<Continent[]> {
+        if (this.localContinents) return this.localContinents;
+        throw new Error(`Local continents not found. Please provide 'localContinents' in constructor.`);
     }
 
     async getFullDatabase(): Promise<WikiGeoResponse<Country[]>> {
@@ -163,6 +173,71 @@ export class WikiGeoClient {
         const jsonData = await response.json();
         return {
             data: SubdivisionSchema.parse(jsonData),
+            source: 'remote',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    async getFullContinents(): Promise<WikiGeoResponse<Continent[]>> {
+        if (this.dataSource === 'local') {
+            return {
+                data: await this.getLocalContinents(),
+                source: 'local',
+                timestamp: new Date().toISOString()
+            };
+        }
+
+        const response = await fetch(`${this.baseUrl}api/v1/continents/all.json`);
+        if (!response.ok) throw new Error(`Failed to fetch continents: ${response.statusText}`);
+
+        const data = await response.json();
+        return {
+            data: z.array(ContinentSchema).parse(data),
+            source: 'remote',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    async listContinents(): Promise<WikiGeoResponse<ContinentIndex>> {
+        if (this.dataSource === 'local') {
+            const data = await this.getLocalContinents();
+            return {
+                data: ContinentIndexSchema.parse(data),
+                source: 'local',
+                timestamp: new Date().toISOString()
+            };
+        }
+
+        const response = await fetch(`${this.baseUrl}api/v1/continents/index.json`);
+        if (!response.ok) throw new Error(`Failed to fetch continent list: ${response.statusText}`);
+
+        const jsonData = await response.json();
+        return {
+            data: ContinentIndexSchema.parse(jsonData),
+            source: 'remote',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    async getContinent(code: string): Promise<WikiGeoResponse<Continent>> {
+        const normalized = code.toUpperCase();
+        if (this.dataSource === 'local') {
+            const data = await this.getLocalContinents();
+            const continent = data.find(c => c.code === normalized);
+            if (!continent) throw new Error(`Continent ${code} not found in local data`);
+            return {
+                data: ContinentSchema.parse(continent),
+                source: 'local',
+                timestamp: new Date().toISOString()
+            };
+        }
+
+        const response = await fetch(`${this.baseUrl}api/v1/continents/${normalized}.json`);
+        if (!response.ok) throw new Error(`Failed to fetch continent ${code}: ${response.statusText}`);
+
+        const jsonData = await response.json();
+        return {
+            data: ContinentSchema.parse(jsonData),
             source: 'remote',
             timestamp: new Date().toISOString()
         };

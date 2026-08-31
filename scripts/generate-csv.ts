@@ -1,11 +1,14 @@
 import fs from 'fs';
 import { Country, LANGUAGES } from '../src/types/country.js';
 import { Subdivision } from '../src/types/subdivision.js';
+import { Continent } from '../src/types/continent.js';
 
 const INPUT_FILE = 'data/sovereign-states.json';
 const OUTPUT_FILE = 'data/sovereign-states.csv';
 const SUBDIVISION_INPUT_FILE = 'data/subdivisions.json';
 const SUBDIVISION_OUTPUT_FILE = 'data/subdivisions.csv';
+const CONTINENT_INPUT_FILE = 'data/continents.json';
+const CONTINENT_OUTPUT_FILE = 'data/continents.csv';
 
 const csvRow = (values: (string | number | null | undefined)[]): string =>
   values.map(v => `"${String(v ?? '').replace(/"/g, '""')}"`).join(',');
@@ -20,7 +23,7 @@ function flattenData() {
   const countries = json.data as Country[];
 
   const headers = [
-    'isoCode', 'isoCode3', 'isoNumeric', 'continent',
+    'isoCode', 'isoCode3', 'isoNumeric', 'continent', 'continentCode',
     ...LANGUAGES.map(lang => `name_${lang}`),
     'flagUrl', ...LANGUAGES.map(lang => `description_${lang}`),
     'capital', 'capitalLat', 'capitalLng', 'largestCity', 'population', 'populationYear', 'areaKm2', 'densityKm2',
@@ -31,7 +34,7 @@ function flattenData() {
   ];
 
   const rows = countries.map(c => csvRow([
-    c.isoCode, c.isoCode3, c.isoNumeric, c.continent,
+    c.isoCode, c.isoCode3, c.isoNumeric, c.continent, c.continentCode,
     ...LANGUAGES.map(lang => c.name[lang] || ''),
     c.flagUrl,
     ...LANGUAGES.map(lang => c.description[lang] || ''),
@@ -112,5 +115,45 @@ function flattenSubdivisions() {
   console.log(`Successfully generated ${SUBDIVISION_OUTPUT_FILE}`);
 }
 
+function flattenContinents() {
+  if (!fs.existsSync(CONTINENT_INPUT_FILE)) {
+    console.warn(`${CONTINENT_INPUT_FILE} not found - skipping continent CSV.`);
+    return;
+  }
+
+  const json = JSON.parse(fs.readFileSync(CONTINENT_INPUT_FILE, 'utf8'));
+  const continents = json.data as Continent[];
+
+  const headers = [
+    'code', 'wikidataId',
+    ...LANGUAGES.map(lang => `name_${lang}`),
+    ...LANGUAGES.map(lang => `description_${lang}`),
+    'lat', 'lng',
+    'population', 'populationYear', 'populationSource',
+    'areaKm2', 'areaSource', 'densityKm2',
+    'countryCount', 'countryIsoCodes'
+  ];
+
+  const rows = continents.map(c => csvRow([
+    c.code, c.wikidataId,
+    ...LANGUAGES.map(lang => c.name[lang] || ''),
+    ...LANGUAGES.map(lang => c.description[lang] || ''),
+    c.coordinates?.lat?.toString() || '',
+    c.coordinates?.lng?.toString() || '',
+    c.population?.toString() || '',
+    c.populationYear?.toString() || '',
+    c.populationSource || '',
+    c.areaKm2?.toString() || '',
+    c.areaSource || '',
+    c.densityKm2?.toString() || '',
+    c.countryCount?.toString() || '',
+    c.countryIsoCodes?.join('|') || ''
+  ]));
+
+  fs.writeFileSync(CONTINENT_OUTPUT_FILE, [headers.join(','), ...rows].join('\n'));
+  console.log(`Successfully generated ${CONTINENT_OUTPUT_FILE}`);
+}
+
 flattenData();
 flattenSubdivisions();
+flattenContinents();

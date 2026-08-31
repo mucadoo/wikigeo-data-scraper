@@ -5,6 +5,7 @@ import { LANGUAGES } from '../src/types/country.js';
 
 const DATA_PATH = path.join(process.cwd(), 'data/sovereign-states.json');
 const SUBDIVISION_PATH = path.join(process.cwd(), 'data/subdivisions.json');
+const CONTINENT_PATH = path.join(process.cwd(), 'data/continents.json');
 const LOCALIZED_FIELDS = [
   'name',
   'description',
@@ -17,6 +18,7 @@ const LOCALIZED_FIELDS = [
   'timeZone'
 ];
 const SUBDIVISION_LOCALIZED_FIELDS = ['name', 'type', 'description', 'capital'];
+const CONTINENT_LOCALIZED_FIELDS = ['name', 'description'];
 
 interface CountryIssue {
   country: string | null | undefined;
@@ -79,6 +81,7 @@ function checkFile(label: string, filePath: string, fields: string[], required: 
 async function main() {
   checkFile('Countries', DATA_PATH, LOCALIZED_FIELDS, true);
   checkFile('Subdivisions', SUBDIVISION_PATH, SUBDIVISION_LOCALIZED_FIELDS, false);
+  checkFile('Continents', CONTINENT_PATH, CONTINENT_LOCALIZED_FIELDS, false);
 }
 
 main().catch(console.error);

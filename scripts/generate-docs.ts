@@ -3,6 +3,7 @@ import path from 'path';
 import { z } from 'zod';
 import { CountrySchema, LANGUAGES } from '../src/types/country.js';
 import { SubdivisionSchema } from '../src/types/subdivision.js';
+import { ContinentSchema } from '../src/types/continent.js';
 
 const OUTPUT_DIR = 'data';
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -17,6 +18,10 @@ fs.writeFileSync(path.join(OUTPUT_DIR, 'schema.json'), JSON.stringify(countryJso
 const subdivisionJsonSchema = z.toJSONSchema(SubdivisionSchema, { target: 'draft-7' });
 subdivisionJsonSchema.title = 'SubdivisionSchema';
 fs.writeFileSync(path.join(OUTPUT_DIR, 'subdivision.schema.json'), JSON.stringify(subdivisionJsonSchema, null, 2));
+
+const continentJsonSchema = z.toJSONSchema(ContinentSchema, { target: 'draft-7' });
+continentJsonSchema.title = 'ContinentSchema';
+fs.writeFileSync(path.join(OUTPUT_DIR, 'continent.schema.json'), JSON.stringify(continentJsonSchema, null, 2));
 
 // 2. Generate DATA_MODEL.md
 const mdContent = `# Data Model Documentation
@@ -33,7 +38,8 @@ This document describes the structure of the sovereign state data provided by th
 | \`isoCode\` | string | ISO 3166-1 alpha-2 code |
 | \`isoCode3\` | string | ISO 3166-1 alpha-3 code (static reference data) |
 | \`isoNumeric\` | string | ISO 3166-1 numeric code (static reference data) |
-| \`continent\` | string | Continent (static reference data) |
+| \`continent\` | string | Continent name (static reference data) |
+| \`continentCode\` | string | Two-letter continent code \`AF/AS/EU/NA/SA/OC\` (details in the separate continents dataset) |
 | \`name\` | Object | Localized name of the country |
 | \`flagUrl\` | string | URL of the national flag |
 | \`description\` | Object | Localized descriptive summary |
@@ -106,12 +112,47 @@ separate set of API files under \`api/v1/subdivisions/\`. JSON Schema: \`subdivi
   of the matching Wikipedia article in each supported language.
 - \`densityKm2\` is computed from \`population\` / \`areaKm2\` when both are present.
 
+## Continents Dataset
+
+The six continents this dataset's sovereign states fall into (Africa, Asia, Europe, North
+America, South America, Oceania — no Antarctica) are published as a separate dataset
+(\`continents.json\`, \`continents.min.json\`, \`continents.csv\`) and a separate set of API files
+under \`api/v1/continents/\`. JSON Schema: \`continent.schema.json\`.
+
+| Field | Type | Description |
+| :--- | :--- | :--- |
+| \`code\` | string | Two-letter continent code: \`AF\`, \`AS\`, \`EU\`, \`NA\`, \`SA\`, \`OC\` |
+| \`wikidataId\` | string | Wikidata item id (QID) |
+| \`name\` | Object | Localized name of the continent |
+| \`description\` | Object | Localized descriptive summary |
+| \`coordinates\` | Object | Approximate \`{ lat, lng }\` centre point of the continent |
+| \`population\` | number | Total population |
+| \`populationYear\` | number | Reference year for the population figure (when from Wikidata) |
+| \`populationSource\` | string | \`wikidata\` or \`aggregate\` (sum of member countries) |
+| \`areaKm2\` | number | Total land area in square kilometers |
+| \`areaSource\` | string | \`wikidata\` or \`aggregate\` (sum of member countries) |
+| \`densityKm2\` | number | Population density (people/km²) |
+| \`countryCount\` | number | Number of this dataset's sovereign states on the continent |
+| \`countryIsoCodes\` | Array | ISO 3166-1 alpha-2 codes of those sovereign states |
+
+### Continent Data Provenance
+
+- \`name\` is localized from Wikidata labels; \`description\` is the intro paragraph of the
+  matching Wikipedia article in each supported language.
+- \`population\`, \`populationYear\`, \`areaKm2\` and \`coordinates\` come from [Wikidata](https://www.wikidata.org/)
+  (P1082 population, P585 point-in-time, P2046 area, P625 coordinates). When Wikidata carries
+  no figure, \`population\` / \`areaKm2\` fall back to the sum of the continent's member countries
+  in this dataset and \`populationSource\` / \`areaSource\` is set to \`aggregate\`.
+- \`countryIsoCodes\` and \`countryCount\` are derived from this project's static continent
+  classification; countries carry the reverse pointer as \`continentCode\`.
+- \`densityKm2\` is computed from \`population\` / \`areaKm2\` when both are present.
+
 ## Data Provenance
 
 Most fields are scraped directly from Wikipedia infoboxes and article text. A few fields are
 sourced elsewhere because Wikipedia's infobox doesn't reliably carry the data in a structured
 form, or because an external source is simply more authoritative:
-- \`isoCode3\`, \`isoNumeric\`, \`continent\`: static ISO 3166-1 reference data.
+- \`isoCode3\`, \`isoNumeric\`, \`continent\`, \`continentCode\`: static ISO 3166-1 reference data.
 - \`borders\`: [Wikidata](https://www.wikidata.org/) (P47 "shares border with"), falling back to
   a static curated dataset ([mledoze/countries](https://github.com/mledoze/countries)) when
   Wikidata has no border claims for a country.

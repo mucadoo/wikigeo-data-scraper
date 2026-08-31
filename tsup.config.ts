@@ -16,6 +16,7 @@ export default defineConfig({
   external: [
     /sovereign-states\.json/,  // never bundle the data
     /subdivisions\.json/,
+    /continents\.json/,
   ],
   esbuildOptions(opts) {
     // Silence the import.meta warning for CJS by providing a shim

@@ -74,6 +74,7 @@ export const mergeCountryData = (existingJson: string | null, newData: Partial<C
 
   // 3. Keep/Reset root fields (only overwrite if newData has a non-null value)
   if (newData.isoCode) country.isoCode = newData.isoCode;
+  if (newData.continentCode) country.continentCode = newData.continentCode;
   if (newData.flagUrl) country.flagUrl = newData.flagUrl;
   if (newData.population) country.population = newData.population;
   if (newData.populationYear) country.populationYear = newData.populationYear;

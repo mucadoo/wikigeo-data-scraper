@@ -1,11 +1,14 @@
 import { z } from 'zod';
 import { CountrySchema, Country } from '../types/country.js';
 import { SubdivisionSchema, Subdivision } from '../types/subdivision.js';
+import { ContinentSchema, Continent } from '../types/continent.js';
 import {
     WikiGeoOptions,
     CountryIndexSchema,
     SubdivisionIndexSchema,
     SubdivisionIndex,
+    ContinentIndexSchema,
+    ContinentIndex,
 } from './types.js';
 
 export * from './types.js';
@@ -15,12 +18,14 @@ export class WikiGeoClient {
     private baseUrl: string;
     private localData?: Country[];
     private localSubdivisions?: Subdivision[];
+    private localContinents?: Continent[];
 
     constructor(options: WikiGeoOptions = {}) {
         this.dataSource = options.dataSource || 'local';
         this.baseUrl = options.baseUrl || 'https://mucadoo.github.io/wikigeo-data-scraper/';
         this.localData = options.localData;
         this.localSubdivisions = options.localSubdivisions;
+        this.localContinents = options.localContinents;
         if (!this.baseUrl.endsWith('/')) this.baseUrl += '/';
     }
 
@@ -69,6 +74,11 @@ export class WikiGeoClient {
     private async getLocalSubdivisions(): Promise<Subdivision[]> {
         if (this.localSubdivisions) return this.localSubdivisions;
         return this.readLocalDataFile<Subdivision>('subdivisions.json');
+    }
+
+    private async getLocalContinents(): Promise<Continent[]> {
+        if (this.localContinents) return this.localContinents;
+        return this.readLocalDataFile<Continent>('continents.json');
     }
 
     async getFullDatabase(): Promise<{ data: Country[], source: 'remote' | 'local', timestamp: string }> {
@@ -225,6 +235,84 @@ export class WikiGeoClient {
         if (!subdivision) throw new Error(`Subdivision ${code} not found in local data`);
         return {
             data: SubdivisionSchema.parse(subdivision),
+            source: 'local',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    /** Returns every continent (Africa, Asia, Europe, North America, South America, Oceania). */
+    async getFullContinents(): Promise<{ data: Continent[], source: 'remote' | 'local', timestamp: string }> {
+        if (this.dataSource === 'remote') {
+            try {
+                const response = await fetch(`${this.baseUrl}api/v1/continents/all.json`);
+                if (response.ok) {
+                    const data = await response.json();
+                    return {
+                        data: z.array(ContinentSchema).parse(data),
+                        source: 'remote',
+                        timestamp: new Date().toISOString()
+                    };
+                }
+            } catch (e) {
+                console.warn('Network failure fetching continents, falling back to local data.', e);
+            }
+        }
+        return {
+            data: await this.getLocalContinents(),
+            source: 'local',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    /** Returns a lightweight continent list (code, localized name, member-country count). */
+    async listContinents(): Promise<{ data: ContinentIndex, source: 'remote' | 'local', timestamp: string }> {
+        if (this.dataSource === 'remote') {
+            try {
+                const response = await fetch(`${this.baseUrl}api/v1/continents/index.json`);
+                if (response.ok) {
+                    const jsonData = await response.json();
+                    return {
+                        data: ContinentIndexSchema.parse(jsonData),
+                        source: 'remote',
+                        timestamp: new Date().toISOString()
+                    };
+                }
+            } catch (e) {
+                console.warn('Network failure fetching continent list, falling back to local data.', e);
+            }
+        }
+        const data = await this.getLocalContinents();
+        return {
+            data: ContinentIndexSchema.parse(data),
+            source: 'local',
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    /** Fetches full details for a single continent by its two-letter code (e.g. `EU`). */
+    async getContinent(code: string): Promise<{ data: Continent, source: 'remote' | 'local', timestamp: string }> {
+        const normalized = code.toUpperCase();
+        if (this.dataSource === 'remote') {
+            try {
+                const response = await fetch(`${this.baseUrl}api/v1/continents/${normalized}.json`);
+                if (response.ok) {
+                    const jsonData = await response.json();
+                    return {
+                        data: ContinentSchema.parse(jsonData),
+                        source: 'remote',
+                        timestamp: new Date().toISOString()
+                    };
+                }
+            } catch (e) {
+                console.warn(`Network failure fetching continent ${code}, falling back to local data.`, e);
+            }
+        }
+
+        const data = await this.getLocalContinents();
+        const continent = data.find(c => c.code === normalized);
+        if (!continent) throw new Error(`Continent ${code} not found in local data`);
+        return {
+            data: ContinentSchema.parse(continent),
             source: 'local',
             timestamp: new Date().toISOString()
         };

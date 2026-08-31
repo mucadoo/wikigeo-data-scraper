@@ -22,6 +22,7 @@ describe('getIsoReference', () => {
       isoCode3: 'USA',
       isoNumeric: '840',
       continent: 'North America',
+      continentCode: 'NA',
     });
   });
 
@@ -30,6 +31,7 @@ describe('getIsoReference', () => {
     // this project's own CONTINENT_BY_ISO2 curation.
     const ref = getIsoReference('AQ');
     expect(ref.continent).toBeNull();
+    expect(ref.continentCode).toBeNull();
   });
 });
 

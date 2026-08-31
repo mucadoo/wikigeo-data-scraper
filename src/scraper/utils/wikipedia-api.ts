@@ -192,6 +192,51 @@ export class WikipediaAPI {
   }
 
   /**
+   * Fetches clean plain-text intro extracts (TextExtracts extension) for a handful of article
+   * titles in one language, batched 20 per request (the extension's `explaintext` page cap).
+   * Returns a map keyed by both the requested and the resolved (normalized / redirected) title.
+   * Preferred over wikitext parsing for a small set of prominent articles (e.g. continents)
+   * whose leads carry heavy pronunciation / footnote templates the wikitext parser trips on.
+   */
+  static async fetchExtractsBatch(titles: string[], lang: string = 'en', sentences: number = 3): Promise<Record<string, string>> {
+    const out: Record<string, string> = {};
+    if (this.isSnapshotMode || titles.length === 0) return out;
+
+    for (let i = 0; i < titles.length; i += 20) {
+      const chunk = titles.slice(i, i + 20);
+      const url = `https://${lang}.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=1&explaintext=1&exsentences=${sentences}&exlimit=20&redirects=1&format=json&titles=${chunk.map(encodeURIComponent).join('|')}`;
+
+      try {
+        const data = await this.request(url) as WikipediaQueryResponse & { query?: { pages?: Record<string, { title: string; extract?: string }> } };
+        const query = data?.query;
+        if (!query?.pages) continue;
+
+        const backMap: Record<string, string> = {};
+        [...(query.normalized || []), ...(query.redirects || [])].forEach(r => { backMap[r.to] = backMap[r.from] || r.from; });
+        const resolveOriginal = (t: string): string => {
+          let cur = t;
+          for (let hops = 0; hops < 4 && backMap[cur]; hops++) cur = backMap[cur];
+          return cur;
+        };
+
+        Object.values(query.pages).forEach(page => {
+          const extract = page?.extract;
+          if (typeof extract !== 'string' || !extract.trim()) return;
+          const cleaned = extract.replace(/\s+/g, ' ').trim();
+          out[page.title] = cleaned;
+          const original = resolveOriginal(page.title);
+          if (original) out[original] = cleaned;
+        });
+      } catch (error: unknown) {
+        const message = error instanceof Error ? error.message : String(error);
+        console.error(`Failed to fetch extract batch (${lang}): ${message}`);
+      }
+    }
+
+    return out;
+  }
+
+  /**
    * Fetches translations for given Wikipedia article titles.
    * @param articles List of Wikipedia article titles (e.g., 'Paris', 'Euro').
    * @param targetLangs Array of target language codes (e.g., ['pt', 'fr', 'it', 'es']).
