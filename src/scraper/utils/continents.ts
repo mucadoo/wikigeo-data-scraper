@@ -68,8 +68,34 @@ export const CONTINENT_BY_CODE: Record<string, ContinentRegistryEntry> = Object.
   CONTINENTS.map(c => [c.code, c]),
 );
 
-/** Two-letter continent code for an ISO 3166-1 alpha-2 country code, or null if unmapped. */
-export function continentCodeForIso2(isoCode: string): string | null {
-  const name = CONTINENT_BY_ISO2[isoCode];
-  return name ? CONTINENT_CODE_BY_NAME[name] || null : null;
+// Secondary continents for the sovereign states with contiguous territory on two continents.
+// `CONTINENT_BY_ISO2` above holds each country's PRIMARY continent (the value of the country
+// `continent` string); the entries here are the additional continent(s) it also belongs to.
+// Restricted to the well-established contiguous transcontinental cases — countries that are
+// only culturally/politically associated with a second continent (e.g. Armenia, Cyprus) keep
+// their single primary assignment.
+const EXTRA_CONTINENTS_BY_ISO2: Record<string, string[]> = {
+  RU: ['Asia'], // primary Europe; Asian Russia east of the Urals
+  TR: ['Europe'], // primary Asia; East Thrace
+  KZ: ['Europe'], // primary Asia; west of the Ural River / Emba
+  AZ: ['Europe'], // primary Asia; north of the Greater Caucasus watershed
+  GE: ['Europe'], // primary Asia; South Caucasus, north slope in Europe
+  EG: ['Asia'], // primary Africa; the Sinai Peninsula
+};
+
+/**
+ * All continents an ISO 3166-1 alpha-2 country belongs to, as two-letter codes, primary
+ * first. A single entry for the vast majority of countries; two for the contiguous
+ * transcontinental states above.
+ */
+export const CONTINENT_CODES_BY_ISO2: Record<string, string[]> = Object.fromEntries(
+  Object.entries(CONTINENT_BY_ISO2).map(([iso, primaryName]) => {
+    const names = [primaryName, ...(EXTRA_CONTINENTS_BY_ISO2[iso] || [])];
+    return [iso, names.map(n => CONTINENT_CODE_BY_NAME[n]).filter(Boolean)];
+  }),
+);
+
+/** Two-letter continent codes for an ISO 3166-1 alpha-2 country code (primary first), or []. */
+export function continentCodesForIso2(isoCode: string): string[] {
+  return CONTINENT_CODES_BY_ISO2[isoCode] || [];
 }

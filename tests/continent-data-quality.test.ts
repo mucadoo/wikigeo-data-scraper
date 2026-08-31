@@ -69,35 +69,55 @@ describe('Country / continent cross-reference', () => {
   it.runIf(haveBoth)('every country continentCode resolves to a published continent', () => {
     const published = new Set(loadContinents().map(c => c.code));
     const dangling = loadCountries()
-      .filter(c => c.continentCode && !published.has(c.continentCode))
-      .map(c => `${c.isoCode} -> ${c.continentCode}`);
+      .flatMap(c => (c.continentCodes || []).map(code => ({ iso: c.isoCode, code })))
+      .filter(x => !published.has(x.code))
+      .map(x => `${x.iso} -> ${x.code}`);
     expect(dangling).toEqual([]);
   });
 
-  it.runIf(haveBoth)('every country on a continent has both continent and continentCode filled', () => {
+  it.runIf(haveBoth)('every country on a continent has continent and a non-empty continentCodes', () => {
     const memberIsos = new Set(loadContinents().flatMap(c => c.countryIsoCodes));
     const gaps = loadCountries()
-      .filter(c => memberIsos.has(c.isoCode as string) && (!c.continent || !c.continentCode))
+      .filter(c => memberIsos.has(c.isoCode as string) && (!c.continent || !(c.continentCodes || []).length))
       .map(c => c.isoCode);
     expect(gaps).toEqual([]);
   });
 
-  it.runIf(haveBoth)('continent.countryIsoCodes and country.continentCode agree both ways', () => {
+  it.runIf(haveBoth)('country.continent is the name of the primary (first) continentCodes entry', () => {
+    const nameByCode = new Map(loadContinents().map(c => [c.code, c.name.en]));
+    const bad = loadCountries()
+      .filter(c => (c.continentCodes || []).length > 0 && c.continent !== nameByCode.get(c.continentCodes[0]))
+      .map(c => `${c.isoCode}: ${c.continent} vs ${c.continentCodes[0]}`);
+    expect(bad).toEqual([]);
+  });
+
+  it.runIf(haveBoth)('continent.countryIsoCodes and country.continentCodes agree both ways', () => {
     const countries = loadCountries();
-    const codeByIso = new Map(countries.map(c => [c.isoCode, c.continentCode]));
+    const codesByIso = new Map(countries.map(c => [c.isoCode, new Set(c.continentCodes || [])]));
     const mismatches: string[] = [];
     for (const continent of loadContinents()) {
       for (const iso of continent.countryIsoCodes) {
-        if (codeByIso.get(iso) !== continent.code) mismatches.push(`${continent.code} lists ${iso}`);
+        if (!codesByIso.get(iso)?.has(continent.code)) mismatches.push(`${continent.code} lists ${iso}`);
       }
     }
+    const isoInContinent = new Map(loadContinents().map(c => [c.code, new Set(c.countryIsoCodes)]));
     for (const country of countries) {
-      if (!country.continentCode) continue;
-      const continent = loadContinents().find(c => c.code === country.continentCode);
-      if (continent && !continent.countryIsoCodes.includes(country.isoCode as string)) {
-        mismatches.push(`${country.isoCode} claims ${country.continentCode}`);
+      for (const code of country.continentCodes || []) {
+        if (!isoInContinent.get(code)?.has(country.isoCode as string)) {
+          mismatches.push(`${country.isoCode} claims ${code}`);
+        }
       }
     }
     expect(mismatches).toEqual([]);
+  });
+
+  it.runIf(haveBoth)('the six contiguous transcontinental states are on two continents', () => {
+    const byIso = new Map(loadCountries().map(c => [c.isoCode, c.continentCodes || []]));
+    for (const [iso, expected] of [
+      ['RU', ['EU', 'AS']], ['TR', ['AS', 'EU']], ['KZ', ['AS', 'EU']],
+      ['AZ', ['AS', 'EU']], ['GE', ['AS', 'EU']], ['EG', ['AF', 'AS']],
+    ] as const) {
+      expect(byIso.get(iso)).toEqual(expected);
+    }
   });
 });

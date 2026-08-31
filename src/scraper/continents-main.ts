@@ -2,7 +2,7 @@ import Database from 'better-sqlite3';
 import { Continent, getEmptyContinent } from '../types/continent.js';
 import { Country, LANGUAGES, getEmptyLocalizedField } from '../types/country.js';
 import { isValidIso2 } from './utils/iso-reference.js';
-import { CONTINENTS, CONTINENT_BY_ISO2, CONTINENT_CODE_BY_NAME } from './utils/continents.js';
+import { CONTINENTS, continentCodesForIso2 } from './utils/continents.js';
 import { fetchContinentFacts } from './utils/continent-enrich.js';
 import { mergeContinentData } from './utils/continent-merger.js';
 import { WikipediaAPI } from './utils/wikipedia-api.js';
@@ -38,7 +38,12 @@ interface CountryAggregate {
   areaKm2: number;
 }
 
-/** Groups this dataset's published countries by continent code, summing population + area. */
+/**
+ * Groups this dataset's published countries by continent code, summing population + area.
+ * A contiguous transcontinental country (RU, TR, KZ, AZ, GE, EG) is counted under every
+ * continent it belongs to — the sums are only a fallback for continents Wikidata has no
+ * figure for, so the modest double-counting at the margins is acceptable.
+ */
 function aggregateByContinent(): Record<string, CountryAggregate> {
   const map: Record<string, CountryAggregate> = {};
   let rows: { data: string }[];
@@ -56,13 +61,12 @@ function aggregateByContinent(): Record<string, CountryAggregate> {
       continue;
     }
     if (!isValidIso2(country.isoCode)) continue;
-    const name = CONTINENT_BY_ISO2[country.isoCode];
-    const code = name ? CONTINENT_CODE_BY_NAME[name] : undefined;
-    if (!code) continue;
-    const agg = (map[code] ||= { isoCodes: [], population: 0, areaKm2: 0 });
-    agg.isoCodes.push(country.isoCode);
-    if (country.population) agg.population += country.population;
-    if (country.areaKm2) agg.areaKm2 += country.areaKm2;
+    for (const code of continentCodesForIso2(country.isoCode)) {
+      const agg = (map[code] ||= { isoCodes: [], population: 0, areaKm2: 0 });
+      agg.isoCodes.push(country.isoCode);
+      if (country.population) agg.population += country.population;
+      if (country.areaKm2) agg.areaKm2 += country.areaKm2;
+    }
   }
   return map;
 }

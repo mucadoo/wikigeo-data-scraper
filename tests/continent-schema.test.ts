@@ -39,17 +39,17 @@ describe('ContinentSchema', () => {
   });
 });
 
-describe('CountrySchema.continentCode', () => {
-  it('defaults to null when omitted (back-compat with older payloads)', () => {
+describe('CountrySchema.continentCodes', () => {
+  it('defaults to an empty array when omitted (back-compat with older payloads)', () => {
     const empty = getEmptyCountry();
-    const { continentCode, ...withoutCode } = empty;
-    void continentCode;
-    const parsed = CountrySchema.parse(withoutCode);
-    expect(parsed.continentCode).toBeNull();
+    const { continentCodes, ...withoutCodes } = empty;
+    void continentCodes;
+    const parsed = CountrySchema.parse(withoutCodes);
+    expect(parsed.continentCodes).toEqual([]);
   });
 
-  it('round-trips a populated code', () => {
-    const parsed = CountrySchema.parse({ ...getEmptyCountry(), continentCode: 'EU' });
-    expect(parsed.continentCode).toBe('EU');
+  it('round-trips a populated list (primary first)', () => {
+    const parsed = CountrySchema.parse({ ...getEmptyCountry(), continentCodes: ['EU', 'AS'] });
+    expect(parsed.continentCodes).toEqual(['EU', 'AS']);
   });
 });

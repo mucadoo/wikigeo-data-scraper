@@ -22,8 +22,14 @@ describe('getIsoReference', () => {
       isoCode3: 'USA',
       isoNumeric: '840',
       continent: 'North America',
-      continentCode: 'NA',
+      continentCodes: ['NA'],
     });
+  });
+
+  it('returns both continent codes (primary first) for a contiguous transcontinental country', () => {
+    expect(getIsoReference('RU').continentCodes).toEqual(['EU', 'AS']);
+    expect(getIsoReference('TR').continentCodes).toEqual(['AS', 'EU']);
+    expect(getIsoReference('EG').continentCodes).toEqual(['AF', 'AS']);
   });
 
   it('returns nulls for a code with no continent mapping', () => {
@@ -31,7 +37,7 @@ describe('getIsoReference', () => {
     // this project's own CONTINENT_BY_ISO2 curation.
     const ref = getIsoReference('AQ');
     expect(ref.continent).toBeNull();
-    expect(ref.continentCode).toBeNull();
+    expect(ref.continentCodes).toEqual([]);
   });
 });
 

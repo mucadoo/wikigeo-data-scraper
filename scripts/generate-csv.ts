@@ -23,7 +23,7 @@ function flattenData() {
   const countries = json.data as Country[];
 
   const headers = [
-    'isoCode', 'isoCode3', 'isoNumeric', 'continent', 'continentCode',
+    'isoCode', 'isoCode3', 'isoNumeric', 'continent', 'continentCodes',
     ...LANGUAGES.map(lang => `name_${lang}`),
     'flagUrl', ...LANGUAGES.map(lang => `description_${lang}`),
     'capital', 'capitalLat', 'capitalLng', 'largestCity', 'population', 'populationYear', 'areaKm2', 'densityKm2',
@@ -34,7 +34,7 @@ function flattenData() {
   ];
 
   const rows = countries.map(c => csvRow([
-    c.isoCode, c.isoCode3, c.isoNumeric, c.continent, c.continentCode,
+    c.isoCode, c.isoCode3, c.isoNumeric, c.continent, c.continentCodes?.join('|') || '',
     ...LANGUAGES.map(lang => c.name[lang] || ''),
     c.flagUrl,
     ...LANGUAGES.map(lang => c.description[lang] || ''),

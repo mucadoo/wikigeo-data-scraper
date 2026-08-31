@@ -55,8 +55,8 @@ The `Country` object includes the following primary fields:
 | :--- | :--- | :--- |
 | `isoCode` | `string` | ISO 3166-1 alpha-2 code. |
 | `isoCode3` / `isoNumeric` | `string` | ISO 3166-1 alpha-3 / numeric codes (static reference data). |
-| `continent` | `string` | Continent name (static reference data). |
-| `continentCode` | `string` | Two-letter continent code `AF/AS/EU/NA/SA/OC` (see the continents dataset). |
+| `continent` | `string` | Primary continent name (static reference data). |
+| `continentCodes` | `string[]` | Two-letter codes of every continent the country belongs to, primary first — two for contiguous transcontinental states (see the continents dataset). |
 | `name` | `LocalizedField` | Localized name (`en`, `pt`, `fr`, `it`, `es`). |
 | `flagUrl` | `string` | URL to the national flag image. |
 | `description`| `LocalizedField` | Localized descriptive summary. |
@@ -132,7 +132,7 @@ Each `Continent` object carries:
 | `countryCount` | `number` | Number of this dataset's sovereign states on the continent. |
 | `countryIsoCodes` | `string[]` | ISO 3166-1 alpha-2 codes of those sovereign states. |
 
-Countries carry the reverse pointer as `continentCode`.
+Countries carry the reverse pointer as `continentCodes` (an array — the six contiguous transcontinental states such as Russia and Turkey appear under both of their continents, and in both continents' `countryIsoCodes`).
 
 #### Data Sources
 
@@ -153,7 +153,7 @@ Perfect for mobile apps or simple fetch calls.
 - **A Country's Subdivisions:** `.../api/v1/countries/{ISO_CODE}/subdivisions.json`
 - **Continents Index / Bulk:** `.../api/v1/continents/index.json` · `.../api/v1/continents/all.json`
 - **Continent Detail:** `.../api/v1/continents/{CODE}.json` (e.g. `EU.json`)
-- **A Country's Continent:** `.../api/v1/countries/{ISO_CODE}/continent.json`
+- **A Country's Continent(s):** `.../api/v1/countries/{ISO_CODE}/continents.json` (an array)
 
 ### 3. Bulk Data Files
 

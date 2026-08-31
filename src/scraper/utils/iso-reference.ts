@@ -1,7 +1,7 @@
 import countries from 'i18n-iso-countries';
 import worldCountriesData from 'world-countries';
 import type { Country as WorldCountry } from 'world-countries';
-import { CONTINENT_BY_ISO2, continentCodeForIso2 } from './continents.js';
+import { CONTINENT_BY_ISO2, continentCodesForIso2 } from './continents.js';
 
 // world-countries ships types written for ESM default-export consumers; under this project's
 // NodeNext module resolution the import resolves to the CJS module namespace instead, so cast
@@ -12,7 +12,7 @@ export interface IsoReference {
   isoCode3: string | null;
   isoNumeric: string | null;
   continent: string | null;
-  continentCode: string | null;
+  continentCodes: string[];
 }
 
 export function isValidIso2(isoCode: string | null | undefined): isoCode is string {
@@ -24,7 +24,7 @@ export function getIsoReference(isoCode: string): IsoReference {
     isoCode3: countries.alpha2ToAlpha3(isoCode) || null,
     isoNumeric: countries.alpha2ToNumeric(isoCode) || null,
     continent: CONTINENT_BY_ISO2[isoCode] || null,
-    continentCode: continentCodeForIso2(isoCode),
+    continentCodes: continentCodesForIso2(isoCode),
   };
 }
 

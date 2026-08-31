@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { isPublishable, continentCodeByCountry } from '../src/scraper/utils/continent-output.js';
+import { isPublishable, continentCodesByCountry } from '../src/scraper/utils/continent-output.js';
 import { getEmptyContinent, Continent } from '../src/types/continent.js';
 
 const base = (over: Partial<Continent>): Continent => ({
@@ -35,13 +35,21 @@ describe('isPublishable', () => {
   });
 });
 
-describe('continentCodeByCountry', () => {
-  it('maps each member country to its continent code', () => {
-    const map = continentCodeByCountry([
-      base({ code: 'EU', countryIsoCodes: ['FR', 'DE'] }),
-      base({ code: 'AS', name: { ...getEmptyContinent().name, en: 'Asia' }, countryIsoCodes: ['JP'] }),
+describe('continentCodesByCountry', () => {
+  it('maps each member country to its static continent codes (primary first), published only', () => {
+    const map = continentCodesByCountry([
+      base({ code: 'EU', countryIsoCodes: ['FR', 'DE', 'RU'] }),
+      base({ code: 'AS', name: { ...getEmptyContinent().name, en: 'Asia' }, countryIsoCodes: ['JP', 'RU'] }),
       base({ code: 'ZZ', countryIsoCodes: ['XX'] }), // unpublishable, skipped
     ]);
-    expect(map).toEqual({ FR: 'EU', DE: 'EU', JP: 'AS' });
+    expect(map).toEqual({ FR: ['EU'], DE: ['EU'], JP: ['AS'], RU: ['EU', 'AS'] });
+  });
+
+  it('drops a continent code that was not published', () => {
+    // EG belongs to AF + AS, but if only AF is published it should list just AF.
+    const map = continentCodesByCountry([
+      base({ code: 'AF', name: { ...getEmptyContinent().name, en: 'Africa' }, countryIsoCodes: ['EG'] }),
+    ]);
+    expect(map).toEqual({ EG: ['AF'] });
   });
 });
