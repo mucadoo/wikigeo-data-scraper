@@ -104,19 +104,20 @@ export function continentCodeByCountry(raw: Continent[]): Record<string, string>
   return map;
 }
 
-interface CountryRecord { isoCode: string | null; continentCode?: string | null; [k: string]: unknown }
+interface CountryRecord { isoCode: string | null; continent?: string | null; continentCode?: string | null; [k: string]: unknown }
 
 /**
- * Stamps `continentCode` onto the already-generated country output files, in place. The
- * country scraper already derives `continentCode` from the same static mapping, so this is
- * a belt-and-suspenders pass that also covers country files produced by the standalone
- * `post-process` script (which skips ISO-reference enrichment).
+ * Stamps `continent` (name) and `continentCode` onto the already-generated country output
+ * files, in place. The country scraper already derives both from the same static mapping, so
+ * this is a belt-and-suspenders pass that also covers country files produced by the standalone
+ * `post-process` script (which skips ISO-reference enrichment and would otherwise leave the
+ * continent fields null).
  */
 export function patchCountryContinentCodes(raw: Continent[]): void {
   const codeByCountry = continentCodeByCountry(raw);
   const mainFile = `${DATA_DIR}/sovereign-states.json`;
   if (!fs.existsSync(mainFile)) {
-    console.warn(`${mainFile} not found - skipping country continentCode patch.`);
+    console.warn(`${mainFile} not found - skipping country continent patch.`);
     return;
   }
 
@@ -125,7 +126,12 @@ export function patchCountryContinentCodes(raw: Continent[]): void {
   for (const country of bundle.data) {
     const code = (country.isoCode && codeByCountry[country.isoCode]) || null;
     country.continentCode = code;
-    if (code) patched++;
+    if (code) {
+      // Use the registry's canonical name (the same value `getIsoReference` derives), so the
+      // country's `continent` string always agrees with the country pipeline.
+      country.continent = CONTINENT_BY_CODE[code]?.name || country.continent || null;
+      patched++;
+    }
   }
 
   fs.writeFileSync(mainFile, JSON.stringify(bundle, null, 2));
@@ -136,5 +142,5 @@ export function patchCountryContinentCodes(raw: Continent[]): void {
       fs.writeFileSync(`${COUNTRY_API_DIR}/${country.isoCode}.json`, JSON.stringify(country, null, 2));
     }
   }
-  console.log(`Patched continentCode onto ${patched} countries.`);
+  console.log(`Patched continent + continentCode onto ${patched} countries.`);
 }

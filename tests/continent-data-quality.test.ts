@@ -74,6 +74,14 @@ describe('Country / continent cross-reference', () => {
     expect(dangling).toEqual([]);
   });
 
+  it.runIf(haveBoth)('every country on a continent has both continent and continentCode filled', () => {
+    const memberIsos = new Set(loadContinents().flatMap(c => c.countryIsoCodes));
+    const gaps = loadCountries()
+      .filter(c => memberIsos.has(c.isoCode as string) && (!c.continent || !c.continentCode))
+      .map(c => c.isoCode);
+    expect(gaps).toEqual([]);
+  });
+
   it.runIf(haveBoth)('continent.countryIsoCodes and country.continentCode agree both ways', () => {
     const countries = loadCountries();
     const codeByIso = new Map(countries.map(c => [c.isoCode, c.continentCode]));
