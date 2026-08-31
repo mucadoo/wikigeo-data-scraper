@@ -3,7 +3,7 @@ import { Subdivision, getEmptySubdivision } from '../types/subdivision.js';
 import { Country, LANGUAGES, getEmptyLocalizedField } from '../types/country.js';
 import { isValidIso2 } from './utils/iso-reference.js';
 import { enumerateSubdivisions } from './utils/wikidata-sparql.js';
-import { fetchSubdivisionFacts, resolveEntities } from './utils/subdivision-enrich.js';
+import { fetchSubdivisionFacts, resolveEntities, resolveIso3166_2 } from './utils/subdivision-enrich.js';
 import { mergeSubdivisionData } from './utils/subdivision-merger.js';
 import { WikipediaAPI } from './utils/wikipedia-api.js';
 import { parseDescriptionFromWikitext } from './parsers/wikitext-description.js';
@@ -22,6 +22,15 @@ const upsert = db.prepare('INSERT OR REPLACE INTO subdivisions (code, data) VALU
 const getRow = db.prepare('SELECT data FROM subdivisions WHERE code = ?');
 
 const TRANSLATION_LANGS = LANGUAGES.filter(l => l !== 'en');
+
+/** Fills an English fallback then copies it into any language the source pass left empty. */
+function localizedWithFallback(src: Partial<Record<string, string | null>>, enFallback?: string | null): ReturnType<typeof getEmptyLocalizedField> {
+  const field = getEmptyLocalizedField();
+  for (const lang of LANGUAGES) field[lang] = src[lang] || null;
+  field.en = field.en || enFallback || null;
+  for (const lang of TRANSLATION_LANGS) field[lang] = field[lang] || field.en;
+  return field;
+}
 
 function countryIsoCodes(): string[] {
   let rows: { data: string }[];
@@ -44,9 +53,14 @@ function countryIsoCodes(): string[] {
 async function run() {
   const limitArg = process.argv.find(a => a.startsWith('--limit='));
   const limit = limitArg ? parseInt(limitArg.split('=')[1], 10) : undefined;
+  const countryArg = process.argv.find(a => a.startsWith('--country='));
+  const onlyCountries = countryArg
+    ? countryArg.split('=')[1].split(',').map(c => c.trim().toUpperCase())
+    : undefined;
 
   // 1. DISCOVERY
-  const isoCodes = countryIsoCodes();
+  let isoCodes = countryIsoCodes();
+  if (onlyCountries) isoCodes = isoCodes.filter(c => onlyCountries.includes(c));
   if (isoCodes.length === 0) {
     console.error('No countries to enumerate subdivisions for. Aborting.');
     process.exit(1);
@@ -60,11 +74,18 @@ async function run() {
 
   const typeQids = new Set<string>();
   const capitalQids = new Set<string>();
+  const languageQids = new Set<string>();
+  const borderQids = new Set<string>();
   for (const f of Object.values(facts)) {
     if (f.typeQid) typeQids.add(f.typeQid);
     if (f.capitalQid) capitalQids.add(f.capitalQid);
+    f.officialLanguageQids.forEach(q => languageQids.add(q));
+    f.borderQids.forEach(q => borderQids.add(q));
   }
-  const resolved = await resolveEntities([...typeQids, ...capitalQids]);
+  const [resolved, borderCodeByQid] = await Promise.all([
+    resolveEntities([...typeQids, ...capitalQids, ...languageQids, ...borderQids]),
+    resolveIso3166_2([...borderQids]),
+  ]);
 
   // 3. DESCRIPTIONS (Wikipedia article intros, per language)
   const descriptionsByLang: Record<string, Record<string, string>> = {};
@@ -88,32 +109,37 @@ async function run() {
     const sub: Subdivision = { ...getEmptySubdivision(), code: ref.code, wikidataId: ref.wikidataId, countryIsoCode: ref.countryIsoCode };
 
     if (f) {
-      // Name
-      const name = getEmptyLocalizedField();
-      for (const lang of LANGUAGES) name[lang] = f.name[lang] || null;
-      name.en = name.en || f.sitelinks.en || ref.code;
-      for (const lang of TRANSLATION_LANGS) name[lang] = name[lang] || name.en;
-      sub.name = name;
+      sub.name = localizedWithFallback(f.name, f.sitelinks.en || ref.code);
 
       // Type
       const typeEntity = f.typeQid ? resolved[f.typeQid] : undefined;
-      if (typeEntity) {
-        const type = getEmptyLocalizedField();
-        for (const lang of LANGUAGES) type[lang] = typeEntity.name[lang] || null;
-        type.en = type.en || null;
-        for (const lang of TRANSLATION_LANGS) type[lang] = type[lang] || type.en;
-        sub.type = type;
-        sub.typeEn = typeEntity.name.en || null;
+      if (typeEntity?.name.en) {
+        sub.type = localizedWithFallback(typeEntity.name);
+        sub.typeEn = typeEntity.name.en;
       }
 
       // Capital
       const capitalEntity = f.capitalQid ? resolved[f.capitalQid] : undefined;
-      if (capitalEntity) {
-        const capName = getEmptyLocalizedField();
-        for (const lang of LANGUAGES) capName[lang] = capitalEntity.name[lang] || capitalEntity.name.en || null;
-        sub.capital = [{ articleId: f.capitalQid, name: capName }];
+      if (capitalEntity?.name.en) {
+        sub.capital = [{ articleId: f.capitalQid, name: localizedWithFallback(capitalEntity.name) }];
         sub.capitalCoordinates = capitalEntity.coordinates;
       }
+
+      // Official languages
+      sub.officialLanguage = f.officialLanguageQids
+        .map(q => ({ q, entity: resolved[q] }))
+        .filter(x => x.entity?.name.en)
+        .map(x => ({ articleId: x.q, name: localizedWithFallback(x.entity.name) }));
+
+      // Borders: keep only neighbours that resolve to an ISO 3166-2 code
+      sub.borders = f.borderQids
+        .map(q => ({ q, code: borderCodeByQid[q] }))
+        .filter(b => b.code && b.code !== ref.code)
+        .map(b => ({
+          articleId: b.q,
+          code: b.code,
+          name: localizedWithFallback(resolved[b.q]?.name || {}, b.code),
+        }));
 
       sub.flagUrl = f.flagUrl;
       sub.coordinates = f.coordinates;

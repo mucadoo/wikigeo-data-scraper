@@ -86,7 +86,7 @@ function flattenSubdivisions() {
     ...LANGUAGES.map(lang => `type_${lang}`),
     'flagUrl', ...LANGUAGES.map(lang => `description_${lang}`),
     'capital', 'capitalLat', 'capitalLng', 'lat', 'lng',
-    'population', 'populationYear', 'areaKm2', 'densityKm2'
+    'population', 'populationYear', 'areaKm2', 'densityKm2', 'officialLanguage', 'borders'
   ];
 
   const rows = subdivisions.map(s => csvRow([
@@ -103,7 +103,9 @@ function flattenSubdivisions() {
     s.population?.toString() || '',
     s.populationYear?.toString() || '',
     s.areaKm2?.toString() || '',
-    s.densityKm2?.toString() || ''
+    s.densityKm2?.toString() || '',
+    s.officialLanguage?.map(i => i.name.en).join('|') || '',
+    s.borders?.map(b => b.code || b.name.en).join('|') || ''
   ]));
 
   fs.writeFileSync(SUBDIVISION_OUTPUT_FILE, [headers.join(','), ...rows].join('\n'));

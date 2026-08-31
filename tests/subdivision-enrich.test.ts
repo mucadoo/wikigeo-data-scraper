@@ -1,6 +1,6 @@
 import { vi, describe, beforeEach, it, expect } from 'vitest';
 import axios from 'axios';
-import { fetchSubdivisionFacts, resolveEntities } from '../src/scraper/utils/subdivision-enrich.js';
+import { fetchSubdivisionFacts, resolveEntities, resolveIso3166_2 } from '../src/scraper/utils/subdivision-enrich.js';
 
 vi.mock('axios');
 const mockedAxios = axios as unknown as { get: ReturnType<typeof vi.fn> };
@@ -46,6 +46,28 @@ describe('fetchSubdivisionFacts', () => {
     expect(result.Q99.sitelinks).toEqual({ en: 'California', pt: 'Califórnia', de: 'Kalifornien' });
   });
 
+  it('collects non-deprecated official-language (P37) and border (P47) qids', async () => {
+    mockedAxios.get.mockResolvedValue({
+      data: {
+        entities: {
+          Q1: {
+            labels: { en: { value: 'X' } }, sitelinks: {},
+            claims: {
+              P37: [
+                { mainsnak: { datavalue: { value: { id: 'Q1860' } } }, rank: 'normal' },
+                { mainsnak: { datavalue: { value: { id: 'Q150' } } }, rank: 'deprecated' },
+              ],
+              P47: [{ mainsnak: { datavalue: { value: { id: 'Q1384' } } }, rank: 'normal' }],
+            },
+          },
+        },
+      },
+    });
+    const result = await fetchSubdivisionFacts(['Q1']);
+    expect(result.Q1.officialLanguageQids).toEqual(['Q1860']);
+    expect(result.Q1.borderQids).toEqual(['Q1384']);
+  });
+
   it('converts square-mile area units to km²', async () => {
     mockedAxios.get.mockResolvedValue({
       data: {
@@ -84,5 +106,22 @@ describe('resolveEntities', () => {
     const result = await resolveEntities(['Q34647']);
     expect(result.Q34647.name.en).toBe('Sacramento');
     expect(result.Q34647.coordinates).toEqual({ lat: 38.58, lng: -121.49 });
+  });
+});
+
+describe('resolveIso3166_2', () => {
+  beforeEach(() => vi.clearAllMocks());
+
+  it('maps qids to their uppercased P300 code and omits items without one', async () => {
+    mockedAxios.get.mockResolvedValue({
+      data: {
+        entities: {
+          Q1384: { claims: { P300: [{ mainsnak: { datavalue: { value: 'us-ny' } }, rank: 'normal' }] } },
+          Q30: { claims: {} },
+        },
+      },
+    });
+    const result = await resolveIso3166_2(['Q1384', 'Q30']);
+    expect(result).toEqual({ Q1384: 'US-NY' });
   });
 });

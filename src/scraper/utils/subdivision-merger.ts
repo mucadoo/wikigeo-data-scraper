@@ -34,23 +34,30 @@ export const mergeSubdivisionData = (existingJson: string | null, incoming: Part
     merged[field] = { ...getEmptyLocalizedField(), ...(merged[field] || {}), ...nonNull };
   });
 
-  // capital: array of localized links, de-duplicated by articleId then English name.
-  {
-    const map = new Map<string, MultiLangLink>();
-    const seed = (items: MultiLangLink[] | null | undefined) => {
+  // Localized link arrays: de-duplicate by articleId then English name, overlaying locales.
+  const mergeLinks = <T extends MultiLangLink>(current: T[] | null | undefined, next: T[] | null | undefined): T[] => {
+    const map = new Map<string, T>();
+    const seed = (items: T[] | null | undefined) => {
       (items || []).forEach(item => {
         const key = item.articleId ? `id:${item.articleId}` : `text:${item.name.en}`;
         const prev = map.get(key);
         const nonNull = Object.fromEntries(Object.entries(item.name).filter(([, v]) => v !== null && v !== undefined));
         map.set(key, prev
-          ? { ...prev, name: { ...prev.name, ...nonNull } }
+          ? { ...prev, ...item, name: { ...prev.name, ...nonNull } }
           : { ...item, name: { ...getEmptyLocalizedField(), ...item.name } });
       });
     };
-    seed(merged.capital);
-    seed(incoming.capital);
-    merged.capital = Array.from(map.values());
-  }
+    seed(current);
+    seed(next);
+    return Array.from(map.values());
+  };
+
+  merged.capital = mergeLinks(merged.capital, incoming.capital);
+  merged.officialLanguage = mergeLinks(merged.officialLanguage, incoming.officialLanguage);
+  merged.borders = mergeLinks(
+    merged.borders as (MultiLangLink & { code: string | null })[],
+    incoming.borders as (MultiLangLink & { code: string | null })[] | undefined,
+  );
 
   // Scalar fields: overwrite only when the incoming pass carries a real value.
   if (incoming.code) merged.code = incoming.code;

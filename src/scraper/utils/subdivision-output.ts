@@ -25,13 +25,22 @@ export function isPublishable(sub: Subdivision): boolean {
   return true;
 }
 
+type LocalizedRecord = Record<(typeof LANGUAGES)[number], string | null>;
+
+const fillLocalized = (loc: LocalizedRecord): LocalizedRecord => {
+  const out = { ...loc };
+  for (const lang of LANGUAGES) out[lang] = out[lang] || out.en || null;
+  return out;
+};
+
 function normalize(sub: Subdivision): Subdivision {
   const s: Subdivision = { ...getEmptySubdivision(), ...sub };
   // Guarantee every localized field is filled in every language (English fallback).
   for (const field of ['name', 'type', 'description'] as const) {
-    const loc = { ...s[field] };
-    for (const lang of LANGUAGES) loc[lang] = loc[lang] || loc.en || null;
-    s[field] = loc;
+    s[field] = fillLocalized(s[field]);
+  }
+  for (const link of [...(s.capital || []), ...s.officialLanguage, ...s.borders]) {
+    link.name = fillLocalized(link.name);
   }
   if (s.population && s.areaKm2 && s.areaKm2 > 0 && !s.densityKm2) {
     s.densityKm2 = parseFloat((s.population / s.areaKm2).toFixed(2));

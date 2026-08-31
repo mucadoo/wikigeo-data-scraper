@@ -43,6 +43,25 @@ describe('mergeSubdivisionData', () => {
     expect(merged.capital?.[0].name.ja).toBe('サクラメント');
   });
 
+  it('merges officialLanguage and borders arrays by articleId', () => {
+    const first = mergeSubdivisionData(null, {
+      ...getEmptySubdivision(),
+      code: 'US-CA', countryIsoCode: 'US',
+      officialLanguage: [{ articleId: 'Q1860', name: { ...getEmptySubdivision().name, en: 'English' } }],
+      borders: [{ articleId: 'Q1522', code: 'US-OR', name: { ...getEmptySubdivision().name, en: 'Oregon' } }],
+    });
+    const merged = mergeSubdivisionData(JSON.stringify(first), {
+      ...getEmptySubdivision(),
+      code: 'US-CA', countryIsoCode: 'US',
+      officialLanguage: [{ articleId: 'Q1860', name: { ...getEmptySubdivision().name, fr: 'anglais' } }],
+      borders: [{ articleId: 'Q1509', code: 'US-NV', name: { ...getEmptySubdivision().name, en: 'Nevada' } }],
+    });
+    expect(merged.officialLanguage).toHaveLength(1);
+    expect(merged.officialLanguage[0].name.en).toBe('English');
+    expect(merged.officialLanguage[0].name.fr).toBe('anglais');
+    expect(merged.borders.map(b => b.code).sort()).toEqual(['US-NV', 'US-OR']);
+  });
+
   it('overwrites scalar fields only when the incoming pass carries a value', () => {
     const first = mergeSubdivisionData(null, { ...getEmptySubdivision(), code: 'US-CA', countryIsoCode: 'US', population: 39000000, areaKm2: 423967 });
     const merged = mergeSubdivisionData(JSON.stringify(first), { ...getEmptySubdivision(), code: 'US-CA', countryIsoCode: 'US', populationYear: 2020 });

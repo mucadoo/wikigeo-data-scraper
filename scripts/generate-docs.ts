@@ -92,13 +92,16 @@ separate set of API files under \`api/v1/subdivisions/\`. JSON Schema: \`subdivi
 | \`populationYear\` | number | Reference year for the population figure |
 | \`areaKm2\` | number | Total area in square kilometers |
 | \`densityKm2\` | number | Population density (people/km²) |
+| \`officialLanguage\` | Array | Official / administrative languages (Wikidata P37) |
+| \`borders\` | Array | Neighbouring subdivisions that carry an ISO 3166-2 \`code\` (Wikidata P47) |
 
 ### Subdivision Data Provenance
 
 - The subdivision list, \`code\`, \`wikidataId\`, \`type\`/\`typeEn\`, \`population\`, \`populationYear\`,
-  \`areaKm2\`, \`coordinates\`, \`capital\`, \`capitalCoordinates\` and \`flagUrl\` come from
-  [Wikidata](https://www.wikidata.org/) (P300 ISO 3166-2 code, P1082 population, P2046 area,
-  P36 capital, P625 coordinates, P41 flag image, P31 instance-of).
+  \`areaKm2\`, \`coordinates\`, \`capital\`, \`capitalCoordinates\`, \`flagUrl\`, \`officialLanguage\`
+  and \`borders\` come from [Wikidata](https://www.wikidata.org/) (P300 ISO 3166-2 code, P1082
+  population, P2046 area, P36 capital, P625 coordinates, P41 flag image, P31 instance-of,
+  P37 official language, P47 shares-border-with).
 - \`name\` and \`type\` are localized from Wikidata labels; \`description\` is the intro paragraph
   of the matching Wikipedia article in each supported language.
 - \`densityKm2\` is computed from \`population\` / \`areaKm2\` when both are present.

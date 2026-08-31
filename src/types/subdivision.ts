@@ -3,6 +3,7 @@ import {
   LocalizedField,
   getEmptyLocalizedField,
   MultiLangLinkField,
+  LinkedArrayField,
   Coordinates,
 } from './country.js';
 
@@ -28,6 +29,10 @@ export const SubdivisionSchema = z.object({
   populationYear: z.number().int().nullable().describe('Reference year for the population figure'),
   areaKm2: z.number().nullable().describe('Total area in square kilometers'),
   densityKm2: z.number().nullable().describe('Population density (people/km²)'),
+  officialLanguage: LinkedArrayField.default([]).describe('Official / administrative languages (Wikidata P37)'),
+  borders: z.array(MultiLangLinkField.extend({
+    code: z.string().nullable().describe('ISO 3166-2 code of the neighbouring subdivision'),
+  })).default([]).describe('Neighbouring subdivisions that themselves carry an ISO 3166-2 code (Wikidata P47)'),
 });
 
 export type Subdivision = z.infer<typeof SubdivisionSchema>;
@@ -48,4 +53,6 @@ export const getEmptySubdivision = (): Subdivision => ({
   populationYear: null,
   areaKm2: null,
   densityKm2: null,
+  officialLanguage: [],
+  borders: [],
 });

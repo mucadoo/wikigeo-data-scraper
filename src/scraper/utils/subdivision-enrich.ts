@@ -56,6 +56,13 @@ function entityId(snak: WikidataSnak | undefined): string | null {
   return value?.id || null;
 }
 
+function entityIds(claims: WikidataClaim[] | undefined): string[] {
+  return (claims || [])
+    .filter(c => c.rank !== 'deprecated')
+    .map(c => entityId(c.mainsnak))
+    .filter((v): v is string => !!v);
+}
+
 function quantityAmount(snak: WikidataSnak | undefined): number | null {
   const value = snak?.datavalue?.value as { amount?: string } | undefined;
   if (!value?.amount) return null;
@@ -106,6 +113,8 @@ export interface SubdivisionFacts {
   sitelinks: Record<string, string>; // lang -> wiki article title
   typeQid: string | null;
   capitalQid: string | null;
+  officialLanguageQids: string[];
+  borderQids: string[];
   flagUrl: string | null;
   coordinates: Coord | null;
   population: number | null;
@@ -150,6 +159,8 @@ export async function fetchSubdivisionFacts(qids: string[]): Promise<Record<stri
           sitelinks,
           typeQid: entityId(bestClaim(claims['P31'])?.mainsnak),
           capitalQid: entityId(bestClaim(claims['P36'])?.mainsnak),
+          officialLanguageQids: entityIds(claims['P37']),
+          borderQids: entityIds(claims['P47']),
           flagUrl: flagUrl(entity),
           coordinates: coordinate(bestClaim(claims['P625'])?.mainsnak),
           population: population !== null ? Math.round(population) : null,
@@ -191,6 +202,30 @@ export async function resolveEntities(qids: string[]): Promise<Record<string, Re
       }
     } catch (e) {
       console.error(`Entity resolution failed for a batch: ${e instanceof Error ? e.message : String(e)}`);
+    }
+  }
+
+  return result;
+}
+
+/**
+ * Resolves Wikidata item ids to their ISO 3166-2 code (P300), used to turn P47
+ * "shares border with" relations into the same `code` values the rest of the dataset uses.
+ * Items without a P300 claim (countries, bodies of water, …) are simply omitted.
+ */
+export async function resolveIso3166_2(qids: string[]): Promise<Record<string, string>> {
+  const result: Record<string, string> = {};
+  const unique = Array.from(new Set(qids.filter(Boolean)));
+
+  for (const batch of chunk(unique, CHUNK_SIZE)) {
+    try {
+      const data = await request({ ids: batch.join('|'), props: 'claims' }) as { entities?: Record<string, WikidataEntity> };
+      for (const [id, entity] of Object.entries(data.entities || {})) {
+        const code = bestClaim(entity.claims?.['P300'])?.mainsnak?.datavalue?.value;
+        if (typeof code === 'string') result[id] = code.toUpperCase();
+      }
+    } catch (e) {
+      console.error(`ISO 3166-2 resolution failed for a batch: ${e instanceof Error ? e.message : String(e)}`);
     }
   }
 
