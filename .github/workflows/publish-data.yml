@@ -41,9 +41,9 @@ jobs:
         run: |
           rm -f scraper.db
           npm run scrape
+          # Enumerates + enriches subdivisions and stamps subdivisionCodes onto the
+          # already-generated (enriched) country output files.
           npm run scrape:subdivisions
-          # Re-emit the country files so each country picks up its subdivisionCodes.
-          npm run post-process
           sqlite3 scraper.db "VACUUM;"
           mv scraper.db sovereign-states.db
 

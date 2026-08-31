@@ -106,3 +106,38 @@ export function subdivisionCodesByCountry(raw: Subdivision[]): Record<string, st
   for (const iso of Object.keys(map)) map[iso].sort();
   return map;
 }
+
+interface CountryRecord { isoCode: string | null; subdivisionCodes?: string[]; [k: string]: unknown }
+
+/**
+ * Stamps `subdivisionCodes` onto the already-generated country output files, in place. Run
+ * after both the country scrape (which produces the enriched files) and the subdivision
+ * scrape, so the country dataset references its subdivisions without a full re-process that
+ * would drop the country pipeline's Wikidata/World Bank enrichment.
+ */
+export function patchCountrySubdivisionCodes(raw: Subdivision[]): void {
+  const codesByCountry = subdivisionCodesByCountry(raw);
+  const mainFile = `${DATA_DIR}/sovereign-states.json`;
+  if (!fs.existsSync(mainFile)) {
+    console.warn(`${mainFile} not found - skipping country subdivisionCodes patch.`);
+    return;
+  }
+
+  const bundle = JSON.parse(fs.readFileSync(mainFile, 'utf8')) as { metadata?: unknown; data: CountryRecord[] };
+  let patched = 0;
+  for (const country of bundle.data) {
+    const codes = (country.isoCode && codesByCountry[country.isoCode]) || [];
+    country.subdivisionCodes = codes;
+    if (codes.length) patched++;
+  }
+
+  fs.writeFileSync(mainFile, JSON.stringify(bundle, null, 2));
+  fs.writeFileSync(`${DATA_DIR}/sovereign-states.min.json`, JSON.stringify(bundle));
+  fs.writeFileSync(`${API_DIR}/all.json`, JSON.stringify(bundle.data, null, 2));
+  for (const country of bundle.data) {
+    if (country.isoCode) {
+      fs.writeFileSync(`${COUNTRY_API_DIR}/${country.isoCode}.json`, JSON.stringify(country, null, 2));
+    }
+  }
+  console.log(`Patched subdivisionCodes onto ${patched} countries.`);
+}

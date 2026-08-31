@@ -7,7 +7,7 @@ import { fetchSubdivisionFacts, resolveEntities, resolveIso3166_2 } from './util
 import { mergeSubdivisionData } from './utils/subdivision-merger.js';
 import { WikipediaAPI } from './utils/wikipedia-api.js';
 import { parseDescriptionFromWikitext } from './parsers/wikitext-description.js';
-import { writeSubdivisionOutputs } from './utils/subdivision-output.js';
+import { writeSubdivisionOutputs, patchCountrySubdivisionCodes } from './utils/subdivision-output.js';
 
 const db = new Database('scraper.db');
 
@@ -170,6 +170,8 @@ async function run() {
   const all = (db.prepare('SELECT data FROM subdivisions').all() as { data: string }[])
     .map(r => JSON.parse(r.data) as Subdivision);
   writeSubdivisionOutputs(all);
+  // Reference the subdivisions from the (already enriched) country output files.
+  patchCountrySubdivisionCodes(all);
 }
 
 run().catch(err => {

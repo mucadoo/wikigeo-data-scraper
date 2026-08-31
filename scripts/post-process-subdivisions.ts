@@ -1,6 +1,6 @@
 import Database from 'better-sqlite3';
 import { Subdivision } from '../src/types/subdivision.js';
-import { writeSubdivisionOutputs } from '../src/scraper/utils/subdivision-output.js';
+import { writeSubdivisionOutputs, patchCountrySubdivisionCodes } from '../src/scraper/utils/subdivision-output.js';
 
 // Rebuilds every subdivision output file from the `subdivisions` table without re-crawling.
 const db = new Database('scraper.db');
@@ -16,3 +16,4 @@ try {
 const subdivisions = rows.map(r => JSON.parse(r.data) as Subdivision);
 console.log(`Processing ${subdivisions.length} subdivisions from DB...`);
 writeSubdivisionOutputs(subdivisions);
+patchCountrySubdivisionCodes(subdivisions);
