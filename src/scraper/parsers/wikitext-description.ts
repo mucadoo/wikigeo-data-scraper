@@ -48,11 +48,26 @@ export function parseDescriptionFromWikitext(wikitext: string): string {
 
   if (!paragraph) return '';
 
+  // Drop lines that are just an embedded media/category link - on many non-English wikis an
+  // image sits on its own line right after the lead sentence, with no blank line to separate
+  // it into its own paragraph (e.g. frwiki "[[Fichier:...]]", itwiki "[[File:...]]").
+  paragraph = paragraph
+    .split('\n')
+    .filter(line => !/^\s*\[\[[^\]:]+:[^\]]*\]\]\s*$/.test(line.trim()))
+    .join('\n');
+
   // 4. Strip Wikimarkup and Templates
   paragraph = ExtractionUtils.stripAllTemplates(paragraph);
-  
-  // Wikilinks: [[Article|Text]] -> Text; [[Article]] -> Article
-  paragraph = paragraph.replace(/\[\[([^\]|]+\|)?([^\]|]+)\]\]/g, '$2');
+
+  // Remove any inline embedded media links (localized File:/Image: namespaces), including
+  // their pipe-separated caption text.
+  paragraph = paragraph.replace(/\[\[[^\]]*?\.(?:jpe?g|png|svg|gif|webp|tiff?|ogg|ogv)[^\]]*?\]\]/gi, '');
+  // Pipe trick: [[Target|]] -> Target
+  paragraph = paragraph.replace(/\[\[([^\]|]+)\|\]\]/g, '$1');
+  // Wikilinks (incl. multi-pipe): keep the last segment; [[Article]] -> Article
+  paragraph = paragraph.replace(/\[\[(?:[^\]|]*\|)*([^\]|]*)\]\]/g, '$1');
+  // Safety net: strip any stray brackets left by malformed/nested markup
+  paragraph = paragraph.replace(/\[\[|\]\]/g, '');
   // Bold/italic markers
   paragraph = paragraph.replace(/'''|''/g, '');
   

@@ -107,5 +107,23 @@ describe('Wikitext Parsing', () => {
       const result = parseDescriptionFromWikitext(wikitext);
       expect(result).toBe('France is a country in Europe.');
     });
+
+    it('drops an embedded media link that sits on its own line after the lead sentence', () => {
+      const wikitext =
+        "'''Fujairah''' is an emirate. Its capital is [[Fujairah (city)|Fujairah]].\n" +
+        "[[Fichier:Al_Badiyah_Mosque_Towers.jpg|vignette|La plus vieille mosquée]]\n\nSecond paragraph.";
+      const result = parseDescriptionFromWikitext(wikitext);
+      expect(result).toBe('Fujairah is an emirate. Its capital is Fujairah.');
+      expect(result).not.toMatch(/\[\[|\]\]/);
+    });
+
+    it('resolves the [[Target|]] pipe trick and multi-pipe / inline media links', () => {
+      const wikitext =
+        "'''Kabul''' is a province. The city lies at [[metres above sea level|]] and borders " +
+        "[[Southern Region (Albania)|the Southern Region]]. [[File:Map.svg|thumb|A map]]";
+      const result = parseDescriptionFromWikitext(wikitext);
+      expect(result).toBe('Kabul is a province. The city lies at metres above sea level and borders the Southern Region.');
+      expect(result).not.toMatch(/\[\[|\]\]/);
+    });
   });
 });

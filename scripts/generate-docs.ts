@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { zodToJsonSchema } from 'zod-to-json-schema';
+import { z } from 'zod';
 import { CountrySchema, LANGUAGES } from '../src/types/country.js';
 import { SubdivisionSchema } from '../src/types/subdivision.js';
 
@@ -9,13 +9,13 @@ if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 }
 
-// 1. Generate schema.json
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const jsonSchema = zodToJsonSchema(CountrySchema as any, 'CountrySchema');
-fs.writeFileSync(path.join(OUTPUT_DIR, 'schema.json'), JSON.stringify(jsonSchema, null, 2));
+// 1. Generate JSON Schema files (Zod 4 built-in emitter)
+const countryJsonSchema = z.toJSONSchema(CountrySchema, { target: 'draft-7' });
+countryJsonSchema.title = 'CountrySchema';
+fs.writeFileSync(path.join(OUTPUT_DIR, 'schema.json'), JSON.stringify(countryJsonSchema, null, 2));
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-const subdivisionJsonSchema = zodToJsonSchema(SubdivisionSchema as any, 'SubdivisionSchema');
+const subdivisionJsonSchema = z.toJSONSchema(SubdivisionSchema, { target: 'draft-7' });
+subdivisionJsonSchema.title = 'SubdivisionSchema';
 fs.writeFileSync(path.join(OUTPUT_DIR, 'subdivision.schema.json'), JSON.stringify(subdivisionJsonSchema, null, 2));
 
 // 2. Generate DATA_MODEL.md

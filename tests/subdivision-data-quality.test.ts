@@ -52,9 +52,14 @@ describe('Subdivision data quality', () => {
     expect(gaps).toEqual([]);
   });
 
-  it.runIf(fs.existsSync(subdivisionsPath))('contains no <ref> tags or wiki brackets in text fields', () => {
+  it.runIf(fs.existsSync(subdivisionsPath))('contains no <ref> tags or unresolved wikilinks in text fields', () => {
+    // `]]` legitimately appears in the JSON structure, so only look for markup openers.
+    const hasMarkup = (v: unknown): boolean => typeof v === 'string' && /<ref[\s>/]|\[\[/.test(v);
     const dirty = loadSubdivisions()
-      .filter(s => /<ref|\[\[|\]\]/.test(JSON.stringify([s.name, s.type, s.description, s.capital])))
+      .filter(s => [
+        ...Object.values(s.name), ...Object.values(s.type), ...Object.values(s.description),
+        ...(s.capital || []).flatMap(c => Object.values(c.name)),
+      ].some(hasMarkup))
       .map(s => s.code);
     expect(dirty).toEqual([]);
   });
