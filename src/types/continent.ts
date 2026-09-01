@@ -6,15 +6,15 @@ import {
 } from './country.js';
 
 /**
- * A continent: one of the six landmass groupings this dataset's sovereign states are
- * classified into (Africa, Asia, Europe, North America, South America, Oceania — no
- * Antarctica, since it has no sovereign states). Enumerated from a small static registry
- * of Wikidata items; structured facts come from Wikidata, localized descriptions from the
- * matching Wikipedia articles, and population / area fall back to an aggregate of the
- * member countries already in this dataset when Wikidata has no figure.
+ * A continent: one of the seven landmass groupings (Africa, Antarctica, Asia, Europe,
+ * North America, South America, Oceania). Antarctica carries no sovereign states, so its
+ * `countryCount` / `countryIsoCodes` are always 0 / empty. Enumerated from a small static
+ * registry of Wikidata items; structured facts come from Wikidata, localized descriptions
+ * from the matching Wikipedia articles, and population / area fall back to an aggregate of
+ * the member countries already in this dataset when Wikidata has no figure.
  */
 export const ContinentSchema = z.object({
-  code: z.string().describe("Two-letter continent code: AF, AS, EU, NA, SA or OC"),
+  code: z.string().describe("Two-letter continent code: AF, AN, AS, EU, NA, SA or OC"),
   wikidataId: z.string().nullable().describe('Wikidata item id (QID)'),
   name: LocalizedField.describe('Localized name of the continent'),
   description: LocalizedField.describe('Localized descriptive summary'),

@@ -40,7 +40,8 @@ function normalize(continent: Continent): Continent {
   c.countryIsoCodes = [...c.countryIsoCodes].sort();
   c.countryCount = c.countryIsoCodes.length;
   if (c.population && c.areaKm2 && c.areaKm2 > 0) {
-    c.densityKm2 = parseFloat((c.population / c.areaKm2).toFixed(2));
+    const density = parseFloat((c.population / c.areaKm2).toFixed(2));
+    c.densityKm2 = density > 0 ? density : null;
   }
   return c;
 }

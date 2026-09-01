@@ -114,14 +114,14 @@ separate set of API files under \`api/v1/subdivisions/\`. JSON Schema: \`subdivi
 
 ## Continents Dataset
 
-The six continents this dataset's sovereign states fall into (Africa, Asia, Europe, North
-America, South America, Oceania — no Antarctica) are published as a separate dataset
+The seven continents (Africa, Antarctica, Asia, Europe, North America, South America,
+Oceania) are published as a separate dataset
 (\`continents.json\`, \`continents.min.json\`, \`continents.csv\`) and a separate set of API files
 under \`api/v1/continents/\`. JSON Schema: \`continent.schema.json\`.
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| \`code\` | string | Two-letter continent code: \`AF\`, \`AS\`, \`EU\`, \`NA\`, \`SA\`, \`OC\` |
+| \`code\` | string | Two-letter continent code: \`AF\`, \`AN\`, \`AS\`, \`EU\`, \`NA\`, \`SA\`, \`OC\` |
 | \`wikidataId\` | string | Wikidata item id (QID) |
 | \`name\` | Object | Localized name of the continent |
 | \`description\` | Object | Localized descriptive summary |
@@ -146,8 +146,10 @@ under \`api/v1/continents/\`. JSON Schema: \`continent.schema.json\`.
 - \`countryIsoCodes\` and \`countryCount\` are derived from this project's static continent
   classification; countries carry the reverse pointer as \`continentCodes\`. The six contiguous
   transcontinental states (Russia, Turkey, Kazakhstan, Azerbaijan, Georgia, Egypt) appear
-  under both of their continents.
-- \`densityKm2\` is computed from \`population\` / \`areaKm2\` when both are present.
+  under both of their continents. Antarctica has no sovereign states, so its \`countryCount\`
+  is \`0\` and \`countryIsoCodes\` is empty.
+- \`densityKm2\` is computed from \`population\` / \`areaKm2\` when both are present (and omitted
+  when the ratio rounds to zero, as it does for Antarctica).
 
 ## Data Provenance
 

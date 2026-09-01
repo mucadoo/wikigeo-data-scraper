@@ -32,6 +32,19 @@ function localizedWithFallback(src: Partial<Record<string, string | null>>, enFa
   return field;
 }
 
+/**
+ * TextExtracts strips inline IPA/pronunciation spans but leaves the punctuation that wrapped
+ * them, so a lead like "Antarctica (/…/) is…" comes back as "Antarctica ( ) is…". Drop the
+ * now-empty parenthetical (and any stray space before terminal punctuation it leaves behind).
+ */
+function tidyExtract(text: string): string {
+  return text
+    .replace(/\s*\(\s*[;,]?\s*\)/g, '')
+    .replace(/\s+([.,;:])/g, '$1')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
 interface CountryAggregate {
   isoCodes: string[];
   population: number;
@@ -99,7 +112,7 @@ async function run() {
 
     const extractByTitle = await WikipediaAPI.fetchExtractsBatch(titles, lang);
     for (const [title, extract] of Object.entries(extractByTitle)) {
-      if (extract) descriptionsByLang[lang][title] = extract;
+      if (extract) descriptionsByLang[lang][title] = tidyExtract(extract);
     }
 
     const missing = titles.filter(t => !descriptionsByLang[lang][t]);
@@ -156,7 +169,9 @@ async function run() {
     }
 
     if (continent.population && continent.areaKm2 && continent.areaKm2 > 0) {
-      continent.densityKm2 = parseFloat((continent.population / continent.areaKm2).toFixed(2));
+      // Antarctica's ~5k population over ~14M km² rounds to 0.00; only keep a real density.
+      const density = parseFloat((continent.population / continent.areaKm2).toFixed(2));
+      continent.densityKm2 = density > 0 ? density : null;
     }
 
     continent.countryIsoCodes = (agg?.isoCodes || []).slice().sort();

@@ -96,7 +96,7 @@ export interface ContinentFacts {
  * Fetches, for each continent QID: localized labels (name), per-language Wikipedia article
  * titles (sitelinks), population (P1082, with the P585 point-in-time qualifier as the
  * reference year), area (P2046) and coordinates (P625). A single `wbgetentities` call
- * covers all six continents, so there is no batching here.
+ * covers all seven continents, so there is no batching here.
  */
 export async function fetchContinentFacts(qids: string[]): Promise<Record<string, ContinentFacts>> {
   const result: Record<string, ContinentFacts> = {};

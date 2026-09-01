@@ -240,7 +240,7 @@ export class WikiGeoClient {
         };
     }
 
-    /** Returns every continent (Africa, Asia, Europe, North America, South America, Oceania). */
+    /** Returns every continent (Africa, Antarctica, Asia, Europe, North America, South America, Oceania). */
     async getFullContinents(): Promise<{ data: Continent[], source: 'remote' | 'local', timestamp: string }> {
         if (this.dataSource === 'remote') {
             try {

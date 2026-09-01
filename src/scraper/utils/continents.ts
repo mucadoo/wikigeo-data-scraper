@@ -40,7 +40,7 @@ export const CONTINENT_BY_ISO2: Record<string, string> = {
 };
 
 export interface ContinentRegistryEntry {
-  /** Two-letter continent code, matching the common AF/AS/EU/NA/SA/OC convention. */
+  /** Two-letter continent code, matching the common AF/AN/AS/EU/NA/SA/OC convention. */
   code: string;
   /** Canonical English name, exactly as it appears as a value in CONTINENT_BY_ISO2. */
   name: string;
@@ -48,17 +48,22 @@ export interface ContinentRegistryEntry {
   wikidataId: string;
 }
 
-// The six continents this dataset's sovereign states fall into. Antarctica is omitted
-// because it has no sovereign states. Enumeration is a fixed six-item list rather than a
-// SPARQL query — the set never changes and the QIDs are stable.
+// The seven continents. Antarctica is included for completeness even though it has no
+// sovereign states (its `countryCount` / `countryIsoCodes` are always 0 / empty and its
+// figures come entirely from Wikidata). Enumeration is a fixed seven-item list rather than
+// a SPARQL query — the set never changes and the QIDs are stable.
 export const CONTINENTS: ContinentRegistryEntry[] = [
   { code: 'AF', name: 'Africa', wikidataId: 'Q15' },
+  { code: 'AN', name: 'Antarctica', wikidataId: 'Q51' },
   { code: 'AS', name: 'Asia', wikidataId: 'Q48' },
   { code: 'EU', name: 'Europe', wikidataId: 'Q46' },
   { code: 'NA', name: 'North America', wikidataId: 'Q49' },
   { code: 'SA', name: 'South America', wikidataId: 'Q18' },
   { code: 'OC', name: 'Oceania', wikidataId: 'Q55643' },
 ];
+
+/** Continent codes that legitimately have no sovereign states in this dataset. */
+export const CONTINENTS_WITHOUT_COUNTRIES = new Set(['AN']);
 
 export const CONTINENT_CODE_BY_NAME: Record<string, string> = Object.fromEntries(
   CONTINENTS.map(c => [c.name, c.code]),

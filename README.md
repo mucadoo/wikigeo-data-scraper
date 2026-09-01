@@ -4,7 +4,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@mucadoo/wiki-geo-data)](https://www.npmjs.com/package/@mucadoo/wiki-geo-data)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated, daily-updated geographical dataset of sovereign states, **their first-level administrative subdivisions** (states, provinces, regions, …) **and the six continents**, built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
+An automated, daily-updated geographical dataset of sovereign states, **their first-level administrative subdivisions** (states, provinces, regions, …) **and the seven continents**, built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
 
 ## 🚀 Consumption Options
 
@@ -43,8 +43,8 @@ new WikiGeoClient(options?: WikiGeoOptions)
 - `listSubdivisions(countryIsoCode?: string)`: Returns a summary list of first-level subdivisions (ISO 3166-2 code, parent country, name, flag), optionally filtered to one country.
 - `getSubdivision(code: string)`: Fetches full details for a subdivision by its ISO 3166-2 code (e.g. `US-CA`, `FR-IDF`).
 - `getFullSubdivisions()`: Returns the complete subdivisions dataset.
-- `listContinents()`: Returns a summary list of the six continents (code, localized name, member-country count).
-- `getContinent(code: string)`: Fetches full details for a continent by its two-letter code (`AF`, `AS`, `EU`, `NA`, `SA`, `OC`).
+- `listContinents()`: Returns a summary list of the seven continents (code, localized name, member-country count).
+- `getContinent(code: string)`: Fetches full details for a continent by its two-letter code (`AF`, `AN`, `AS`, `EU`, `NA`, `SA`, `OC`).
 - `getFullContinents()`: Returns the complete continents dataset.
 
 #### Country Data Structure
@@ -122,7 +122,7 @@ Each `Continent` object carries:
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `code` | `string` | Two-letter continent code (`AF`, `AS`, `EU`, `NA`, `SA`, `OC`). |
+| `code` | `string` | Two-letter continent code (`AF`, `AN`, `AS`, `EU`, `NA`, `SA`, `OC`). |
 | `wikidataId` | `string` | Wikidata item id (QID). |
 | `name` / `description` | `LocalizedField` | Localized name and descriptive summary. |
 | `coordinates` | `{ lat, lng }` | Approximate centre point. |
@@ -132,7 +132,7 @@ Each `Continent` object carries:
 | `countryCount` | `number` | Number of this dataset's sovereign states on the continent. |
 | `countryIsoCodes` | `string[]` | ISO 3166-1 alpha-2 codes of those sovereign states. |
 
-Countries carry the reverse pointer as `continentCodes` (an array — the six contiguous transcontinental states such as Russia and Turkey appear under both of their continents, and in both continents' `countryIsoCodes`).
+Countries carry the reverse pointer as `continentCodes` (an array — the six contiguous transcontinental states such as Russia and Turkey appear under both of their continents, and in both continents' `countryIsoCodes`). Antarctica has no sovereign states, so its `countryCount` is `0` and `countryIsoCodes` is empty.
 
 #### Data Sources
 

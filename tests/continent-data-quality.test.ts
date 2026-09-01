@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { ContinentSchema, Continent } from '../src/types/continent.js';
 import { Country, LANGUAGES } from '../src/types/country.js';
-import { CONTINENT_BY_CODE } from '../src/scraper/utils/continents.js';
+import { CONTINENT_BY_CODE, CONTINENTS_WITHOUT_COUNTRIES } from '../src/scraper/utils/continents.js';
 
 // These checks run against the generated build artifacts, which only exist after the
 // scraper has run (locally: `npm run scrape:continents`; in CI: the publish workflow).
@@ -18,8 +18,8 @@ const loadCountries = (): Country[] =>
 describe('Continent data quality', () => {
   it.skipIf(fs.existsSync(continentsPath))('skipped: data/continents.min.json not generated yet', () => {});
 
-  it.runIf(fs.existsSync(continentsPath))('publishes all six continents', () => {
-    expect(loadContinents().map(c => c.code).sort()).toEqual(['AF', 'AS', 'EU', 'NA', 'OC', 'SA']);
+  it.runIf(fs.existsSync(continentsPath))('publishes all seven continents', () => {
+    expect(loadContinents().map(c => c.code).sort()).toEqual(['AF', 'AN', 'AS', 'EU', 'NA', 'OC', 'SA']);
   });
 
   it.runIf(fs.existsSync(continentsPath))('every row satisfies ContinentSchema with a known code', () => {
@@ -55,7 +55,10 @@ describe('Continent data quality', () => {
 
   it.runIf(fs.existsSync(continentsPath))('countryCount matches countryIsoCodes length and every code is non-empty', () => {
     const bad = loadContinents()
-      .filter(c => c.countryCount !== c.countryIsoCodes.length || c.countryIsoCodes.length === 0)
+      .filter(c =>
+        c.countryCount !== c.countryIsoCodes.length ||
+        c.countryIsoCodes.some(code => !code) ||
+        (c.countryIsoCodes.length === 0 && !CONTINENTS_WITHOUT_COUNTRIES.has(c.code)))
       .map(c => c.code);
     expect(bad).toEqual([]);
   });

@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { Country } from '../src/types/country.js';
+import { CONTINENTS_WITHOUT_COUNTRIES } from '../src/scraper/utils/continents.js';
 
 const DATA_PATH = path.join(process.cwd(), 'data/sovereign-states.json');
 
@@ -138,8 +139,9 @@ if (fs.existsSync(CONTINENT_PATH)) {
         contIssues.push({ name, field, error: 'NaN or negative', value });
       }
     }
-    if (!Array.isArray(continent.countryIsoCodes) || (continent.countryIsoCodes as unknown[]).length === 0) {
-      contIssues.push({ name, field: 'countryIsoCodes', error: 'Empty', value: continent.countryIsoCodes });
+    const codes = continent.countryIsoCodes;
+    if (!Array.isArray(codes) || (codes.length === 0 && !CONTINENTS_WITHOUT_COUNTRIES.has(continent.code as string))) {
+      contIssues.push({ name, field: 'countryIsoCodes', error: 'Empty', value: codes });
     }
   }
 
