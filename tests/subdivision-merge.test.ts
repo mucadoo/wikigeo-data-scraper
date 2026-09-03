@@ -62,6 +62,29 @@ describe('mergeSubdivisionData', () => {
     expect(merged.borders.map(b => b.code).sort()).toEqual(['US-NV', 'US-OR']);
   });
 
+  it('carries level and parentCode, clearing parentCode when a pass marks the row level 1', () => {
+    const l2 = mergeSubdivisionData(null, {
+      ...getEmptySubdivision(), code: 'IT-MI', countryIsoCode: 'IT', level: 2, parentCode: 'IT-25',
+    });
+    expect(l2.level).toBe(2);
+    expect(l2.parentCode).toBe('IT-25');
+
+    // A later pass that only fills a locale must not disturb level / parentCode.
+    const kept = mergeSubdivisionData(JSON.stringify(l2), {
+      ...getEmptySubdivision(), code: 'IT-MI', countryIsoCode: 'IT', level: 2,
+      name: { ...getEmptySubdivision().name, it: 'Milano' },
+    });
+    expect(kept.level).toBe(2);
+    expect(kept.parentCode).toBe('IT-25');
+
+    // Re-classifying the row as level 1 drops the stale parentCode.
+    const promoted = mergeSubdivisionData(JSON.stringify(l2), {
+      ...getEmptySubdivision(), code: 'IT-MI', countryIsoCode: 'IT', level: 1,
+    });
+    expect(promoted.level).toBe(1);
+    expect(promoted.parentCode).toBeNull();
+  });
+
   it('overwrites scalar fields only when the incoming pass carries a value', () => {
     const first = mergeSubdivisionData(null, { ...getEmptySubdivision(), code: 'US-CA', countryIsoCode: 'US', population: 39000000, areaKm2: 423967 });
     const merged = mergeSubdivisionData(JSON.stringify(first), { ...getEmptySubdivision(), code: 'US-CA', countryIsoCode: 'US', populationYear: 2020 });

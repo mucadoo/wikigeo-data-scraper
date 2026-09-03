@@ -70,6 +70,26 @@ describe('Subdivision data quality', () => {
       .map(s => s.code);
     expect(bad).toEqual([]);
   });
+
+  it.runIf(fs.existsSync(subdivisionsPath))('includes both administrative levels', () => {
+    const byLevel = new Map<number, number>();
+    for (const s of loadSubdivisions()) byLevel.set(s.level, (byLevel.get(s.level) ?? 0) + 1);
+    expect(byLevel.get(1) ?? 0).toBeGreaterThan(500);
+    expect(byLevel.get(2) ?? 0).toBeGreaterThan(100);
+  });
+
+  it.runIf(fs.existsSync(subdivisionsPath))('level-1 rows carry no parentCode; level-2 parentCode resolves to a level-1 row', () => {
+    const subs = loadSubdivisions();
+    const level1 = new Set(subs.filter(s => s.level === 1).map(s => s.code));
+    const bad: string[] = [];
+    for (const s of subs) {
+      if (s.level === 1 && s.parentCode) bad.push(`${s.code}: level-1 with parentCode ${s.parentCode}`);
+      if (s.level === 2 && s.parentCode && !level1.has(s.parentCode)) {
+        bad.push(`${s.code}: parentCode ${s.parentCode} is not a published level-1 subdivision`);
+      }
+    }
+    expect(bad).toEqual([]);
+  });
 });
 
 const haveBoth = fs.existsSync(subdivisionsPath) && fs.existsSync(countriesPath);
@@ -88,11 +108,22 @@ describe('Country / subdivision cross-reference', () => {
     expect(dangling).toEqual([]);
   });
 
-  it.runIf(haveBoth)('every published subdivision whose country is in the dataset is listed on that country', () => {
+  it.runIf(haveBoth)('every published first-level subdivision whose country is in the dataset is listed on that country', () => {
     const byCountry = new Map(loadCountries().map(c => [c.isoCode, new Set(c.subdivisionCodes || [])]));
     const orphans = loadSubdivisions()
-      .filter(s => byCountry.has(s.countryIsoCode) && !byCountry.get(s.countryIsoCode)!.has(s.code))
+      .filter(s => s.level === 1 && byCountry.has(s.countryIsoCode) && !byCountry.get(s.countryIsoCode)!.has(s.code))
       .map(s => s.code);
     expect(orphans).toEqual([]);
+  });
+
+  it.runIf(haveBoth)('country.subdivisionCodes never references a second-level subdivision', () => {
+    const level2 = new Set(loadSubdivisions().filter(s => s.level === 2).map(s => s.code));
+    const leaked: string[] = [];
+    for (const c of loadCountries()) {
+      for (const code of c.subdivisionCodes || []) {
+        if (level2.has(code)) leaked.push(`${c.isoCode} -> ${code}`);
+      }
+    }
+    expect(leaked).toEqual([]);
   });
 });

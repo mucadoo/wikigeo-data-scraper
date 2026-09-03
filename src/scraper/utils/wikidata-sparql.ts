@@ -11,16 +11,25 @@ export interface SubdivisionRef {
   wikidataId: string;
   code: string;
   countryIsoCode: string;
+  /** Set on level-2 refs: QID of the containing first-level subdivision. */
+  parentWikidataId?: string;
 }
 
 let snapshot: SubdivisionRef[] | null = null;
+let level2Snapshot: SubdivisionRef[] | null = null;
 let snapshotMode = false;
 
-/** Enables offline mode: `enumerateSubdivisions` returns the fixture instead of hitting WDQS. */
-export function useSubdivisionSnapshot(filePath = 'tests/snapshots/wikidata/subdivisions/enumeration.json'): void {
+/** Enables offline mode: the enumerators return fixtures instead of hitting WDQS. */
+export function useSubdivisionSnapshot(
+  filePath = 'tests/snapshots/wikidata/subdivisions/enumeration.json',
+  level2FilePath = 'tests/snapshots/wikidata/subdivisions/enumeration-level2.json',
+): void {
   snapshotMode = true;
   if (fs.existsSync(filePath)) {
     snapshot = JSON.parse(fs.readFileSync(filePath, 'utf-8')) as SubdivisionRef[];
+  }
+  if (fs.existsSync(level2FilePath)) {
+    level2Snapshot = JSON.parse(fs.readFileSync(level2FilePath, 'utf-8')) as SubdivisionRef[];
   }
 }
 
@@ -98,16 +107,84 @@ export async function enumerateSubdivisions(wantedCountryIsoCodes: string[]): Pr
     }
 
     for (const row of data.results.bindings) {
-      const code = row.code?.value?.toUpperCase();
-      const countryIsoCode = row.cc?.value?.toUpperCase();
-      const wikidataId = row.item?.value ? qid(row.item.value) : null;
-      if (!code || !countryIsoCode || !wikidataId) continue;
-      if (!wantedSet.has(countryIsoCode)) continue;
-      // ISO 3166-2 code must be "<cc>-<1..3 alnum>" with a country part matching P17.
-      if (!new RegExp(`^${countryIsoCode}-[A-Z0-9]{1,3}$`).test(code)) continue;
-      if (seen.has(code)) continue;
-      seen.add(code);
-      refs.push({ wikidataId, code, countryIsoCode });
+      const ref = parseSubdivisionRow(row, wantedSet, seen);
+      if (ref) refs.push(ref);
+    }
+  }
+
+  return refs.sort((a, b) => a.code.localeCompare(b.code));
+}
+
+/**
+ * Turns one WDQS result row into a {@link SubdivisionRef}, or null when the row is malformed,
+ * out of scope, or a code already seen. Shared by the first- and second-level enumerators.
+ */
+function parseSubdivisionRow(
+  row: Record<string, { value: string }>,
+  wantedSet: Set<string>,
+  seen: Set<string>,
+): SubdivisionRef | null {
+  const code = row.code?.value?.toUpperCase();
+  const countryIsoCode = row.cc?.value?.toUpperCase();
+  const wikidataId = row.item?.value ? qid(row.item.value) : null;
+  if (!code || !countryIsoCode || !wikidataId) return null;
+  if (!wantedSet.has(countryIsoCode)) return null;
+  // ISO 3166-2 code must be "<cc>-<1..3 alnum>" with a country part matching P17.
+  if (!new RegExp(`^${countryIsoCode}-[A-Z0-9]{1,3}$`).test(code)) return null;
+  if (seen.has(code)) return null;
+  seen.add(code);
+  const ref: SubdivisionRef = { wikidataId, code, countryIsoCode };
+  if (row.parent?.value) ref.parentWikidataId = qid(row.parent.value);
+  return ref;
+}
+
+/**
+ * Enumerates the second-level administrative subdivisions of each wanted country: the units
+ * that a first-level subdivision in turn "contains" via Wikidata P150 and that themselves
+ * carry an ISO 3166-2 code (P300) — Italian provinces, French départements, Scottish council
+ * areas, and so on. `parentWikidataId` links each back to its first-level container. Codes
+ * already claimed by a first-level unit are dropped (some countries, e.g. NL, model the same
+ * item at both depths), so pass the first-level codes in `level1Codes`.
+ */
+export async function enumerateSecondLevelSubdivisions(
+  wantedCountryIsoCodes: string[],
+  level1Codes: Iterable<string> = [],
+): Promise<SubdivisionRef[]> {
+  const wanted = Array.from(new Set(wantedCountryIsoCodes.map(c => c.toUpperCase())));
+  const wantedSet = new Set(wanted);
+
+  if (snapshotMode) {
+    return (level2Snapshot || []).filter(s => wantedSet.has(s.countryIsoCode));
+  }
+
+  // Seed `seen` with the first-level codes so a unit modelled at both depths stays level 1.
+  const seen = new Set<string>(Array.from(level1Codes, c => c.toUpperCase()));
+  const refs: SubdivisionRef[] = [];
+
+  for (let i = 0; i < wanted.length; i += COUNTRIES_PER_QUERY) {
+    const batch = wanted.slice(i, i + COUNTRIES_PER_QUERY);
+    const values = batch.map(c => `"${c}"`).join(' ');
+    const query = `
+      SELECT ?item ?code ?cc ?parent WHERE {
+        VALUES ?cc { ${values} }
+        ?country wdt:P297 ?cc .
+        ?country wdt:P150 ?parent .
+        ?parent wdt:P150 ?item .
+        ?item wdt:P300 ?code .
+      }`;
+
+    let data;
+    try {
+      data = await sparql(query);
+      console.log(`  enumerated second-level subdivisions for ${batch.length} countries (batch ${i / COUNTRIES_PER_QUERY + 1})`);
+    } catch (e) {
+      console.error(`Second-level enumeration failed for [${batch.join(', ')}]: ${e instanceof Error ? e.message : String(e)}`);
+      continue;
+    }
+
+    for (const row of data.results.bindings) {
+      const ref = parseSubdivisionRow(row, wantedSet, seen);
+      if (ref) refs.push(ref);
     }
   }
 

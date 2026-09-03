@@ -16,6 +16,22 @@ describe('SubdivisionSchema', () => {
     }
   });
 
+  it('defaults level to 1 and parentCode to null for older payloads', () => {
+    const { level, parentCode, ...legacy } = getEmptySubdivision();
+    void level; void parentCode;
+    const parsed = SubdivisionSchema.parse({ ...legacy, code: 'US-CA', countryIsoCode: 'US' });
+    expect(parsed.level).toBe(1);
+    expect(parsed.parentCode).toBeNull();
+  });
+
+  it('accepts a level-2 subdivision with a parentCode', () => {
+    const parsed = SubdivisionSchema.parse({
+      ...getEmptySubdivision(), code: 'IT-MI', countryIsoCode: 'IT', level: 2, parentCode: 'IT-25',
+    });
+    expect(parsed.level).toBe(2);
+    expect(parsed.parentCode).toBe('IT-25');
+  });
+
   it('accepts a fully populated subdivision', () => {
     const parsed = SubdivisionSchema.parse({
       ...getEmptySubdivision(),

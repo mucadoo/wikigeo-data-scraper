@@ -2,7 +2,7 @@ import Database from 'better-sqlite3';
 import { Subdivision, getEmptySubdivision } from '../types/subdivision.js';
 import { Country, LANGUAGES, getEmptyLocalizedField } from '../types/country.js';
 import { isValidIso2 } from './utils/iso-reference.js';
-import { enumerateSubdivisions } from './utils/wikidata-sparql.js';
+import { enumerateSubdivisions, enumerateSecondLevelSubdivisions, SubdivisionRef } from './utils/wikidata-sparql.js';
 import { fetchSubdivisionFacts, resolveEntities, resolveIso3166_2 } from './utils/subdivision-enrich.js';
 import { mergeSubdivisionData } from './utils/subdivision-merger.js';
 import { WikipediaAPI } from './utils/wikipedia-api.js';
@@ -65,8 +65,23 @@ async function run() {
     console.error('No countries to enumerate subdivisions for. Aborting.');
     process.exit(1);
   }
-  let refs = await enumerateSubdivisions(isoCodes);
-  console.log(`Discovered ${refs.length} first-level subdivisions across ${isoCodes.length} countries.`);
+  const level1Refs = await enumerateSubdivisions(isoCodes);
+  console.log(`Discovered ${level1Refs.length} first-level subdivisions across ${isoCodes.length} countries.`);
+
+  const level2Refs = await enumerateSecondLevelSubdivisions(isoCodes, level1Refs.map(r => r.code));
+  console.log(`Discovered ${level2Refs.length} second-level subdivisions.`);
+
+  // Parent (first-level) ISO 3166-2 code for each second-level unit, looked up by QID.
+  const level1CodeByQid = new Map(level1Refs.map(r => [r.wikidataId, r.code]));
+  const levelByCode = new Map<string, 1 | 2>();
+  const parentCodeByCode = new Map<string, string | null>();
+  for (const r of level1Refs) levelByCode.set(r.code, 1);
+  for (const r of level2Refs) {
+    levelByCode.set(r.code, 2);
+    parentCodeByCode.set(r.code, (r.parentWikidataId && level1CodeByQid.get(r.parentWikidataId)) || null);
+  }
+
+  let refs: SubdivisionRef[] = [...level1Refs, ...level2Refs];
   if (limit) refs = refs.slice(0, limit);
 
   // 2. STRUCTURED FACTS (Wikidata)
@@ -106,7 +121,14 @@ async function run() {
   // 4. ASSEMBLE + PERSIST
   for (const ref of refs) {
     const f = facts[ref.wikidataId];
-    const sub: Subdivision = { ...getEmptySubdivision(), code: ref.code, wikidataId: ref.wikidataId, countryIsoCode: ref.countryIsoCode };
+    const sub: Subdivision = {
+      ...getEmptySubdivision(),
+      code: ref.code,
+      wikidataId: ref.wikidataId,
+      countryIsoCode: ref.countryIsoCode,
+      level: levelByCode.get(ref.code) ?? 1,
+      parentCode: parentCodeByCode.get(ref.code) ?? null,
+    };
 
     if (f) {
       sub.name = localizedWithFallback(f.name, f.sitelinks.en || ref.code);

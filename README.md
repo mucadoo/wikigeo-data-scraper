@@ -4,7 +4,7 @@
 [![NPM Version](https://img.shields.io/npm/v/@mucadoo/wiki-geo-data)](https://www.npmjs.com/package/@mucadoo/wiki-geo-data)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An automated, daily-updated geographical dataset of sovereign states, **their first-level administrative subdivisions** (states, provinces, regions, …) **and the seven continents**, built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
+An automated, daily-updated geographical dataset of sovereign states, **their administrative subdivisions** (first-level states/provinces/regions, plus second-level provinces/départements/districts where available) **and the seven continents**, built from Wikipedia and Wikidata across 9 languages (**English, Portuguese, French, Italian, Spanish, German, Japanese, Russian, Chinese**).
 
 ## 🚀 Consumption Options
 
@@ -40,7 +40,7 @@ new WikiGeoClient(options?: WikiGeoOptions)
 - `listCountries()`: Returns a summary list of all countries (ISO code, name, flag URL).
 - `getCountry(isoCode: string)`: Fetches full details for a specific country by ISO 3166-1 alpha-2 code.
 - `getFullDatabase()`: Returns the complete dataset for all countries.
-- `listSubdivisions(countryIsoCode?: string)`: Returns a summary list of first-level subdivisions (ISO 3166-2 code, parent country, name, flag), optionally filtered to one country.
+- `listSubdivisions(countryIsoCode?: string, level?: 1 | 2)`: Returns a summary list of subdivisions (ISO 3166-2 code, parent country, level, parent code, name, flag), optionally filtered to one country and/or one administrative level.
 - `getSubdivision(code: string)`: Fetches full details for a subdivision by its ISO 3166-2 code (e.g. `US-CA`, `FR-IDF`).
 - `getFullSubdivisions()`: Returns the complete subdivisions dataset.
 - `listContinents()`: Returns a summary list of the seven continents (code, localized name, member-country count).
@@ -91,6 +91,7 @@ const allData = await client.getFullDatabase();
 
 // 4. Subdivisions (states / provinces / regions)
 const frenchRegions = await client.listSubdivisions('FR');
+const italianProvinces = await client.listSubdivisions('IT', 2);
 const california = await client.getSubdivision('US-CA');
 console.log(california.data.type.en);        // "state"
 console.log(california.data.capital[0].name.en); // "Sacramento"
@@ -102,9 +103,11 @@ Each `Subdivision` object carries:
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `code` | `string` | ISO 3166-2 code (e.g. `US-CA`). |
+| `code` | `string` | ISO 3166-2 code (e.g. `US-CA`, `IT-MI`). |
 | `wikidataId` | `string` | Wikidata item id (QID). |
 | `countryIsoCode` | `string` | ISO 3166-1 alpha-2 code of the parent country. |
+| `level` | `1 \| 2` | First-level (state/province/region) or second-level (province/département/district). |
+| `parentCode` | `string` | ISO 3166-2 code of the containing first-level subdivision (level-2 rows; `null` otherwise). |
 | `name` / `type` | `LocalizedField` | Localized name and subdivision type (`state`, `province`, `region`, …). |
 | `typeEn` | `string` | Canonical English subdivision type, for filtering. |
 | `description` | `LocalizedField` | Localized descriptive summary. |
@@ -114,7 +117,7 @@ Each `Subdivision` object carries:
 | `areaKm2` / `densityKm2` | `number` | Area in km² and derived population density. |
 | `flagUrl` | `string` | URL to the subdivision flag image. |
 
-Countries additionally expose `subdivisionCodes: string[]` — the ISO 3166-2 codes of their first-level subdivisions.
+Countries additionally expose `subdivisionCodes: string[]` — the ISO 3166-2 codes of their first-level subdivisions. Second-level units are reached from the subdivisions dataset (filter by `countryIsoCode` + `level`) or by following `parentCode`. Second-level coverage tracks Wikidata and is uneven across countries.
 
 #### Continent Data Structure
 

@@ -84,7 +84,7 @@ function flattenSubdivisions() {
   const subdivisions = json.data as Subdivision[];
 
   const headers = [
-    'code', 'wikidataId', 'countryIsoCode', 'typeEn',
+    'code', 'wikidataId', 'countryIsoCode', 'level', 'parentCode', 'typeEn',
     ...LANGUAGES.map(lang => `name_${lang}`),
     ...LANGUAGES.map(lang => `type_${lang}`),
     'flagUrl', ...LANGUAGES.map(lang => `description_${lang}`),
@@ -93,7 +93,7 @@ function flattenSubdivisions() {
   ];
 
   const rows = subdivisions.map(s => csvRow([
-    s.code, s.wikidataId, s.countryIsoCode, s.typeEn,
+    s.code, s.wikidataId, s.countryIsoCode, s.level.toString(), s.parentCode || '', s.typeEn,
     ...LANGUAGES.map(lang => s.name[lang] || ''),
     ...LANGUAGES.map(lang => s.type[lang] || ''),
     s.flagUrl,

@@ -63,6 +63,11 @@ export const mergeSubdivisionData = (existingJson: string | null, incoming: Part
   if (incoming.code) merged.code = incoming.code;
   if (incoming.wikidataId) merged.wikidataId = incoming.wikidataId;
   if (incoming.countryIsoCode) merged.countryIsoCode = incoming.countryIsoCode;
+  if (incoming.level) {
+    merged.level = incoming.level;
+    // parentCode belongs to level-2 rows; let a fresh pass clear a stale value too.
+    merged.parentCode = incoming.level === 2 ? (incoming.parentCode ?? merged.parentCode ?? null) : null;
+  }
   if (incoming.typeEn) merged.typeEn = incoming.typeEn;
   if (incoming.flagUrl) merged.flagUrl = incoming.flagUrl;
   if (incoming.capitalCoordinates) merged.capitalCoordinates = incoming.capitalCoordinates;

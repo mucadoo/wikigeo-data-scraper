@@ -48,4 +48,13 @@ describe('subdivisionCodesByCountry', () => {
     ]);
     expect(map).toEqual({ US: ['US-CA', 'US-NY'], FR: ['FR-ARA'] });
   });
+
+  it('excludes level-2 subdivisions - Country.subdivisionCodes is first-level only', () => {
+    const map = subdivisionCodesByCountry([
+      base({ code: 'IT-25', countryIsoCode: 'IT' }),
+      base({ code: 'IT-MI', countryIsoCode: 'IT', level: 2, parentCode: 'IT-25' }),
+      base({ code: 'IT-BG', countryIsoCode: 'IT', level: 2, parentCode: 'IT-25' }),
+    ]);
+    expect(map).toEqual({ IT: ['IT-25'] });
+  });
 });

@@ -28,7 +28,7 @@ export const CountryIndexSchema = z.array(
 export type CountryIndex = z.infer<typeof CountryIndexSchema>;
 
 export const SubdivisionIndexSchema = z.array(
-    SubdivisionSchema.pick({ code: true, countryIsoCode: true, name: true, flagUrl: true })
+    SubdivisionSchema.pick({ code: true, countryIsoCode: true, level: true, parentCode: true, name: true, flagUrl: true })
 );
 
 export type SubdivisionIndex = z.infer<typeof SubdivisionIndexSchema>;

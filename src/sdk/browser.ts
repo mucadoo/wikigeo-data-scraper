@@ -130,9 +130,11 @@ export class WikiGeoClient {
         };
     }
 
-    async listSubdivisions(countryIsoCode?: string): Promise<WikiGeoResponse<SubdivisionIndex>> {
+    async listSubdivisions(countryIsoCode?: string, level?: 1 | 2): Promise<WikiGeoResponse<SubdivisionIndex>> {
         const filter = (list: SubdivisionIndex): SubdivisionIndex =>
-            countryIsoCode ? list.filter(s => s.countryIsoCode === countryIsoCode.toUpperCase()) : list;
+            list.filter(s =>
+                (!countryIsoCode || s.countryIsoCode === countryIsoCode.toUpperCase()) &&
+                (!level || s.level === level));
 
         if (this.dataSource === 'local') {
             const data = await this.getLocalSubdivisions();

@@ -96,6 +96,8 @@ if (fs.existsSync(SUBDIVISION_PATH)) {
     }
   };
 
+  const level1Codes = new Set(subs.filter(s => (s.level ?? 1) === 1).map(s => s.code as string));
+
   for (const sub of subs) {
     const name = (sub.name as { en?: string } | undefined)?.en;
     for (const field of ['name', 'type', 'description', 'capital']) scanBrackets(name, sub[field], field);
@@ -104,6 +106,13 @@ if (fs.existsSync(SUBDIVISION_PATH)) {
       if (typeof value === 'number' && (isNaN(value) || value < 0)) {
         subIssues.push({ name, field, error: 'NaN or negative', value });
       }
+    }
+    const level = sub.level ?? 1;
+    if (level === 1 && sub.parentCode) {
+      subIssues.push({ name, field: 'parentCode', error: 'set on a level-1 row', value: sub.parentCode });
+    }
+    if (level === 2 && sub.parentCode && !level1Codes.has(sub.parentCode as string)) {
+      subIssues.push({ name, field: 'parentCode', error: 'does not resolve to a level-1 subdivision', value: sub.parentCode });
     }
   }
 

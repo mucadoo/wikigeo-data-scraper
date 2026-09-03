@@ -180,12 +180,15 @@ export class WikiGeoClient {
     }
 
     /**
-     * Returns a lightweight subdivision list (code, parent country, localized name, flag),
-     * optionally filtered to a single country by its ISO 3166-1 alpha-2 code.
+     * Returns a lightweight subdivision list (code, parent country, level, parent code,
+     * localized name, flag), optionally filtered to a single country by its ISO 3166-1
+     * alpha-2 code and/or to a single administrative level (1 or 2).
      */
-    async listSubdivisions(countryIsoCode?: string): Promise<{ data: SubdivisionIndex, source: 'remote' | 'local', timestamp: string }> {
+    async listSubdivisions(countryIsoCode?: string, level?: 1 | 2): Promise<{ data: SubdivisionIndex, source: 'remote' | 'local', timestamp: string }> {
         const filter = (list: SubdivisionIndex): SubdivisionIndex =>
-            countryIsoCode ? list.filter(s => s.countryIsoCode === countryIsoCode.toUpperCase()) : list;
+            list.filter(s =>
+                (!countryIsoCode || s.countryIsoCode === countryIsoCode.toUpperCase()) &&
+                (!level || s.level === level));
 
         if (this.dataSource === 'remote') {
             try {

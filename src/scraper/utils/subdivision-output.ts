@@ -78,7 +78,8 @@ export function writeSubdivisionOutputs(raw: Subdivision[]): void {
   fs.writeFileSync(`${DATA_DIR}/subdivisions.min.json`, JSON.stringify(output));
 
   fs.mkdirSync(SUBDIVISION_API_DIR, { recursive: true });
-  const index = subdivisions.map(({ code, countryIsoCode, name, flagUrl }) => ({ code, countryIsoCode, name, flagUrl }));
+  const index = subdivisions.map(({ code, countryIsoCode, level, parentCode, name, flagUrl }) =>
+    ({ code, countryIsoCode, level, parentCode, name, flagUrl }));
   fs.writeFileSync(`${SUBDIVISION_API_DIR}/index.json`, JSON.stringify(index, null, 2));
   fs.writeFileSync(`${SUBDIVISION_API_DIR}/all.json`, JSON.stringify(subdivisions, null, 2));
   for (const sub of subdivisions) {
@@ -96,10 +97,15 @@ export function writeSubdivisionOutputs(raw: Subdivision[]): void {
   }
 }
 
-/** ISO 3166-2 codes grouped by parent country ISO 3166-1 alpha-2 code. */
+/**
+ * First-level ISO 3166-2 codes grouped by parent country ISO 3166-1 alpha-2 code. Second-level
+ * units are reachable from the subdivisions dataset (filter by `countryIsoCode` + `level`) or
+ * by following `parentCode`, so `Country.subdivisionCodes` stays a flat first-level list.
+ */
 export function subdivisionCodesByCountry(raw: Subdivision[]): Record<string, string[]> {
   const map: Record<string, string[]> = {};
   for (const sub of raw.map(normalize)) {
+    if (sub.level !== 1) continue;
     if (!isPublishable(sub)) continue;
     (map[sub.countryIsoCode] ||= []).push(sub.code);
   }

@@ -71,21 +71,30 @@ This document describes the structure of the sovereign state data provided by th
 | \`motto\` | string | National motto (English) |
 | \`anthem\` | string | National anthem name (English) |
 | \`borders\` | Array | Bordering countries. Sourced from Wikidata (P47) where available, falling back to a static ISO reference dataset, resolved to this dataset's entries where possible |
-| \`subdivisionCodes\` | Array | ISO 3166-2 codes of this country's first-level administrative subdivisions (details in the separate subdivisions dataset) |
+| \`subdivisionCodes\` | Array | ISO 3166-2 codes of this country's first-level administrative subdivisions (second-level units and details are in the separate subdivisions dataset) |
 
 *Note: All "Object" fields (e.g., \`name\`, \`description\`) are objects with keys for all supported languages (\`en\`, \`pt\`, \`fr\`, \`it\`, \`es\`). All "Array" fields contain objects with localized names and (where applicable) article identifiers, unless noted otherwise.*
 
 ## Subdivisions Dataset
 
-First-level administrative subdivisions (states, provinces, regions, oblasts, …) are published
-as a separate dataset (\`subdivisions.json\`, \`subdivisions.min.json\`, \`subdivisions.csv\`) and a
-separate set of API files under \`api/v1/subdivisions/\`. JSON Schema: \`subdivision.schema.json\`.
+Administrative subdivisions are published as a separate dataset (\`subdivisions.json\`,
+\`subdivisions.min.json\`, \`subdivisions.csv\`) and a separate set of API files under
+\`api/v1/subdivisions/\`. JSON Schema: \`subdivision.schema.json\`.
+
+The dataset holds two administrative levels, distinguished by the \`level\` field:
+**level 1** — the first-level units a country directly contains (states, provinces, regions,
+oblasts, …); **level 2** — the units those first-level subdivisions in turn contain (Italian
+provinces, French départements, Scottish council areas, …), linked upward by \`parentCode\`.
+Level-2 coverage follows Wikidata and is uneven across countries. \`Country.subdivisionCodes\`
+lists only the first-level codes.
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
 | \`code\` | string | ISO 3166-2 code, e.g. \`US-CA\` |
 | \`wikidataId\` | string | Wikidata item id (QID) |
 | \`countryIsoCode\` | string | ISO 3166-1 alpha-2 code of the parent country |
+| \`level\` | number | \`1\` (first-level) or \`2\` (second-level) |
+| \`parentCode\` | string | ISO 3166-2 code of the containing first-level subdivision (level-2 rows; \`null\` otherwise) |
 | \`name\` | Object | Localized name of the subdivision |
 | \`type\` | Object | Localized subdivision type (\`state\`, \`province\`, \`region\`, …) |
 | \`typeEn\` | string | Canonical English subdivision type, for filtering |
@@ -108,6 +117,9 @@ separate set of API files under \`api/v1/subdivisions/\`. JSON Schema: \`subdivi
   and \`borders\` come from [Wikidata](https://www.wikidata.org/) (P300 ISO 3166-2 code, P1082
   population, P2046 area, P36 capital, P625 coordinates, P41 flag image, P31 instance-of,
   P37 official language, P47 shares-border-with).
+- \`level\` and \`parentCode\` come from the enumeration: level-1 units are what a country
+  contains via P150; level-2 units are what a level-1 unit contains via P150, with
+  \`parentCode\` set to that container's ISO 3166-2 code.
 - \`name\` and \`type\` are localized from Wikidata labels; \`description\` is the intro paragraph
   of the matching Wikipedia article in each supported language.
 - \`densityKm2\` is computed from \`population\` / \`areaKm2\` when both are present.
