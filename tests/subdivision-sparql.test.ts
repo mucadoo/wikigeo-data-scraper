@@ -90,4 +90,21 @@ describe('enumerateSecondLevelSubdivisions', () => {
     const result = await enumerateSecondLevelSubdivisions(['IT']);
     expect(result.map(r => r.code)).toEqual(['IT-TO']);
   });
+
+  it('de-duplicates a code returned more than once, keeping the first parent seen', async () => {
+    mockedAxios.get.mockResolvedValue({
+      data: {
+        results: {
+          bindings: [
+            l2binding('Q16247', 'IT-CT', 'IT', 'Q1460'),
+            l2binding('Q16247', 'IT-CT', 'IT', 'Q1461'), // same code again, different parent
+          ],
+        },
+      },
+    });
+    const result = await enumerateSecondLevelSubdivisions(['IT']);
+    expect(result).toEqual([
+      { wikidataId: 'Q16247', code: 'IT-CT', countryIsoCode: 'IT', parentWikidataId: 'Q1460' },
+    ]);
+  });
 });

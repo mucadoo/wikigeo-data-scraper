@@ -46,6 +46,11 @@ async function sparql(query: string): Promise<{ results: { bindings: Record<stri
         headers: { 'User-Agent': USER_AGENT, Accept: 'application/sparql-results+json' },
         timeout: 120000,
       });
+      // WDQS occasionally answers an over-budget query with 200 + an empty body; treat
+      // a response without the results envelope as retryable rather than crashing callers.
+      if (!data || typeof data !== 'object' || !data.results?.bindings) {
+        throw new Error('WDQS returned no results envelope (query likely too expensive)');
+      }
       return data;
     } catch (error: unknown) {
       const status = axios.isAxiosError(error) ? error.response?.status : undefined;
@@ -145,6 +150,12 @@ function parseSubdivisionRow(
  * areas, and so on. `parentWikidataId` links each back to its first-level container. Codes
  * already claimed by a first-level unit are dropped (some countries, e.g. NL, model the same
  * item at both depths), so pass the first-level codes in `level1Codes`.
+ *
+ * P150 ("contains") is deliberately the only edge walked. The reverse P131 ("located in the
+ * administrative territorial entity") edge was measured and rejected: it is 10-40x slower and
+ * times out on WDQS, adds almost nothing for large countries, and drags in ISO codes that ISO
+ * has since withdrawn (the pre-2011 Greek prefectures return ~45 stale codes that no
+ * P576 / former-entity filter reliably removes).
  */
 export async function enumerateSecondLevelSubdivisions(
   wantedCountryIsoCodes: string[],
